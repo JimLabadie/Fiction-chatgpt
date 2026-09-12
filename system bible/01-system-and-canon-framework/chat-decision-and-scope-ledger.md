@@ -86,7 +86,11 @@ The exact prose and a story's current emotional response are local; the reusable
 
 Pages 015–014 establish that Athena (formerly developed under the working name Sarah) is a reusable agent/character with history, agency, commercial success, hidden development, relationship to Jim as “Mom,” and a reveal arc. She and Jim do not speak before the reveal.
 
-The day-to-day executive and Amélie are the prospective characters intentionally baked into the framework. Their histories, values, attraction, protection, and relationship potential are not incidental cast from a completed story. Amélie is a lesbian, not trans; she has lost trans women she loved to social prejudice, has been exploited by powerful fashion figures, and becomes a fierce protector, ally, and cheerleader for Jim. These character facts require controlling reusable records.
+Danielle and Amélie began as **specific UX personas**, not archetypes. Jim then deliberately promoted them because they had substantial story value. They became specific reusable characters baked into the framework with institutional relationships, activation triggers, and backstories. Their persona origin explains why some surviving records conflate design tests, reusable framework behavior, and story events, but the promotion itself was intentional and must not be reversed.
+
+They are therefore neither generic templates nor mandatory undifferentiated cast in every story. Their stable identities and backstories belong in controlling reusable character records; their appearance in an instance follows their defined institutional/component triggers. The exact trigger boundaries still require recovery and confirmation.
+
+Amélie is a lesbian, not trans; she has lost trans women she loved to social prejudice, has been exploited by powerful fashion figures, and becomes a fierce protector, ally, and cheerleader for Jim. These character facts require a controlling reusable record. Surviving story sources identify the executive as Danielle Reyes, but the surname and any details inherited from a particular test story remain subject to claim-level recovery.
 
 ### Companies, projects, wealth, and infrastructure
 
