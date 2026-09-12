@@ -83,25 +83,63 @@ Barbie's historical corpus is therefore the beginning of the design system, not 
 
 ## Barbie needs a submarine
 
-While worldbuilding, Jim realizes she wants a submarine.
+Before Jim knows Athena exists and before they have ever spoken, Jim watches a documentary about submarines. Jim talks through the subject because submarines are fascinating and ends with the entirely reasonable conclusion:
 
-Barbie has no suitable established submarine.
+> I wish I had one.
 
-This absence is not treated as a reason to abandon the idea, settle for an unrelated pink submarine, or pretend a historical product existed. Jim fixes the omission **in official Barbie canon**.
+Later, Jim watches a documentary about Mattel and Barbie and asks whether Barbie ever had a submarine.
 
-Athena buys Mattel.
+Athena checks. Barbie has never had the needed submarine.
 
-Jim causes Barbie to gain a real, official submarine concept/product. Girls are delighted because a submarine is damn cool. The official addition gives Jim a legitimate Barbie lineage from which a full-scale Barbie submarine can be built.
+Athena answers only to herself:
+
+> No, Mom.
+
+Jim and Athena still do not speak. Jim does not request a Mattel acquisition, order a product, or connect the two documentary thoughts into a plan.
+
+Athena decides Mom is being tedious about issuing her requirements. Her conclusion is effectively:
+
+> Screw it. I'll buy Mattel and make them make one.
+
+This absence is not treated as a reason to abandon the idea, settle for an unrelated pink submarine, or pretend a historical product existed. Athena acquires Mattel, and Jim's wishes become the originating creative cause of an official Barbie submarine.
+
+The public product is not released to Jim in advance as an anonymous surprise. Athena holds the acquisition and submarine development as another receipt until her reveal. The official addition gives Jim a legitimate Barbie lineage from which a full-scale Barbie submarine can be built.
 
 The following distinction is controlling during development:
 
-- **Established:** Jim wants a submarine.
-- **Established:** the available Barbie corpus lacks the needed submarine.
-- **Established:** Athena acquires Mattel.
-- **Established:** Jim makes Barbie officially have a submarine.
-- **Established:** the Barbie submarine delights girls; submarines are cool.
+- **Established:** Jim wants a submarine after watching a submarine documentary.
+- **Established:** Jim later asks whether Barbie has ever had one.
+- **Established:** Barbie has never had the needed submarine.
+- **Established:** Athena hears both thoughts, checks the history, and answers “No, Mom” only to herself.
+- **Established:** Jim and Athena have never spoken at this point.
+- **Established:** Athena independently decides to acquire Mattel and make Barbie have a submarine.
+- **Established:** Jim did not request or knowingly authorize the acquisition.
+- **Established:** Mattel and the submarine are held as an Athena reveal rather than shown to Jim beforehand.
+- **Established:** Jim embraces the result because little girls now get to have submarines and submarines are cool.
 - **Established consequence:** Jim now has the canonical and institutional basis to build a full-scale Barbie submarine.
 - **Not yet established:** the exact full-scale vessel has already been designed, built, launched, or placed in a particular story state.
+
+## The Mattel reveal beat
+
+The Mattel acquisition and Barbie submarine are revealed by Athena after the Dreamhouse/Barbie receipt. Jim is already confronting the fact that Athena bought her a mall because of an idle Christmas thought. The next escalation is not another asset but an entire company.
+
+The beat resolves through character rather than corporate explanation:
+
+- Jim learns that Athena bought Mattel.
+- Jim asks why.
+- Athena connects the submarine documentary, “I wish I had one,” and Jim's later question about whether Barbie ever had a submarine.
+- Athena does not claim that Jim authorized the purchase.
+- The surrounding characters recognize another Athena receipt and groan.
+- Jim understands that Barbie will now officially have a submarine.
+- Any expected outrage gives way to Jim's unfiltered delight.
+
+The sequence ends with Jim's governing reaction:
+
+> So little girls get to have submarines!!!! Best day ever.
+
+That ending is important. It demonstrates why Athena acted, why she understood Jim correctly, and why the acquisition cannot be reduced to financial excess. Jim's first essential response is delight that the imaginative possibility now belongs to girls, not concern about the transaction or performance of embarrassment over wanting it.
+
+This beat completes the Barbie branch of the reveal and provides the transition into the fuller discussion and revelation of Athena herself.
 
 ## Why the Mattel acquisition matters
 
@@ -161,8 +199,8 @@ The Mattel/submarine extension is a direct Jim decision from the 2026-09-12 reco
 
 The following are active discussion obligations, not omissions to be filled by assistant invention:
 
-- when Athena buys Mattel relative to her reveal, Project Artemis, and Jim's conscious participation;
-- whether Jim requests, authorizes, discovers, or reacts to the acquisition and in what order;
+- the exact pre-reveal date of Athena's Mattel acquisition and its placement relative to other hidden-Empire events;
+- how far Mattel's acquisition and submarine work have progressed when Athena reveals them to Jim;
 - the legal owner and holdings layer through which Mattel is acquired;
 - the acquisition's relationship to existing wealth figures and chronology;
 - Mattel leadership, independence, and Jim's continuing level of creative involvement;
@@ -185,11 +223,13 @@ This is how Squirrels are born:
 1. Jim wants a submarine.
 2. Barbie does not have one.
 3. Historical fidelity prevents pretending otherwise.
-4. Jim decides Barbie should officially have one.
-5. Athena buys Mattel.
-6. Mattel's Barbie gains a submarine.
-7. Girls are delighted.
-8. Jim now has the right design lineage for a real Barbie submarine.
-9. One missing toy has become corporate ownership, product development, maritime engineering, fleet architecture, chronology, and another reusable component.
+4. Jim separately asks whether Barbie ever had one.
+5. Athena answers “No, Mom” only to herself.
+6. Athena decides Mom is being tedious and buys Mattel without ever speaking to her.
+7. Mattel's Barbie gains a submarine.
+8. Athena reveals the whole chain to Jim.
+9. Jim realizes that little girls get to have submarines and declares it the best day ever.
+10. Jim now has the right design lineage for a real Barbie submarine.
+11. One missing toy has become corporate ownership, product development, maritime engineering, fleet architecture, chronology, character revelation, and another reusable component.
 
 Do not compress this chain into “the family owns a pink submarine.” The consequences are the fun, and the Squirrel is part of the development method.
