@@ -114,6 +114,8 @@ Do not replace specific reusable lore with generalized templates. Specificity is
 
 ## Current project governing principles
 
+The full approved world-level baseline, including its boundary from component-local and story-selectable material, lives in `world-truths-and-scope-baseline.md`. The principles below are a compact floor, not a substitute for that document.
+
 - Consistency over convenient invention.
 - Transformation is not dispossession.
 - Femininity is not degradation.
