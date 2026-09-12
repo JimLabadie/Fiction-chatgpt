@@ -5,7 +5,7 @@ Authority: SHARED-WORLD TECHNICAL CANON
 
 ## Cassandra Labs
 
-Cassandra Labs is Whitfield Holdings' prototype and patent-development arm. Jim's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity.
+Cassandra Labs is Whitfield Holdings' prototype and patent-development arm. Jim's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity. [Athena's controlling record](02-athena.md) governs her personhood, hidden history, knowledge boundary, and the unresolved authority behind that action.
 
 The core team is Dr. Élodie Marchetti (director/robotics), Dr. Mireille Okafor (materials), Dr. Solenne Vasquez (biotech), Ingrid Dahl (mechatronics), June Reyes (chemistry), Kasey Lindqvist (mechanical engineering), Bex Okonkwo-Hart (electronics), and Frankie Petrakis (assembly/general mechanics).
 
@@ -31,6 +31,12 @@ Evergreen's working combined valuation is about $15B with projected post-launch 
 - Reusable trigger definitions are framework canon; whether and when a particular story fires them belongs in that story's timeline and current state.
 
 The reusable commercial and technology ecosystem is intended to integrate with St. Claire. The imported standalone “Jamestown” geography and its two-hours-from-the-Estate placement are superseded story residue; exact St. Claire district placement awaits recovery of the later St. Claire revisions. Cassandra also has the Estate R&D building; Innovation Showroom demonstrates systems. Residential AWS is restricted to the Anchor and Partner Dressing Rooms. Traceroot is primarily supply-chain infrastructure.
+
+## Athena boundary
+
+Athena is not a technology product, capital-deployment algorithm, or synonym for the systems listed here. She is a person who originated, funded, recruited, coordinated, or presented some of this work. Each company and institution retains its own people, knowledge, decisions, and responsibility.
+
+Project Artemis is an Athena-linked reveal +1 day authorization trigger, not completed baseline commercialization.
 
 ## Required recovery not represented in this index
 
