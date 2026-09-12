@@ -15,6 +15,7 @@ Do not use this file alone to establish the Estate in a new story until its comp
 - [Architecture reconciliation](08-estate-dreamhouse-obsidian-vanguard/architecture-reconciliation.md) — later 1.96M-square-foot shell, B1/B2 model, mapped zones, and unresolved physical questions.
 - [Component routing](08-estate-dreamhouse-obsidian-vanguard/component-routing.md) — ownership boundaries among Estate, Mnemosyne, CLIO, Athena, companies, collections, staffing, and story-local state.
 - [Myrina / Lesbian NORAD](08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and interchangeable function-derived Greek woman's name.
+- [Barbie, Mattel, and the Submarine](08-estate-dreamhouse-obsidian-vanguard/barbie-mattel-and-submarine.md) — accepted Barbie design language, bidirectional canon-extension rule, Mattel acquisition, submarine origin, and active development fields.
 
 ## Known unresolved versions and propagation gaps
 
