@@ -10,6 +10,8 @@ The family has a dedicated concierge and logistical command department called **
 
 Its established interchangeable names are **Myrina** and **Lesbian NORAD**. Lesbian NORAD is not merely an out-of-world joke or development shorthand. Myrina is not a formal name used to conceal an embarrassing nickname. Both are actual names for the department and may be used naturally by family, staff, and narration.
 
+**Myrina names the department as a group and institution**, analogous to Cassandra Labs. It is not the name of a woman, commander, AI, goddess-avatar, or personified system. Individual women may lead or work within Myrina, but they require their own identities and must not be silently collapsed into the organization's mythological name.
+
 The Greek name follows the wider function-derived naming method:
 
 - Mnemosyne relates to memory.
