@@ -39,6 +39,7 @@ Reusable components may also define triggered events or state transitions. Their
 ## Module files
 
 - [`project-purpose-and-recovery-mandate.md`](01-system-and-canon-framework/project-purpose-and-recovery-mandate.md) defines why the framework exists, its audience, the creative partnership, the present reconstruction phase, resolution requirements, and visible proof of persistence.
+- [`authorial-intent-and-immersive-persona.md`](01-system-and-canon-framework/authorial-intent-and-immersive-persona.md) records Jim's immersive relationship to the protagonist, aesthetic preference as a design input, the distinction between admiration and objectification, Danielle and Amélie's promotion, persona-led development, and archetype boundaries.
 - [`collaboration-shorthand-and-fun.md`](01-system-and-canon-framework/collaboration-shorthand-and-fun.md) defines Pencil, Cigar, Visa, Rabbit Hole, Squirrel, the Squirrel protocol, and fun as part of the work.
 - [`authority-and-status.md`](01-system-and-canon-framework/authority-and-status.md) defines the hierarchy, canon classes, promotion rules, conflict handling, scope boundaries, and imported-instruction limits.
 - [`continuity-and-state.md`](01-system-and-canon-framework/continuity-and-state.md) defines scene continuity, character state, transformation state, timeline practice, and current-story handoff.
