@@ -65,15 +65,15 @@ The complete `Persist Story Bibles` thread is stored in 26 newest-first pages. R
 | `page-020.json` | Jim identifies the Estate package as “another shared asset.” The response recognizes fixed physical setting versus variable occupants. | Reusable-component intent |
 | `page-019.json` | Estate/Athena integration is discussed. The Estate can operate with ordinary non-sentient systems when the external module is absent. | Cross-component relationship; exact current dependency still to verify |
 | `page-018.json` | Museum/Anchor B sources are identified as evolutionary stages: separate facilities, Anchor consolidation, later museum/Mnemosyne/Erato development, and interrupted Estate rewrite. | Version genealogy; research is not automatically ownership canon |
-| `page-011.json` | Jim corrects Project Artemis: it occurs only after Athena is revealed and the MC knowingly authorizes commercial launch. | Story-state transition; exclude from timeless Estate baseline |
-| `page-007.json` | Jim states: “the official name is lesbos in longer name shorthand its called the dreamhouse.” Jim also establishes the Barbie-commercial → “where would Barbie live?” → mall → Athena purchase causal history for the story. | Naming decision is explicit but exact long-form grammar needs clarification; origin is story evidence until reusable scope is decided |
-| `page-003.json` | Jim directs a unified display institution in Anchor B rather than separate museum/gallery/showroom fragments, then adds the chronological open experience, beauty history, Future, partner/subsidiary recognition, established and emerging designers, and Erato art throughout. | Accepted development candidate spanning Estate and museum components |
+| `page-011.json` plus Jim's current correction | Project Artemis is a reusable framework trigger. It fires one day after Athena's reveal, after the MC has embraced the reality of the world; Athena asks for conscious authorization of the pending commercial launch. | REUSABLE TRIGGER CANON; each story records occurrence/current phase |
+| `page-007.json` | Jim states: “the official name is lesbos in longer name shorthand its called the dreamhouse.” Jim also establishes the Barbie-commercial → “where would Barbie live?” → mall → Athena purchase causal history and requires it as part of Athena's reveal. | Naming and reusable Estate/Athena origin-reveal context accepted; exact long-form grammar still needs clarification |
+| `page-003.json` | Jim directs a unified display institution in Anchor B rather than separate museum/gallery/showroom fragments, then adds the chronological open experience, beauty history, Future, partner/subsidiary recognition, established and emerging designers, and Erato art throughout. | Accepted reusable Mnemosyne/Erato development spanning components; exact activation coupling remains unresolved |
 | `page-002.json` | Jim renames/reframes WIS as CLIO and corrects its function: one material ecosystem, tablet access for MC and partners, reciprocal access, location/state rather than separate museum ownership, and comparable display replacement when a wearable object is used. | Accepted system behavior spanning collection, Estate, museum, and technology modules |
 | `page-001.json` | The prior assistant audits the surviving Estate document and identifies the exact propagation failures above. | Recovery diagnosis, not independent authority |
 
 ## Scope separation
 
-### Reusable Estate candidates
+### Reusable Estate baseline and accepted routed components
 
 - physical site, shell, grounds, arrival, fixed infrastructure, circulation, reserves, and architectural capacities;
 - reusable room and facility definitions after version reconciliation;
@@ -87,8 +87,8 @@ The complete `Persist Story Bibles` thread is stored in 26 newest-first pages. R
 - current partners, daughter, household headcount, relationship status, and sleeping arrangements;
 - named current staff and schedules;
 - current occupancy, construction, launch, or reveal state;
-- Project Artemis timing and authorization event;
-- plot scenes, dialogue beats, and reactions;
+- whether a particular story has reached the Athena reveal or Project Artemis trigger;
+- the particular story's exact authorization response, plot staging, dialogue beats, and reactions;
 - story-specific ownership changes and current object locations.
 
 A story-local fact may still be preserved in its own story records. Exclusion from the reusable Estate module is not deletion.
@@ -99,10 +99,10 @@ A story-local fact may still be preserved in its own story records. Exclusion fr
 |---|---|---|
 | Wealth management/holding company | Separate source family supplies ownership and finance | What Estate assets are fixed versus selected with that module? |
 | Fashion Empire | Optional technology, wardrobe, collection, and showroom integration in skill sources | Which installations are optional and which became part of later fixed architecture? |
-| Athena | May integrate with Estate systems; ordinary automation remains possible without her | Is Athena ever a required Estate dependency, or only story/module-selected? |
-| Mnemosyne/Anchor B | Later development replaces separate visitor institutions with a unified concept | Is Mnemosyne a fixed completed Estate component or an independently selectable/activatable component occupying reserved Anchor B? |
-| Erato | Independent organization whose work is integrated throughout Mnemosyne | Exact institutional and activation relationship |
-| CLIO | Unified object/wardrobe/collection system used across locations | Owning module, baseline availability, and relationship to former WIS/AWS terminology |
+| Athena | Confirmed reusable character/agent component that integrates with Estate systems when selected; ordinary automation remains possible in Estate-only configurations | Which component combinations require Athena, and which merely support her? |
+| Mnemosyne/Anchor B | Accepted reusable institution replaces the separate visitor institutions and occupies the Anchor B host when coupled | Is Mnemosyne automatically active with every Estate selection or independently selectable/activatable? |
+| Erato | Accepted reusable independent organization whose work is integrated throughout Mnemosyne | Exact institutional and activation relationship |
+| CLIO | Accepted reusable unified object/wardrobe/collection system used across locations | Owning file, component coupling, and relationship to former WIS/AWS terminology |
 | Collections/Footwear/Ark | Objects may move among closet, vault, storage, display, conservation, loans, and personal use | Which holdings are reusable baseline, optional component, research candidate, or story-local acquisition? |
 | Cassandra/OAM/Threadbourne/Evergreen/Metis/Techne | Sources place facilities, demonstrations, or equipment at the Estate under some configurations | Required, optional, historical, or superseded relationship for each |
 
@@ -135,7 +135,7 @@ A story-local fact may still be preserved in its own story records. Exclusion fr
 - Version genealogy established: **partial**
 - All ancillary sources assigned: **no**
 - Archived Estate decisions extracted: **partial**
-- Story-local separation complete: **no**
+- Story-local separation complete: **corrected for confirmed reusable triggers; broader audit still open**
 - Cross-component dependency map complete: **no**
 - Field-level architectural reconciliation complete: **no**
 - Jim verification complete: **no**
