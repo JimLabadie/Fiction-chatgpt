@@ -29,7 +29,7 @@ Jim's current instruction confirms that every omission listed here is wrong. The
 | Material | Evidence of reusable scope | Export gap |
 |---|---|---|
 | Project Phryne | Page 004: Jim states the Metis and Techne deal was codenamed Phryne of Athens | Missing from the current technology/company module and chronology |
-| Athena controlling component | Athena has reusable identity, history, agency, corporate activity, relationships, and reveal behavior | Only routing prose exists; no standalone controlling component has been exported |
+| Athena controlling component | Athena has reusable identity, history, agency, corporate activity, relationships, and reveal behavior | **RESTORED:** controlling person/daughter record, hidden-history/reveal record, and decision/receipt ledger now exist; open fields remain protected for collaboration |
 | CLIO controlling component | Direct accepted functional corrections exist | Only Estate routing and fragments in other modules exist |
 | Mnemosyne and Erato controlling components | Direct accepted development exists | Only Estate routing exists; their institutional truth has not been exported as a complete component |
 | Wealth-management infrastructure | Page 019 places Wealth Management among the reusable infrastructure packages | Routed away from Estate but no controlling reusable component exists in the current output |
@@ -38,7 +38,7 @@ Jim's current instruction confirms that every omission listed here is wrong. The
 | Mature St. Claire civic framework | Pages 013–012 directly recover the governing society, magical/social boundary, marriage/family-law structure, family court, transit, Reclamation Works, later planning, and company integration | Collapsed into a thin snapshot and falsely presented as reconstructed |
 | St. Claire recurring cast and establishments | Jim states that roughly half the cast appears missing and identifies specific developed community figures and places | No complete character/place recovery or omission ledger exists |
 | Amélie and the day-to-day executive | Page 014 says they are the only prospective characters intentionally baked into the framework; Amélie's corrected history and protective role are directly stated | No controlling reusable character records were exported |
-| Athena's hidden origin and reveal history | Pages 015–014 define the former Sarah working-name evolution, pre-reveal silence, commercial success, “J” identity, executive knowledge boundary, and reveal structure | Reduced to routing notes rather than a reusable character/event record |
+| Athena's hidden origin and reveal history | Pages 015–014 define the former Sarah working-name evolution, pre-reveal silence, commercial success, “J” identity, executive knowledge boundary, and reveal structure | **RESTORED:** reusable causal order and reveal anchor sequence are codified; technical mechanics, exact dialogue, and remaining receipt order stay open |
 
 “Optional integration with the Estate” does not mean “candidate canon.” Components can be fully reusable while remaining independently selectable.
 
@@ -73,6 +73,6 @@ When a developed component is incomplete, persist the known approved state and t
 ## Required continuation
 
 1. Recover the complete trigger chronology around Athena reveal, Project Artemis, Project Phryne, and the post-reveal investment sequence.
-2. Create controlling reusable components for Athena, CLIO, Mnemosyne/Erato, Wealth Management, and the company ecosystem instead of leaving them as routing targets.
+2. Continue controlling-component recovery for CLIO, Mnemosyne/Erato, Wealth Management, and the company ecosystem. Athena's initial controlling component is restored and now requires collaborative expansion rather than another scope decision.
 3. Audit every remaining use of `candidate`, `optional`, `story-local`, and `excluded` against direct Jim instructions and source-package scope.
 4. Treat unclear scope as `UNRESOLVED SCOPE — JIM DECISION REQUIRED`; never resolve uncertainty by exclusion.
