@@ -1,11 +1,11 @@
 # System and Canon Framework
 
-Status: ACTIVE GOVERNANCE
-Authority: SYSTEM CANON
+Status: COMPLETE FOR ASSIGNED MODULE 01 SOURCES
+Authority: ACTIVE PROJECT GOVERNANCE
 
-This file governs how the archive is interpreted. It owns method, not domain facts.
+This module governs canon authority, source status, continuity, writing practice, state tracking, ingestion, recovery, and version handling across Jim the Saga. It does not own substantive setting, company, technology, character, or transformation facts that belong to another module.
 
-## Authority order
+## Governing hierarchy
 
 1. Jim's explicit current instruction.
 2. Master Story Bible.
@@ -15,55 +15,43 @@ This file governs how the archive is interpreted. It owns method, not domain fac
 6. Established accepted story.
 7. Other material explicitly marked CANON.
 
-A lower source cannot silently overwrite a higher source. Detail, repetition, filename, or modification date does not establish authority. Report and log meaningful conflicts.
+Meaningful conflicts are reported and logged. Detail, repetition, filenames, assistant assurances, and successful uploads do not establish authority or completion.
 
-## Canon classes
+## Governing principles
 
-- **CANON:** accepted story or an explicitly established fact.
-- **STORY-LOCAL CANON:** binding only within the named story.
-- **SHARED-WORLD CANON:** reusable within the owning module's scope.
-- **CANDIDATE CANON:** supported proposal awaiting Jim's approval.
-- **NON-CANON:** brainstorming, alternatives, examples, and rejected ideas.
-- **RECOVERY EVIDENCE:** historical material that may prove a decision but cannot promote itself.
-- **SUPERSEDED:** preserved former canon that no longer controls.
+- Consistency over convenient invention.
+- Transformation is not dispossession.
+- Femininity is not degradation.
+- Love can challenge; love does not exploit.
+- Intimacy is consensual.
+- Character growth belongs to the character.
 
-Silence is not approval. Assistant suggestions remain non-canon until accepted.
+## Module files
 
-## Continuity
+- [`authority-and-status.md`](01-system-and-canon-framework/authority-and-status.md) defines the hierarchy, canon classes, promotion rules, conflict handling, scope boundaries, and imported-instruction limits.
+- [`continuity-and-state.md`](01-system-and-canon-framework/continuity-and-state.md) defines scene continuity, character state, transformation state, timeline practice, and current-story handoff.
+- [`voice-and-style.md`](01-system-and-canon-framework/voice-and-style.md) preserves the complete normalized Voice and Style Guide, including the agency, dignity, identity, anatomy, intimacy, and reclaimed-experience supplement.
+- [`ingestion-recovery-and-versioning.md`](01-system-and-canon-framework/ingestion-recovery-and-versioning.md) defines source registration, claim-level parsing, version comparison, preservation, completion criteria, recovery checks, and honest progress states.
+- [`templates-and-schemas.md`](01-system-and-canon-framework/templates-and-schemas.md) records the complete functional schemas of the Story Bible, Character Bible, Timeline, Current Story State, Ideas document, and World Lexicon.
+- [`legacy-protocols-and-conflicts.md`](01-system-and-canon-framework/legacy-protocols-and-conflicts.md) preserves and classifies the historical swap engines, protocol transcripts, rigid presentation world, sentient-AI prompt, prompt scraps, continuity scaffolding, lost-information guidance, and their conflicts.
+- [`source-coverage.md`](01-system-and-canon-framework/source-coverage.md) accounts for all 17 sources assigned by the original inventory and states what happened to each.
 
-- Continue date, location, physical state, clothing, possessions, knowledge, relationships, plans, and emotional temperature until the story changes them.
-- A chapter break does not advance time.
-- Do not make characters relearn completed development or erase discomfort after one success.
-- Track separately what happened, what each character knows, what each believes, and what the reader knows.
-- Put durable facts in the owning bible, dated events in the Timeline, evolving personal facts in Character Bibles, and immediate handoff facts in Current Story State.
+## Status discipline
 
-## Identity consent and dignity
+Use only these progress labels:
 
-- Transformation changes only the dimensions its mechanism explicitly changes.
-- Physical change does not automatically change identity, age, memories, history, maturity, relationships, personality, or agency.
-- Anatomy does not determine gender.
-- Femininity and masculinity are not degradation.
-- Involuntary transformation and intimate consent are separate questions. Romance and intimacy involve unambiguously adult, consenting characters.
-- Others may recognize, tease, encourage, or challenge, but self-discovery belongs to the character.
+- **Not started**
+- **Inventory complete**
+- **In progress**
+- **Reconstructed pending verification**
+- **Complete**
 
-## Voice
+“Complete” means every assigned source has been opened and classified, every substantive rule has a destination, variants and conflicts are accounted for, non-canon material has not been silently promoted, local files pass checks, and the published GitHub files have been fetched and verified.
 
-Write intimate, candid, contemporary, conversational, psychologically observant prose from inside a specific character's experience. Use selective concrete detail. Dialogue may include interruption, avoidance, misunderstanding, private shorthand, defensive humor, and unequal articulateness. Let humor grow from affection, awkwardness, contradiction, and timing. Avoid assistant-like summaries, generic inspiration, therapy-speak, purple prose, repeated mirror scenes, disguised exposition, and automatic revelation endings.
+## Archive principle
 
-## Promotion and provenance
+Jim's archive may look chaotic because it survived repeated context loss and recovery across tools. Redundant versions and emergency copies are evidence of preservation work. Some filenames are also objectively funny. Preserve both the survival history and the comedy without treating disorder as authority.
 
-Every reconstructed module identifies controlling sources and unresolved conflicts. Promote a fact only when Jim explicitly approves it, an accepted scene unambiguously establishes it, or a higher-authority source already controls. Record old status, new status, source, scope, and effective point.
+## Current completion statement
 
-## Archive recovery
-
-Jim's scattered exports, duplicates, inconsistent versions, and partial consolidations often reflect attempts to preserve the project across unreliable AI contexts. Preserve variants until their relationship is understood. Do not sanitize the comedy out of repeated `final` and `no really i mean it` filenames; they are both survival evidence and genuinely funny archive history.
-
-Recovery sequence: preserve source; classify domain and authority; separate user decisions from assistant proposals; compare versions; extract supported facts with provenance; log conflicts; promote only under the rules above.
-
-## Bootstrap
-
-Before continuing a story, load this framework, relevant world modules, Character Bible, Timeline, Current Story State, Voice and Style Guide, and the last accepted scene. Read NON-CANON material only for brainstorming or an unresolved option.
-
-## Controlling sources
-
-The six numbered Story Bible documents, project instructions, and Jim's current directives.
+Module 01 is complete for the 17 sources assigned to it. That statement does not claim that story-specific mechanics or facts found inside those sources have already been reconstructed into modules 04, 12, 18, or a story-specific bible; the coverage ledger names those routes explicitly.
