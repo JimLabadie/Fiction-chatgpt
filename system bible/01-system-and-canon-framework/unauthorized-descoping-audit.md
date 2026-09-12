@@ -22,9 +22,9 @@ A fact is not story-only merely because it is revealed in a scene, activated dur
 | Barbie → mall → Athena purchase origin | Labeled story-local pending future promotion | Page 007 establishes the causal history and explicitly requires it as part of Athena's reveal; page 019 establishes the surrounding assets as reusable infrastructure | Restored as reusable Estate/Athena origin and reveal context |
 | St. Claire integration of the technology/company ecosystem | Module 16 retained “Commercial facilities cluster in Jamestown” | Page 019 records Jim's correction that Jamestown's old location came from a story by mistake and the infrastructure belongs in St. Claire | Standalone Jamestown geography marked superseded; St. Claire integration restored, with exact later geography still unresolved |
 
-## Confirmed omissions or incomplete exports
+## Confirmed unauthorized omissions requiring restoration
 
-These items were not necessarily called story-only, but the export failed to give accepted reusable material an adequate persistent home.
+Jim's current instruction confirms that every omission listed here is wrong. The export failed to give accepted reusable material an adequate persistent home. These are required recovery work, not optional future expansions.
 
 | Material | Evidence of reusable scope | Export gap |
 |---|---|---|
@@ -38,12 +38,12 @@ These items were not necessarily called story-only, but the export failed to giv
 
 “Optional integration with the Estate” does not mean “candidate canon.” Components can be fully reusable while remaining independently selectable.
 
-## Suspect descoping requiring source recovery, not a silent decision
+## Required recovery whose exact implementation remains incomplete
 
 | Material | Why it is suspect | Safe status |
 |---|---|---|
-| Post-reveal executive confession, lost acquisition targets, and non-voting support investments | Page 005 describes a planned post-Athena-reveal development linked to the company/project sequence | Preserve as unresolved reusable-trigger/event-sequence evidence until its full thread is recovered |
-| Exact Athena reveal sequence beyond the Artemis +1 day rule | Several pages treat reveal beats as designed infrastructure, but the complete accepted sequence has not yet been reconstructed | Do not label story-only; recover and separate reusable sequence from each story's dialogue/emotional state |
+| Post-reveal executive confession, lost acquisition targets, and non-voting support investments | Page 005 describes a post-Athena-reveal development linked to the company/project sequence | Restore the defined event sequence now and recover its missing details; do not exclude it or reduce it to one-story residue |
+| Exact Athena reveal sequence beyond the Artemis +1 day rule | Several pages treat reveal beats as designed infrastructure, but the complete accepted sequence has not yet been reconstructed | Required reusable sequence recovery; separate framework beats from each story's dialogue/emotional state |
 | Mnemosyne activation with the Estate | Reusable status is established, but automatic versus separately selected activation is not | Reusable component; coupling unresolved |
 | Estate technology installations | Source packages distinguish ordinary automation from Athena/Fashion Empire integrations, but later decisions may have fixed some installations | Reusable component relationships; installation-by-installation audit required |
 | Collection ownership baselines | Research lists, targets, current ownership, and wearable/display state were mixed together | Preserve claims individually; do not demote whole collections or promote research lists wholesale |
@@ -59,6 +59,12 @@ The audit did not find a scope error in keeping these out of the fixed reusable 
 - current emotions, knowledge, clothing, injuries, and object locations;
 - the exact prose and reactions used to dramatize a reusable reveal or trigger;
 - whether a particular story has already fired a reusable trigger.
+
+## Process correction
+
+The archived chat is a controlling recovery and decision source, not incidental commentary. Direct Jim statements and corrections control. Assistant proposals become controlling only when Jim explicitly accepts them. No source may be downgraded, generalized, omitted, or assigned optional/story-local status merely because the export process finds its placement inconvenient.
+
+When a developed component is incomplete, persist the known approved state and track the missing fields. Do not place the whole component in purgatory. When scope or contradiction genuinely remains unclear, present the exact conflict to Jim before deciding.
 
 ## Required continuation
 
