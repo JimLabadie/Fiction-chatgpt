@@ -9,6 +9,12 @@ This file is a preliminary synthesis from a limited Estate source set. It is **n
 
 Do not use this file alone to establish the Estate in a new story until its complete source family has been inventoried and reconciled.
 
+## Recovery work
+
+- [Source ledger](08-estate-dreamhouse-obsidian-vanguard/source-ledger.md) — source families, duplicates, variants, provenance, and completion state.
+- [Architecture reconciliation](08-estate-dreamhouse-obsidian-vanguard/architecture-reconciliation.md) — later 1.96M-square-foot shell, B1/B2 model, mapped zones, and unresolved physical questions.
+- [Component routing](08-estate-dreamhouse-obsidian-vanguard/component-routing.md) — ownership boundaries among Estate, Mnemosyne, CLIO, Athena, companies, collections, staffing, and story-local state.
+
 ## Known unresolved versions and propagation gaps
 
 - **Naming:** `Obsidian-Vanguard Estate` appears in surviving architectural sources. Later conversation establishes `Lesbos` as an Estate naming root and `Dreamhouse` as residence shorthand. Exact scope and controlling names require recovery.
