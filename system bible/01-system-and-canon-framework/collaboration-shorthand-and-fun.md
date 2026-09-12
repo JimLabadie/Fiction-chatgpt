@@ -62,7 +62,7 @@ Jim's resources, Athena's infrastructure, or the organization's existence must n
 
 Example:
 
-If Peggy correctly accounts for the Dreamliner, Peggy did that. If the women of Lesbian NORAD convert a family whim into a flawless multinational operation, they did that. Their accomplishment does not become “Jim arranged it” merely because the family owns the resources.
+If Peggy correctly accounts for the Dreamliner, Peggy did that. If the women of Myrina / Lesbian NORAD convert a family whim into a flawless multinational operation, they did that. Their accomplishment does not become “Jim arranged it” merely because the family owns the resources.
 
 Visa does not require a ceremonial praise scene every time someone performs routine work. It requires correct causal attribution and prevents competent women from becoming invisible machinery around the protagonist.
 
@@ -72,7 +72,7 @@ Visa does not require a ceremonial praise scene every time someone performs rout
 
 A Rabbit Hole is a chosen deep dive. It may be unnecessary to solve the original practical problem, but the exploration itself provides comedy, pleasure, distinctive detail, new connections, or useful framework material.
 
-Lesbian NORAD is a Rabbit Hole result. A family concierge function did not require a hardened military command center. Treating every family whim with military precision was funny enough to justify building the glorious excess.
+Myrina / Lesbian NORAD is a Rabbit Hole result. A family concierge function did not require a hardened military command center. Treating every family whim with military precision was funny enough to justify building the glorious excess.
 
 Rabbit Hole is the deliberate counterweight to Pencil:
 
@@ -106,15 +106,17 @@ A pin must be a persistent, active discussion obligation. It cannot become a eup
 
 A squirrel may produce major canon, prove that the family is worth more than the GDP of the Dutch, or merely produce laughter. All are legitimate outcomes in a project whose value is personal enjoyment.
 
-## Lesbian NORAD as the combined example
+## Myrina / Lesbian NORAD as the combined example
 
-Lesbian NORAD demonstrates how the shorthand works together:
+Myrina / Lesbian NORAD demonstrates how the shorthand works together:
 
 - **Pencil:** A normal concierge office could solve the logistical need.
 - **Rabbit Hole:** A hardened command center is much more fun.
 - **Squirrel:** The disproportionate military framing emerged as a delightful diversion worth following.
 - **Visa:** The women whose ruthless dedication and efficiency make it work receive the credit.
 - **Cigar:** Their motive need not conceal something darker; they take pride in doing impossible work magnificently.
+
+The name **Myrina** also records the intended recovery method. Jim's earlier Greek-women rabbit hole produced the candidate in the source list; renewed collaboration followed the candidate back to her function and established why she belongs. The list worked, and the collaboration worked.
 
 ## Use
 
