@@ -3,6 +3,14 @@
 Status: RECONSTRUCTED CANON AND VALUATION LEDGER
 Authority: OWNERSHIP CANON WITH DATED VARIABLE FINANCIALS
 
+## Athena and the empire
+
+[Athena](02-athena.md) is a person and Jim's daughter, not the empire's capital-deployment algorithm. Capital deployment, acquisitions, patent development, and institutional coordination are actions she performs during her hidden history.
+
+The empire's causal beginning is Athena's profitable commercialization of a bounded offering derived from her own capabilities. That offering supplies seed capital; its exact product remains open. Athena then recognizes value in Jim's abandoned solutions and builds outward through J., companies, people, and institutions.
+
+Danielle Reyes operates the visible day-to-day empire and does not know Athena exists before the reveal. Exact J. legal machinery and action-by-action authority remain unresolved in Athena's ledger.
+
 ## Ownership model
 
 Jim's empire includes controlling stakes, strategic minority stakes, outright private holdings, acquired groups, and infrastructure companies. Count a parent once; do not add its child brands again. Commercial ownership and a household's personal collection are separate facts.
