@@ -26,6 +26,12 @@ A durable fact Jim explicitly established, a fact unambiguously established in a
 
 A fact binding only in the named story. Character names, current relationships, present location, story-specific net worth, a particular transformation selection, and the current state of a reusable asset usually belong here. Story-local facts do not automatically modify a shared-world module.
 
+A story event may instantiate a reusable trigger without making the trigger definition story-local. The reusable component owns the trigger conditions, ordering, delay, required decision, and effects; the story Timeline and Current Story State record whether and when that trigger fired.
+
+### Reusable trigger canon
+
+A reusable event or state transition attached to a selectable component. It may depend on a revelation, authorization, relationship threshold, elapsed time, or other condition. Its occurrence is story state; its definition remains framework canon. Do not downgrade a trigger to story-only merely because it is expressed through a scene.
+
 ### Shared world canon
 
 A reusable fact within a domain such as St. Claire, the estate, transformation mechanics, or the fashion empire. Shared-world canon does not dictate that every story uses the module. A story that invokes a module inherits it unless the story explicitly establishes a local exception.
@@ -100,6 +106,7 @@ Classify by intended scope rather than content type:
 - If Jim intends an element to be available to multiple stories, it belongs in the reusable library.
 - If the same named person or place persists across stories, its stable baseline belongs in the owning module.
 - If a fact describes what happened only in one story, it belongs in that story's records.
+- If a fact defines a repeatable trigger or state transition supplied by a reusable component, the definition belongs in that component while each occurrence belongs in the story's records.
 - If a story produces a development that should permanently change the reusable baseline, it requires explicit promotion.
 - If intent is unclear, classify it as `UNRESOLVED SCOPE — JIM DECISION REQUIRED`; do not discard, generalize, or silently relocate it.
 
