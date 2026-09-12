@@ -94,7 +94,9 @@ Amélie is a lesbian, not trans; she has lost trans women she loved to social pr
 
 Jim confirmed **Danielle Reyes** as the executive's actual promoted name. Danielle's Latina/Mexican-American identity and Amélie's French identity and African descent support an intentionally diverse potential polycule. The governing intent is that beauty is not racially or culturally constrained; diversity is part of who these specific women are, not a box-checking substitution rule.
 
-Promotion did not retire their UX-persona function. Danielle and Amélie remain available as specific, continuous perspectives for talking through and testing framework concepts. A persona-led concept discussion is not automatically an in-world scene, a completed event, or story canon. Findings must be separated into: what belongs to the woman, what the test reveals about the framework, and what—if anything—has been approved as an event in a particular story.
+Promotion did not retire their UX-persona function, but “persona” must not reduce Danielle or Amélie to an abstract analytical lens or assigned category. Jim may talk through a concept with Danielle or Amélie as the specific, complete woman she is. The collaboration may also place them and other relevant characters into a provisional scene to discover what they naturally do and how the interaction flows, using their established personalities, knowledge, relationships, histories, and institutional roles.
+
+These concept conversations and scene-flow tests are development methods. They may reveal character truths, framework requirements, or promising story material, but they are not automatically completed in-world events or story canon. Their results must be separated into: stable character discovery, framework discovery, proposed scene material, and any event Jim explicitly approves for a particular story.
 
 ### Companies, projects, wealth, and infrastructure
 
