@@ -38,6 +38,7 @@ Reusable components may also define triggered events or state transitions. Their
 
 ## Module files
 
+- [`project-purpose-and-recovery-mandate.md`](01-system-and-canon-framework/project-purpose-and-recovery-mandate.md) defines why the framework exists, its audience, the creative partnership, the present reconstruction phase, resolution requirements, and visible proof of persistence.
 - [`authority-and-status.md`](01-system-and-canon-framework/authority-and-status.md) defines the hierarchy, canon classes, promotion rules, conflict handling, scope boundaries, and imported-instruction limits.
 - [`continuity-and-state.md`](01-system-and-canon-framework/continuity-and-state.md) defines scene continuity, character state, transformation state, timeline practice, and current-story handoff.
 - [`voice-and-style.md`](01-system-and-canon-framework/voice-and-style.md) preserves the complete normalized Voice and Style Guide, including the agency, dignity, identity, anatomy, intimacy, and reclaimed-experience supplement.
