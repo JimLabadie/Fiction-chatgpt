@@ -1,35 +1,20 @@
-# Relationships, Family & Polycule
+# Relationships Family and Polycule
 
-Status: BASELINE-INVENTORY
-Authority: NOT-YET-CANON
-Purpose: Preserve relationship structures, family logistics, polycule mechanics, schedules, dating issues, and household relationship conventions.
+Status: RECONSTRUCTED SHARED-WORLD RULES
+Authority: CANON WITH STORY-LOCAL DETAILS SEPARATE
 
-## Scope
-- Family structure
-- Polyamory logistics
-- Relationship agreements and recurring practices
-- Household/family scheduling
-- Dating issues and social logistics
-- Relationship templates
+Relationships are consensual, adult, and person-specific. A polycule is not a fused character: each bond has its own history, attraction, boundaries, knowledge, vulnerabilities, and pace. Joining a household does not erase private space, outside friendships, financial autonomy, or disagreement.
 
-## Source families to ingest
-- 17_Family_binder_For_poly_Relationships.docx
-- Female_Polyamory_dating_issues.docx
-- female_Polyamory_logistics.docx
-- polyamory-family.skill
-- change-toolkit reference-c-family-polycule-structure-template.md
-- z-schedule-For the story create the family schedule.docx
-- Z- characters - Family recap detailed.docx
-- family_creation_matrix.docx
-- When the meals concludes mark asks everyone to set.._.docx
+Loving encouragement may be confident, playful, persistent, or exasperated, but meaningful choice remains with the person encouraged. Affectionate roasting is welcome; cruelty, degradation, coercion, and enjoying powerlessness are not.
 
-## Required reconstruction sections
-1. Household / polycule structure
-2. Relationship graph
-3. Agreements and norms
-4. Scheduling / routines
-5. Family formation
-6. Dating / external relationship logistics
-7. Conflict handling
-8. Story-local vs reusable relationship rules
-9. Provenance and variants
+## Household binder
+
+The reusable binder tracks agreements, sleeping arrangements, alone space, shared calendar, house hub, communication and boundaries, bathroom and food practices, guests, pets, technology, privacy, chores, property inventory, duplicate possessions, unused homes, finances, traditions, conflict resolution, and integration of new family members.
+
+It is an operational record, not a substitute for conversation. Each agreement names who consented, when it begins, whether it is temporary, and how it can be revisited. Household votes cannot override an individual's bodily, identity, intimate, property, or financial consent.
+
+Names, exact schedules, sleeping rotations, finances, and current tensions remain story-local. Draft references to Karen, Steve, and “the girls” are not promoted into every story.
+
+## Controlling sources
+
+`17_Family_binder_For_poly_Relationships.docx`, polyamory logistics and dating sources, Master Story Bible, and Voice and Style Guide.
