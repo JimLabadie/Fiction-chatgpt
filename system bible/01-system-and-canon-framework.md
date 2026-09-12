@@ -1,6 +1,6 @@
 # System and Canon Framework
 
-Status: COMPLETE FOR ASSIGNED MODULE 01 SOURCES
+Status: IN PROGRESS — CHAT DECISION RECOVERY AND PROJECT-WIDE SCOPE AUDIT
 Authority: ACTIVE PROJECT GOVERNANCE
 
 This repository is a reusable library of settings, characters, organizations, assets, cultures, technologies, mechanics, and writing systems that may be used in any story Jim creates in ChatGPT. A story selects the modules it needs; inclusion in the repository does not make every module active in every story.
@@ -45,6 +45,7 @@ Reusable components may also define triggered events or state transitions. Their
 - [`templates-and-schemas.md`](01-system-and-canon-framework/templates-and-schemas.md) records the complete functional schemas of the Story Bible, Character Bible, Timeline, Current Story State, Ideas document, and World Lexicon.
 - [`legacy-protocols-and-conflicts.md`](01-system-and-canon-framework/legacy-protocols-and-conflicts.md) extracts reusable scope, state, pacing, boundary, naming, verification, and conflict-detection rules from older protocol experiments without importing their plots or characters.
 - [`source-coverage.md`](01-system-and-canon-framework/source-coverage.md) accounts for all 17 sources assigned by the original inventory and states what happened to each.
+- [`chat-decision-and-scope-ledger.md`](01-system-and-canon-framework/chat-decision-and-scope-ledger.md) records the controlling purpose, scope decisions, and direct corrections recovered from the complete 26-page chat export.
 - [`unauthorized-descoping-audit.md`](01-system-and-canon-framework/unauthorized-descoping-audit.md) records material omitted, downgraded, or mislabeled story-local without Jim's consent and tracks the required corrections.
 
 ## Status discipline
@@ -65,4 +66,6 @@ Jim's archive may look chaotic because it survived repeated context loss and rec
 
 ## Current completion statement
 
-Module 01 is complete for the reusable governance content in its 17 assigned sources. Reusable characters, settings, organizations, assets, and mechanics are routed to their appropriate System Bible domains. Only material confined to one story's runtime state is excluded from the reusable baseline.
+Module 01 is not complete. Its original 17-source pass omitted the controlling role of the 26-page recovery chat and allowed accepted reusable material to be downgraded or routed without complete destination artifacts. The direct user-message pass is complete; claim-level review of assistant proposals accepted by short follow-up replies, attachment-to-turn mapping, and project-wide export comparison remain in progress.
+
+No module may be declared complete merely because material was “routed.” Completion requires the controlling destination content to exist and the chat-derived scope decisions to be reconciled.
