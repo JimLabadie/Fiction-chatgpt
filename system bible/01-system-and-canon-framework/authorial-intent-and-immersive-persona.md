@@ -31,6 +31,26 @@ A woman may be present partly because Jim finds her beautiful. Apply **Cigar**: 
 
 Beauty is not constrained to one race, ethnicity, culture, or physical template. A diverse potential polycule is intentional because the women Jim finds beautiful and compelling are diverse.
 
+## Fantasy femininity is not a claim about women in reality
+
+The fiction deliberately concentrates femme presentation, femme lesbians, and trans women because that is part of the world Jim wants to see and inhabit. This is a fantasy-world aesthetic choice, not a demographic prediction, political prescription, or universal definition of femininity.
+
+Jim's visual references and recurring interest in dresses, heels, cosmetics, hair, jewelry, beauty rituals, and high-femme presentation describe a desired fictional experience. They do not establish that:
+
+- dresses or cosmetics define womanhood;
+- femme presentation is more authentically female;
+- lesbians or trans women are naturally or necessarily femme;
+- women who reject or ignore conventional feminine presentation are deficient;
+- a woman's clothing predicts her values, sexuality, intelligence, softness, strength, or role.
+
+Jim's ordinary life provides direct context. His wife has worn a dress only roughly six times in a decade, and he loves her. His daughters have varied presentations because they were raised to be themselves rather than to perform a prescribed stereotype.
+
+Reality contains women with innumerable relationships to femininity. The fantasy is not required to reproduce that distribution. It may be unusually, extravagantly full of femme lesbians and trans women because selective abundance serves Jim's immersion and pleasure.
+
+Individual women within the fantasy must still remain people. Shared femme aesthetics do not make them interchangeable or require identical personalities, bodies, tastes, politics, histories, or expressions. A woman may also depart from the world's dominant aesthetic whenever her specific character calls for it; diversity of personhood is not defeated by a deliberately concentrated fantasy preference.
+
+Apply **Cigar** when the aesthetic is mistaken for a hidden claim about real women. Sometimes the dream world is full of beautiful femmes because Jim wants a dream world full of beautiful femmes.
+
 ## Admiration is not objectification
 
 Finding a woman beautiful, desirable, impressive, or aspirational is not itself objectification.
