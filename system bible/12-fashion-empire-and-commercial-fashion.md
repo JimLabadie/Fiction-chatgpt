@@ -1,45 +1,41 @@
-# Fashion Empire & Commercial Fashion
+# Fashion Empire and Commercial Fashion
 
-Status: BASELINE-INVENTORY
-Authority: NOT-YET-CANON
-Purpose: Preserve the commercial fashion ecosystem, corporate holdings, manufacturing, boutiques, valuation, patronage, acquisitions and fashion-industry strategy.
+Status: RECONSTRUCTED CANON AND VALUATION LEDGER
+Authority: OWNERSHIP CANON WITH DATED VARIABLE FINANCIALS
 
-## Scope
-- Fashion Empire ownership and valuation
-- Brands / companies / holdings
-- Boutiques and shopping districts
-- Manufacturing lines and equipment
-- Patronage and partnerships
-- Acquisitions / buyouts
+## Ownership model
 
-## Source families to ingest
-- the fashion empire final use this.docx
-- the fashion empire.docx
-- the fashion empire (1).docx
-- the ficticious fashion empire.docx
-- fashion-empire*.skill
-- Jim_Fashion_Empire_FINAL_CANON_2026-09-10.xlsx
-- Jim_Fashion_Empire_CANON_MANICURED_FINGERS_2026-09-10.xlsx
-- Jim_Fashion_Empire_Valuation_Survey_UPDATED_2026-09-10.xlsx
-- Luxury Boutique Operational and Financial Blueprint.docx
-- luxury_shopping.docx
-- luxury_shopping_Districts.docx
-- The Patronage & Partnership Strategic Plan.docx
-- The-Alyssa-Buyout.docx
-- theFashionManufactoringLine.csv
-- the manfacturing product line.docx
-- the manufaturing product line*.docx
-- List of Machines Required for Garment Manufacturing.docx
-- types of sewing machines.docx
-- apparel-manufacturing-product-guide.md
+Jim's empire includes controlling stakes, strategic minority stakes, outright private holdings, acquired groups, and infrastructure companies. Count a parent once; do not add its child brands again. Commercial ownership and a household's personal collection are separate facts.
 
-## Required reconstruction sections
-1. Corporate structure
-2. Ownership / valuation
-3. Brands / acquisitions
-4. Retail / boutiques
-5. Manufacturing
-6. Product lines
-7. Patronage / partnerships
-8. Financial model
-9. Conflicts / provenance
+The September 10, 2026 canon workbook locks accepted ownership for the dedicated expansions, including all 37 Manicured Fingers acquisitions/stakes and the accepted hats, bags, jewelry, shoes, athleisure, and resort additions. Public valuations are date-specific. Private values and revenues marked hypothesis remain working estimates, not immutable facts.
+
+## September 10 2026 snapshot
+
+- Low gross attributable value: **$503.1794B**
+- Mid gross attributable value: **$514.2344B**
+- High gross attributable value: **$529.4144B**
+- Athena Hat Fund remaining: **$258.2404B**
+- Mid empire plus remaining Hat Fund: **$772.4748B**
+- Modeled entity/group stakes: **190**
+- Daily attributable revenue from three recovered pots: **$148.571918M**
+
+These are dated survey figures and need not equal a character's separately established total net worth. Never invent a reconciliation.
+
+## Holdings and operations
+
+The grid includes parent stakes in LVMH, Kering, Richemont, Prada Group, Puig, Tapestry, Capri, PVH, and Estée Lauder; direct stakes or control in independent houses including Hermès, Chanel, Armani, Burberry, Moncler, and Ralph Lauren; and accessory, footwear, activewear, resort, beauty, and infrastructure holdings. Exact percentages belong in the workbook ledger.
+
+Operations include boutiques, shopping districts, apparel manufacturing, beauty and presentation systems, archives, museums, and partnership/patronage programs. Automated apparel production covers pattern digitization and cutting, robotic sewing and assembly, optical quality control, finishing, and packaging. It does not erase couture or artisan work.
+
+## Audit issues
+
+- Parent/child overlap must be removed.
+- Valentino/Kering exposure needs reconciliation.
+- Thom Browne placement differs across source maps.
+- Market values change after the valuation date.
+- Private rows marked hypothesis are not factual precision.
+- Older fashion-empire documents are recovery evidence where they conflict with the final canon workbook.
+
+## Controlling sources
+
+`Jim_Fashion_Empire_FINAL_CANON_2026-09-10.xlsx`, `the fashion empire final use this.docx`, apparel-manufacturing guide, and accepted acquisition/partnership records.
