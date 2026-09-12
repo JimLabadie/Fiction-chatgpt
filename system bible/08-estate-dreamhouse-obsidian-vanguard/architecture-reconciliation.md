@@ -28,7 +28,7 @@ Older sources describe a separately excavated four-story **Deep Archive** outsid
 Working rule:
 
 - Use B1 and B2 as the later physical shell.
-- Preserve the Deep Archive name, unified-collection concept, delivery connections, and conservation functions as candidates to map into B1/B2.
+- Preserve the Deep Archive name, unified-collection concept, delivery connections, and conservation functions for mapping into B1/B2; only their exact later placement remains unresolved.
 - Do not add a separate four-story excavation unless Jim restores it.
 - Do not discard an older Archive function merely because its container changed.
 
@@ -75,7 +75,7 @@ The later model retains:
 
 The rewrite describes roughly 18 acres of landscaped recreation and selective reclamation of approximately 22 acres of former parking while retaining drainage, utilities, and useful service pavement. Exact acreage arithmetic remains open.
 
-The Barbie-commercial/mall/Athena origin is story and origin-history evidence. The architecture does not import that plot into every story.
+The Barbie-commercial → “where would Barbie live?” → mall → Athena purchase history is accepted reusable Estate/Athena origin and reveal context. This architecture file preserves the resulting physical design; the Athena/event-sequence component owns the reveal semantics, while each story records whether the reveal has occurred.
 
 ## Separate campus facilities
 
@@ -141,7 +141,7 @@ The fixed shell is approximately 125,000 sq ft across two roughly 62,500-sq-ft f
 
 The rewrite's older 20,000-sq-ft fashion museum, 8,000-sq-ft gallery, and 97,000-sq-ft reserve program is superseded by later Mnemosyne development.
 
-The Anchor B shell belongs to Estate architecture. Mnemosyne is the later institution proposed for it; Erato remains an independent organization. Collections, CLIO, Aglaea, Core Gallery, Future, and Soapbox route to museum/collection reconciliation. Whether Mnemosyne is always active with the Estate or an optional related component remains unresolved.
+The Anchor B shell belongs to Estate architecture. Mnemosyne is the accepted reusable institution developed for it; Erato remains an accepted reusable independent organization. Collections, CLIO, Aglaea, Core Gallery, Future, and Soapbox route to museum/collection reconciliation. Whether Mnemosyne activates automatically with every Estate selection or is separately selectable remains unresolved; its reusable status does not.
 
 ## Remaining decisions
 
