@@ -1,6 +1,6 @@
 # Biotech Prosthetics and Advanced Technology
 
-Status: RECONSTRUCTED TECHNOLOGY INDEX
+Status: IN PROGRESS — PARTIAL TECHNOLOGY INDEX; COMPANY HISTORY AND TRIGGERS MISSING
 Authority: SHARED-WORLD TECHNICAL CANON
 
 ## Cassandra Labs
@@ -31,6 +31,22 @@ Evergreen's working combined valuation is about $15B with projected post-launch 
 - Reusable trigger definitions are framework canon; whether and when a particular story fires them belongs in that story's timeline and current state.
 
 The reusable commercial and technology ecosystem is intended to integrate with St. Claire. The imported standalone “Jamestown” geography and its two-hours-from-the-Estate placement are superseded story residue; exact St. Claire district placement awaits recovery of the later St. Claire revisions. Cassandra also has the Estate R&D building; Innovation Showroom demonstrates systems. Residential AWS is restricted to the Anchor and Partner Dressing Rooms. Traceroot is primarily supply-chain infrastructure.
+
+## Required recovery not represented in this index
+
+This short index does not yet preserve the full reusable company ecosystem. Required restoration includes:
+
+- Project Artemis's commercial-launch scope and reveal +1 day trigger relationship;
+- Project Phryne as the Metis/Techne deal;
+- Metis and Techne as independent companies with their own facilities, customers, leadership, and histories;
+- Techne's broad-industry service model;
+- intentional Floor 23 JIT staging, active R&D testing, discounted systems, and Metis dogfooding;
+- the lesbian-or-trans workforce rule at enterprise scope, not as a Metis-only exception;
+- the post-reveal acquisition confession and non-voting investment/support sequence;
+- the detailed OAM, Threadbourne, Evergreen, Cassandra, Metis, Techne, and related manifests;
+- facilities and company relationships within the later St. Claire integration.
+
+These omissions are recovery failures, not evidence that the material is optional or story-local.
 
 ## Controlling sources
 
