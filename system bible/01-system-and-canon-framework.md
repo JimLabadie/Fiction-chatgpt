@@ -32,7 +32,9 @@ Meaningful conflicts are reported and logged. Detail, repetition, filenames, ass
 
 Reusable material belongs even when it is highly specific. Named people, detailed biographies, buildings, companies, histories, inventories, institutions, and social structures remain in the library when they are intended to recur or be available across stories. The test is intended cross-story reuse, not whether the material resembles story content.
 
-One story's use of a reusable element creates story-local state without rewriting the reusable baseline. Events, current relationships, temporary emotions, clothing, locations, knowledge, injuries, and choices from that story stay in its own records unless Jim deliberately promotes a development into the shared module.
+One story's use of a reusable element creates story-local state without rewriting the reusable baseline. Current relationships, temporary emotions, clothing, locations, knowledge, injuries, choices, and one-story outcomes stay in that story's records unless Jim deliberately promotes a development into the shared module.
+
+Reusable components may also define triggered events or state transitions. Their conditions, ordering, delays, required authorization, and effects are framework canon; the fact that a particular story reaches and fires a trigger is story-local state. A scene-shaped rule must not be discarded merely because it reads like plot.
 
 ## Module files
 
