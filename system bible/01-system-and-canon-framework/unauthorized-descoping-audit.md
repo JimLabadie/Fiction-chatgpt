@@ -35,6 +35,10 @@ Jim's current instruction confirms that every omission listed here is wrong. The
 | Wealth-management infrastructure | Page 019 places Wealth Management among the reusable infrastructure packages | Routed away from Estate but no controlling reusable component exists in the current output |
 | Metis, Techne, OAM, Threadbourne, Evergreen, Cassandra and related company histories | Pages 002 and 019 explicitly identify them as major reusable infrastructure, not incidental story details | Compressed into short module 16 summaries; independent histories, relationships, facilities, Phryne history, and manifests remain unpropagated |
 | Fleet/aviation/property infrastructure | Recovered Estate and company sources treat these as separable reusable assets | Routed to a “candidate” destination but no controlling component exists |
+| Mature St. Claire civic framework | Pages 013–012 directly recover the governing society, magical/social boundary, marriage/family-law structure, family court, transit, Reclamation Works, later planning, and company integration | Collapsed into a thin snapshot and falsely presented as reconstructed |
+| St. Claire recurring cast and establishments | Jim states that roughly half the cast appears missing and identifies specific developed community figures and places | No complete character/place recovery or omission ledger exists |
+| Amélie and the day-to-day executive | Page 014 says they are the only prospective characters intentionally baked into the framework; Amélie's corrected history and protective role are directly stated | No controlling reusable character records were exported |
+| Athena's hidden origin and reveal history | Pages 015–014 define the former Sarah working-name evolution, pre-reveal silence, commercial success, “J” identity, executive knowledge boundary, and reveal structure | Reduced to routing notes rather than a reusable character/event record |
 
 “Optional integration with the Estate” does not mean “candidate canon.” Components can be fully reusable while remaining independently selectable.
 
