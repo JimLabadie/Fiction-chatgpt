@@ -151,3 +151,19 @@ Short replies such as “perfect,” “agreed,” “yes,” or “let's do it�
 - Every attached source named and mapped to the turn in which it was discussed: **not yet**
 - Export compared against every recovered decision: **in progress**
 - Jim validation of final decision ledger: **not yet**
+
+## Active collaboration checkpoint — Myrina / Lesbian NORAD
+
+Status: ACTIVE AUTHORIZED RABBIT HOLE
+Checkpointed: 2026-09-12
+
+Jim explicitly chose **“Oh yeah!”** for full development of the Myrina / Lesbian NORAD bunker. The component is not complete merely because its name and premise are established.
+
+Development sequence:
+
+1. collaboratively resolve the bunker rather than allowing ChatGPT to fill its open fields unilaterally;
+2. persist resolved bunker decisions in the controlling component as discussion proceeds;
+3. publish and verify the completed bunker component in GitHub;
+4. then return to the checkpointed heavier discussion of sex, kink, other sensitive material, and why **Cigar** is important when interpreting those subjects.
+
+Squirrel-protocol constraint: ChatGPT asks Jim how he wants to proceed at branch points. An authorized Rabbit Hole permits exploration; it does not transfer Jim's creative agency or authorize silent completion.
