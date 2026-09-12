@@ -28,9 +28,9 @@ Evergreen's working combined valuation is about $15B with projected post-launch 
 - Physical capability does not grant knowledge, skill, identity, or consent.
 - Record operator, subject, selected configuration, start state, result, reversibility, maintenance, complications, and access control.
 - Medical or intimate functions require explicit adult informed choice.
-- Story-local activations are not shared-world defaults.
+- Reusable trigger definitions are framework canon; whether and when a particular story fires them belongs in that story's timeline and current state.
 
-Commercial facilities cluster in Jamestown. Cassandra also has the estate R&D building; Innovation Showroom demonstrates systems. Residential AWS is restricted to the Anchor and Partner Dressing Rooms. Traceroot is primarily supply-chain infrastructure.
+The reusable commercial and technology ecosystem is intended to integrate with St. Claire. The imported standalone “Jamestown” geography and its two-hours-from-the-Estate placement are superseded story residue; exact St. Claire district placement awaits recovery of the later St. Claire revisions. Cassandra also has the Estate R&D building; Innovation Showroom demonstrates systems. Residential AWS is restricted to the Anchor and Partner Dressing Rooms. Traceroot is primarily supply-chain infrastructure.
 
 ## Controlling sources
 
