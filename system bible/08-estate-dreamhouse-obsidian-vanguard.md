@@ -14,7 +14,7 @@ Do not use this file alone to establish the Estate in a new story until its comp
 - [Source ledger](08-estate-dreamhouse-obsidian-vanguard/source-ledger.md) — source families, duplicates, variants, provenance, and completion state.
 - [Architecture reconciliation](08-estate-dreamhouse-obsidian-vanguard/architecture-reconciliation.md) — later 1.96M-square-foot shell, B1/B2 model, mapped zones, and unresolved physical questions.
 - [Component routing](08-estate-dreamhouse-obsidian-vanguard/component-routing.md) — ownership boundaries among Estate, Mnemosyne, CLIO, Athena, companies, collections, staffing, and story-local state.
-- [Family Concierge / Lesbian NORAD](08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and pending function-derived Greek woman's co-name.
+- [Myrina / Lesbian NORAD](08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and interchangeable function-derived Greek woman's name.
 
 ## Known unresolved versions and propagation gaps
 
