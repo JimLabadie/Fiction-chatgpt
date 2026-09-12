@@ -90,7 +90,11 @@ Danielle and Amélie began as **specific UX personas**, not archetypes. Jim then
 
 They are therefore neither generic templates nor mandatory undifferentiated cast in every story. Their stable identities and backstories belong in controlling reusable character records; their appearance in an instance follows their defined institutional/component triggers. The exact trigger boundaries still require recovery and confirmation.
 
-Amélie is a lesbian, not trans; she has lost trans women she loved to social prejudice, has been exploited by powerful fashion figures, and becomes a fierce protector, ally, and cheerleader for Jim. These character facts require a controlling reusable record. Surviving story sources identify the executive as Danielle Reyes, but the surname and any details inherited from a particular test story remain subject to claim-level recovery.
+Amélie is a lesbian, not trans; she has lost trans women she loved to social prejudice, has been exploited by powerful fashion figures, and becomes a fierce protector, ally, and cheerleader for Jim. These character facts require a controlling reusable record.
+
+Jim confirmed **Danielle Reyes** as the executive's actual promoted name. Danielle's Latina/Mexican-American identity and Amélie's French identity and African descent support an intentionally diverse potential polycule. The governing intent is that beauty is not racially or culturally constrained; diversity is part of who these specific women are, not a box-checking substitution rule.
+
+Promotion did not retire their UX-persona function. Danielle and Amélie remain available as specific, continuous perspectives for talking through and testing framework concepts. A persona-led concept discussion is not automatically an in-world scene, a completed event, or story canon. Findings must be separated into: what belongs to the woman, what the test reveals about the framework, and what—if anything—has been approved as an event in a particular story.
 
 ### Companies, projects, wealth, and infrastructure
 
