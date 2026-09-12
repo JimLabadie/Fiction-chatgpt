@@ -1,6 +1,6 @@
 # The District of St Claire
 
-Status: RECONSTRUCTED CURRENT WORLD SNAPSHOT
+Status: IN PROGRESS — PARTIAL SNAPSHOT; CHAT-DOCUMENTED MATERIAL MISSING
 Authority: SHARED-WORLD CANON SUBJECT TO LOGGED VARIANTS
 
 ## Identity and scale
@@ -35,6 +35,24 @@ Gender-affirming and body-positive support includes the Velvet Prism, Binder and
 Recurring institutions include Chrysalis Co-Op, Nexus Incubator (“The Womb”), Maker's Crucible, Monarch Works, Keystone Lofts, and the St. Claire Museum of Queer History and Regional Archives. Annual anchors include Liberation Day (second Saturday of June), spring Butch-Femme Gala, Trans Joy and Resilience Fest, Summer Solstice Night Market and Block Party, Autumn Leather and Denim Swap, Autumn Harvest and Cider Fest, and Spring Equinox Cooperative Fair.
 
 Mutual aid is everyday culture rather than exceptional charity. Butch-femme dynamics, trans and non-binary life, generational differences, dating, and chosen family exist without making the district uniform.
+
+## Required recovery not represented in this snapshot
+
+The archived recovery chat establishes that this file is materially incomplete. Missing reusable areas include:
+
+- the fuller recurring cast and named establishments;
+- the society/benefit organization and ownership/governance model;
+- the later specially governed district structure;
+- the magical/social effect discouraging non-egg men from remaining, including planned exceptions and their handling mechanism;
+- St. Claire marriage, family-law, external-recognition, and parallel legal-instrument systems;
+- family-court and sovereignty-inspired structures;
+- later urban-planning rationale and Teodora's role;
+- Reclamation Works, refuse-to-energy, fertilizer, and external utility sales;
+- people movers, monorail, and fare-free internal transit;
+- the intended integration of the reusable company/technology ecosystem formerly mislabeled as standalone Jamestown;
+- the mapping and rationale material used to decide how the society functions.
+
+These are confirmed recovery obligations, not optional proposals. Existing claims remain usable where supported, but this file must not be represented as a complete St. Claire reconstruction.
 
 ## Variants and sources
 
