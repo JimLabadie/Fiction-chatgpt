@@ -2,7 +2,7 @@
 
 Status: COMPLETE FOR THE SOURCES ASSIGNED TO MODULE 01
 
-Every source named by the original Module 01 inventory has been opened, classified, and given a destination. Only reusable governance, craft, schema, and mechanic-design lessons were imported. Plot, character, setting, and event material remains outside this module.
+Every source named by the original Module 01 inventory has been opened, classified, and given a destination. Module 01 imports reusable governance, craft, schema, and mechanic-design lessons. Reusable named people, settings, organizations, assets, and other specific lore are routed to their owning modules rather than discarded or generalized. Only one-story runtime state remains outside the reusable baseline.
 
 | Source | Source character | Project status | Module 01 disposition |
 |---|---|---|---|
@@ -36,4 +36,4 @@ Every source named by the original Module 01 inventory has been opened, classifi
 
 ## Remaining cross-module work
 
-Non-reusable plot, character, setting, and event content was deliberately excluded from Module 01. Specialized reusable modules are routed to their owning System Bible domains; raw historical material remains available under `Systemwide/Source` for provenance.
+Specific reusable material is routed to its owning System Bible domain. One-story runtime state is not imported into Module 01. Raw historical material remains available under `Systemwide/Source` for provenance and future scope decisions.
