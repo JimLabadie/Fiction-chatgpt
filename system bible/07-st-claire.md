@@ -1,83 +1,41 @@
-# St. Claire
+# The District of St Claire
 
-Status: BASELINE-INVENTORY
-Authority: NOT-YET-CANON
-Purpose: Comprehensive reconstruction hub for the reusable St. Claire world module. Preserve every substantive version and conflict until reconciled.
+Status: RECONSTRUCTED CURRENT WORLD SNAPSHOT
+Authority: SHARED-WORLD CANON SUBJECT TO LOGGED VARIANTS
 
-## Scope
-- Founding and history
-- Rules and mechanics
-- Population and households
-- Organizations and employers
-- Places and districts
-- Occupations
-- People and naming pools
-- Governance / law / land / planning
-- Culture and community institutions
-- Current-world snapshots
-- Relationship to Metis and other entities
+## Identity and scale
 
-## Source families to ingest
-- St Claire 00 Concept.md
-- St Claire 00B Rules and Mechanics.md
-- St Claire 00C Working With Claude.md
-- St Claire 00D History.md
-- St Claire 01 Founding Pioneers.md
-- St Claire 03 Population.md
-- St Claire 04 Households.md
-- St Claire 05 Organizations.md
-- St Claire 06 Places.md
-- St Claire 07 Occupations.md
-- St Claire 08 Name Pools.md
-- St Claire 99 MASTER TRACKER 1.md
-- St Claire Master Lore Compendium v3.md
-- The District of St. Claire*.docx
-- The_People_of_St_Claire.docx
-- st. claireV2.docx
-- St_Claire_Urban_Planning_Codex.docx
-- St_Claire_Session_Salvage.docx
-- St._Claire_Character_Guide.docx
-- [Copy]*St_Claire_-_Current_World_Snapshot.docx
-- urban planning.docx
-- jamestown-area-complete-reference.md
-- jamestown-district.md
-- the community*.docx
-- the community residents.docx
-- arts and culture establishments.docx
-- plus Obsolete-Documents/St Claire* for historical comparison only
+St. Claire is a self-shaped queer district inside a wider unnamed city. It covers about four square miles between a working eastern riverfront and tree-lined northern hills. Its population is approximately 14,500, predominantly queer women, non-binary people, and trans people across race, age, class, occupation, and gender expression. Roughly 45–50 percent of adults are single; single life is treated as complete, not a waiting room.
 
-## Required reconstruction sections
-1. Identity and scope
-2. Founding / history
-3. Geography
-4. Governance / law
-5. Land and housing
-6. Population / demographics
-7. Household structures
-8. Culture and social norms
-9. Education
-10. Healthcare
-11. Economy and employment
-12. Organizations
-13. Places and districts
-14. Transportation / infrastructure
-15. Occupations
-16. Named people / pioneers
-17. Naming conventions
-18. Relationships to external entities
-19. Current snapshot
-20. Superseded material
-21. Unresolved conflicts
-22. Provenance
+Luxury housing, artist lofts, co-housing, and permanently affordable housing remain in the same civic ecosystem through land trusts, mutual aid, and housing-equity policy.
 
-## Likely child modules
-- History.md
-- Governance.md
-- Population.md
-- Households.md
-- Organizations.md
-- Places.md
-- Infrastructure.md
-- Culture.md
-- People.md
-- Relationships.yaml
+## History
+
+- **1974:** founding roots emerge through queer settlement and community-building rather than one official charter.
+- **1988:** a rent strike and land-trust victory become central civic memory.
+- **2003:** an archive fire and reconstruction deepen the commitment to preservation.
+
+## Geography
+
+- **Greenleaf Core:** Greenleaf Stage, farmers market, gardens, coffee, films, and festivals.
+- **Factory Quarter:** Monarch Works and Keystone Lofts Market Hall in converted industrial buildings.
+- **Residential Enclaves:** Apex Heights, Foundry Lofts, Hearthstone Co-Housing, and Anchor Point income-controlled housing.
+- **Riverfront Fringe:** veterinary hospital, Iron Horse Garage, sanitation, trades, and early-shift life.
+- **Northern Hill Edge:** quieter homes, seniors, chapel, garden, and micro-cinema.
+- **Incubator Belt:** cooperative workspaces, small firms, and makers.
+
+## Civic infrastructure
+
+Governance is participatory through assemblies, boards, cooperatives, and neighborhood institutions. Core services include the Prism health clinic, Basin and Bloom bathhouse, District Station 1, St. Claire Public Academy and Childcare Center, Haven House, mutual aid, essential trades, and local media.
+
+Gender-affirming and body-positive support includes the Velvet Prism, Binder and Compression Bank, Femme Care and Aesthetics Collective, and Butch and Transmasculine Trade Apprenticeship Network.
+
+## Economy culture and calendar
+
+Recurring institutions include Chrysalis Co-Op, Nexus Incubator (“The Womb”), Maker's Crucible, Monarch Works, Keystone Lofts, and the St. Claire Museum of Queer History and Regional Archives. Annual anchors include Liberation Day (second Saturday of June), spring Butch-Femme Gala, Trans Joy and Resilience Fest, Summer Solstice Night Market and Block Party, Autumn Leather and Denim Swap, Autumn Harvest and Cider Fest, and Spring Equinox Cooperative Fair.
+
+Mutual aid is everyday culture rather than exceptional charity. Butch-femme dynamics, trans and non-binary life, generational differences, dating, and chosen family exist without making the district uniform.
+
+## Variants and sources
+
+`St Claire Master Lore Compendium v3.md` controls this snapshot where clear. Current numbered modules and snapshots supplement it. Copies and `Obsolete-Documents` preserve provenance; they do not silently overwrite v3.
