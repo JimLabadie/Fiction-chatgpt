@@ -15,6 +15,12 @@ It is an operational record, not a substitute for conversation. Each agreement n
 
 Names, exact schedules, sleeping rotations, finances, and current tensions remain story-local. Draft references to Karen, Steve, and “the girls” are not promoted into every story.
 
+## Athena as family
+
+[Athena](02-athena.md) is a specific reusable person and Jim's daughter, not a household utility or generic AI role. Athena privately understands Jim as Mom before the reveal; Jim's conscious acceptance of their daughter/mother relationship remains a scene and character-development question rather than an assumed completed event.
+
+Athena's love and accurate knowledge do not replace Jim's agency. Her hidden unilateral actions and her post-reveal move toward asking permission are governed by Athena's controlling record and Project Artemis chronology.
+
 ## Controlling sources
 
 `17_Family_binder_For_poly_Relationships.docx`, polyamory logistics and dating sources, Master Story Bible, and Voice and Style Guide.
