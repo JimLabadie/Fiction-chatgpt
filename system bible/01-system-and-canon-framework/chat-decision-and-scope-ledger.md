@@ -166,4 +166,6 @@ Development sequence:
 3. publish and verify the completed bunker component in GitHub;
 4. then return to the checkpointed heavier discussion of sex, kink, other sensitive material, and why **Cigar** is important when interpreting those subjects.
 
+Interpretive checkpoint for that later discussion: Jim's **rant** is an intentionally absurd, exaggerated encoding of how he thought about the subject, written for laughter. Its underlying thought may matter, but its comic escalation is not a literal manifesto and must not be psychoanalyzed into one.
+
 Squirrel-protocol constraint: ChatGPT asks Jim how he wants to proceed at branch points. An authorized Rabbit Hole permits exploration; it does not transfer Jim's creative agency or authorize silent completion.
