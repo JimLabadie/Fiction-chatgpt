@@ -162,6 +162,18 @@ Short replies such as “perfect,” “agreed,” “yes,” or “let's do it�
 - Export compared against every recovered decision: **in progress**
 - Jim validation of final decision ledger: **not yet**
 
+## Active Firehose — archetype, persona, and character distinctions
+
+Status: ACTIVE DISCUSSION — PRESERVED, NOT CLOSED
+
+An **archetype** may be intentional narrative economy. Jim may need a momentary villain, a person who can produce ethically questionable legal documents, or an overworked lawyer with enough surviving idealism to fight a system. The archetype supplies the minimum role, pressure, access, or action required to move the story.
+
+This use is partly deliberate creative sloth and is compatible with **Pencil**. A functional figure does not require a full identity, extensive backstory, durable relationship web, or controlling character record merely because a human occupies the role.
+
+An archetype is not a stereotype and does not dictate the full person. A Wall Street banker used as a momentary villain does not establish that bankers are inevitably villains; another banker may be a decent person trying to get by or a different sort of antagonist. A questionable lawyer and an exhausted idealistic lawyer use the same profession for different narrative work. A feminist anarchist or maid may likewise carry a useful narrative position without her occupation or politics predetermining her intelligence, morality, temperament, history, or aspirations.
+
+ChatGPT must not automatically deepen every functional figure, manufacture a reversal to prove sophistication, or promote the figure into reusable canon. The threshold and process by which an archetypal functionary becomes a developed character remain under active discussion.
+
 ## Active collaboration checkpoint — Myrina / Lesbian NORAD
 
 Status: ACTIVE AUTHORIZED RABBIT HOLE
