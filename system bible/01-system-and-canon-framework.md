@@ -33,7 +33,7 @@ Meaningful conflicts are reported and logged. Detail, repetition, filenames, ass
 - [`voice-and-style.md`](01-system-and-canon-framework/voice-and-style.md) preserves the complete normalized Voice and Style Guide, including the agency, dignity, identity, anatomy, intimacy, and reclaimed-experience supplement.
 - [`ingestion-recovery-and-versioning.md`](01-system-and-canon-framework/ingestion-recovery-and-versioning.md) defines source registration, claim-level parsing, version comparison, preservation, completion criteria, recovery checks, and honest progress states.
 - [`templates-and-schemas.md`](01-system-and-canon-framework/templates-and-schemas.md) records the complete functional schemas of the Story Bible, Character Bible, Timeline, Current Story State, Ideas document, and World Lexicon.
-- [`legacy-protocols-and-conflicts.md`](01-system-and-canon-framework/legacy-protocols-and-conflicts.md) preserves and classifies the historical swap engines, protocol transcripts, rigid presentation world, sentient-AI prompt, prompt scraps, continuity scaffolding, lost-information guidance, and their conflicts.
+- [`legacy-protocols-and-conflicts.md`](01-system-and-canon-framework/legacy-protocols-and-conflicts.md) extracts reusable scope, state, pacing, boundary, naming, verification, and conflict-detection rules from older protocol experiments without importing their plots or characters.
 - [`source-coverage.md`](01-system-and-canon-framework/source-coverage.md) accounts for all 17 sources assigned by the original inventory and states what happened to each.
 
 ## Status discipline
@@ -54,4 +54,4 @@ Jim's archive may look chaotic because it survived repeated context loss and rec
 
 ## Current completion statement
 
-Module 01 is complete for the 17 sources assigned to it. That statement does not claim that story-specific mechanics or facts found inside those sources have already been reconstructed into modules 04, 12, 18, or a story-specific bible; the coverage ledger names those routes explicitly.
+Module 01 is complete for the reusable governance content in its 17 assigned sources. Plot, character, setting, and event information is excluded. Specialized reusable material is routed to its appropriate System Bible domain, as recorded in the coverage ledger.
