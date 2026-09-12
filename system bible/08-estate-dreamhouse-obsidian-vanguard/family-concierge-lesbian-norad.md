@@ -1,24 +1,24 @@
-# Family Concierge Department — Lesbian NORAD
+# Family Concierge Department — Myrina / Lesbian NORAD
 
-Status: ACCEPTED REUSABLE COMPONENT; GREEK CO-NAME UNRESOLVED
+Status: ACCEPTED REUSABLE COMPONENT
 Authority: JIM-APPROVED RECOVERED FRAMEWORK STATE
 Recovered: 2026-09-12 from a later unsaved chat discussion
 
 ## Identity
 
-The family has a dedicated concierge and logistical command department.
+The family has a dedicated concierge and logistical command department called **Myrina** or **Lesbian NORAD**.
 
-Its established name is **Lesbian NORAD**. This is not merely an out-of-world joke or development shorthand. It is an actual name used for the department.
+Its established interchangeable names are **Myrina** and **Lesbian NORAD**. Lesbian NORAD is not merely an out-of-world joke or development shorthand. Myrina is not a formal name used to conceal an embarrassing nickname. Both are actual names for the department and may be used naturally by family, staff, and narration.
 
-Lesbian NORAD will also receive a Greek mythological woman's name. The two names will be used interchangeably rather than treating one as the official name and the other as a hidden or embarrassing nickname.
-
-The Greek name must trace to function, following the wider naming method:
+The Greek name follows the wider function-derived naming method:
 
 - Mnemosyne relates to memory.
 - CLIO/Clio relates to history and record.
-- The concierge department's eventual Greek woman must express what the organization actually is.
+- Myrina expresses Amazon command, military coordination, capable women in important commands, and the department's relationship to Lesbos.
 
-The precise Greek woman has not yet been selected.
+Myrina was surfaced from Jim's own `Greek Women in Mythology Table`, where she appears as an Amazon queen associated with the conquest of Libya. Follow-up review of the Diodorus tradition supplied the decisive functional fit: Myrina assembles and commands a large coordinated force, negotiates alliances, selects sites and founds cities, names cities after women holding important commands, takes Lesbos, and founds Mytilene with a name honoring her sister.
+
+This selection demonstrates both source recovery and collaboration: Jim's prior rabbit-hole list successfully surfaced the woman, while discussion and focused research established why she belongs.
 
 ## Physical concept
 
@@ -56,6 +56,13 @@ The humor comes from institutional seriousness applied to disproportionate famil
 
 The staff are in on the identity. The joke does not diminish them.
 
+## Naming provenance
+
+- Project source: `Systemwide/Source/Readable-Sources/S07 - Greek Women in Mythology Table.md`
+- Selection discussion: 2026-09-12 collaboration on the Amazonian identity of Lesbian NORAD
+- Supporting ancient-tradition recovery: Diodorus Siculus, `Library of History`, Book 3, Myrina/Amazon campaign account
+- Decision: Jim accepted **Myrina** as the interchangeable Greek name on 2026-09-12
+
 ## Scope boundaries
 
 Established:
@@ -65,12 +72,11 @@ Established:
 - actual military-bunker operating location;
 - family whims treated with military precision;
 - staff culture of respected, ruthless dedication and efficiency;
-- future function-derived Greek mythological woman's co-name;
-- interchangeable use of the two names.
+- Myrina as the function-derived Greek woman's name;
+- interchangeable use of Myrina and Lesbian NORAD.
 
 Unresolved:
 
-- selected Greek woman and exact spelling/styling;
 - bunker location and origin;
 - reporting relationship to Athena, Estate operations, Wealth Management, aviation, fleet, property, or household staff;
 - staffing structure and named personnel;
