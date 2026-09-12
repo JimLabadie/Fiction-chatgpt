@@ -1,41 +1,37 @@
-# Biotech, Prosthetics & Advanced Technology
+# Biotech Prosthetics and Advanced Technology
 
-Status: BASELINE-INVENTORY
-Authority: NOT-YET-CANON
-Purpose: Preserve speculative biotech, prosthetics, cybernetics, living materials, automated beauty and related advanced-technology systems.
+Status: RECONSTRUCTED TECHNOLOGY INDEX
+Authority: SHARED-WORLD TECHNICAL CANON
 
-## Scope
-- Cassandra Labs
-- OAM selection
-- Custom prosthetics
-- Cybernetic / anatomical replacement
-- Evergreen Biofoundry
-- Living fabric
-- Presentation technology
-- Automated beauty systems
+## Cassandra Labs
 
-## Source families to ingest
-- cassandra_labs_draft*.md
-- oam-selection-draft*.md
-- Custom prosthetics plan.docx
-- Custom prosthetics plan - old*.docx
-- Advanced Cybernetic Integration & Anatomical Replacement Manifest*.docx
-- evergreen-biofoundry.md
-- living-fabric-product-guide.md
-- presentation-technology.md
-- asset-tag-product-guide.md
-- tailoring-kiosk-product-guide.md
-- the automated beauty company (1).docx
-- the Salon machine (1).docx
-- ok this is science fiction lets make it an hour f.._.docx
+Cassandra Labs is Whitfield Holdings' prototype and patent-development arm. Jim's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity.
 
-## Required reconstruction sections
-1. Organization / technology index
-2. Prosthetics
-3. Cybernetics / anatomy
-4. Biofabrication
-5. Living materials
-6. Presentation / tailoring technology
-7. Beauty automation
-8. Constraints and speculative biology
-9. Conflicts / provenance
+The core team is Dr. Élodie Marchetti (director/robotics), Dr. Mireille Okafor (materials), Dr. Solenne Vasquez (biotech), Ingrid Dahl (mechatronics), June Reyes (chemistry), Kasey Lindqvist (mechanical engineering), Bex Okonkwo-Hart (electronics), and Frankie Petrakis (assembly/general mechanics).
+
+The lab supports machining, woodworking, composites, automated finishing, additive manufacturing, electronics/PCB work, textile prototyping, patent photography, and metrology. Its estate building is separate new construction.
+
+## Technology families
+
+- **Neo Anatomical Systems:** anatomical replacement, augmentation, prosthetics, biological integration, cybernetic control, sensation, maintenance, and possible reproductive functions. Each function is separately specified.
+- **OAM:** automated preview, hair, cosmetics, fragrance, piercing, tattoo, and other presentation systems.
+- **Threadbourne Robotics:** automated wardrobe, retrieval, dressing, tailoring, and apparel manufacturing. Living Fabric includes self-repairing fiber, climate-responsive weave, and stretch-adaptive membrane.
+- **Evergreen Biofoundry:** Perennial permanent hair restoration, Genesis lab-grown gems/materials, and Traceroot sourcing verification.
+
+Evergreen's working combined valuation is about $15B with projected post-launch revenue around $6M/day. These are model figures, not scientific rules.
+
+## Technical guardrails
+
+- Preview is not execution.
+- Reversible cosmetic work is not permanent biology.
+- Prosthetic, cybernetic, and biological functions are separate.
+- Physical capability does not grant knowledge, skill, identity, or consent.
+- Record operator, subject, selected configuration, start state, result, reversibility, maintenance, complications, and access control.
+- Medical or intimate functions require explicit adult informed choice.
+- Story-local activations are not shared-world defaults.
+
+Commercial facilities cluster in Jamestown. Cassandra also has the estate R&D building; Innovation Showroom demonstrates systems. Residential AWS is restricted to the Anchor and Partner Dressing Rooms. Traceroot is primarily supply-chain infrastructure.
+
+## Controlling sources
+
+Cassandra Labs draft, presentation technology, Evergreen Biofoundry, Living Fabric, apparel manufacturing, and anatomical/prosthetic manifests.
