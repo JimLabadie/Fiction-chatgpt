@@ -3,7 +3,9 @@
 Status: COMPLETE FOR ASSIGNED MODULE 01 SOURCES
 Authority: ACTIVE PROJECT GOVERNANCE
 
-This module governs canon authority, source status, continuity, writing practice, state tracking, ingestion, recovery, and version handling across Jim the Saga. It does not own substantive setting, company, technology, character, or transformation facts that belong to another module.
+This repository is a reusable library of settings, characters, organizations, assets, cultures, technologies, mechanics, and writing systems that may be used in any story Jim creates in ChatGPT. A story selects the modules it needs; inclusion in the repository does not make every module active in every story.
+
+This module governs canon authority, source status, continuity, writing practice, state tracking, ingestion, recovery, and version handling across that library. It does not own substantive setting, company, technology, character, or transformation facts that belong to another reusable module.
 
 ## Governing hierarchy
 
@@ -25,6 +27,12 @@ Meaningful conflicts are reported and logged. Detail, repetition, filenames, ass
 - Love can challenge; love does not exploit.
 - Intimacy is consensual.
 - Character growth belongs to the character.
+
+## Repository inclusion rule
+
+Reusable material belongs even when it is highly specific. Named people, detailed biographies, buildings, companies, histories, inventories, institutions, and social structures remain in the library when they are intended to recur or be available across stories. The test is intended cross-story reuse, not whether the material resembles story content.
+
+One story's use of a reusable element creates story-local state without rewriting the reusable baseline. Events, current relationships, temporary emotions, clothing, locations, knowledge, injuries, and choices from that story stay in its own records unless Jim deliberately promotes a development into the shared module.
 
 ## Module files
 
@@ -54,4 +62,4 @@ Jim's archive may look chaotic because it survived repeated context loss and rec
 
 ## Current completion statement
 
-Module 01 is complete for the reusable governance content in its 17 assigned sources. Plot, character, setting, and event information is excluded. Specialized reusable material is routed to its appropriate System Bible domain, as recorded in the coverage ledger.
+Module 01 is complete for the reusable governance content in its 17 assigned sources. Reusable characters, settings, organizations, assets, and mechanics are routed to their appropriate System Bible domains. Only material confined to one story's runtime state is excluded from the reusable baseline.
