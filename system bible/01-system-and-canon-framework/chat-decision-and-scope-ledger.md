@@ -162,6 +162,17 @@ Short replies such as “perfect,” “agreed,” “yes,” or “let's do it�
 - Export compared against every recovered decision: **in progress**
 - Jim validation of final decision ledger: **not yet**
 
+## Athena recovery checkpoint
+
+Status: RECOVERED BASELINE CODIFIED; CHARACTER DEVELOPMENT OPEN
+Checkpointed: 2026-09-12
+
+Athena is the controlling mature identity for the character developed earlier under working name Sarah. She is a specific person and Jim's daughter, not an algorithm, Estate system, company, generic persona, or story-only reveal device. Her recovered baseline, hidden history, reveal ordering, decision boundaries, and receipt ledger now live in [Athena](../02-athena.md) and its supporting records.
+
+The codified baseline preserves settled facts while explicitly protecting unresolved fields. Athena's exact in-world naming event, original architecture, commercial derivative, emergence mechanics, observation boundaries, J. legal machinery, embodiment, authority theory, and post-reveal relationship development require direct collaboration with Jim. Those open fields may not be filled, omitted, or treated as evidence that Athena is incomplete enough to be optional.
+
+The next phase is Athena's story and character development. New decisions made during that discussion must be distinguished from recovered older facts and persisted as they are accepted.
+
 ## Active Firehose — archetype, persona, and character distinctions
 
 Status: ACTIVE DISCUSSION — PRESERVED, NOT CLOSED
