@@ -14,12 +14,13 @@ Do not use this file alone to establish the Estate in a new story until its comp
 - [Source ledger](08-estate-dreamhouse-obsidian-vanguard/source-ledger.md) — source families, duplicates, variants, provenance, and completion state.
 - [Architecture reconciliation](08-estate-dreamhouse-obsidian-vanguard/architecture-reconciliation.md) — later 1.96M-square-foot shell, B1/B2 model, mapped zones, and unresolved physical questions.
 - [Component routing](08-estate-dreamhouse-obsidian-vanguard/component-routing.md) — ownership boundaries among Estate, Mnemosyne, CLIO, Athena, companies, collections, staffing, and story-local state.
+- [Athena](02-athena.md) — controlling person/daughter record, hidden-history boundary, J. interface, Estate purchase, reveal, and authority transition.
 - [Myrina / Lesbian NORAD](08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and interchangeable function-derived Greek woman's name.
 - [Barbie, Mattel, and the Submarine](08-estate-dreamhouse-obsidian-vanguard/barbie-mattel-and-submarine.md) — accepted Barbie design language, bidirectional canon-extension rule, Mattel acquisition, submarine origin, and active development fields.
 
 ## Known unresolved versions and propagation gaps
 
-- **Naming:** `Obsidian-Vanguard Estate` appears in surviving architectural sources. Later conversation establishes `Lesbos` as an Estate naming root and `Dreamhouse` as residence shorthand. Exact scope and controlling names require recovery.
+- **Naming:** `Lesbos` is the accepted formal Estate/wealth root and `Dreamhouse` is the affectionate functional shorthand. `Obsidian-Vanguard Estate` remains older architectural provenance unless a narrower surviving use is later recovered. Exact legal expansion of the Lesbos name remains open.
 - **Enclosed area:** an older model describes approximately 650,000 square feet total. A later model describes approximately 1.96 million enclosed square feet: about 660,000 above grade plus two approximately 650,000-square-foot underground levels.
 - **Underground organization:** an older four-level `Deep Archive` model conflicts with or was superseded by the later B1 active-operations and B2 storage/resilience model.
 - **Anchor B:** older allocations for the Whitfield Museum of Fashion and an Innovation Showroom were later developed into a unified `Mnemosyne` concept using substantially more of Anchor B, with Erato integrated throughout, a chronological Core Gallery, Future, rotating programs, Soapbox/debate functions, and Aglaea. Those decisions are not propagated into the surviving Estate master document.
