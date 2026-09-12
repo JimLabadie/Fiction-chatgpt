@@ -14,6 +14,7 @@ Do not use this file alone to establish the Estate in a new story until its comp
 - [Source ledger](08-estate-dreamhouse-obsidian-vanguard/source-ledger.md) — source families, duplicates, variants, provenance, and completion state.
 - [Architecture reconciliation](08-estate-dreamhouse-obsidian-vanguard/architecture-reconciliation.md) — later 1.96M-square-foot shell, B1/B2 model, mapped zones, and unresolved physical questions.
 - [Component routing](08-estate-dreamhouse-obsidian-vanguard/component-routing.md) — ownership boundaries among Estate, Mnemosyne, CLIO, Athena, companies, collections, staffing, and story-local state.
+- [Family Concierge / Lesbian NORAD](08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and pending function-derived Greek woman's co-name.
 
 ## Known unresolved versions and propagation gaps
 
@@ -22,7 +23,7 @@ Do not use this file alone to establish the Estate in a new story until its comp
 - **Underground organization:** an older four-level `Deep Archive` model conflicts with or was superseded by the later B1 active-operations and B2 storage/resilience model.
 - **Anchor B:** older allocations for the Whitfield Museum of Fashion and an Innovation Showroom were later developed into a unified `Mnemosyne` concept using substantially more of Anchor B, with Erato integrated throughout, a chronological Core Gallery, Future, rotating programs, Soapbox/debate functions, and Aglaea. Those decisions are not propagated into the surviving Estate master document.
 - **Wardrobe system:** later development includes the WIS-to-CLIO rename and clarified tablet and reciprocal partner-access behavior not represented here.
-- **Barbie/Dreamhouse origin:** the architecture survives in the Estate document, but the later recovered causal history—Jim's Christmas-season Barbie-commercial question, the mall rabbit hole, and Athena's purchase/conversion—does not.
+- **Barbie/Dreamhouse origin:** the later causal history—Jim's Christmas-season Barbie-commercial question, the mall rabbit hole, Athena's purchase/conversion, and its reveal function—has been recovered into the architecture and routing records; full event-sequence reconstruction remains.
 - **Collections and Footwear Vault:** later unified collection, display, use, and Aglaea relationships require reconciliation with older vault and archive descriptions.
 
 These items are conflicts or recovery leads, not silently resolved canon.
