@@ -30,6 +30,12 @@ A fact binding only in the named story. Character names, current relationships, 
 
 A reusable fact within a domain such as St. Claire, the estate, transformation mechanics, or the fashion empire. Shared-world canon does not dictate that every story uses the module. A story that invokes a module inherits it unless the story explicitly establishes a local exception.
 
+Shared-world canon may include named characters and exact detail. A recurring resident, founder, employee, artist, institution, building, company, object, or historical event belongs in its reusable module when Jim intends it to be available across stories.
+
+### Optional reusable module
+
+A self-contained package available to any ChatGPT story but inactive until selected. A module may contain a fixed setting, named cast, organizations, assets, technology, culture, and history. Selecting the module imports its reusable baseline, not the accumulated events of another story that previously used it.
+
 ### Candidate canon
 
 A supported addition awaiting explicit acceptance. Candidate status must identify its source and intended scope. Repetition by assistants does not promote it.
@@ -86,6 +92,18 @@ If a source is internally contradictory, preserve both clauses and flag the conf
 - Current Story State owns immediate continuation state.
 - Historical Recovery owns evidence and decision history, not current truth.
 - Ideas owns brainstorming and rejected alternatives.
+
+## Repository classification test
+
+Classify by intended scope rather than content type:
+
+- If Jim intends an element to be available to multiple stories, it belongs in the reusable library.
+- If the same named person or place persists across stories, its stable baseline belongs in the owning module.
+- If a fact describes what happened only in one story, it belongs in that story's records.
+- If a story produces a development that should permanently change the reusable baseline, it requires explicit promotion.
+- If intent is unclear, classify it as `UNRESOLVED SCOPE — JIM DECISION REQUIRED`; do not discard, generalize, or silently relocate it.
+
+Do not replace specific reusable lore with generalized templates. Specificity is often the value of the library.
 
 ## Current project governing principles
 
