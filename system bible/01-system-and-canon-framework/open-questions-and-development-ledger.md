@@ -32,7 +32,7 @@ No assistant may call a pin persisted merely because the relevant conversation i
 |---:|---|---|---|---|
 | 1 | Persistence failure and historical pin backfill | Jim's no-chat-only requirement was violated; this ledger did not exist; multiple discussions were summarized or routed without substantive destination files | Audit the archived and recoverable ChatGPT conversation specifically for every deferral, promised return, promised read/ingestion, and unsupported completion claim; add each verified item here and connect it to its substantive destination | This ledger and the persistence-failure record establish the repair; historical backfill remains in progress |
 | 2 | Sensitive-topic foundation | Intimacy/kink and power/agency/Hestia are codified. Athena's privacy/access discussion occurred next and was left in chat until the present repair | Resume with Jim after confirming the privacy record below; identify the next sensitive topic collaboratively rather than inventing the remainder | Intimacy and Hestia have controlling files; Athena privacy is restored by this repair |
-| 3 | Myrina / Lesbian NORAD bunker | Myrina is the family concierge organization; the glorious hardened-bunker rabbit hole is an accepted active development subject | Return to the bunker at its next undesigned operational/physical question after the sensitive-topic discussion | Existing controlling file: [`../08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md`](../08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) |
+| 3 | Myrina / Lesbian NORAD bunker | Myrina is the family concierge organization; the glorious hardened-bunker rabbit hole is an accepted active development subject | Return to the bunker at its next undesigned operational/physical question after the sensitive-topic discussion | Existing controlling file: [`../08-lesbos-estate-dreamhouse/family-concierge-lesbian-norad.md`](../08-lesbos-estate-dreamhouse/family-concierge-lesbian-norad.md) |
 
 The order above records the last explicit collaborative sequence. Jim may change it at any time.
 
@@ -75,15 +75,15 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Affected components:** Myrina, Estate architecture, family logistics, staffing, Barbie/submarine rabbit hole where relevant.
 - **Current durable state:** the organization and checkpoint exist; the return obligation previously did not.
 
-### PIN-005 — Estate canonical name conflicts with its repository identity
+### PIN-005 — RESOLVED: Estate canonical name conflicted with its repository identity
 
 - **Source:** Jim's direct inspection of the repository on 2026-09-13; `system bible/08-estate-dreamhouse-obsidian-vanguard.md` and its child directory.
-- **Current understanding:** `Lesbos` is the accepted formal Estate/wealth root and `Dreamhouse` is the affectionate shorthand. `Obsidian-Vanguard` is older AI-generated architectural provenance unless a narrower use is later established.
+- **Current understanding:** `Lesbos` is the accepted formal Estate/wealth root and `Dreamhouse` is the affectionate shorthand. `Obsidian-Vanguard` is older AI-generated architectural provenance only, not an alias or possible current name.
 - **Integrity defect:** the supposed Estate entry says that distinction inside the text but retains `Obsidian-Vanguard` in its title, filename, directory name, and incoming links. It is also marked as a non-controlling recovery draft while controlling records link to it as the Estate destination.
 - **Why it matters:** obsolete provenance is presented as current repository identity, so a human or cold-start model encounters a contradiction before reaching the warning text.
-- **Exact return point:** decide and implement the canonical Lesbos/Dreamhouse path and title; move or preserve Obsidian-Vanguard only in provenance/recovery history; update all incoming links atomically.
+- **Required correction:** implement the canonical Lesbos/Dreamhouse path and title; preserve Obsidian-Vanguard only in provenance/recovery history; update all incoming links atomically.
 - **Affected components:** Estate, Athena, Lesbos Holdings/wealth, Myrina, Barbie/Mattel/submarine, all Estate child records.
-- **Current durable state:** naming truth exists in text, but repository naming and authority architecture contradict it.
+- **Resolution:** the canon-facing file and child directory are renamed for the **Lesbos Estate / Dreamhouse**; earlier AI-generated naming is removed from current Estate identity and retained only in source/recovery evidence; recovery-only Estate records move to `Systemwide/Recovery/Estate`; incoming canon links are updated. Closure requires fetched-commit verification.
 
 ### PIN-006 — RESOLVED: Athena ontology was reversed during recovery
 
@@ -95,7 +95,7 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Affected components:** Athena, Lesbos Holdings, Asteria Intelligence, Fashion Empire, recovery/source classification.
 - **Current durable state:** correction in progress; closure requires repository-wide search and fetched-commit verification.
 
-### PIN-007 — Operating canon and source provenance are insufficiently separated
+### PIN-007 — RESOLVED AT CURRENT BOUNDARY: Operating canon and source provenance were insufficiently separated
 
 - **Source:** repository link and path audit prompted by Jim on 2026-09-13.
 - **Current understanding:** controlling components should tell a cold-start what is true. Recovery records should preserve how that conclusion was reached. Raw sources must remain available as evidence without competing with current canon.
@@ -103,7 +103,7 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Why it matters:** following provenance can lead a reader or model directly into obsolete, contradictory, story-contaminated, or assistant-generated source material and recreate drift.
 - **Exact return point:** establish the allowed link direction and repository interface: controlling canon may link to other controlling canon; recovery metadata may link to sources; canon-facing indexes must not present recovery drafts as authoritative destinations. Then audit and correct all violating links and embedded source lists.
 - **Affected components:** System and Canon Framework, every System Bible module, Systemwide source archive, audit and recovery ledgers.
-- **Current durable state:** direct raw-source hyperlinks were not found, but evidence/canon separation remains structurally inadequate.
+- **Resolution:** raw-source paths and research lists are removed from the canon-facing System Bible; Estate recovery-only documents move to `Systemwide/Recovery/Estate`; the recovery tree now states its non-canon authority and allowed link direction; canon-facing Estate records state accepted material directly and link to controlling components. Closure requires fetched-commit verification and future audits must enforce the same boundary repository-wide.
 
 ## Known recovery backlog — not falsely labeled historical pins
 

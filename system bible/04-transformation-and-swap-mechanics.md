@@ -20,7 +20,7 @@ Memory alteration is not prohibited. Memory, personality, knowledge, skill, habi
 
 The preserved Change Worldbuilding Toolkit is much larger than this summary. Its `.skill` package alone contains eleven files: the skill instructions, master index, rules ledger, identity/memory continuity tracker, social/legal/institutional response, physiological/sensory adaptation log, digital-life mechanics, perceived-gender mechanics, mental-trait taxonomy, lived-competency bank, and shower-routine addendum. Loose files preserve multiple master-index, rules-ledger, competency-bank, perceptual, digital-life, family/polycule, matrix, and update-note variants.
 
-Until those sources are compared and propagated, this file is a route into the domain, not a reconstructed ledger. The [repository component register](../Systemwide/Audit/component-coverage-register.md) tracks the gap.
+Until those sources are compared and propagated, this file is a route into the domain, not a reconstructed ledger. Recovery metadata tracks the gap outside the canon-facing tree.
 
 ## Required instance record
 

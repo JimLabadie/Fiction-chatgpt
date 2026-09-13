@@ -125,7 +125,7 @@ These are linked actions, not permission to attribute every unexplained asset or
 
 - **Lesbos** is the intended formal root for the Estate and related wealth architecture.
 - **Dreamhouse** is the persistent affectionate and functional shorthand.
-- Older Obsidian-Vanguard naming remains source provenance and architectural-development history unless a separate reconciliation preserves some narrower use.
+- Earlier AI-generated Estate names survive only in recovery evidence. They are not current aliases or competing canon.
 
 Athena purchased the former mall because Jim, after seeing a Christmas Barbie advertisement while watching an outrageous-homes program, asked where Barbie would live with unlimited resources and concluded: **a mall**.
 
@@ -202,12 +202,10 @@ Unknown fields are preserved work, not permission to omit Athena and not permiss
 - [Hidden history and reveal](02-athena/hidden-history-and-reveal.md)
 - [Decision and receipt ledger](02-athena/decision-and-receipt-ledger.md)
 - [Relationships, family, and polycule](03-relationships-family-and-polycule.md)
-- [Estate / Dreamhouse](08-estate-dreamhouse-obsidian-vanguard.md)
+- [Lesbos Estate / Dreamhouse](08-lesbos-estate-dreamhouse.md)
 - [Fashion empire](12-fashion-empire-and-commercial-fashion.md)
 - [Lesbos Holdings and wealth infrastructure](13-lesbos-holdings-and-wealth.md)
 - [Advanced technology](16-biotech-prosthetics-and-advanced-technology.md)
-- [Decision and scope ledger](01-system-and-canon-framework/chat-decision-and-scope-ledger.md)
-- [Unauthorized-descoping audit](01-system-and-canon-framework/unauthorized-descoping-audit.md)
 
 ## Principal recovered sources
 

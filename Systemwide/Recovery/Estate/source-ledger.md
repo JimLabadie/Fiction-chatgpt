@@ -3,6 +3,16 @@
 Status: IN PROGRESS
 Authority: RECOVERY METADATA AND PROVENANCE; NOT CANON
 
+Canon-facing destination: `system bible/08-lesbos-estate-dreamhouse.md`
+
+This recovery record may identify and compare raw sources. Canon-facing Estate records must not link readers back into this evidence as though it were current authority.
+
+## Supporting naming and design sources
+
+- The historical Barbie/Dreamhouse research corpus and the archived conversation pages that established the mall translation, Lesbos/Dreamhouse naming, Mattel acquisition, and submarine branch.
+- The Greek-women research and Myrina/Amazon tradition used during the 2026-09-12 naming discussion.
+- The earlier AI-generated Estate naming and architecture family preserved below.
+
 This ledger accounts for the Estate source family and records version relationships, mixed scope, and recovered decisions. It does not resolve a conflict merely because one file is longer, newer-looking, or more polished.
 
 ## Core recovery finding

@@ -57,5 +57,4 @@ Exact valuations, ownership percentages, and the later diversified Hat Fund belo
 - [Athena](02-athena.md)
 - [Commercial Ramp, Lesbos, and Danielle](02-athena/commercial-ramp-lesbos-and-danielle.md)
 - [Fashion Empire and Commercial Fashion](12-fashion-empire-and-commercial-fashion.md)
-- [Estate / Dreamhouse](08-estate-dreamhouse-obsidian-vanguard.md)
-
+- [Lesbos Estate / Dreamhouse](08-lesbos-estate-dreamhouse.md)

@@ -58,12 +58,9 @@ The humor comes from institutional seriousness applied to disproportionate famil
 
 The staff are in on the identity. The joke does not diminish them.
 
-## Naming provenance
+## Naming decision
 
-- Project source: `Systemwide/Source/Readable-Sources/S07 - Greek Women in Mythology Table.md`
-- Selection discussion: 2026-09-12 collaboration on the Amazonian identity of Lesbian NORAD
-- Supporting ancient-tradition recovery: Diodorus Siculus, `Library of History`, Book 3, Myrina/Amazon campaign account
-- Decision: Jim accepted **Myrina** as the interchangeable Greek name on 2026-09-12
+Jim accepted **Myrina** as the interchangeable Greek name for Lesbian NORAD during the 2026-09-12 collaboration. Source genealogy and research citations belong in recovery metadata rather than this controlling component.
 
 ## Scope boundaries
 

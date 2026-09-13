@@ -176,25 +176,6 @@ Barbie/Mattel, the Dreamhouse, Athena, the family holdings, and any full-scale v
 
 Owning Mattel does not automatically make every Mattel brand an Estate feature. Releasing a Barbie product does not automatically create a full-scale family asset. Each relationship should be explicit.
 
-## Source and authority notes
-
-The historical Barbie research corpus includes:
-
-- `Systemwide/Source/Original-Documents/barbies dreamhouses.docx`
-- `Systemwide/Source/Original-Documents/barbies dreamhouses (2).docx`
-- `Systemwide/Source/Original-Documents/barbies houises and vehicles.docx`
-- `Systemwide/Source/Original-Documents/barbie vehicles summary.docx`
-
-These sources provide historical research, categories, features, and possible analogues. They do not prove that every researched object is owned, implemented, or current canon. Some factual claims may require verification before exact historical details are relied upon.
-
-Recovered conversation evidence includes:
-
-- `Systemwide/Source/conversations/page-008.json` — opening the larger Barbie research corpus;
-- `Systemwide/Source/conversations/page-007.json` — full-scale functional translation, the mall premise, Athena's purchase, reveal function, and Lesbos/Dreamhouse naming;
-- `Systemwide/Source/conversations/page-006.json` — vehicle audit ordering and the unfinished Barbie aviation branch.
-
-The Mattel/submarine extension is a direct Jim decision from the 2026-09-12 recovery discussion and outranks earlier silence in the source corpus.
-
 ## Open development fields
 
 The following are active discussion obligations, not omissions to be filled by assistant invention:

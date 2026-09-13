@@ -2,7 +2,7 @@
 
 Status: IN PROGRESS — DIRECT USER STATEMENTS REVIEWED
 Authority: RECOVERY LEDGER; JIM'S STATEMENTS AND CORRECTIONS CONTROL
-Source: `Systemwide/Source/conversations/page-001.json` through `page-026.json`
+Source: preserved 26-page `Persist Story Bibles` conversation archive
 Reading order: page 026 (oldest) through page 001 (newest)
 
 ## Why the chat exists

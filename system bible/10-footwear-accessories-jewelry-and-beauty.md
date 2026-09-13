@@ -7,7 +7,7 @@ This module owns physical objects, storage, collection state, grooming services,
 
 ## Footwear Vault
 
-At Obsidian-Vanguard, the Footwear Vault shares a biometric vault with fine jewelry inside the Anchor Dressing Room and is keyed to the anchor. Its museum-grade core contains twenty named collector pieces valued at roughly $82 million. Leading pieces include Antonio Vietri Moon Star Shoes ($19.9M), Jada Dubai Passion Diamond Shoes ($17M), Debbie Wingham High Heels ($15.1M), Jada Dubai diamond stilettos ($12.8M), Harry Winston Ruby Slippers ($3M), and multiple Stuart Weitzman collector designs.
+At the Lesbos Estate / Dreamhouse, the Footwear Vault shares a biometric vault with fine jewelry inside the Anchor Dressing Room and is keyed to the anchor. Its museum-grade core contains twenty named collector pieces valued at roughly $82 million. Leading pieces include Antonio Vietri Moon Star Shoes ($19.9M), Jada Dubai Passion Diamond Shoes ($17M), Debbie Wingham High Heels ($15.1M), Jada Dubai diamond stilettos ($12.8M), Harry Winston Ruby Slippers ($3M), and multiple Stuart Weitzman collector designs.
 
 Museum value does not imply routine wear. The registry tracks identity, designer, category, size/fit, material, color, acquisition state, location, value basis, wearability, conservation needs, and story appearances. Duplicate CSV registries require row-level reconciliation before totals become final.
 

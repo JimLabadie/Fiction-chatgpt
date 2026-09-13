@@ -3,7 +3,6 @@
 Status: ACTIVE PROJECT GOVERNANCE
 Authority: JIM-APPROVED WORLD-LEVEL BASELINE
 Approved: 2026-09-12
-Primary provenance: `Systemwide/Source/Original-Documents/St Claire 00 Concept.md`
 Scope decision: Jim confirmed that the principles below are generally universal truths of the fiction framework. St. Claire-specific expressions remain scoped to St. Claire.
 
 ## Purpose of this baseline

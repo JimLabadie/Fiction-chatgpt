@@ -1,7 +1,13 @@
-# Estate / Dreamhouse / Obsidian-Vanguard Source Cluster
+# Lesbos Estate / Dreamhouse
 
-Status: RECONSTRUCTED PENDING VERIFICATION
-Authority: RECOVERY DRAFT; NOT YET CONTROLLING SHARED-ASSET CANON
+Status: IN PROGRESS — IDENTITY CANON; ARCHITECTURE AND CONTENT UNDER RECOVERY
+Authority: CONTROLLING ESTATE NAME AND SHARED-ASSET IDENTITY; OTHER FIELDS CONTROL ONLY WHERE EXPLICITLY MARKED
+
+## Canonical identity
+
+**Lesbos** is the Estate's accepted formal root. **Dreamhouse** is its affectionate and functional shorthand. The exact longer legal form of the Lesbos name remains open.
+
+Earlier AI-generated names are source provenance only. They are not current names, aliases, or competing canon and do not belong in the Estate's canon-facing title, filename, or directory identity.
 
 ## Recovery warning
 
@@ -9,18 +15,17 @@ This file is a preliminary synthesis from a limited Estate source set. It is **n
 
 Do not use this file alone to establish the Estate in a new story until its complete source family has been inventoried and reconciled.
 
-## Recovery work
+## Canon-facing components
 
-- [Source ledger](08-estate-dreamhouse-obsidian-vanguard/source-ledger.md) — source families, duplicates, variants, provenance, and completion state.
-- [Architecture reconciliation](08-estate-dreamhouse-obsidian-vanguard/architecture-reconciliation.md) — later 1.96M-square-foot shell, B1/B2 model, mapped zones, and unresolved physical questions.
-- [Component routing](08-estate-dreamhouse-obsidian-vanguard/component-routing.md) — ownership boundaries among Estate, Mnemosyne, CLIO, Athena, companies, collections, staffing, and story-local state.
 - [Athena](02-athena.md) — controlling sentient-AI/daughter record, hidden-history boundary, J. interface, Estate purchase, reveal, and authority transition.
-- [Myrina / Lesbian NORAD](08-estate-dreamhouse-obsidian-vanguard/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and interchangeable function-derived Greek woman's name.
-- [Barbie, Mattel, and the Submarine](08-estate-dreamhouse-obsidian-vanguard/barbie-mattel-and-submarine.md) — accepted Barbie design language, bidirectional canon-extension rule, Mattel acquisition, submarine origin, and active development fields.
+- [Myrina / Lesbian NORAD](08-lesbos-estate-dreamhouse/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and interchangeable function-derived Greek woman's name.
+- [Barbie, Mattel, and the Submarine](08-lesbos-estate-dreamhouse/barbie-mattel-and-submarine.md) — accepted Barbie design language, bidirectional canon-extension rule, Mattel acquisition, submarine origin, and active development fields.
+
+Source inventories, version comparisons, and recovery routing live outside the canon-facing System Bible tree. They preserve evidence but do not compete with this record.
 
 ## Known unresolved versions and propagation gaps
 
-- **Naming:** `Lesbos` is the accepted formal Estate/wealth root and `Dreamhouse` is the affectionate functional shorthand. `Obsidian-Vanguard Estate` remains older architectural provenance unless a narrower surviving use is later recovered. Exact legal expansion of the Lesbos name remains open.
+- **Naming:** resolved at the current level: `Lesbos` is the accepted formal Estate root and `Dreamhouse` is the affectionate shorthand. Exact legal expansion remains open.
 - **Enclosed area:** an older model describes approximately 650,000 square feet total. A later model describes approximately 1.96 million enclosed square feet: about 660,000 above grade plus two approximately 650,000-square-foot underground levels.
 - **Underground organization:** an older four-level `Deep Archive` model conflicts with or was superseded by the later B1 active-operations and B2 storage/resilience model.
 - **Anchor B:** older allocations for the Whitfield Museum of Fashion and an Innovation Showroom were later developed into a unified `Mnemosyne` concept using substantially more of Anchor B, with Erato integrated throughout, a chronological Core Gallery, Future, rotating programs, Soapbox/debate functions, and Aglaea. Those decisions are not propagated into the surviving Estate master document.
@@ -74,26 +79,6 @@ They also describe an Anchor Dressing Room, a Partner Dressing Room, mannequins,
 The source family contains a holding-company fleet, household vehicles, aircraft, watercraft, recreation vehicles, staffing plans, staff housing, service infrastructure, and wealth-management functions. Ownership, component boundaries, story-local assignments, and the current controlling inventory remain unverified.
 
 The joke that the aesthetic “feminizes” people is not a real transformation mechanism. Staff are skilled people with private lives; a staffing plan does not imply that everyone works simultaneously.
-
-## Known Estate source family
-
-This list is a starting cluster, not a completed source ledger:
-
-- `The Estate.docx`
-- `obsidian-vanguard-estate-full-property-reference.md`
-- `Obsidian-Vanguard Estate_ Master Concept & Architecture.docx`
-- `The Obsidian-Vanguard Estate_ Master Concept & Architecture.docx`
-- `obsidian-vanguard-estate-master-plan.docx`
-- `obsidian-vanguard-estate-master-plan.md`
-- `claude report-obsidian-vanguard-estate-master-plan.md`
-- `claude report-obsidian-vanguard-estate-master-plan (1).md`
-- `Obsidian-vanguard-staffing-plan.md`
-- `claude report-obsidian-vanguard-staffing-plan.md`
-- `obsidian-vanguard-estate.skill`
-- `obsidian-vanguard-estate (2).skill`
-- `obsidian-vanguard-estate (3).skill`
-- relevant Estate decisions in `Systemwide/Source/conversations/page-001.json` through `page-026.json`
-- related residence, ensuite, kitchen, showroom, museum, collection, fleet, property, and wealth-management sources to be assigned after field review
 
 ## Completion requirements
 

@@ -1,7 +1,7 @@
 # Athena — Decision and Receipt Ledger
 
-Status: ACTIVE RECOVERY LEDGER
-Authority: CLAIM-LEVEL PROVENANCE AND RECONCILIATION RECORD
+Status: ACTIVE CONTROLLING LEDGER — OPEN FIELDS IDENTIFIED
+Authority: CONTROLLING ATHENA ACTION, AUTHORIZATION, AND RECEIPT STATE
 Parent: [Athena](../02-athena.md)
 
 This ledger prevents three recurring errors:
