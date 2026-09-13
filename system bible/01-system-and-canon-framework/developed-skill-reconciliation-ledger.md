@@ -102,6 +102,42 @@ Confirmed interpretive correction: the household-agreements material is a bank o
 
 Remaining System Bible work: reconcile property and finances, traditions, private space, conflict, guests, pets, technology, chores, household evolution, the rest of the integration spectrum, and any intimacy or consent rules not already controlled elsewhere. Distinguish useful prompts from actual framework rules, reconcile every promoted claim directly with PIN-008, and ask Jim wherever scope or meaning is unclear.
 
+#### Claim-level reconciliation checkpoint
+
+**Faithfully reflected in controlling records:**
+
+- the household is one polyamorous relationship and is monogamous as a unit;
+- no member independently pursues an outside romantic or sexual relationship;
+- any shared invitation requires fresh, genuine, unanimous consent from the entire relationship and the invited adult;
+- one no stops the invitation, and past consent creates no standing permission;
+- a shared encounter and lasting integration are distinct;
+- lasting integration is separate, uncommon, gradual, and unanimous;
+- an invited person's refusal must carry no romantic, employment, housing, financial, or institutional penalty; the Hestia Principle provides the stronger controlling protection;
+- partners remain individual people with their own boundaries, privacy, relationships, and agency.
+
+**Preserved as optional prompts rather than canon answers:**
+
+- sleeping arrangements, calendars, communication practices, contact information, appreciation practices, alone space, move-in and bathroom logistics, food and supplies;
+- incoming-property inventories, duplicate belongings, decoration, and unused prior residences;
+- holidays, birthdays, anniversaries, and special-occasion tracking;
+- budgeting, expense tracking, groceries, and financial planning;
+- conflict practices and possible mediation;
+- guest, overnight-guest, pet, technology, screen-time, chore, and cleaning practices;
+- children, parenting roles, births, departures, new members, and possible trial periods.
+
+The Markdown supplies questions for those subjects, not established answers. Their omission from prose canon is not permission to invent answers, and their presence in the skill is not proof that the family formalizes them.
+
+**Substantive source material not yet fully represented or approved:**
+
+- the stated reasons for a collective invitation: ordinary fun, shared affection, or a sincere desire to love and cherish someone, without treating the person as a rescue project, performance of generosity, or acquisition;
+- the idea that the invitation may be emotionally and romantically shared by the whole relationship rather than merely physical;
+- the claim that most invitations are self-contained shared nights and are not lesser because they do not lead to partnership;
+- the precise internal shape of the fourteen-person relationship. Existing wording names a transgender family anchor and thirteen partners but does not establish whether every member is romantically partnered with every other member, whether some bonds are non-romantic, or whether `anchor` implies hierarchy;
+- whether the Chief of Staff and Senior/Lead Hair Stylist examples are reusable framework patterns, story-specific examples, obsolete cross-links, or non-canon inspiration;
+- how the skill's story-agnostic/per-story framing should be reconciled with Jim's correction that `The Estate.docx` is Estate framework rather than story lore.
+
+These items require direct discussion. Do not infer, discard, or silently promote them.
+
 ### Wealth Management — 2 files
 
 1. `SKILL.md`
