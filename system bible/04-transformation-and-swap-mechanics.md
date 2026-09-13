@@ -1,6 +1,6 @@
 # Transformation and Swap Mechanics
 
-Status: RECONSTRUCTED RULE LEDGER
+Status: IN PROGRESS — THIN ROUTING SUMMARY; TOOLKIT RECONSTRUCTION REQUIRED
 Authority: SHARED-WORLD CANON WHEN AN INSTANCE INVOKES THE TOOLKIT
 
 ## Taxonomy
@@ -13,6 +13,14 @@ Authority: SHARED-WORLD CANON WHEN AN INSTANCE INVOKES THE TOOLKIT
 - **Perceptual change:** observers or records interpret a person differently.
 
 An active instance must name its type. Unspecified dimensions do not change.
+
+Memory alteration is not prohibited. Memory, personality, knowledge, skill, habit, desire, perception, digital history, social response, and legal/institutional state are independently selectable layers when a specific change or swap defines them. None changes merely because another layer changes.
+
+## Recovery correction
+
+The preserved Change Worldbuilding Toolkit is much larger than this summary. Its `.skill` package alone contains eleven files: the skill instructions, master index, rules ledger, identity/memory continuity tracker, social/legal/institutional response, physiological/sensory adaptation log, digital-life mechanics, perceived-gender mechanics, mental-trait taxonomy, lived-competency bank, and shower-routine addendum. Loose files preserve multiple master-index, rules-ledger, competency-bank, perceptual, digital-life, family/polycule, matrix, and update-note variants.
+
+Until those sources are compared and propagated, this file is a route into the domain, not a reconstructed ledger. The [repository component register](../Systemwide/Audit/component-coverage-register.md) tracks the gap.
 
 ## Required instance record
 

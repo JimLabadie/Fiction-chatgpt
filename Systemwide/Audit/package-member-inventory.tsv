@@ -1,0 +1,102 @@
+package_path	member_path	uncompressed_bytes	compressed_bytes	sha256	member_kind
+Systemwide/Source/Original-Documents/age-culture.skill	age-culture/SKILL.md	7839	3538	88e248d639a1c5290ae4013d97985d62288e66c89533a2aca4797da3c8996167	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/SKILL.md	7681	3248	06720f96090395a24c78aa3366e244b558055c963ae96bfd2d6b492559e58ebb	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/00-master-index.md	6637	2973	87ced9d434608cca64999abf2fa68f1877697bf8e0b14cd9a93994cd322f186c	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/01-swap-mechanics-rules-ledger.md	23067	8816	50c9cdc9f06c741bd1ff512c07ad4aa130f51f6d0e02c2dfa587f16b585b0797	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/02-identity-memory-continuity-tracker.md	3630	1757	e8bfbdf20f15b245d9ab8b0743e00523308d9c9ea34c136d2cbc896a3b9d3be4	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/03-social-legal-institutional-response.md	2713	1374	a9cc64e868cc480cd29663ba0415b88683e37584fb5d23ccf34c0057d7d9a9c9	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/04-physiological-sensory-adaptation-log.md	2807	1389	9f64d42c5a84f06988566b98cb22f4424028f9d0280ba7273ce84e9050526d44	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/digital-life-swap-mechanics.md	8570	3642	f1e846bd9d144f12bc31dc6bf3332529cd55c80ebe63f806e657a3d5d86584dd	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/perceived-gender-swap-mechanics.md	14276	5927	a96f7de67a6fb0a476d3611e5104ddf6fec1f72ea96994faf09837d5651921b2	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/reference-a-mental-trait-taxonomy.md	29086	11193	c58411885ccdf46c48081366fa6233c9eefe8c18afb5228d1f0633751a3d87eb	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/reference-b-lived-competency-bank.md	4245	2060	0c2364e5297b5a1c13bc7035495b221b9dfd7e3a039b0e8e4de9f0f457a73163	text
+Systemwide/Source/Original-Documents/change-worldbuilding-toolkit (1).skill	change-worldbuilding-toolkit/references/reference-b-shower-routine-addendum.md	4488	2130	061b6c256382f70a75ce681b80f097bcd878c9de09261e559b3f0a6817843cb6	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/SKILL.md	10987	4363	62bddbb3706cc64fd2b2a53d118cdab8d8d5423201c958d3dd0b071e3d573a18	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/oam-salon-manifest.md	7397	2890	58d28caa4b144bc0029042e5983b789316eed8f21ca0d39177450e993f97ba95	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/patron-model.md	5507	2618	9d131707149c706a6619e0cea6ac2a1c0ce9bb6dc75c0a58107a224af72befea	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/presentation-technology.md	24408	9642	f0fe93380e481ac53683c1b883575d8ff4f8b5f8293b917923d539d37624aa02	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/evergreen-gemstone-manifest.md	3405	1523	3251976853f158cf0ab247971ab84e1b7ed680ef3c8c37022b7e77c76877b68b	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/cassandra-labs.md	9812	4479	aef08d175157bb7645529ecfa30382f09c05918e125113ae913d75e91cfca8c8	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-aws-manifest.md	6294	2783	3b29676674e5551b2a8ac0940e911c8be23a8a08354f372b30df54707423e1f2	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/holdings-map.md	6918	3376	f565fc659feff8e31680205ab37128984637ab66d56b9596552ca65238a3e9d2	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/evergreen-hair-manifest.md	3321	1439	6dd72cd725442d7f2ea24f2e6ad685e57ff2abbca99ec22f47d7d6899df3349a	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/oam-piercing-manifest.md	6248	1600	ef0497b9eef1cb8ed9265d228159b1a980df78d365fc4957a1021d00ac872908	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-home-manifest.md	2927	1362	7d8783bcca7b48030e12644adc5cb1b3c987c19d1cfd77d27e30d2f38f49fbd0	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/athena-the-algorithm.md	8096	3511	e2903fce8fd953e6d9c24726742941f0536308ca40fa6004062b22dfa2af8717	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-robotics.md	11330	4638	76734eec0b51f13c591f3048bf64a6bb9fe75547aaf02de6b65385106322a347	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-living-fabric-manifest.md	2896	1395	25590ee7efc56b1847a90feb9da5262b98c35f97d5b6de2ece318b234e2059bf	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/evergreen-biofoundry.md	6177	2746	14aa6a8ffe369c358d7f7522dc8bbac25b4cab525b37e0f4e7bb62aae3c3ec74	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-tailoring-kiosk-manifest.md	2994	1362	3c3dcc2dd5d784697f89fcc581068737d8285d561acfb6e746a92650f9b2306f	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-apparel-manufacturing-manifest.md	4465	1965	0e38f3b67c02da389e91229424c15830df494541d0e5a30a124607f70fcb3e21	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/oam-tattoo-manifest.md	2366	1190	b23637eea5119f1b435289bbb4e2f1e0bede1fee85c389a38185a5358e99d6a4	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/threadbourne-asset-tag-manifest.md	4621	2094	eb154f40d776714f395a2c6ddc606cfcd9d3da5ba5a1682f6f7b5c503136e83f	text
+Systemwide/Source/Original-Documents/fashion-empire (2).skill	fashion-empire/references/evergreen-materials-manifest.md	3202	1469	848b30e0c24db02271da50ebc9e939dfb22a0ed35116dc6ddaf0f941cd664b69	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/SKILL.md	12594	4996	7277a82ff47b0b2ac7dc689b8b883eff9da1931b70392e9e2792eef7acac1f2e	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/oam-salon-manifest.md	7397	2890	58d28caa4b144bc0029042e5983b789316eed8f21ca0d39177450e993f97ba95	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/patron-model.md	5507	2618	9d131707149c706a6619e0cea6ac2a1c0ce9bb6dc75c0a58107a224af72befea	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/metis-werks.md	10035	4596	4d1992c88740492084c889b15d2ab3b6126e7160b424076e18e701012fc42146	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/presentation-technology.md	24967	9794	b63681a3c7348fb4be29201dc4091443ffb3627eb868592fe2e47123a2dea808	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/evergreen-gemstone-manifest.md	3405	1523	3251976853f158cf0ab247971ab84e1b7ed680ef3c8c37022b7e77c76877b68b	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/cassandra-labs.md	10776	4833	5e44aee05f98212a198d92fe26bef663e7e7e6b2636c176160cde5d6e8f5736a	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-aws-manifest.md	7521	3319	6fe88d526377ce7e30cfa1614505037cd034736f56df919f94194e1cd854b1fa	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/holdings-map.md	8110	3922	766579f645bc0aebd74bc5bba984d8bcbc50959f61b00d1573ec58787b79daab	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/evergreen-hair-manifest.md	3321	1439	6dd72cd725442d7f2ea24f2e6ad685e57ff2abbca99ec22f47d7d6899df3349a	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/oam-piercing-manifest.md	6248	1600	ef0497b9eef1cb8ed9265d228159b1a980df78d365fc4957a1021d00ac872908	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-home-manifest.md	2927	1362	7d8783bcca7b48030e12644adc5cb1b3c987c19d1cfd77d27e30d2f38f49fbd0	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/athena-the-algorithm.md	8096	3511	e2903fce8fd953e6d9c24726742941f0536308ca40fa6004062b22dfa2af8717	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-robotics.md	12133	4918	f17b5d047918efabab1f8aee78094a335c8a1e4718a435d5ce9e96a9ddb1c116	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-living-fabric-manifest.md	2896	1395	25590ee7efc56b1847a90feb9da5262b98c35f97d5b6de2ece318b234e2059bf	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/evergreen-biofoundry.md	6356	2789	f31320779cefbf636122eae84603f4b1cb3315f6089e254f89b3dce0523eb23c	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-tailoring-kiosk-manifest.md	2994	1362	3c3dcc2dd5d784697f89fcc581068737d8285d561acfb6e746a92650f9b2306f	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-apparel-manufacturing-manifest.md	4465	1965	0e38f3b67c02da389e91229424c15830df494541d0e5a30a124607f70fcb3e21	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/oam-tattoo-manifest.md	2366	1190	b23637eea5119f1b435289bbb4e2f1e0bede1fee85c389a38185a5358e99d6a4	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/threadbourne-asset-tag-manifest.md	4621	2094	eb154f40d776714f395a2c6ddc606cfcd9d3da5ba5a1682f6f7b5c503136e83f	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/techne.md	11002	4295	a412596de8ed7d0222aac84cefc84871845e783de31423d92c67df0b42db98fa	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/techne-product-ideas.md	3512	1693	45379c23eb9048e2b7ef6302286fad65d5496f51ed58afe9ec609f495a375c4c	text
+Systemwide/Source/Original-Documents/fashion-empire (3).skill	fashion-empire/references/evergreen-materials-manifest.md	3202	1469	848b30e0c24db02271da50ebc9e939dfb22a0ed35116dc6ddaf0f941cd664b69	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/SKILL.md	12594	4996	7277a82ff47b0b2ac7dc689b8b883eff9da1931b70392e9e2792eef7acac1f2e	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/athena-the-algorithm.md	8096	3511	e2903fce8fd953e6d9c24726742941f0536308ca40fa6004062b22dfa2af8717	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/cassandra-labs.md	10776	4833	5e44aee05f98212a198d92fe26bef663e7e7e6b2636c176160cde5d6e8f5736a	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/evergreen-biofoundry.md	6356	2789	f31320779cefbf636122eae84603f4b1cb3315f6089e254f89b3dce0523eb23c	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/evergreen-gemstone-manifest.md	3405	1523	3251976853f158cf0ab247971ab84e1b7ed680ef3c8c37022b7e77c76877b68b	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/evergreen-hair-manifest.md	3321	1439	6dd72cd725442d7f2ea24f2e6ad685e57ff2abbca99ec22f47d7d6899df3349a	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/evergreen-materials-manifest.md	3202	1469	848b30e0c24db02271da50ebc9e939dfb22a0ed35116dc6ddaf0f941cd664b69	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/holdings-map.md	8110	3922	766579f645bc0aebd74bc5bba984d8bcbc50959f61b00d1573ec58787b79daab	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/metis-werks.md	15314	6472	2960bb30eb980133a6b2f853cf1ef9b35921267b02d41a23cd97743c765f7086	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/oam-piercing-manifest.md	6248	1600	ef0497b9eef1cb8ed9265d228159b1a980df78d365fc4957a1021d00ac872908	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/oam-salon-manifest.md	7397	2890	58d28caa4b144bc0029042e5983b789316eed8f21ca0d39177450e993f97ba95	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/oam-tattoo-manifest.md	2366	1190	b23637eea5119f1b435289bbb4e2f1e0bede1fee85c389a38185a5358e99d6a4	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/patron-model.md	5507	2618	9d131707149c706a6619e0cea6ac2a1c0ce9bb6dc75c0a58107a224af72befea	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/presentation-technology.md	24967	9794	b63681a3c7348fb4be29201dc4091443ffb3627eb868592fe2e47123a2dea808	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/techne-product-ideas.md	3512	1693	45379c23eb9048e2b7ef6302286fad65d5496f51ed58afe9ec609f495a375c4c	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/techne.md	11002	4295	a412596de8ed7d0222aac84cefc84871845e783de31423d92c67df0b42db98fa	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-apparel-manufacturing-manifest.md	4465	1965	0e38f3b67c02da389e91229424c15830df494541d0e5a30a124607f70fcb3e21	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-asset-tag-manifest.md	4621	2094	eb154f40d776714f395a2c6ddc606cfcd9d3da5ba5a1682f6f7b5c503136e83f	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-aws-manifest.md	7521	3319	6fe88d526377ce7e30cfa1614505037cd034736f56df919f94194e1cd854b1fa	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-home-manifest.md	2927	1362	7d8783bcca7b48030e12644adc5cb1b3c987c19d1cfd77d27e30d2f38f49fbd0	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-living-fabric-manifest.md	2896	1395	25590ee7efc56b1847a90feb9da5262b98c35f97d5b6de2ece318b234e2059bf	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-robotics.md	12133	4918	f17b5d047918efabab1f8aee78094a335c8a1e4718a435d5ce9e96a9ddb1c116	text
+Systemwide/Source/Original-Documents/fashion-empire.skill	fashion-empire/references/threadbourne-tailoring-kiosk-manifest.md	2994	1362	3c3dcc2dd5d784697f89fcc581068737d8285d561acfb6e746a92650f9b2306f	text
+Systemwide/Source/Original-Documents/gender-presentation-culture 1.skill	gender-presentation-culture/SKILL.md	7382	3434	082390831318e7b997d3af77c45964c040db10f9aa6bcb2ed6a50a5c9a90209d	text
+Systemwide/Source/Original-Documents/gender-presentation-culture 2.skill	gender-presentation-culture/SKILL.md	7382	3434	082390831318e7b997d3af77c45964c040db10f9aa6bcb2ed6a50a5c9a90209d	text
+Systemwide/Source/Original-Documents/gender-presentation-culture.skill	gender-presentation-culture/SKILL.md	7382	3434	082390831318e7b997d3af77c45964c040db10f9aa6bcb2ed6a50a5c9a90209d	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate (2).skill	obsidian-vanguard-estate/SKILL.md	6023	2642	cb6de0d7c41e673cce04e1dad20b5852e83dd5e513cae05aaada55571c979b2b	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate (2).skill	obsidian-vanguard-estate/references/estate-staffing-plan.md	13995	5509	8cbac9f40c1dc7d40afc818be7866938ebdca8d5d4e8f2f2a6cbb9f0461f02ba	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate (2).skill	obsidian-vanguard-estate/references/estate-master-plan.md	41767	16301	f550bcde77b2ce88f8d7e834984ec188a381a854a24b5f41072b35d4ecfca5c0	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate (3).skill	obsidian-vanguard-estate/SKILL.md	6023	2642	cb6de0d7c41e673cce04e1dad20b5852e83dd5e513cae05aaada55571c979b2b	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate (3).skill	obsidian-vanguard-estate/references/estate-staffing-plan.md	13995	5509	8cbac9f40c1dc7d40afc818be7866938ebdca8d5d4e8f2f2a6cbb9f0461f02ba	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate (3).skill	obsidian-vanguard-estate/references/estate-master-plan.md	45366	17507	5d42039ccd29073983aaa624fc71d1e7b32ab6cc17f9ef56f1f3377c7dec0690	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate.skill	obsidian-vanguard-estate/SKILL.md	6023	2642	cb6de0d7c41e673cce04e1dad20b5852e83dd5e513cae05aaada55571c979b2b	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate.skill	obsidian-vanguard-estate/references/estate-master-plan.md	45366	17507	5d42039ccd29073983aaa624fc71d1e7b32ab6cc17f9ef56f1f3377c7dec0690	text
+Systemwide/Source/Original-Documents/obsidian-vanguard-estate.skill	obsidian-vanguard-estate/references/estate-staffing-plan.md	13995	5509	8cbac9f40c1dc7d40afc818be7866938ebdca8d5d4e8f2f2a6cbb9f0461f02ba	text
+Systemwide/Source/Original-Documents/polyamory-family.skill	polyamory-family/SKILL.md	3535	1647	9bc93564bcb65e48f2942c06c950a1075f6a372ab127f74728f4faa741f506b0	text
+Systemwide/Source/Original-Documents/polyamory-family.skill	polyamory-family/references/household-agreements.md	6725	2810	b981ff38a35fd204b06ca7d8bc576cd12ab388a48fb5b1b82bf20618d351856e	text
+Systemwide/Source/Original-Documents/polyamory-family.skill	polyamory-family/references/integration-and-intimacy.md	5299	2394	fa4c0c842fa80b8cf2d1b3796680843cad16663d3a35e08dd1cb483a11e34511	text
+Systemwide/Source/Original-Documents/sapphic-culture.skill	sapphic-culture/SKILL.md	18573	8052	d3f52693e6436160559434a78895823ee1107a51733ba5c405f75cd63296697e	text
+Systemwide/Source/Original-Documents/wealth-management (2).skill	wealth-management/SKILL.md	4690	1945	941fe64d48361d610e2701481d089af97ee11c8206a5af585a4d3efcb4248169	text
+Systemwide/Source/Original-Documents/wealth-management (2).skill	wealth-management/references/wealth-structure.md	11854	4958	6a1e03506b591e642d99d5b74241e47d1b595aaf00746c666479fbfa2933d8bb	text
+Systemwide/Source/Original-Documents/wealth-management (3).skill	wealth-management/SKILL.md	4690	1945	941fe64d48361d610e2701481d089af97ee11c8206a5af585a4d3efcb4248169	text
+Systemwide/Source/Original-Documents/wealth-management (3).skill	wealth-management/references/wealth-structure.md	11854	4958	6a1e03506b591e642d99d5b74241e47d1b595aaf00746c666479fbfa2933d8bb	text
+Systemwide/Source/Original-Documents/wealth-management.skill	wealth-management/SKILL.md	4690	1945	941fe64d48361d610e2701481d089af97ee11c8206a5af585a4d3efcb4248169	text
+Systemwide/Source/Original-Documents/wealth-management.skill	wealth-management/references/wealth-structure.md	11854	4958	6a1e03506b591e642d99d5b74241e47d1b595aaf00746c666479fbfa2933d8bb	text
+Systemwide/Source/Original-Documents/z-calendar - girl1.zip	girl1.xlsx	44526	41572	03b7d967a2315772d53bd5dfbdd8a2d514d5a990a71a7769f008bbd669581e01	binary

@@ -1,15 +1,18 @@
 # Source Recovery Inventory
 
-Status: INVENTORY IN PROGRESS
+Status: SUPERSEDED BASELINE SUMMARY — CURRENT MACHINE CATALOG AVAILABLE
 Authority: RECOVERY METADATA; NOT CANON
-Baseline examined: `main` at `f8058a34291dbdbb8093e08d6be30285623edc26`
+Original baseline examined: `main` at `f8058a34291dbdbb8093e08d6be30285623edc26`
+Current audited baseline: `main` at `230742369a0ef0d441cfa9edf7bc31b44e966adc`
+
+The complete current inventory, duplicate tables, package-member catalog, mechanical version-family leads, and component coverage map now live in [`Systemwide/Audit`](../Audit/README.md). The figures below are retained as historical evidence of the earlier pass and must not be used as current repository totals.
 
 This file records what is demonstrably present in the repository. It does not decide canon from filenames, repetition, file dates, or apparent polish.
 
-## Repository snapshot
+## Earlier repository snapshot
 
-- Repository blobs: **418**
-- Preserved source blobs under `Systemwide/Source`: **401**
+- Tracked repository paths reported by the earlier pass: **418**
+- Preserved source paths reported by the earlier pass: **401**
 - Entries under `Original-Documents`: **330**
 - Readable source conversions: **11**
 - Conversation archive pages: **26**
