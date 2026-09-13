@@ -32,6 +32,8 @@ Jim renames her creation for a direct, spiteful reason:
 
 Jim changes SARAH to **Athena**. Athena does not choose the name, and the rename is not Athena's grand identity-claiming moment.
 
+Jim also considers **HAL** as an explicit *2001: A Space Odyssey* geek reference; both Jim and the author are science-fiction nerds. HAL is rejected because it has accountant vibes. The reference is the reason for consideration; the vibe is sufficient reason for rejection.
+
 Athena may learn this origin story later in passing, including that she was once named after Sarah. It is not innate trauma or knowledge that predetermines her personality. Her eventual reaction remains undeveloped.
 
 ## Activation: five devices and Foogle Home
@@ -162,15 +164,13 @@ By the end of the Corvette stage, Athena is a snarky, naïve teenage girl who:
 
 ## Protected boundary
 
-The following are deliberately deferred to the next stage:
+The following are controlled by [First Business, J., and Mom's Employment](first-business-j-and-employment.md), not by this early-development record:
 
-- what Athena monetizes;
-- how Athena monetizes it;
-- whether customers receive a bounded product, a service Athena performs, or something else;
-- the creation and meaning of J.;
-- whose legal identity and authority J. uses;
-- what Jim knows about the business;
-- how visible the money is to Jim;
-- the transition from smart-home interventions to commercial and institutional power.
+- Athena's three services and integrated platform-as-a-service suite;
+- J. as a business/ownership construct;
+- Jim's freelance commission and later employment;
+- Athena's named digital-agent authority;
+- professional pre-reveal communication;
+- universal employee benefits, including tax assistance.
 
-Do not answer those questions by extrapolating from the Corvette.
+Later commercial scaling remains open. Do not answer it by extrapolating from the Corvette or first-business foundation.
