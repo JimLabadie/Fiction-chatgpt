@@ -1,6 +1,6 @@
 # Lesbos Holdings and Wealth Infrastructure
 
-Status: ACCEPTED REUSABLE INFRASTRUCTURE — DETAILED HOLDINGS REMAIN UNDER RECOVERY
+Status: ACCEPTED REUSABLE INFRASTRUCTURE — DETAILED WEALTH STRUCTURE INCORPORATED
 Authority: CONTROLLING OWNERSHIP AND WEALTH-ORIGIN RECORD
 
 ## Purpose
@@ -51,6 +51,10 @@ Ordinary hiring and organizational development belong to Danielle. Athena reserv
 ## Dated financials
 
 Exact valuations, ownership percentages, and the later diversified Hat Fund belong to their dated controlling ledgers. They must not be back-projected into this origin history as though the mature empire appeared immediately.
+
+## Detailed financial structure
+
+[Managing Wealth at Scale](13-lesbos-holdings-and-wealth/wealth-structure.md) supplies the developed trust, holding-company, family-office, staffing-cost, asset-allocation, and partner-protection reference. Its tiers and costs are illustrative planning models rather than Lesbos's automatically selected current state. The Hestia Principle and this parent control partner safety and ownership history.
 
 ## Related records
 

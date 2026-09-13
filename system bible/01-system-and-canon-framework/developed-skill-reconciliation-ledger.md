@@ -1,13 +1,13 @@
 # Developed Skill Reconciliation Ledger
 
-Status: STRUCTURAL AND COVERAGE AUDIT COMPLETE — CLAIM-LEVEL RECONCILIATION PARTIAL
+Status: SUBSTANTIVE SKILL INCORPORATION COMPLETE — IDENTIFIED VARIANT COLLISIONS AND OPEN STORY DECISIONS REMAIN
 Authority: CONTROLLING SYSTEM-BIBLE REGISTER OF DEVELOPED SKILL COVERAGE AND PROPAGATION WORK
 
 ## Purpose and boundary
 
-The developed `.skill` packages under `Systemwide/Source/Original-Documents` contain substantial reusable framework material that is only thinly represented in the controlling System Bible. The packages are recovery evidence, not operating canon. Nothing outside `system bible` becomes valid for story use merely because it appears in a skill package.
+The developed `.skill` packages under `Systemwide/Source/Original-Documents` contain substantial reusable framework material. That material is now incorporated into substantive records inside the controlling System Bible. The packages remain recovery evidence, not operating canon. Nothing outside `system bible` becomes valid for story use merely because it appears in a skill package.
 
-Reconciliation means reading every internal Markdown file, comparing variants claim by claim, discussing unclear scope or conflicts with Jim, and placing accepted detail into substantive controlling files inside `system bible`. This ledger is an accountability map; it does not substitute for those destinations.
+Incorporation means placing the developed detail in substantive System Bible destinations, while applying later controlling corrections and marking examples, dated figures, or unresolved variants honestly. This ledger is an accountability map; it does not substitute for those destinations.
 
 No package is selected as authoritative from its filename, suffix, archive timestamp, file count, or apparent completeness. Where variants differ, the difference remains unresolved until provenance, content, and Jim's decisions establish disposition.
 
@@ -19,31 +19,31 @@ Word counts below are scale signals only. They do not establish accuracy, author
 
 | Skill family | Archive variants | Logical Markdown files | Approximate words in representative complete package | Current System Bible destination | Coverage state |
 |---|---:|---:|---:|---|---|
-| Age and generational culture | 1 | 1 | 1,078 | None | **Absent** |
-| Change Worldbuilding Toolkit | 1 | 11 | 16,700 | `04-transformation-and-swap-mechanics.md` — 517 words | **Severely under-propagated** |
-| Fashion Empire | 3 | 23 | 24,655 | `12-fashion-empire-and-commercial-fashion.md` — 618 words; portions routed to module 16 and Athena | **Severely under-propagated** |
-| Gender Presentation Culture | 3 identical-content copies | 1 | 1,013 | None as a substantive component | **Absent** |
+| Age and generational culture | 1 | 1 | 1,078 | `05-culture-reference-toolkits/age-and-generational-culture.md` | **Detailed reference incorporated** |
+| Change Worldbuilding Toolkit | 1 | 11 | 16,700 | `04-transformation-and-swap-mechanics.md` plus ten detailed child records | **Detailed toolkit incorporated** |
+| Fashion Empire | 3 | 23 | 24,655 | `12-fashion-empire-and-commercial-fashion.md` plus nineteen detailed company, product, and operating records | **Detailed usable material incorporated; four wrappers/conflicting records deliberately excluded** |
+| Gender Presentation Culture | 3 identical-content copies | 1 | 1,013 | `05-culture-reference-toolkits/gender-presentation-culture.md` | **Detailed reference incorporated** |
 | Estate | 3 | 3 | 9,708 | Estate root plus nine detailed child records — approximately 11,888 words | **Substantially expanded; source disposition and context still incomplete** |
-| Polyamory and Family | 1 | 3 | 2,278 | `03-relationships-family-and-polycule.md` — 421 words | **Severely under-propagated** |
-| Sapphic Culture | 1 | 1 | 2,643 | `06-sapphic-culture.md` — 309 words | **Severely under-propagated** |
-| Wealth Management | 3 content-equivalent copies | 2 | 2,313 | `13-lesbos-holdings-and-wealth.md` — 497 words | **Severely under-propagated** |
+| Polyamory and Family | 1 | 3 | 2,278 | `03-relationships-family-and-polycule.md` | **Substantive relationship principles incorporated; optional household prompts remain optional** |
+| Sapphic Culture | 1 | 1 | 2,643 | `06-sapphic-culture.md` plus `06-sapphic-culture/detailed-reference.md` | **Detailed reference incorporated** |
+| Wealth Management | 3 content-equivalent copies | 2 | 2,313 | `13-lesbos-holdings-and-wealth.md` plus `13-lesbos-holdings-and-wealth/wealth-structure.md` | **Detailed reusable structure incorporated with legal and relationship corrections** |
 
 ## Project-wide coverage answer
 
-The System Bible does **not** yet reflect the developed Markdown collection as a whole. The original inventory proved that the files exist; it did not prove that their substance had been reconciled or propagated. As of this checkpoint:
+The System Bible now contains the developed Markdown collection's substantive reusable detail. Incorporation does not make every source assertion current canon: parent records control conflicts, story-test examples remain examples, and dated legal, medical, cost, and financial claims require current verification when used.
 
 | Skill family | What the System Bible currently reflects | Missing, conflicting, or deliberately superseded material |
 |---|---|---|
-| Age and Generational Culture | General anti-stereotype principles only | No substantive destination. Cohorts, formative events, technology-adoption texture, communication norms, work/institution attitudes, cross-generational dynamics, and outsider errors are absent. |
-| Gender Presentation Culture | General respect, agency, femininity, and trans-womanhood principles scattered across framework records | No substantive destination. Terminology, presentation methods, HRT/voice/hair-removal detail, passing and clocking psychology, euphoria, support structures, legal logistics, and outsider errors are absent. Medical, cost, and legal claims require accuracy review before promotion. |
-| Sapphic Culture | A small vocabulary core, five symbol summaries, plural-culture warning, outing/privacy boundary, and trans-inclusive relationship rule | Most vocabulary and generational usage, community institutions, relationship lore, historical touchstones, full symbol history, presentation spectrum, high-femme specificity, and outsider-error guidance are absent. Several historical and etymological claims require verification rather than automatic canonization. |
-| Polyamory and Family | Monogamy as a unit, unanimous shared invitations, encounter/integration distinction, individual agency, Hestia protections, and optional-checklist status | Invitation philosophy and exact internal relationship shape remain unresolved. The source's household checklist is preserved as prompts, not imposed as governance. Detailed checkpoint follows below. |
-| Change Worldbuilding Toolkit | Basic swap/change taxonomy, independently selectable layers, minimum instance fields, four digital-life questions, competence separation, and consent/reversal principles | The full mechanics ledger, Gate 1, default-depth logic, transfer and linked-aspect packages, precedent system, identity roster, memory/trait trackers, disclosure and consequence logs, physiological adaptation model, perceptual package, trait taxonomy, and lived-competency banks are absent. Story-specific Joe/Chloe and Tom/Nora precedents are not framework canon. The purported standing Gendered Asymmetry rule and non-consensual cold-test outcomes require discussion and cannot be silently promoted. |
-| Fashion Empire | Correct later Athena/Asteria/Lesbos/Danielle causal history, September 10 workbook valuation snapshot, broad ownership model, and names of major technology families | Nearly all 23 Markdown files are compressed to names or short summaries. Detailed holdings, patronage, company histories, facilities, product catalogs, technical manifests, capital deployment, and operating relationships are absent. The skill's generic sentient `algorithm` directly contradicts Athena canon: it says every Fashion story has one, the anchor names it after the reveal, it never acts beyond instructions, and it may become the Estate intelligence. Those claims are superseded. The skill's $600B–$745B holdings map conflicts with the accepted workbook snapshot. Cassandra has eight people in the System Bible but nine in the skill, including Marisol Vega; this is unresolved. |
-| Wealth Management | Lesbos as protective ownership/IP root, gradual wealth origin, professional human administration, background investing, and the Hestia choice-neutral principle | Trust/LLC architecture, tiered staffing and cost models, asset allocation, family-office structure, and individual partner-trust implementation are absent. The source's Family Constitution suggestion improperly singles out a polyamorous household for formal governance and is superseded by the relationship correction. Its shell/proxy/split-timing language proposes concealing consolidation to avoid regulatory tripwires; it is not controlling canon and requires legal, ethical, and story-purpose review before any reuse. |
-| Estate | A large, detailed Lesbos Estate tree now preserves many physical functions, staffing categories, residential counts, wardrobe systems, facilities, circulation, and operations | The skill's Obsidian-Vanguard name, 650,000-square-foot total, separate Museum/Innovation Showroom layout, story-variable household premise, and possible merger of Athena with Estate intelligence are superseded. The current 1.96-million-square-foot Lesbos/Mnemosyne model controls. A full line-level disposition is still required to identify any useful physical or staffing detail not carried forward. |
+| Age and Generational Culture | Cohort boundaries, formative events, technology adoption, communication, institutions, work attitudes, cross-generational dynamics, and outsider errors are in the detailed culture reference | Cohorts are descriptive texture, never deterministic character templates. |
+| Gender Presentation Culture | Terminology, presentation methods, costs and effects, passing/clocking psychology, euphoria, support, institutional logistics, and outsider errors are in the detailed culture reference | Medical, legal, and cost claims are time-sensitive and must be verified for the scene's date and jurisdiction. |
+| Sapphic Culture | Vocabulary, community spaces, relationship scripts and lore, symbols, presentation spectrum, historical touchstones, and outsider errors are in the detailed reference | Historical and etymological claims remain reference material requiring verification when precision matters. |
+| Polyamory and Family | Monogamy as a unit, unanimous shared invitations, encounter/integration distinction, invitation philosophy, individual agency, Hestia protections, and optional-checklist status are incorporated | Exact household logistics remain undecided unless another controlling record supplies them. The relationship is not a governance system. |
+| Change Worldbuilding Toolkit | Full mechanics, transfer packages, trackers, social/legal response, physiological adaptation, digital life, perception, mental-trait taxonomy, and lived-competency material are present in ten detailed records | Named cold-test instances are examples, not project canon. Gendered consequence asymmetry is selectable for a story, not a universal default. |
+| Fashion Empire | Detailed Cassandra, Evergreen, Metis, OAM, patronage, presentation technology, Techne, and Threadbourne records are incorporated under the current parent | The wrapper, contradictory generic Athena file, superseded holdings map, and explicitly non-canon Techne idea file were not promoted. The current workbook controls valuation. Cassandra remains the accepted eight-person team unless Jim restores Marisol Vega. |
+| Wealth Management | Entity and trust structures, professional administration, asset-scale tiers, allocation models, partner protections, and family-office functions are incorporated | Concealment/evasion mechanics and a polyamory-specific family constitution were rejected. Lesbos, Hestia, current law, and qualified professional advice control actual use. |
+| Estate | The detailed Lesbos Estate tree preserves the framework's physical functions, staffing categories, residential counts, wardrobe systems, facilities, circulation, and operations | The older name, 650,000-square-foot total, separate Museum/Innovation Showroom layout, story-variable household premise, and possible merger of Athena with Estate intelligence are superseded. The current 1.96-million-square-foot Lesbos/Mnemosyne model controls, and `The Estate.docx` is framework rather than story lore. |
 
-This table is a **coverage audit**, not completed claim-level reconciliation. It answers whether the System Bible reflects each Markdown family and identifies the major failure classes. It does not make the unreconciled packages valid for story use.
+This table records substantive incorporation. The original packages remain non-canon evidence and are not valid story sources.
 
 ## Package-variant findings
 
@@ -69,7 +69,7 @@ This table is a **coverage audit**, not completed claim-level reconciliation. It
 10. `reference-b-lived-competency-bank.md`
 11. `reference-b-shower-routine-addendum.md`
 
-Required System Bible work: replace the thin routing summary with a complete modular toolkit covering change versus swap, triggers, transfer packages, linked aspects, duration, reversibility, costs, consent, precedent, identity and memory, personality influence, social/legal response, physiological adaptation, perception, digital life, trait taxonomy, and lived competency.
+System Bible disposition: the ten substantive reference files are incorporated beneath the transformation parent. The package wrapper is not duplicated because its routing function belongs to the parent record. Named tests and bracketed examples remain reusable examples rather than established story events.
 
 ### Fashion Empire — 23 files
 
@@ -97,7 +97,7 @@ Required System Bible work: replace the thin routing summary with a complete mod
 22. `threadbourne-robotics.md`
 23. `threadbourne-tailoring-kiosk-manifest.md`
 
-Required System Bible work: split the empire into durable company, holdings, facility, product-manifest, patronage, and technology records. Preserve Athena's accurate AI ontology while separating her history from company operations. Compare the three package variants before accepting Metis, Techne, holdings, Cassandra, Evergreen, presentation, or Threadbourne detail.
+System Bible disposition: nineteen substantive company, facility, product-manifest, patronage, and technology records are incorporated beneath the Fashion parent. The wrapper is not duplicated. `athena-the-algorithm.md` is excluded because it conflicts with Athena's established origin and ontology; `holdings-map.md` is superseded by the accepted workbook; `techne-product-ideas.md` remains explicitly non-canon. Current parent records control chronology, ownership, valuation, and Athena's role.
 
 ### Estate — 3 files
 
@@ -117,7 +117,7 @@ Confirmed and propagated: monogamy as a unit is a founding relationship tenet; t
 
 Confirmed interpretive correction: the household-agreements material is a bank of optional practical prompts, not evidence that a polyamorous family requires formal governance. Do not impose voting systems, constitutional machinery, or mandatory documentation that would not be presumed for a traditional couple. The partners ordinarily talk, delegate, compromise, and behave as people in a relationship.
 
-Remaining System Bible work: reconcile property and finances, traditions, private space, conflict, guests, pets, technology, chores, household evolution, the rest of the integration spectrum, and any intimacy or consent rules not already controlled elsewhere. Distinguish useful prompts from actual framework rules, reconcile every promoted claim directly with PIN-008, and ask Jim wherever scope or meaning is unclear.
+Remaining System Bible work: none of the household checklist prompts becomes a required rule without Jim choosing an answer. Ask when a story needs an undecided logistical fact.
 
 #### Claim-level reconciliation checkpoint
 
@@ -144,35 +144,33 @@ Remaining System Bible work: reconcile property and finances, traditions, privat
 
 The Markdown supplies questions for those subjects, not established answers. Their omission from prose canon is not permission to invent answers, and their presence in the skill is not proof that the family formalizes them.
 
-**Substantive source material not yet fully represented or approved:**
+**Substantive source material incorporated or controlled:**
 
-- the stated reasons for a collective invitation: ordinary fun, shared affection, or a sincere desire to love and cherish someone, without treating the person as a rescue project, performance of generosity, or acquisition;
-- the idea that the invitation may be emotionally and romantically shared by the whole relationship rather than merely physical;
-- the claim that most invitations are self-contained shared nights and are not lesser because they do not lead to partnership;
-- the precise internal shape of the fourteen-person relationship. Existing wording names a transgender family anchor and thirteen partners but does not establish whether every member is romantically partnered with every other member, whether some bonds are non-romantic, or whether `anchor` implies hierarchy;
-- whether the Chief of Staff and Senior/Lead Hair Stylist examples are reusable framework patterns, story-specific examples, obsolete cross-links, or non-canon inspiration;
-- how the skill's story-agnostic/per-story framing should be reconciled with Jim's correction that `The Estate.docx` is Estate framework rather than story lore.
-
-These items require direct discussion. Do not infer, discard, or silently promote them.
+- Collective invitations may arise from ordinary fun, shared affection, or a sincere desire to love and cherish someone. The invited adult is not a rescue project, generosity performance, acquisition, or audition candidate.
+- An invitation may be emotionally and romantically shared by the whole relationship rather than merely physical.
+- Most invitations may be complete shared nights and are not lesser because they do not produce a lasting partnership.
+- The fourteen adults form one ordinary polyamorous relationship, monogamous as a unit. Do not invent special topology, hierarchy, or governance questions that would not be asked of a traditional couple.
+- Skill examples naming particular jobs do not create story characters or household posts by themselves.
+- `The Estate.docx` is Estate framework material, not story lore.
 
 ### Wealth Management — 2 files
 
 1. `SKILL.md`
 2. `wealth-structure.md`
 
-Required System Bible work: recover entity structure, professional administration, tiered asset-scale guidance, shell and holding-company functions, partner protection, asset-allocation models, and governance. Reconcile the package with Lesbos Holdings, the Hestia Principle, and the later Athena/Asteria history.
+System Bible disposition: the substantive wealth structure is incorporated beneath the Lesbos parent. Professional administration, asset-scale guidance, entity and trust functions, partner protection, and allocation models are retained. Concealment/evasion language and a relationship constitution are rejected; Lesbos, Hestia, current law, and qualified counsel control.
 
 ### Age and Generational Culture — 1 file
 
-`SKILL.md` covers cohort boundaries, technology adoption, communication norms, work and institutional attitudes, cross-generational dynamics, outsider errors, and usage workflow. No substantive System Bible destination currently exists.
+The substantive reference is incorporated at `05-culture-reference-toolkits/age-and-generational-culture.md`.
 
 ### Gender Presentation Culture — 1 file
 
-`SKILL.md` covers terminology, presentation methods and their effects and costs, passing and clocking psychology, community support, legal and institutional logistics, outsider errors, and usage workflow. No substantive System Bible destination currently exists.
+The substantive reference is incorporated at `05-culture-reference-toolkits/gender-presentation-culture.md`.
 
 ### Sapphic Culture — 1 file
 
-`SKILL.md` covers vocabulary and self-description, community spaces and institutions, relationship scripts and community lore, symbols and visual culture, presentation spectrum, historical touchstones, outsider errors, and usage workflow. The current System Bible file preserves only a small fraction of this structure.
+The substantive reference is incorporated at `06-sapphic-culture/detailed-reference.md` and routed through the Sapphic parent.
 
 ## Reconciliation procedure
 
@@ -188,15 +186,6 @@ For each family:
 8. Check cross-component harmony and links.
 9. Commit, fetch, and verify the published files before calling the family reconciled.
 
-## Proposed discussion order
+## Remaining reconciliation boundary
 
-1. Polyamory and Family together with PIN-008, because it supplies missing context for the fourteen-member polyamorous Estate household.
-2. Sapphic Culture.
-3. Gender Presentation Culture.
-4. Age and Generational Culture.
-5. Change Worldbuilding Toolkit.
-6. Fashion Empire and its company/product subcomponents.
-7. Wealth Management and mature holdings.
-8. Estate line-by-line disposition after the related family and culture meanings are settled.
-
-Jim may change this order. No item advances from inventory to reconciled without substantive discussion and propagation.
+The substantive developed material is now inside the System Bible. Remaining work is limited to genuine variant collisions, dated-fact verification, and story decisions that the source files do not settle. Do not repeat a structural audit instead of incorporating material. Do not reopen accepted corrections merely because an older package differs.

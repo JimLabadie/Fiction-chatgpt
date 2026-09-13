@@ -41,6 +41,12 @@ The grid includes parent stakes in LVMH, Kering, Richemont, Prada Group, Puig, T
 
 Operations include boutiques, shopping districts, apparel manufacturing, beauty and presentation systems, archives, museums, and partnership/patronage programs. Automated apparel production covers pattern digitization and cutting, robotic sewing and assembly, optical quality control, finishing, and packaging. It does not erase couture or artisan work.
 
+## Detailed companies and product systems
+
+The developed company histories, facilities, product systems, and technical manifests are incorporated under [`12-fashion-empire-and-commercial-fashion/`](12-fashion-empire-and-commercial-fashion/). They include Cassandra Labs; Evergreen Biofoundry and its hair, gemstone, and sourcing programs; Metis Werks; Techne; NAS and OAM; the salon, piercing, and tattoo catalogs; Threadbourne Robotics and its wardrobe, tailoring, manufacturing, authentication, consumer, and adaptive-textile systems; and the Patron Model.
+
+Those records supply substantive design detail. This parent controls Athena's identity and chronology, the accepted workbook valuations and holdings, Danielle's role, and conflicts with obsolete generic-anchor or generic-algorithm language. Working product or subsidiary figures remain model figures unless the dated workbook or a later decision accepts them.
+
 ## Audit issues
 
 - Parent/child overlap must be removed.
@@ -50,6 +56,6 @@ Operations include boutiques, shopping districts, apparel manufacturing, beauty 
 - Private rows marked hypothesis are not factual precision.
 - Older fashion-empire documents are recovery evidence where they conflict with the final canon workbook.
 
-## Controlling sources
+## Authority boundary
 
-`Jim_Fashion_Empire_FINAL_CANON_2026-09-10.xlsx`, `the fashion empire final use this.docx`, apparel-manufacturing guide, and accepted acquisition/partnership records.
+The September 10, 2026 workbook controls accepted holdings and dated financials. The incorporated child records control company and product detail where they do not conflict with this parent, Athena's records, or later direct decisions. Material outside `system bible` remains recovery evidence only.

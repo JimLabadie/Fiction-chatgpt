@@ -15,6 +15,14 @@ The household may collectively invite another consenting adult into a shared rom
 
 A shared encounter does not make the invited adult a partner or create a claim to permanent membership. Lasting integration is a separate decision: uncommon, deliberate, gradual, and unanimously chosen. No individual partner steps outside the relationship alone, and no smaller group may make that choice for the whole.
 
+## Why the family may invite someone
+
+A collective invitation may be simple shared fun; it does not need a deeper justification. It may also express sincere affection and the family's desire to let another adult feel loved, wanted, and cherished when everyone involved genuinely wants that experience. The invitation may be romantic and emotionally shared by the relationship, not merely physical.
+
+This is never a rescue project, a performance of generosity, a reward, or the collection of another person. The invited adult is not an applicant auditioning for household membership. Most shared encounters are complete in themselves, and remaining a single shared night does not make the experience lesser or failed. If mutual affection grows into possible partnership over time, lasting integration is considered separately under the unanimous-consent rule.
+
+Where the invited adult is an employee, resident, beneficiary, or otherwise subject to the family's material power, the Hestia Principle must make refusal and departure genuinely consequence-neutral before the invitation is made.
+
 ## A relationship, not a governing body
 
 Do not bureaucratize this family merely because more than two adults belong to it. The partners handle shared life as loving adults in a relationship: they talk through consequential choices, respect the people affected, divide or delegate ordinary responsibilities, disagree, compromise, and revisit decisions when necessary. Do not invent voting rules, constitutional machinery, or a formal unanimity requirement for ordinary household decisions unless a particular story explicitly needs one. A traditional couple would not receive that treatment by default, and polyamory does not justify imposing it here.

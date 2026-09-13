@@ -15,6 +15,8 @@ Sapphic culture is plural, generational, regional, racial, and personal. Symbols
 
 Archive slang lists are reference pools, not dialogue menus. Match terms to character, generation, place, knowledge, and voice.
 
+The [Detailed Sapphic Culture Reference](06-sapphic-culture/detailed-reference.md) preserves the developed vocabulary, community spaces, relationship lore, symbols and visual history, presentation spectrum, historical touchstones, and outsider-error guidance. Use it for specific texture while preserving character choice and generational, regional, racial, and personal variation.
+
 ## Symbols
 
 - **Violets:** associated with Sappho and later lesbian signaling.
@@ -30,6 +32,6 @@ File `10` owns an item's physical specification; this module owns cultural meani
 
 Community care includes respecting self-identification and not publicly outing someone. A stranger may notice something without owning the right to announce it. Attraction and safety judgments depend on behavior and context, not anatomy alone. A trans woman is not an exception to womanhood, and sapphic relationships do not become heterosexual because of anatomy.
 
-## Controlling sources
+## Authority boundary
 
-`lesbian insider.docx`, archive expression lists, Sappho/Pleiades materials, jewelry and piercing sources, and Voice and Style Guide.
+This parent record controls interpretation. The detailed reference supplies texture and history. Material outside `system bible` remains recovery evidence rather than operating canon.

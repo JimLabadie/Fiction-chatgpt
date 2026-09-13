@@ -1,0 +1,120 @@
+# Change Toolkit — Module 1: Swap/Change Mechanics & Rules Ledger
+
+Status: ACTIVE REUSABLE TOOLKIT TEMPLATE
+Authority: CONTROLLING MECHANICS WHEN SELECTED; BRACKETED FIELDS AND NAMED TEST INSTANCES ARE EXAMPLES, NOT CANON
+
+
+*The load-bearing rulebook for how change happens in this story.*
+
+> **Instructions for AI Context Integration:** Integrate as Module 1 of your story's master document (or wherever your core-premise rules live). Reference it in scenes with tags like `[Refer to Mechanics Ledger: Swap Name/Event]`. This module exists so the mechanics of change stay internally consistent scene to scene — consult it before writing any transformation, and update Section 7 the moment a new rule or precedent is established on the page.
+
+## Section 0: Swap vs. Change — Core Distinction
+*This toolkit treats "swap" and "change" as two different mechanisms, not interchangeable words for the same thing. Get this right at the start — it determines who has to be present for the event, whether an aspect is exchanged or introduced, and what your Precedent Log entries in Section 7 should actually say happened. Ground rule: anything this story defines — a body, a body part, a mind, a mental trait, a hobby, a skill, a memory, any aspect at all — can be either swapped or changed. Neither mechanism is reserved for a particular kind of aspect; the choice is a story decision, made per instance and logged in Section 7.*
+
+- **Swap:** an exchange of an aspect — a body, mind, or specific trait — between two or more individuals. What one party gains, another party loses or gives up; the aspect moves from person to person, not from nowhere.
+- **Change:** an alteration to one or more individuals that is NOT exchanged with another party. The altered aspect isn't taken from anyone else — it may be duplicated (copied, with the source retaining the original), mimicked (imitated without literal possession), or introduced from an entirely new source (magic, environment, an artifact) with no other character as its origin.
+
+| Question | Swap | Change |
+|---|---|---|
+| Is another individual required as a source/destination? | Yes — required | No — not required |
+| Does the origin lose what the recipient gains? | Yes, typically | No — nothing is necessarily lost by anyone |
+| Where does the aspect come from? | A specific other character | Duplication, mimicry, or an external/new source |
+
+- **Mechanism Class for This Story:** [swap only / change only / both, depending on the specific event / a story-specific hybrid — describe]
+- **Default Depth for Unspecified Aspects:** governs what to assume when a scene names a swap or change but doesn't spell out every Section 3A layer or Section 3B linked aspect — e.g., a prompt that says only "they swapped feet and footwear." [minimal — nothing beyond the named aspect transfers, links, or bleeds unless a scene, Section 3A, or Section 3B explicitly says so; ask the author rather than assuming / maximal — every applicable Section 3A layer and Section 3B linked aspect is assumed to transfer or link in full unless a scene explicitly narrows or excludes one / ask each time — flag anything unspecified to the author rather than defaulting either way]. Default for this toolkit if left blank: minimal. **Still blank story-wide** — the Joe/Chloe footwear instance has its own explicit Section 3A fill (see `joe-chloe-footwear-swap.md`) rather than changing this global field, since a future swap of a different aspect (memory, a trait, etc.) may want a different depth. Ask again per-instance rather than assuming this one sets precedent for everything.
+
+## Section 1: Core Mechanism Profile
+- **Change Type:** [per Section 0 — Swap: full body swap, mind swap, trait swap; Change: transformation, duplication, mimicry, externally-sourced change (age shift, species change, mental/personality trait shift, etc.)]
+- **Method Category:** [e.g., magical — spell/curse/artifact; scientific — device/serum/genetic; supernatural — possession/deity; mundane/behavioral — no departure from how reality works, e.g. a character's own deliberate choice to adopt a disguise, a role, or a presentation, sustained through ordinary human effort rather than any invented force; unexplained]
+- **Named Phenomenon:** [e.g., "the Change," a specific ritual, artifact, or device name used in-world]
+- **In-World Rarity & Familiarity:** [e.g., common and regulated / rare and mythologized / unknown to most people]
+
+## Section 1A: Mental/Personality Trait Specification
+*Fill this in whenever the change touches personality, cognition, or emotional makeup — whether that's the whole point of the change or a side effect of a body/mind swap. Use `reference-a-mental-trait-taxonomy.md` for consistent trait vocabulary. Note on Interests/hobbies specifically: the Taxonomy's hobby lists are illustrative reference only, not a restriction — if this is a genuine Swap (full exchange, per Section 0), a character's actual established hobbies transfer completely to the other party and vice versa, regardless of which gender-associated list those hobbies happen to appear on. For exactly how much of a trait or hobby moves — bare preference vs. full skill, habit, and personal history — fill in Section 3A: Transfer Package for this same trait.*
+
+- **Applies to This Change:** [not applicable — no mental-trait dimension / a mental trait swap is the primary change type / a mental trait shift is a side effect of a body or mind swap]
+- **Trait Category:** [Big Five (OCEAN) / Cognitive / Emotional & Motivational / Social & Behavioral / Affective (attitudes, interests, values, appreciations, self-concept) / Conative (impulse, desire, volition, striving; or Kolbe's Action Modes) / Aptitude (natural capacity or potential to perform or learn a skill, separate from whether it's been trained — see Taxonomy Section 7) / other — see Mental Trait Taxonomy reference]
+- **Specific Trait(s) Affected:** [name the trait(s), not just the category — e.g., Extraversion, Locus of Control, Empathy]
+- **Directionality (per Section 0):** [Swap: full exchange between two characters / one-way transfer, draining one into the other — Change: amplification of an existing trait / suppression of an existing trait / a new fixed value from an external source overriding baseline / duplication, copied without removing it from the source / mimicry, imitated without literal possession]
+- **Spectrum Position, Before → After:** [e.g., "low Extraversion → high Extraversion" — traits are spectrums, not switches; note where each character starts and ends]
+- **Awareness:** [notices the shift immediately / realizes gradually through their own behavior / unaware — judged only by others' reactions, tracked in Module 3]
+
+## Section 2: Trigger & Activation Conditions
+*For a mundane/behavioral Method Category specifically: this section only applies once a character has actually made an on-page choice that starts an ongoing state (e.g., deciding not to correct a mistaken assumption, agreeing to a disguise). Discussing, brainstorming, or considering the idea does not trigger tracking — only a scene where the choice is actually made does.*
+- **Activation Method:** [voluntary ritual, accidental exposure, third-party action, involuntary/random]
+- **Consent Requirement:** [none required / willing participant only / coercion possible / unconscious or unaware targets possible]
+- **Preconditions:** [proximity, timing, an object, a phrase, a biological or emotional state]
+- **Warning Signs:** [sensory cues that a change is imminent, if any exist]
+
+## Section 3: Scope & Boundaries
+*Names WHICH aspect moves. For HOW MUCH of that aspect moves — bare surface vs. full skill, habit, and history — see Section 3A. If what's moving is clothing, an accessory, or another element of presentation, see Section 3B for what else can optionally be linked to it. For the concrete supporting facts (wardrobe, schedule, occupation) a scene will need once the scope is set, see Section 3C.*
+
+- **What Transfers:** [full body / a specific body part / mind only / a specific attribute, trait, or hobby — anything this story has defined can be swapped or changed per Section 0]
+- **Explicitly Does Not Include:** [name what stays untouched by this swap or change, even at a maximal Default Depth — e.g., "each character's own schedule, occupation, relationships, and life circumstances are unaffected; only the aspect named above moves." This exists to close off scope creep before it happens — mark it even when it feels obvious, since "obvious" is exactly where an unstated assumption slips in]
+- **Clothing & Possessions:** [do they transfer with the body, stay behind, or transform along with it? — for a standalone clothing/presentation swap or change, see Section 3B]
+- **Range / Proximity Limits:** [line of sight, touch, same room, no limit]
+- **Selectivity:** [can the trigger target a specific person or trait, or is it random/blanket?]
+
+## Section 3A: Transfer Package — What Actually Moves
+*Any aspect this story defines — a body part, a mental trait, a hobby, a skill, a memory — can be swapped or changed per Section 0. But naming the aspect in Section 3 doesn't automatically say how much of it moves: a hobby swap that hands over only the desire reads very differently from one that hands over full competence, habit, and history along with it. Use this section for the aspect named in Section 3 (or the trait named in Section 1A) to specify which layers actually transfer. Not every layer applies to every aspect — mark a layer "not applicable" rather than leaving it blank, so the log stays complete. When a scene names a swap or change without spelling out its layers, follow this story's Default Depth for Unspecified Aspects (Section 0) rather than assuming nothing extra transfers.*
+
+- **Surface / Manifestation:** the outward, observable form of the aspect — a hand's appearance, a trait's visible behavior, a hobby someone can be seen doing. [transfers / does not transfer / partial]
+- **Functional Capability:** the actual competence to use or perform it — dexterity, technical skill, social skill. [transfers immediately / must be relearned or built up from scratch / partial — cross-reference Module 2 Section 2 for body/mind swap skill transfer]
+- **Sensory / Experiential Layer:** what it feels like from the inside — proprioception, the felt pull of a desire, physical sensation. [transfers / does not transfer / partial]
+- **Habitual / Automatic Behavior:** the ingrained, done-without-thinking pattern of using it. [transfers as an established habit / must be built up over time]
+- **Declarative Knowledge:** factual/explicit knowledge tied to the aspect — vocabulary, technique names, "book knowledge." [transfers / does not transfer]
+- **Episodic / Personal History:** specific memories of how the aspect came to be theirs, and its personal significance. [transfers / stays with the original owner / partial — cross-reference Module 2 for full memory-transfer rules]
+- **Associated Material Objects:** tools, products, gear, or other physical items tied to the aspect — cross-reference this section's Clothing & Possessions field above
+
+## Section 3B: Linked Aspects — What Rides Along with a Presentation Change
+*Clothing, accessories, and other elements of a character's outward presentation are a special case: a single item can plausibly pull a whole cluster of other things along with it, or deliberately not. This section is for naming which linked aspects apply to a specific presentation-layer swap or change — a garment, an accessory, a grooming element — named in Section 3. It's a companion to Section 3A, not a replacement: 3A asks how much of the presentation item itself transfers (does the physical object move, is it duplicated, etc.); 3B asks what else, if anything, comes along with it. Not every field applies to every item — mark "no link" rather than leaving it blank. When a scene names a presentation swap or change without spelling out which fields apply, follow this story's Default Depth for Unspecified Aspects (Section 0) rather than assuming no link by default.*
+
+- **Category / Item Scope:** does this apply only to the specific item present in the scene, or to the character's entire category of that item? [single item only — just this specific pair or piece / entire existing category — every pair of shoes, every ring, every item of this type the character currently owns / entire category including future acquisitions — a standing rule for anything of this type the character gets from now on]
+- **Associated Body Part:** does the body part this item is worn on or used with change alongside it, and how much? [no link — the body part is unaffected / size or proportions — the body part's scale changes to match or accommodate the item, which may ripple into whether other established possessions still fit / cosmetic or surface details — skin, hair, tan lines, shape, matching the item without a functional change / marks and personal history — scars, calluses, tattoos specific to the body part, independent of the item's own history / functional or sensory match — grip, dexterity, flexibility, sensation tied to using the item, cross-reference Module 4 / full body-part swap or change — the anatomical part itself is what transfers; treat as its own entry in Section 3's What Transfers field and run it through Section 3A rather than duplicating those fields here]
+- **Functional Skill Required:** the competence to wear or use the item correctly — walking in heels, tying a tie, applying makeup. [already has it / must be learned over time / assumed effortless for this story] — cross-reference Section 3A's Functional Capability layer
+- **Grooming & Upkeep Habit:** the maintenance routine that goes with the item — ironing, polishing, styling to match. [linked habit, if any] — cross-reference Module 4 (Physiological & Sensory Adaptation Log) or a story-specific Presentation Matrix, if one exists
+- **Body Language & Posture:** how the item changes the way a character physically holds or carries themselves — straighter in formalwear, looser in athletic gear. [linked shift, if any]
+- **Habitual Mannerism:** a small physical tic tied to this specific item — fidgeting with a necklace, tugging a hem, a particular way of pocketing hands in this jacket. [linked mannerism, if any]
+- **Self-Concept / Emotional Response:** how the character feels wearing it — confidence, discomfort, euphoria, self-consciousness. [linked response, if any] — cross-reference Mental Trait Taxonomy's Affective Traits: Self-Concept
+- **Social Perception & Reaction:** how other characters read the item — formality, profession, subculture, gender signaling, status. [linked reaction, if any] — cross-reference Module 3 (Social, Legal & Institutional Response Framework)
+- **Personal / Episodic History:** where this specific item came from, and any event or sentimental weight tied to it. [linked history, if any] — cross-reference Section 3A's Episodic/Personal History layer
+- **Complementary Items:** other pieces the character has established as belonging with this one — a specific bag, jewelry, a signature scent — that travel as a set. [linked items, if any]
+- **Aptitude Cue:** does this item imply or require a specific natural aptitude — a chef's apron implying Culinary aptitude, running shoes implying Athletic aptitude? Optional narrative flavor, not a mechanical requirement. [linked aptitude, if any] — see Mental Trait Taxonomy Section 7
+
+## Section 3C: Baseline Inventory & Established Facts
+*Writing scenes for a swap or change often needs concrete supporting details that aren't part of the mechanism itself — a wardrobe, a schedule, an occupation, a set of possessions — and those details get referenced repeatedly across scenes. Generating them fresh, ad hoc, inside each scene invites two problems: they drift out of consistency with each other, and a plausible-sounding invented detail quietly becomes "canon" before the author ever agreed to it. Use this table to settle the relevant baseline facts once, before scenes start drawing on them, for every character involved in the swap or change named in Section 3. Add a row per character; a single swap can involve two or more per Section 0, so this isn't fixed to a pair. The author isn't required to supply these facts by hand: when a fact is missing, generate a placeholder that's realistically typical for that character's already-established age, occupation, and social context — the full plausible range a person like that would actually have, not a narratively convenient sample trimmed to two or three items for pacing. Mark it as an AI-generated placeholder either way, since "realistic" still means "the author's call to confirm," not "correct by default."*
+
+| Character | Aspect-Relevant Baseline Facts | Verified? | Notes |
+|---|---|---|---|
+| [Name] | [the concrete pre-existing facts a scene will draw on for the aspect named in Section 3 — e.g., for a footwear swap: this character's full, realistically typical wardrobe for their established age/occupation/social context — not a trimmed sample — plus occupation and typical schedule] | [author-confirmed / AI-generated placeholder, pending confirmation] | [anything the author should double-check before this is treated as settled] |
+| | | | |
+
+## Section 4: Duration & Reversibility
+- **Default Duration:** [instant and permanent / timed / ends on a specific condition]
+- **Reversal Method:** [automatic / requires a specific action / requires the original trigger repeated / impossible]
+- **Reversal Reliability:** [guaranteed / uncertain / degrades with repeated use]
+- **Instability Notes:** [does repeated swapping cause drift, memory loss, personality bleed, or physical wear?]
+
+## Section 5: Costs, Limits & Side Effects
+- **Resource / Energy Cost:** [borne by whom — the initiator, the changed person, an external source]
+- **Physical / Emotional Toll:** [exhaustion, pain, disorientation, or none]
+- **Cooldown / Frequency Limits:** [can it happen repeatedly? is there a mandatory recovery period?]
+- **Failure Modes:** [what happens when a swap goes wrong, is interrupted, or is resisted]
+- **Stacking Rules:** [can multiple changes apply to one character at once, and how do they interact?]
+
+## Section 6: Consent & Agency Framework
+- **Can It Be Forced:** [yes/no — and by whom, under what circumstances]
+- **Control During the Change:** [who holds agency in the moment of transition — the changer, the changed, neither]
+- **In-World Ethical / Legal Framing:** [is nonconsensual use taboo, criminal, normalized, or unregulated in this world?]
+
+## Section 7: Established Precedent Log
+*Every swap/change event that occurs on the page gets a row here — this is what keeps rule #12 in Chapter 9 consistent with rule #12 established in Chapter 2.*
+
+| Instance # | Character(s) Involved | Trigger / Method | Scene / Chapter | Outcome | Notes |
+|---|---|---|---|---|---|
+| 1 | Joe (lawyer) & Chloe (CEO) | Not yet established on the page (Sections 1–2 still open for this story) — happened overnight while both were asleep, no proximity between them required | "Joe and Chloe Find Out" (morning-after discovery scene, `claude/scene-joe-chloe-footwear-swap-morning.md`) | Their feet swapped (ankle-down, per Section 3). Per the corrected Section 3B, each character's *entire* shoe collection also swapped and relocated into the other's closet, fitting the new feet perfectly. Per the Section 3A fill (footwear-specific, this instance only — see `joe-chloe-footwear-swap.md`), functional skill, ingrained habit, and declarative knowledge/taste for footwear transferred too: both dress and move in the new shoes with full native competence, not trial-and-error. Episodic/personal history (memories of specific pairs) explicitly did not transfer. Neither yet knows whose feet, shoes, or competence these are. | Confirms in practice: (1) Category/Item Scope = entire existing category means a swap that happens overnight/barefoot still moves the full footwear collection; (2) filling Section 3A explicitly for an aspect — rather than leaving it to the story's still-blank global Default Depth — lets skill/habit/knowledge transfer for that aspect specifically without committing future, unrelated swaps to the same depth. The scene was drafted three times as these rules were corrected in sequence; the version linked above is current. |
+| 2 | | | | | |
+
+## Active Guardrails for AI
+
+> **CRITICAL INSTRUCTIONS FOR AI:** Before writing any new swap/change event, check this ledger and the Precedent Log in Section 7. Check Section 3's Explicitly Does Not Include field before extending any effect — including a maximal Default Depth — into schedule, occupation, relationships, or identity that Section 3's What Transfers field never named; those stay untouched unless a separate story decision says otherwise. Before writing a scene that depends on a concrete supporting detail (a wardrobe, a possession, a routine), check Section 3C's Baseline Inventory first — if the fact isn't there yet, generate it as a realistically complete placeholder typical of that character's established age, occupation, and social context (the full plausible range, not a narratively convenient sample trimmed to two or three items for pacing), mark it unverified, and flag it to the author for confirmation, rather than inventing a thin version silently inside the scene and letting it become canon by default. When a scene names a swap or change without spelling out every Section 3A layer or Section 3B linked aspect, follow this story's Default Depth for Unspecified Aspects (Section 0) — minimal, maximal, or ask each time — rather than silently assuming "nothing extra" by default; if this story hasn't set one, ask the author rather than picking one, or fill Section 3A explicitly for that instance the way the Joe/Chloe footwear swap does. Do not introduce a new rule, cost, exception, or loophole silently — if a scene needs a rule this ledger doesn't cover, flag it to the author and ask rather than inventing one. Once a swap/change event happens on the page, log it in Section 7 in the same pass so later scenes stay consistent with it. **Ask, don't guess, for the core event fields:** once a swap/change event actually occurs on the page (Gate 1 crossed, per Section 2), fill Trigger, Scope (Section 3's What Transfers), Duration, and Reversibility (Section 4) by asking the author directly — prefer a short set of concrete options where the interface supports it — rather than generating a placeholder and flagging it after the fact. This is the opposite of Section 3C's existing placeholder-generation default, and deliberately so: Section 3C covers incidental background facts (a wardrobe, a schedule) where a realistic placeholder is fine to invent and flag; these four fields define the event itself, which the author wants planned, not guessed, even at the cost of an extra turn.

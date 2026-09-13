@@ -54,6 +54,7 @@ Reusable components may also define triggered events or state transitions. Their
 - [`unauthorized-descoping-audit.md`](01-system-and-canon-framework/unauthorized-descoping-audit.md) records material omitted, downgraded, or mislabeled story-local without Jim's consent and tracks the required corrections.
 - [`open-questions-and-development-ledger.md`](01-system-and-canon-framework/open-questions-and-development-ledger.md) is the controlling register for pins, deferred discussions, exact return points, and known recovery obligations.
 - [`developed-skill-reconciliation-ledger.md`](01-system-and-canon-framework/developed-skill-reconciliation-ledger.md) inventories every developed skill family and packaged Markdown member, records variant boundaries and present System Bible coverage, and controls the claim-level reconciliation backlog without treating source packages as operating canon.
+- [Age and Gender Presentation Culture](05-culture-reference-toolkits.md) incorporates the previously absent developed culture references.
 - [`persistence-failure-and-repair-record.md`](01-system-and-canon-framework/persistence-failure-and-repair-record.md) records the chat-dependence failure, the distinction between preservation and propagation, and the requirements for repairing it.
 - Repository-audit material outside `system bible` is evidence only. It may be consulted during recovery but cannot control story truth or substitute for a System Bible destination.
 

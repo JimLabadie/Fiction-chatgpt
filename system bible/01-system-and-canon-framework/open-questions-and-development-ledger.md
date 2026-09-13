@@ -30,7 +30,7 @@ No assistant may call a pin persisted merely because the relevant conversation i
 
 | Order | Subject | Current understanding | Exact return point | Durable state |
 |---:|---|---|---|---|
-| 1 | Developed-skill reconciliation across the total framework | Sixteen archives contain 100 Markdown members representing 45 logical files across eight developed skill families. Most are absent or severely under-propagated in the System Bible | Work through the families collaboratively using the [Developed Skill Reconciliation Ledger](developed-skill-reconciliation-ledger.md), beginning with Polyamory and Family unless Jim changes the order | Structural and project-wide coverage audits are recorded; Polyamory has a partial claim-level disposition; the other families still require claim-level reconciliation |
+| 1 | Developed-skill reconciliation across the total framework | The substantive reusable content from all eight developed skill families is now incorporated into System Bible parent and detailed records | Resolve only identified variant collisions, dated-fact checks, and genuine story decisions recorded in the [Developed Skill Reconciliation Ledger](developed-skill-reconciliation-ledger.md) | Detailed incorporation complete at the current boundary; raw package wrappers and superseded or explicitly non-canon files were deliberately not promoted |
 | 2 | Fourteen-member polyamorous Estate household context | `The Estate.docx` is framework material; the transgender anchor and thirteen partners form one polyamorous relationship that is monogamous as a unit. `Coven` was AI-generated bleed-over and is not canon | Continue reconciling household governance and other still-undecided family details during the Polyamory and Family discussion; ask rather than infer | Protected by PIN-008; obsolete terminology removed; monogamy-as-a-unit established |
 | 3 | Persistence failure and historical pin backfill | Jim's no-chat-only requirement was violated; this ledger did not exist; multiple discussions were summarized or routed without substantive destination files | Continue the archived-conversation audit for every deferral, promised return, promised read/ingestion, and unsupported completion claim; connect each verified item to its substantive destination | This ledger and the persistence-failure record establish the repair; historical backfill remains in progress |
 | 4 | Sensitive-topic foundation | Intimacy/kink and power/agency/Hestia are codified. Athena's privacy/access discussion occurred next and was left in chat until the present repair | Resume with Jim after the framework reconciliation pause; identify the next sensitive topic collaboratively rather than inventing the remainder | Intimacy and Hestia have controlling files; Athena privacy is restored by this repair |
@@ -50,14 +50,14 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Affected components:** CLIO, Estate, Mnemosyne, collections, wardrobe/beauty, advanced technology.
 - **Current durable state:** routing and summary material exists, but no adequate standalone controlling CLIO component exists.
 
-### PIN-002 — Dedicated Change Toolkit reconstruction
+### PIN-002 — RESOLVED AT CURRENT BOUNDARY: Dedicated Change Toolkit reconstruction
 
 - **Source:** current recovery discussion following the memory/personality/identity agency question; repository audit evidence.
 - **Current understanding:** each change dimension remains unchanged unless the selected instance explicitly includes it. Memory, personality, knowledge, skill, habit, desire, perception, digital history, social response, and legal/institutional state are independently selectable layers.
 - **Why deferred:** the Change Toolkit was large enough to interrupt the sensitive-topic discussion, and Jim directed a genuine repository audit and accurate catalog before reconstruction.
-- **Exact return point:** assign and compare the eleven-member skill, loose master indexes, rules-ledger variants, matrices, addenda, and supporting competency/trait/family sources; reconstruct the actual toolkit without choosing a winner from filenames.
+- **Resolution:** the ten substantive toolkit records are incorporated beneath the controlling Transformation and Swap Mechanics parent. They include mechanics, transfer packages, identity/memory tracking, social/legal response, physiological adaptation, digital life, perception, mental traits, lived competency, and shower-routine support. The package wrapper is not duplicated. Named cold-test instances remain examples rather than story canon, and gendered consequence asymmetry is selectable rather than universal.
 - **Affected components:** Transformation and Swap Mechanics, relationships, identity/memory continuity, social/legal response, story-instance records.
-- **Current durable state:** the thin controlling summary now admits the gap; the structural inventory is complete, but claim-level reconstruction is not.
+- **Current durable state:** the complete detailed toolkit is available inside `system bible/04-transformation-and-swap-mechanics/` and routed by the parent record. Future work is story-instance selection, not recovery of the missing toolkit.
 
 ### PIN-003 — Resume sensitive topics before returning to the bunker
 
@@ -130,7 +130,6 @@ The following are verified missing or underrepresented components. They are reco
 - mature St. Claire civic, legal, infrastructural, cast, place, and institutional recovery;
 - independent Metis, Techne, Project Phryne, OAM, Threadbourne, Evergreen, and Cassandra Labs histories and relationships;
 - mature wealth, fleet, aviation, property, and asset ledgers;
-- full Change Toolkit reconstruction;
 - complete source propagation for Fashion, relationships, beauty, manufacturing, facilities, prosthetics, and advanced technology;
 - claim-level review of the conversation archive, accepted assistant proposals, source variants, and story/reusable boundaries.
 
