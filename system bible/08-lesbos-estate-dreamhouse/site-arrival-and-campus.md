@@ -88,7 +88,7 @@ Commercial traffic ends at this district. Approved people, packages, food, equip
 
 ## Campus boundaries
 
-- The education center's existence does not require children in every story.
+- The education center is permanent Estate infrastructure; its current enrollment is story state.
 - Staff housing provides independence and privacy; it does not imply that every employee lives on-site.
 - The wealth headquarters controls physical office and vault facilities, not financial canon.
 - The motor court establishes capacity and services, not a complete fleet inventory.

@@ -1,6 +1,6 @@
 # Lesbos Estate and Dreamhouse
 
-Status: DETAILED REUSABLE BASELINE WITH NAMED OPEN FIELDS
+Status: DETAILED CONTROLLING ESTATE BASELINE WITH NAMED OPEN FIELDS
 Authority: CONTROLLING ESTATE IDENTITY ARCHITECTURE FACILITIES AND OPERATING BOUNDARIES
 
 ## Canonical identity
@@ -49,19 +49,11 @@ The recurring palette uses magenta, hot pink, teal, crisp white, blush, and rose
 
 Barbie references operate as design lineage, not literal copying. The Estate may use a historical Barbie feature as a starting vocabulary, then let architects, engineers, designers, craftspeople, and operators make it beautiful, durable, safe, and adult.
 
-## Reusable versus story state
+## Estate framework versus story state
 
-The physical Estate, institutional components, and designed capacities are reusable. A particular story controls:
+`The Estate.docx` defines Estate framework, not story lore. Its household model is the trans woman family anchor and thirteen partners, fourteen household members in total. Its counts, capacities, rooms, facilities, and operating concepts must not be discarded or weakened merely because a passage describes how that household uses them.
 
-- who currently lives there;
-- which suites are occupied;
-- which institutions are activated for a public or private event;
-- where a specific collection object is currently stored, displayed, loaned, or worn;
-- which vehicles, aircraft, watercraft, and outside properties are currently assigned;
-- which post-reveal acquisitions or technologies have entered operation;
-- current staffing vacancies, shifts, and named employees.
-
-Capacity never dictates household composition. The architecture can support a large family, guests, staff, events, future children, and later growth without requiring every story to instantiate them.
+A particular story may still control the identities of the household members, their immediate locations and activities, current enrollment or guest occupancy, acquisition and installation dates, the present location or use of collection objects, and current staffing details. Those changing facts do not turn the Estate specifications themselves into story-local material.
 
 ## Ownership and use
 
@@ -84,7 +76,7 @@ Private household circulation, invited visitor circulation, scheduled institutio
 
 - Do not return to the 650,000-square-foot total or add the obsolete four-story Deep Archive to B1 and B2.
 - Do not use older separate museum, gallery, and showroom wings after their consolidation into Mnemosyne in Anchor B.
-- Do not convert designed capacity into mandatory residents, partners, children, or employees.
+- Do not reinterpret the fourteen-member household design as an accidental maximum or remove the thirteen-partner structure as though it belonged to only one story.
 - Do not treat Athena as the Estate operating system. Athena is the sentient AI Jim created and may access Estate systems without becoming identical to them.
 - Do not turn staff into anonymous extensions of Jim, Athena, or the building. People perform the work and receive credit.
 - Do not turn collections into untouchable museum property merely because they are conserved or displayed.
@@ -94,7 +86,6 @@ Private household circulation, invited visitor circulation, scheduled institutio
 ## Open fields
 
 - exact long-form legal Estate name;
-- final suite count and expansion sequence inside Anchor A;
 - final reconciliation of landscaped-acre arithmetic;
 - permanent uses for the seven maintained legacy commercial buildings;
 - final room-by-room partition of Anchor B beyond the accepted 125,000-square-foot shell and established program;

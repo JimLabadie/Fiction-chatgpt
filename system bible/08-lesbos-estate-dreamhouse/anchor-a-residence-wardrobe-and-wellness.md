@@ -1,6 +1,6 @@
 # Lesbos Anchor A Residence Wardrobe and Wellness
 
-Status: DETAILED REUSABLE BASELINE WITH STORY STATE SEPARATED
+Status: DETAILED CONTROLLING ANCHOR A BASELINE
 Authority: CONTROLLING ANCHOR A PHYSICAL AND INSTALLED-SYSTEM RECORD
 
 ## Physical allocation
@@ -17,7 +17,7 @@ Anchor A occupies a complete former department store of approximately 125,000 sq
 
 The upper level holds the residence and medical functions. The lower level holds the wardrobe, salon, spa, fitting, and garment-support functions. Private elevators and service lifts connect both floors to B1 laundry, active wardrobe logistics, Mnemosyne support, and B2 long-term storage.
 
-The physical capacity is reusable. It does not establish the number or identities of current residents.
+The residence is designed for the trans woman family anchor and her thirteen partners: fourteen household members in total. This is Estate framework, not a household count inferred from one story.
 
 ## Residential section
 
@@ -27,7 +27,7 @@ The daily heart of the home uses oversized deep seating, warm layered light, sof
 
 ### MC suite
 
-The main bedroom is a deliberately feminine sanctuary shaped by soft curves, enclosure, warmth, and protective comfort. Magenta, pastel rose, blush, velvet, and layered lighting create a cocoon rather than a ceremonial showpiece. Feminist art and small sculpture are selected with intention. A massive harem-style bed and deep field of pillows can comfortably support intimate company and a substantial adult gathering, with a practical design capacity around twenty rather than a required household count.
+The main bedroom is a deliberately feminine sanctuary shaped by soft curves, enclosure, warmth, and protective comfort. Magenta, pastel rose, blush, velvet, and layered lighting create a cocoon rather than a ceremonial showpiece. Feminist art and small sculpture are selected with intention. A massive harem-style bed and deep field of pillows can comfortably support the entire fourteen-member household and a substantial adult gathering, with a practical design capacity around twenty.
 
 ### Shared ensuite and Cascade Array
 
@@ -46,15 +46,13 @@ Each rainfall station can recognize the entrant's selected profile for water tem
 
 Each vanity includes professional hair and cosmetic tools, an illuminated mirror, and an OAM preview surface capable of showing a proposed hairstyle, makeup treatment, or color change before an automated or human service performs it.
 
-### Personal suites
+### Thirteen individual partner suites
 
-Private suites flank the main suite. Each functions as a small independent apartment with bedroom, private bath, sitting area, morning kitchen, and ordinary walk-in dressing room. Suites are occupied as the household grows. Their existence does not create residents, partners, or relationship status.
-
-The final suite count remains open because older records tie counts too closely to one story's household. Reserve space protects future expansion.
+Thirteen private suites flank the main suite, one for each partner. Each provides a personalized bedroom, private bathroom, reading nook, warm furnishings, and a quiet place for rest and retreat. The fuller suite program also supports a sitting area, morning kitchen, and ordinary walk-in dressing room where space planning permits. The suite count and partner relationship are established Estate specifications, not open story-state fields.
 
 ### Daily family rooms
 
-- The family dining room uses a large wooden table for ordinary shared meals and remains separate from the formal banquet hall.
+- The family dining room uses a large wooden table where all fourteen household members regularly share ordinary meals and remains separate from the formal banquet hall.
 - The daily kitchen uses open shelving, well-used cookware, a breakfast booth, and practical equipment for household cooking.
 - The family room supports media, board games, quiet evenings, and low-key recreation.
 - A secluded private terrace extends the residence into planted outdoor space with comfortable seating and privacy.
@@ -69,7 +67,7 @@ The Fashion Empire's product-copy rule operates here: every applicable product r
 
 ### Partner dressing room
 
-The connected partner dressing room is a shared household wardrobe environment designed with thirteen walk-in closet stations and thirteen standing dressmaker's-form mannequins. The count is architectural capacity, not a mandatory number of partners. Personal suites still have ordinary closets; the shared room exists for the deep wardrobe and retrieval ecosystem.
+The connected partner dressing room is a shared household wardrobe environment for the thirteen partners, with thirteen walk-in closet stations and thirteen standing dressmaker's-form mannequins. Personal suites still have ordinary closets; the shared room exists for the deep wardrobe and retrieval ecosystem.
 
 Six mobile retrieval robots dock in wall alcoves. Each has a warehouse-style drive base, telescoping vertical reach, and articulated arms and hands appropriate to garment handling. They travel between the dressing rooms and the B1/B2 wardrobe areas through the private lift network. The robots are docked out of sight when idle; the mannequins remain ordinary visible fixtures.
 
@@ -146,4 +144,3 @@ Objects may be displayed at Mnemosyne and later return to the dressing room. Con
 - Biometric security protects high-value and private areas; it does not grant Athena ownership or human authority.
 - Personal suites remain private even within a highly connected household.
 - A partner's access to shared wardrobe infrastructure does not erase ownership records, bodily autonomy, or personal boundaries.
-- Story-specific intimate use is never implied merely by architectural capacity.
