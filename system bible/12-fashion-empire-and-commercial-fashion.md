@@ -7,9 +7,11 @@ Authority: OWNERSHIP CANON WITH DATED VARIABLE FINANCIALS
 
 [Athena](02-athena.md) is a person and Jim's daughter, not the empire's capital-deployment algorithm. Capital deployment, acquisitions, patent development, and institutional coordination are actions she performs during her hidden history.
 
-The empire's causal beginning is Athena's profitable commercialization of a bounded offering derived from her own capabilities. That offering supplies seed capital; its exact product remains open. Athena then recognizes value in Jim's abandoned solutions and builds outward through J., companies, people, and institutions.
+The empire's causal beginning is a platform-as-a-service comprising predictive analytics, a financial engine, adaptive logistics, and an integrated suite. Jim conceives and builds the core capabilities through a freelance engagement arranged by Athena; Athena creates J., operates the platform, and commercializes it. The revenue supplies seed capital. Athena then recognizes value in Jim's abandoned solutions and builds outward through companies, people, and institutions.
 
-Danielle Reyes operates the visible day-to-day empire and does not know Athena exists before the reveal. Exact J. legal machinery and action-by-action authority remain unresolved in Athena's ledger.
+Jim unknowingly owns the initial company through J., signs Athena's digital-agent authority, and later becomes a permanent employee of her own company. [Athena's first-business record](02-athena/first-business-j-and-employment.md) governs this history.
+
+Danielle Reyes enters during later growth, operates the visible day-to-day empire, and does not know Athena exists before the reveal. J. is a business/ownership construct rather than a second AI. Later J. representation, Danielle's entry, and action-by-action authority remain under recovery in Athena's ledger.
 
 ## Ownership model
 
