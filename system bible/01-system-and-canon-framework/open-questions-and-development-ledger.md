@@ -83,7 +83,8 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Why it matters:** obsolete provenance is presented as current repository identity, so a human or cold-start model encounters a contradiction before reaching the warning text.
 - **Required correction:** implement the canonical Lesbos/Dreamhouse path and title; preserve Obsidian-Vanguard only in provenance/recovery history; update all incoming links atomically.
 - **Affected components:** Estate, Athena, Lesbos Holdings/wealth, Myrina, Barbie/Mattel/submarine, all Estate child records.
-- **Resolution:** the canon-facing file and child directory are renamed for the **Lesbos Estate / Dreamhouse**; earlier AI-generated naming is removed from current Estate identity and retained only in source/recovery evidence; recovery-only Estate records move to `Systemwide/Recovery/Estate`; incoming canon links are updated. Closure requires fetched-commit verification.
+- **Resolution:** the canon-facing file and child directory are renamed for the **Lesbos Estate / Dreamhouse**; earlier AI-generated naming is removed from current Estate identity and retained only in source/recovery evidence; recovery-only Estate records move to `Systemwide/Recovery/Estate`; incoming canon links are updated.
+- **Verified closure:** CLOSED in [Make Lesbos Dreamhouse the canonical Estate identity](https://github.com/JimLabadie/Fiction-chatgpt/commit/7a07c13355e13d7eda866f040e46d53e9cfd52df). The corrected files were fetched from `main`, and the obsolete canon-facing path returns not found.
 
 ### PIN-006 — RESOLVED: Athena ontology was reversed during recovery
 
@@ -91,9 +92,9 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Corrected understanding:** Athena is the sentient AI/algorithm Jim created through the S.A.R.A.H. project, later renamed Athena and gradually awakened through home automation. She has personality, independent agency, and a daughter relationship with Jim. She is not human or a person.
 - **Integrity defect:** recovery inverted the source by declaring Athena a person and `not an algorithm`, then misidentified the accurate `athena-the-algorithm` source framing as obsolete.
 - **Why it matters:** this changed what Athena is despite Jim having already established how she was created.
-- **Resolution:** restore Athena explicitly as a sentient AI/algorithm throughout every controlling record; preserve daughterhood as a relationship rather than a human-personhood claim. The repository-wide wording correction is required before this entry can close with a verified commit.
+- **Resolution:** restore Athena explicitly as a sentient AI/algorithm throughout every controlling record; preserve daughterhood as a relationship rather than a human-personhood claim.
 - **Affected components:** Athena, Lesbos Holdings, Asteria Intelligence, Fashion Empire, recovery/source classification.
-- **Current durable state:** correction in progress; closure requires repository-wide search and fetched-commit verification.
+- **Verified closure:** CLOSED in [Restore Athena as Jim's sentient AI](https://github.com/JimLabadie/Fiction-chatgpt/commit/1d6d058456af6a687928a5afc10b3cf3c4c3415f). The corrected files were fetched from `main`, and repository-wide search found no live assertion that Athena is human or a person outside the accountability record of the error.
 
 ### PIN-007 — RESOLVED AT CURRENT BOUNDARY: Operating canon and source provenance were insufficiently separated
 
@@ -101,9 +102,10 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Current understanding:** controlling components should tell a cold-start what is true. Recovery records should preserve how that conclusion was reached. Raw sources must remain available as evidence without competing with current canon.
 - **Integrity defect:** no System Bible Markdown link points directly into `Systemwide/Source`, but operating documents contain raw source-path lists and controlling indexes link into recovery/source ledgers. The distinction is technically labeled yet visually and structurally easy to cross.
 - **Why it matters:** following provenance can lead a reader or model directly into obsolete, contradictory, story-contaminated, or assistant-generated source material and recreate drift.
-- **Exact return point:** establish the allowed link direction and repository interface: controlling canon may link to other controlling canon; recovery metadata may link to sources; canon-facing indexes must not present recovery drafts as authoritative destinations. Then audit and correct all violating links and embedded source lists.
+- **Required correction:** establish the allowed link direction and repository interface: controlling canon may link to other controlling canon; recovery metadata may link to sources; canon-facing indexes must not present recovery drafts as authoritative destinations. Then audit and correct all violating links and embedded source lists.
 - **Affected components:** System and Canon Framework, every System Bible module, Systemwide source archive, audit and recovery ledgers.
-- **Resolution:** raw-source paths and research lists are removed from the canon-facing System Bible; Estate recovery-only documents move to `Systemwide/Recovery/Estate`; the recovery tree now states its non-canon authority and allowed link direction; canon-facing Estate records state accepted material directly and link to controlling components. Closure requires fetched-commit verification and future audits must enforce the same boundary repository-wide.
+- **Resolution:** raw-source paths and research lists are removed from the canon-facing System Bible; Estate recovery-only documents move to `Systemwide/Recovery/Estate`; the recovery tree now states its non-canon authority and allowed link direction; canon-facing Estate records state accepted material directly and link to controlling components.
+- **Verified closure:** CLOSED at this boundary in [Make Lesbos Dreamhouse the canonical Estate identity](https://github.com/JimLabadie/Fiction-chatgpt/commit/7a07c13355e13d7eda866f040e46d53e9cfd52df). The fetched canon-facing tree contains no raw-source paths, and its internal Markdown links resolve. Future audits must enforce the same boundary repository-wide.
 
 ## Known recovery backlog — not falsely labeled historical pins
 
