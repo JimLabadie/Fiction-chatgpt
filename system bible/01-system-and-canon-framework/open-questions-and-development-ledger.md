@@ -107,6 +107,16 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Resolution:** raw-source paths and research lists are removed from the canon-facing System Bible; Estate recovery-only documents move to `Systemwide/Recovery/Estate`; the recovery tree now states its non-canon authority and allowed link direction; canon-facing Estate records state accepted material directly and link to controlling components.
 - **Verified closure:** CLOSED at this boundary in [Make Lesbos Dreamhouse the canonical Estate identity](https://github.com/JimLabadie/Fiction-chatgpt/commit/7a07c13355e13d7eda866f040e46d53e9cfd52df). The fetched canon-facing tree contains no raw-source paths, and its internal Markdown links resolve. Future audits must enforce the same boundary repository-wide.
 
+### PIN-008 — Coven language and fourteen-member Estate household context
+
+- **Source:** Jim's direct correction on 2026-09-13 after review of the populated Lesbos Estate records; `The Estate.docx` and the Estate source family provide the underlying wording.
+- **Current understanding:** `The Estate.docx` is Estate-framework material, not story lore. It establishes a household model consisting of a transgender family anchor and thirteen partners, fourteen household members in total. It also describes guest housing for visiting family, `prospective coven members`, and extended stays.
+- **Known problem:** the initial System Bible population stripped or weakened these facts by treating them as story-dependent capacity. The first repair restored the counts and the word `coven`, but Jim has identified inaccurate descriptions and missing context. Restoration of isolated wording is not resolution.
+- **Why deferred:** Jim has deliberately put this interpretive work on hold while the remaining total framework and ignored developed-skill material are reconciled.
+- **Exact return point:** discuss what `coven` means in this framework; how it relates to the thirteen partners, the transgender anchor, family, partnership, prospective membership, and Estate design; identify every inaccurate or context-poor description; then revise all affected controlling records without inference.
+- **Affected components:** Lesbos Estate, relationships/family/polycule, sapphic culture, guest housing, Anchor A residence, terminology and story-instantiation rules.
+- **Current durable state:** the literal household count, thirteen suites, fourteen-person use, and `prospective coven members` wording are restored. Their full meaning and cross-component context remain open and must not be treated as settled.
+
 ## Known recovery backlog — not falsely labeled historical pins
 
 The following are verified missing or underrepresented components. They are recorded here so they cannot disappear, but the current evidence does not prove that Jim used the specific phrase `put a pin in it` for each one:
