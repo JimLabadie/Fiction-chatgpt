@@ -29,9 +29,9 @@ Jim's current instruction confirms that every omission listed here is wrong. The
 | Material | Evidence of reusable scope | Export gap |
 |---|---|---|
 | Project Phryne | Page 004: Jim states the Metis and Techne deal was codenamed Phryne of Athens | Missing from the current technology/company module and chronology |
-| Athena controlling component | Athena has reusable identity, history, agency, corporate activity, relationships, and reveal behavior | **RESTORED:** controlling person/daughter record, hidden-history/reveal record, and decision/receipt ledger now exist; open fields remain protected for collaboration |
+| Athena controlling component | Athena has reusable identity, history, agency, corporate activity, relationships, and reveal behavior | **RESTORED:** controlling sentient-AI/daughter record, hidden-history/reveal record, and decision/receipt ledger now exist; open fields remain protected for collaboration |
 | CLIO controlling component | Direct accepted functional corrections exist | Only Estate routing and fragments in other modules exist |
-| Mnemosyne and Erato controlling components | Direct accepted development exists | Only Estate routing exists; their institutional truth has not been exported as a complete component |
+| Mnemosyne and Erato controlling components | Direct accepted development exists | **SUBSTANTIALLY RESTORED:** [Anchor B Mnemosyne](../08-lesbos-estate-dreamhouse/anchor-b-mnemosyne.md) now controls the unified institution, visitor journey, fine-art program, Erato wing, collection boundaries, conservation, access, and story-state rules. Collection inventory, Aglaea detail, final partition, and Erato legal boundary remain open. |
 | Wealth-management infrastructure | Page 019 places Wealth Management among the reusable infrastructure packages | **RESTORED FOUNDATION:** [Lesbos Holdings and Wealth Infrastructure](../13-lesbos-holdings-and-wealth.md) now controls the accepted origin, ownership shell, investment ramp, and Danielle boundary; detailed mature holdings remain under recovery |
 | Metis, Techne, OAM, Threadbourne, Evergreen, Cassandra and related company histories | Pages 002 and 019 explicitly identify them as major reusable infrastructure, not incidental story details | Compressed into short module 16 summaries; independent histories, relationships, facilities, Phryne history, and manifests remain unpropagated |
 | Fleet/aviation/property infrastructure | Recovered Estate and company sources treat these as separable reusable assets | Routed to a “candidate” destination but no controlling component exists |
@@ -73,6 +73,6 @@ When a developed component is incomplete, persist the known approved state and t
 ## Required continuation
 
 1. Recover the complete trigger chronology around Athena reveal, Project Artemis, Project Phryne, and the post-reveal investment sequence.
-2. Continue controlling-component recovery for CLIO, Mnemosyne/Erato, Wealth Management, and the company ecosystem. Athena's initial controlling component is restored and now requires collaborative expansion rather than another scope decision.
+2. Continue controlling-component recovery for CLIO, Mnemosyne's collection/Aglaea/final partition, Erato's legal boundary, Wealth Management, and the company ecosystem. Athena and the detailed Lesbos/Anchor B physical baseline are restored and now require collaborative expansion rather than another scope decision.
 3. Audit every remaining use of `candidate`, `optional`, `story-local`, and `excluded` against direct Jim instructions and source-package scope.
 4. Treat unclear scope as `UNRESOLVED SCOPE — JIM DECISION REQUIRED`; never resolve uncertainty by exclusion.

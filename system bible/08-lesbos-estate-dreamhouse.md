@@ -1,93 +1,103 @@
-# Lesbos Estate / Dreamhouse
+# Lesbos Estate and Dreamhouse
 
-Status: IN PROGRESS — IDENTITY CANON; ARCHITECTURE AND CONTENT UNDER RECOVERY
-Authority: CONTROLLING ESTATE NAME AND SHARED-ASSET IDENTITY; OTHER FIELDS CONTROL ONLY WHERE EXPLICITLY MARKED
+Status: DETAILED REUSABLE BASELINE WITH NAMED OPEN FIELDS
+Authority: CONTROLLING ESTATE IDENTITY ARCHITECTURE FACILITIES AND OPERATING BOUNDARIES
 
 ## Canonical identity
 
-**Lesbos** is the Estate's accepted formal root. **Dreamhouse** is its affectionate and functional shorthand. The exact longer legal form of the Lesbos name remains open.
+**Lesbos** is the Estate's accepted formal root. **Dreamhouse** is the family's affectionate and functional name for the residence. The exact longer legal form of the Lesbos name remains open. Earlier AI-generated names are not aliases or competing canon.
 
-Earlier AI-generated names are source provenance only. They are not current names, aliases, or competing canon and do not belong in the Estate's canon-facing title, filename, or directory identity.
+The Estate is the converted former Galleria at University Park: a private, fortified, deliberately joyful home and institutional campus built from an enclosed regional mall. It is deliciously impossible by design, but its scale, circulation, utilities, staffing, and inherited structure are concrete rather than hand-waved.
 
-## Recovery warning
+The Dreamhouse is **home**. Penthouses, vacation properties, and other residences in the wider family holdings are places the family has; they do not compete with Lesbos as the household's emotional center.
 
-This file is a preliminary synthesis from a limited Estate source set. It is **not** a verified current baseline. The recovered `Persist Story Bibles` conversation identifies material decisions that did not propagate into the surviving Estate document, and this draft currently repeats some older versions as if they were settled.
+## Controlling measurements
 
-Do not use this file alone to establish the Estate in a new story until its complete source family has been inventoried and reconciled.
+| Field | Controlling value |
+|---|---:|
+| Site | 42.5 acres |
+| Cash acquisition | $142.5 million |
+| Conversion budget | $85 million |
+| Above-grade former-galleria shell | Approximately 660,000 sq ft |
+| Basement B1 | Approximately 650,000 sq ft |
+| Basement B2 | Approximately 650,000 sq ft |
+| Main-building enclosed total | Approximately 1,960,000 sq ft |
+| Anchor A | Approximately 125,000 sq ft above grade |
+| Anchor B | Approximately 125,000 sq ft above grade |
 
-## Canon-facing components
+Separate campus buildings and landscaped grounds are outside the 1.96-million-square-foot main-building total.
 
-- [Athena](02-athena.md) — controlling sentient-AI/daughter record, hidden-history boundary, J. interface, Estate purchase, reveal, and authority transition.
-- [Myrina / Lesbian NORAD](08-lesbos-estate-dreamhouse/family-concierge-lesbian-norad.md) — accepted reusable command-concierge component, military bunker, staff culture, and interchangeable function-derived Greek woman's name.
-- [Barbie, Mattel, and the Submarine](08-lesbos-estate-dreamhouse/barbie-mattel-and-submarine.md) — accepted Barbie design language, bidirectional canon-extension rule, Mattel acquisition, submarine origin, and active development fields.
+The older statement that the Estate contains only 650,000 square feet is superseded as a total-building description. It survives only as a rounded description of the original retail footprint. The older separately excavated four-story Deep Archive is also superseded physically by B1 and B2. Its collection, conservation, delivery, and archive functions are retained inside the two-level model rather than added as a third underground structure.
 
-Source inventories, version comparisons, and recovery routing live outside the canon-facing System Bible tree. They preserve evidence but do not compete with this record.
+## Estate components
 
-## Known unresolved versions and propagation gaps
+- [Site Arrival and Campus](08-lesbos-estate-dreamhouse/site-arrival-and-campus.md) controls the perimeter, approach, landscape, outdoor recreation, separate campus facilities, retained legacy buildings, and external operations district.
+- [Main Building Architecture and Space Ledger](08-lesbos-estate-dreamhouse/main-building-architecture-and-space-ledger.md) controls the inherited mall shell, current section mapping, B1 and B2, circulation, and reserve-space accounting.
+- [Anchor A Residence Wardrobe and Wellness](08-lesbos-estate-dreamhouse/anchor-a-residence-wardrobe-and-wellness.md) controls the private family complex, household rooms, wardrobe, salon, spa, medical bay, and installed presentation systems.
+- [Anchor B Mnemosyne](08-lesbos-estate-dreamhouse/anchor-b-mnemosyne.md) controls the unified journey through fashion, fine art, Erato, collection handling, education, working technology, and scheduled visitor use.
+- [Hospitality Recreation and Support](08-lesbos-estate-dreamhouse/hospitality-recreation-and-support.md) controls the gathering hall, culinary spaces, entertainment, guest housing, library, bodega, wine storage, and internal distribution.
+- [Inherited Shell and Unit Ledger](08-lesbos-estate-dreamhouse/inherited-shell-and-unit-ledger.md) records every inherited anchor, major tenant, inline unit, public area, and back-of-house allocation so future revisions remain tied to real space.
+- [Staffing and Operations](08-lesbos-estate-dreamhouse/staffing-and-operations.md) controls the operating departments, baseline staffing model, availability rules, and institutional credit.
+- [Barbie Mattel and the Submarine](08-lesbos-estate-dreamhouse/barbie-mattel-and-submarine.md) controls the Barbie translation rule, Estate origin, Mattel relationship, and submarine development.
+- [Myrina and Lesbian NORAD](08-lesbos-estate-dreamhouse/family-concierge-lesbian-norad.md) controls the family concierge and logistical command department.
 
-- **Naming:** resolved at the current level: `Lesbos` is the accepted formal Estate root and `Dreamhouse` is the affectionate shorthand. Exact legal expansion remains open.
-- **Enclosed area:** an older model describes approximately 650,000 square feet total. A later model describes approximately 1.96 million enclosed square feet: about 660,000 above grade plus two approximately 650,000-square-foot underground levels.
-- **Underground organization:** an older four-level `Deep Archive` model conflicts with or was superseded by the later B1 active-operations and B2 storage/resilience model.
-- **Anchor B:** older allocations for the Whitfield Museum of Fashion and an Innovation Showroom were later developed into a unified `Mnemosyne` concept using substantially more of Anchor B, with Erato integrated throughout, a chronological Core Gallery, Future, rotating programs, Soapbox/debate functions, and Aglaea. Those decisions are not propagated into the surviving Estate master document.
-- **Wardrobe system:** later development includes the WIS-to-CLIO rename and clarified tablet and reciprocal partner-access behavior not represented here.
-- **Barbie/Dreamhouse origin:** the later causal history—Jim's Christmas-season Barbie-commercial question, the mall rabbit hole, Athena's purchase/conversion, and its reveal function—has been recovered into the architecture and routing records; full event-sequence reconstruction remains.
-- **Collections and Footwear Vault:** later unified collection, display, use, and Aglaea relationships require reconciliation with older vault and archive descriptions.
+## Governing design language
 
-These items are conflicts or recovery leads, not silently resolved canon.
+The Estate combines fortress-grade privacy and commercial-grade infrastructure with a full-scale adult interpretation of Barbie and Dreamhouse design. It is not a giant plastic toy and not merely a conventional mansion painted pink.
 
-## Provisional older-source synthesis
+The recurring palette uses magenta, hot pink, teal, crisp white, blush, and rose-gold accents. Curves, layered light, transparency, modularity, accessibility, playful movement, gardens, pools, elevators, wardrobes, salons, vehicles, careers, and specialized environments are translated into functional architecture.
 
-The following material is retained so facts are not lost while reconciliation proceeds. Its presence does not resolve the competing versions listed above.
+Barbie references operate as design lineage, not literal copying. The Estate may use a historical Barbie feature as a starting vocabulary, then let architects, engineers, designers, craftspeople, and operators make it beautiful, durable, safe, and adult.
 
-### Property
+## Reusable versus story state
 
-The surviving Estate master document places the property at the former Galleria at University Park on 42.5 wooded acres. It states a $142.5 million acquisition and an $85 million conversion. Commercial HVAC, reinforced floors, fire suppression, high-volume utilities, fiber, generators, security, and back-of-house circulation remain.
+The physical Estate, institutional components, and designed capacities are reusable. A particular story controls:
 
-Arrival pairs fortress-grade security with a joyful dollhouse aesthetic: limestone pavilion, half-mile maple drive, reconfigurable magenta/hot-pink/teal/white plaza, rose-gold accents, movable landscape and water elements, and a transparent accessible elevator.
+- who currently lives there;
+- which suites are occupied;
+- which institutions are activated for a public or private event;
+- where a specific collection object is currently stored, displayed, loaned, or worn;
+- which vehicles, aircraft, watercraft, and outside properties are currently assigned;
+- which post-reveal acquisitions or technologies have entered operation;
+- current staffing vacancies, shifts, and named employees.
 
-### Outside and separate facilities
+Capacity never dictates household composition. The architecture can support a large family, guests, staff, events, future children, and later growth without requiring every story to instantiate them.
 
-Surviving sources describe a climate-controlled 60-plus-vehicle motor court; pool, sport field, greenhouse, gardens, daycare/Montessori center and play yards; a 20–25-apartment staff residence; Cassandra Labs; and grounds, aviation, watercraft, security, utility, receiving, and service functions.
+## Ownership and use
 
-Whether every facility belongs to the reusable Estate baseline, and which version governs its dimensions and use, remains to be verified.
+The family's collections remain owned by the MC even when Mnemosyne catalogs, conserves, archives, or displays them. Institutional status does not create a separate owner. **Ownership overrides curatorial status and preciousness:** a wearable object remains available to be worn, including an irreplaceable or extremely valuable piece, subject to the owner's choice and the practical care appropriate to it.
 
-### Main-program claims requiring dimensional reconciliation
+The Fashion Empire's product-copy rule supplies the MC with a fitted copy of every product released by a holding in the applicable size. Those objects may live in the active wardrobe, underground storage, conservation, or display system. Location and use state do not alter ownership.
 
-Older and later sources allocate space differently. Claims presently preserved for comparison include:
+## Access and circulation
 
-- Family Sanctuary and Master Quarters: about 26,000 sq ft.
-- Great Gathering Hall: about 40,000 sq ft finished within a larger inherited zone.
-- Epicurean Kitchen and Dining: about 45,000 sq ft of finished program.
-- Grand Wardrobe Salon and Spa: about 65,000 sq ft.
-- Medical Bay and Wellness: about 4,000 sq ft.
-- Entertainment, Culture and Leisure: competing allocations exist.
-- Transportation and Logistics: about 6,000 sq ft in one allocation.
-- Daily Living and Support: about 24,000 sq ft in one allocation.
-- Anchor B cultural, museum, gallery, showroom, and reserve uses: substantially superseded or expanded by later Mnemosyne development.
-- Large conditioned operational and hardened reserves in the later B1/B2 model.
+Private household circulation, invited visitor circulation, scheduled institutional access, staff/service circulation, and commercial deliveries are separated physically.
 
-Do not invent rooms to force a total, and do not add figures from incompatible versions.
+- Visitors approach through controlled entrances appropriate to their destination.
+- Commercial vehicles stop in the external service district.
+- Screened goods transfer into the internal receiving network.
+- Staff corridors, quiet carts, service drives, and freight lifts distribute people and material without routing them through private rooms.
+- Anchor B can operate for a scheduled event without opening Anchor A.
+- Private elevators and lifts connect Anchor A to wardrobe, laundry, storage, and archive functions on B1 and B2.
 
-### Residential-core claims
+## Hard boundaries
 
-Surviving sources describe an Anchor Suite as a warm, enclosing, curved sanctuary in magenta, rose, and blush with feminist art and layered light. Its ensuite is designed for a large household, with zoned rainfall stations, soaking tubs, multiple vanities, private water closets, heated surfaces, robe storage, and private nooks.
+- Do not return to the 650,000-square-foot total or add the obsolete four-story Deep Archive to B1 and B2.
+- Do not use older separate museum, gallery, and showroom wings after their consolidation into Mnemosyne in Anchor B.
+- Do not convert designed capacity into mandatory residents, partners, children, or employees.
+- Do not treat Athena as the Estate operating system. Athena is the sentient AI Jim created and may access Estate systems without becoming identical to them.
+- Do not turn staff into anonymous extensions of Jim, Athena, or the building. People perform the work and receive credit.
+- Do not turn collections into untouchable museum property merely because they are conserved or displayed.
+- Do not fill reserve space simply to make the Estate sound complete.
+- Do not require an investment or strategic justification for every pleasurable feature. Sometimes the family owns something because it is useful, beautiful, fun, or cool.
 
-They also describe an Anchor Dressing Room, a Partner Dressing Room, mannequins, jewelry and footwear storage, retrieval systems, and connections to larger wardrobe/archive functions. Exact counts, system names, access rights, and connections require comparison with later CLIO and collection development.
+## Open fields
 
-### Fleet and staffing claims
-
-The source family contains a holding-company fleet, household vehicles, aircraft, watercraft, recreation vehicles, staffing plans, staff housing, service infrastructure, and wealth-management functions. Ownership, component boundaries, story-local assignments, and the current controlling inventory remain unverified.
-
-The joke that the aesthetic “feminizes” people is not a real transformation mechanism. Staff are skilled people with private lives; a staffing plan does not imply that everyone works simultaneously.
-
-## Completion requirements
-
-This module may return to **Complete** only after:
-
-1. every Estate-family source has been opened and registered;
-2. exact duplicates and meaningful variants are identified;
-3. story-local Estate state is separated from the reusable component;
-4. naming, dimensions, underground levels, Anchor B/Mnemosyne, CLIO, collections, origin history, staffing, fleet, and ownership conflicts are resolved or explicitly retained as variants;
-5. relationships to other reusable components are marked as required, optional, historical, or uncertain;
-6. Jim approves material choices that the evidence cannot settle; and
-7. the published file and source ledger are fetched and verified.
+- exact long-form legal Estate name;
+- final suite count and expansion sequence inside Anchor A;
+- final reconciliation of landscaped-acre arithmetic;
+- permanent uses for the seven maintained legacy commercial buildings;
+- final room-by-room partition of Anchor B beyond the accepted 125,000-square-foot shell and established program;
+- exact size and story-state activation of the recorded Cassandra Labs Estate R&D building;
+- named staff roster and reporting relationships not already controlled by Myrina;
+- complete current fleet, aviation, watercraft, and global-property ledgers.

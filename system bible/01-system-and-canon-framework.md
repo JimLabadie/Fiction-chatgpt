@@ -54,7 +54,7 @@ Reusable components may also define triggered events or state transitions. Their
 - [`unauthorized-descoping-audit.md`](01-system-and-canon-framework/unauthorized-descoping-audit.md) records material omitted, downgraded, or mislabeled story-local without Jim's consent and tracks the required corrections.
 - [`open-questions-and-development-ledger.md`](01-system-and-canon-framework/open-questions-and-development-ledger.md) is the controlling register for pins, deferred discussions, exact return points, and known recovery obligations.
 - [`persistence-failure-and-repair-record.md`](01-system-and-canon-framework/persistence-failure-and-repair-record.md) records the chat-dependence failure, the distinction between preservation and propagation, and the requirements for repairing it.
-- [`Systemwide/Audit/README.md`](../Systemwide/Audit/README.md) records the evidence-first whole-repository inventory, exact duplicates, text matches, filename/version families, package contents, component map, and honest semantic-review boundary.
+- Repository-audit material outside `system bible` is evidence only. It may be consulted during recovery but cannot control story truth or substitute for a System Bible destination.
 
 ## Status discipline
 
@@ -80,4 +80,4 @@ No module may be declared complete merely because material was “routed.” Com
 
 No pin, deferral, or promised return may remain only in conversation. It must appear in the Open Questions and Development Ledger before the subject changes. No work may be called saved or codified unless the substantive destination and verified Git commit can be identified.
 
-The repository-wide byte and container inventory is complete for baseline `230742369a0ef0d441cfa9edf7bc31b44e966adc`; the claim-level semantic audit is not. See the [Component Coverage Register](../Systemwide/Audit/component-coverage-register.md).
+The repository-wide byte and container inventory is evidence only; the claim-level semantic audit remains incomplete. Every accepted result must be written into `system bible` before it is valid for story use.

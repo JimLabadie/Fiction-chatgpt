@@ -59,7 +59,7 @@ Raw evidence is essential, but it is evidence beneath the record rather than a s
 
 - historical conversational pins and exact return points;
 - CLIO's complete recovered behavior and source comparison;
-- Mnemosyne and Erato's detailed accepted institutional development;
+- Mnemosyne and Erato's detailed accepted institutional development, now substantially restored in the controlling Anchor B component; collection accounting, Aglaea, final interior partition, and Erato's legal boundary remain open;
 - the full Change Toolkit;
 - multiple company, person, St. Claire, fleet/property, collection, manufacturing, beauty, and technology components listed in the Component Coverage Register;
 - Athena's technical-access/privacy/discretion rule before the present repair;

@@ -112,7 +112,7 @@ The order above records the last explicit collaborative sequence. Jim may change
 The following are verified missing or underrepresented components. They are recorded here so they cannot disappear, but the current evidence does not prove that Jim used the specific phrase `put a pin in it` for each one:
 
 - standalone CLIO controlling component;
-- complete Mnemosyne and Erato controlling components;
+- complete CLIO object/wardrobe/logistics component and the remaining Mnemosyne collection, Aglaea, interior-partition, and Erato legal-boundary work;
 - Amélie and other promoted reusable-person records;
 - mature St. Claire civic, legal, infrastructural, cast, place, and institutional recovery;
 - independent Metis, Techne, Project Phryne, OAM, Threadbourne, Evergreen, and Cassandra Labs histories and relationships;
@@ -121,7 +121,7 @@ The following are verified missing or underrepresented components. They are reco
 - complete source propagation for Fashion, relationships, beauty, manufacturing, facilities, prosthetics, and advanced technology;
 - claim-level review of the conversation archive, accepted assistant proposals, source variants, and story/reusable boundaries.
 
-The repository-wide [Component Coverage Register](../../Systemwide/Audit/component-coverage-register.md) is the evidence map for this backlog. It does not replace this return ledger.
+This ledger is the controlling and self-contained backlog. Evidence or audit material outside `system bible` may help reconstruct an item, but it cannot replace, amend, or complete an entry here.
 
 ## Closure rule
 
