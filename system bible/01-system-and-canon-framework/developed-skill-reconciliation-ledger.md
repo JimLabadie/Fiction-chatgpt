@@ -1,6 +1,6 @@
 # Developed Skill Reconciliation Ledger
 
-Status: INVENTORY COMPLETE — CLAIM-LEVEL RECONCILIATION NOT STARTED
+Status: STRUCTURAL AND COVERAGE AUDIT COMPLETE — CLAIM-LEVEL RECONCILIATION PARTIAL
 Authority: CONTROLLING SYSTEM-BIBLE REGISTER OF DEVELOPED SKILL COVERAGE AND PROPAGATION WORK
 
 ## Purpose and boundary
@@ -27,6 +27,23 @@ Word counts below are scale signals only. They do not establish accuracy, author
 | Polyamory and Family | 1 | 3 | 2,278 | `03-relationships-family-and-polycule.md` — 421 words | **Severely under-propagated** |
 | Sapphic Culture | 1 | 1 | 2,643 | `06-sapphic-culture.md` — 309 words | **Severely under-propagated** |
 | Wealth Management | 3 content-equivalent copies | 2 | 2,313 | `13-lesbos-holdings-and-wealth.md` — 497 words | **Severely under-propagated** |
+
+## Project-wide coverage answer
+
+The System Bible does **not** yet reflect the developed Markdown collection as a whole. The original inventory proved that the files exist; it did not prove that their substance had been reconciled or propagated. As of this checkpoint:
+
+| Skill family | What the System Bible currently reflects | Missing, conflicting, or deliberately superseded material |
+|---|---|---|
+| Age and Generational Culture | General anti-stereotype principles only | No substantive destination. Cohorts, formative events, technology-adoption texture, communication norms, work/institution attitudes, cross-generational dynamics, and outsider errors are absent. |
+| Gender Presentation Culture | General respect, agency, femininity, and trans-womanhood principles scattered across framework records | No substantive destination. Terminology, presentation methods, HRT/voice/hair-removal detail, passing and clocking psychology, euphoria, support structures, legal logistics, and outsider errors are absent. Medical, cost, and legal claims require accuracy review before promotion. |
+| Sapphic Culture | A small vocabulary core, five symbol summaries, plural-culture warning, outing/privacy boundary, and trans-inclusive relationship rule | Most vocabulary and generational usage, community institutions, relationship lore, historical touchstones, full symbol history, presentation spectrum, high-femme specificity, and outsider-error guidance are absent. Several historical and etymological claims require verification rather than automatic canonization. |
+| Polyamory and Family | Monogamy as a unit, unanimous shared invitations, encounter/integration distinction, individual agency, Hestia protections, and optional-checklist status | Invitation philosophy and exact internal relationship shape remain unresolved. The source's household checklist is preserved as prompts, not imposed as governance. Detailed checkpoint follows below. |
+| Change Worldbuilding Toolkit | Basic swap/change taxonomy, independently selectable layers, minimum instance fields, four digital-life questions, competence separation, and consent/reversal principles | The full mechanics ledger, Gate 1, default-depth logic, transfer and linked-aspect packages, precedent system, identity roster, memory/trait trackers, disclosure and consequence logs, physiological adaptation model, perceptual package, trait taxonomy, and lived-competency banks are absent. Story-specific Joe/Chloe and Tom/Nora precedents are not framework canon. The purported standing Gendered Asymmetry rule and non-consensual cold-test outcomes require discussion and cannot be silently promoted. |
+| Fashion Empire | Correct later Athena/Asteria/Lesbos/Danielle causal history, September 10 workbook valuation snapshot, broad ownership model, and names of major technology families | Nearly all 23 Markdown files are compressed to names or short summaries. Detailed holdings, patronage, company histories, facilities, product catalogs, technical manifests, capital deployment, and operating relationships are absent. The skill's generic sentient `algorithm` directly contradicts Athena canon: it says every Fashion story has one, the anchor names it after the reveal, it never acts beyond instructions, and it may become the Estate intelligence. Those claims are superseded. The skill's $600B–$745B holdings map conflicts with the accepted workbook snapshot. Cassandra has eight people in the System Bible but nine in the skill, including Marisol Vega; this is unresolved. |
+| Wealth Management | Lesbos as protective ownership/IP root, gradual wealth origin, professional human administration, background investing, and the Hestia choice-neutral principle | Trust/LLC architecture, tiered staffing and cost models, asset allocation, family-office structure, and individual partner-trust implementation are absent. The source's Family Constitution suggestion improperly singles out a polyamorous household for formal governance and is superseded by the relationship correction. Its shell/proxy/split-timing language proposes concealing consolidation to avoid regulatory tripwires; it is not controlling canon and requires legal, ethical, and story-purpose review before any reuse. |
+| Estate | A large, detailed Lesbos Estate tree now preserves many physical functions, staffing categories, residential counts, wardrobe systems, facilities, circulation, and operations | The skill's Obsidian-Vanguard name, 650,000-square-foot total, separate Museum/Innovation Showroom layout, story-variable household premise, and possible merger of Athena with Estate intelligence are superseded. The current 1.96-million-square-foot Lesbos/Mnemosyne model controls. A full line-level disposition is still required to identify any useful physical or staffing detail not carried forward. |
+
+This table is a **coverage audit**, not completed claim-level reconciliation. It answers whether the System Bible reflects each Markdown family and identifies the major failure classes. It does not make the unreconciled packages valid for story use.
 
 ## Package-variant findings
 
