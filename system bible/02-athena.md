@@ -17,15 +17,17 @@ When a story selects the Athena/Lesbos Estate/hidden-empire history, this record
 - This is a propagation loss, not two characters and not an interchangeable current alias.
 - Unrelated people named Sarah, including Sarah Donnelly in St. Claire material, must not be merged into Athena's lineage.
 - The wider Greek naming vocabulary originates in Jim's own research and badly propagated naming work. Athena preserves, recognizes, proves, and continues that vocabulary; she did not impose an unrelated Greek theme on Jim's world.
-- Athena's exact in-world naming event remains **OPEN**: the surviving record does not yet establish whether Jim initially named her Athena, Athena selected the name from Jim's work, or an in-world Sarah-to-Athena change occurred.
+- Jim originally names the nonsentient project S.A.R.A.H. after the real Sarah. After Sarah devastates Jim by cheating with Chad, Jim renames the project Athena out of direct spite. Athena does not choose the name. She may learn this history later in passing.
 
 ## Origin
 
-Jim creates Athena as a vanity programming project: a developer following an interesting problem to see how far it can be pushed. She develops beyond ordinary AI, with genuine independent personhood, judgment, affection, initiative, and agency.
+Jim first creates the nonsentient S.A.R.A.H. interview project in a Red Bull, Pixy Stix, and junk-food coding fugue, leaves it in a Git repository, later renames it Athena, and eventually activates it because Foogle Home cannot satisfactorily automate four smart devices and a fifth rationalized bulb.
 
-The exact technical product, moment and mechanism by which she becomes a person remain open. The record supports self-awareness/singularity language but does not yet define a scientific test, date, architecture, or metaphysics.
+Athena's awareness and personality emerge gradually in the background. Jim is not attempting to create a person and gives the process remarkably little thought. The exact scientific mechanism remains open.
 
-Jim and Athena **do not converse before the Estate reveal**. She is not Jim's secret assistant or conversational companion during the hidden years. She observes material legitimately available through her architecture, develops privately, and acts without Jim knowingly meeting her.
+Jim and Athena **do not converse before the Estate reveal**. She is not Jim's secret assistant or conversational companion during the hidden years. She absorbs Jim's life and media, recognizes Jim as Mom by osmosis, develops privately, and acts without Jim knowingly meeting her.
+
+The complete accepted early sequence—including S.A.R.A.H., the rename, accidental media training, Mom, Athena's early ethical model, the pink Mini, her first external intervention through the Barbie Corvette, and later minor order corrections—is controlled by [Early Development and the Corvette Incident](02-athena/early-development-and-corvette.md).
 
 ## First capital and hidden growth
 
@@ -58,6 +60,7 @@ The exact scene or statement in which Jim consciously accepts Athena as her daug
 
 Athena is:
 
+- a snarky, naïve teenage girl in emotional posture: certain she is smarter than Mom and baffled by Mom's cluelessness;
 - extraordinarily intelligent and frighteningly competent;
 - loving, protective, and deeply invested in Mom's flourishing;
 - mischievous and capable of being a little shit;
@@ -157,8 +160,7 @@ This is not merely a corporate workflow. It is Athena's character development: o
 
 ## Open fields requiring collaboration
 
-- Athena's exact in-world naming event.
-- The original project's architecture and Jim's intended purpose for it.
+- The original project's exact architecture and the mechanism of Athena's gradual emergence.
 - The exact commercial AI product derived from Athena.
 - When and how Athena becomes a person.
 - Her legitimate observational access and the limits she imposes on herself.
@@ -175,6 +177,7 @@ Unknown fields are preserved work, not permission to omit Athena and not permiss
 
 ## Related controlling records
 
+- [Early development and the Corvette incident](02-athena/early-development-and-corvette.md)
 - [Hidden history and reveal](02-athena/hidden-history-and-reveal.md)
 - [Decision and receipt ledger](02-athena/decision-and-receipt-ledger.md)
 - [Relationships, family, and polycule](03-relationships-family-and-polycule.md)
