@@ -5,6 +5,8 @@ Authority: CANON WITH STORY-LOCAL DETAILS SEPARATE
 
 Relationships are consensual, adult, and person-specific. A polycule is not a fused character: each bond has its own history, attraction, boundaries, knowledge, vulnerabilities, and pace. Joining a household does not erase private space, outside friendships, financial autonomy, or disagreement.
 
+The Lesbos household is a single polyamorous relationship formed by the transgender family anchor and thirteen partners. `Coven` is not a name or category for the household or its members; it is obsolete AI-generated bleed-over.
+
 Loving encouragement may be confident, playful, persistent, or exasperated, but meaningful choice remains with the person encouraged. Affectionate roasting is welcome; cruelty, degradation, coercion, and enjoying powerlessness are not.
 
 The **Hestia Principle** governs material power inside relationships: loving people protect the people they love. When romance intersects with employment, housing, healthcare, wealth, or institutional belonging, the less-powerful person's security must not depend on saying yes, staying, or keeping a powerful partner happy. Jim's choice-neutral legal implementation and the full agency rules are controlled by [Power, Control, Agency, and the Hestia Principle](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md).

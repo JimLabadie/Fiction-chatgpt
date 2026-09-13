@@ -88,7 +88,7 @@ Required System Bible work: split the empire into durable company, holdings, fac
 2. `estate-master-plan.md`
 3. `estate-staffing-plan.md`
 
-Required System Bible work: perform a line-by-line disposition against the expanded Lesbos records; reconcile package variants, `The Estate.docx`, and later direct decisions; retain superseded physical versions as provenance without losing still-valid functions. PIN-008 separately protects the unresolved coven and fourteen-member-household context.
+Required System Bible work: perform a line-by-line disposition against the expanded Lesbos records; reconcile package variants, `The Estate.docx`, and later direct decisions; retain superseded physical versions as provenance without losing still-valid functions. PIN-008 separately protects the fourteen-member polyamorous-household context and prohibits the obsolete AI-generated terminology.
 
 ### Polyamory and Family — 3 files
 
@@ -96,7 +96,7 @@ Required System Bible work: perform a line-by-line disposition against the expan
 2. `household-agreements.md`
 3. `integration-and-intimacy.md`
 
-Required System Bible work: recover the developed household agreement system, property and finances, traditions, private space, conflict process, guests, pets, technology, chores, household evolution, integration spectrum, intimacy philosophy, and consent rules. Reconcile this family model directly with PIN-008 rather than assuming what `coven` means.
+Required System Bible work: recover the developed household agreement system, property and finances, traditions, private space, conflict process, guests, pets, technology, chores, household evolution, integration spectrum, intimacy philosophy, and consent rules. Reconcile this family model directly with PIN-008 and the established single polyamorous relationship.
 
 ### Wealth Management — 2 files
 
@@ -133,7 +133,7 @@ For each family:
 
 ## Proposed discussion order
 
-1. Polyamory and Family together with PIN-008, because it supplies missing context for the coven and fourteen-member Estate household.
+1. Polyamory and Family together with PIN-008, because it supplies missing context for the fourteen-member polyamorous Estate household.
 2. Sapphic Culture.
 3. Gender Presentation Culture.
 4. Age and Generational Culture.

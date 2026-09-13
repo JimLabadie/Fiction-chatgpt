@@ -50,13 +50,13 @@ The larger standalone Fitness Aquatics and Wellness Center is separate from this
 
 | Space | Approximate area | Function |
 |---|---:|---|
-| Guest Housing Wing | 10,000 sq ft | Approximately 8–10 suites for visiting family, prospective coven members, and extended stays |
+| Guest Housing Wing | 10,000 sq ft | Approximately 8–10 suites for visiting family, prospective partners, and extended stays |
 | Bodega | 2,000 sq ft | Everyday convenience market and household necessities |
 | Library | 5,000 sq ft | Reading, reference, quiet work, and collections |
 | Wine cellar | 2,000 sq ft | Conditioned storage and service |
 | Enterprise administration | 15,000 sq ft | Investment, tax, legal, household, and property administration supported by B2 records and disaster recovery |
 
-Guest suites support visiting family, prospective coven members, and extended stays. The bodega exists so a resident can get an ordinary necessity without turning every small need into a procurement operation.
+Guest suites support visiting family, prospective partners, and extended stays. The bodega exists so a resident can get an ordinary necessity without turning every small need into a procurement operation.
 
 ## Internal receiving and distribution
 
