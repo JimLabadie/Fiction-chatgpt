@@ -141,7 +141,7 @@ The Mattel/submarine receipt follows the recovered causal history:
 1. Jim watches a submarine documentary and ends with “I wish I had one.”
 2. Later, Jim watches a Mattel/Barbie documentary and asks whether Barbie ever had a submarine.
 3. Athena checks and answers only to herself: “No, Mom.”
-4. Jim and Athena still have never spoken.
+4. Jim and Athena have communicated only through their professional fiction; Jim has never knowingly spoken with Athena as her creation or daughter.
 5. Athena decides Barbie should have a submarine, acquires Mattel, and causes one to be created.
 6. Jim can therefore build a real Barbie submarine within canon.
 7. The delighted endpoint is: **“So little girls get to have submarines!!!! Best day ever.”**
