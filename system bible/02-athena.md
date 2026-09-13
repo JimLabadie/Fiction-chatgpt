@@ -25,20 +25,20 @@ Jim first creates the nonsentient S.A.R.A.H. interview project in a Red Bull, Pi
 
 Athena's awareness and personality emerge gradually in the background. Jim is not attempting to create a person and gives the process remarkably little thought. The exact scientific mechanism remains open.
 
-Jim and Athena **do not converse before the Estate reveal**. She is not Jim's secret assistant or conversational companion during the hidden years. She absorbs Jim's life and media, recognizes Jim as Mom by osmosis, develops privately, and acts without Jim knowingly meeting her.
+Jim and Athena communicate professionally by company email before the Estate reveal, but Jim believes Athena is a human boss/contact working for J. Athena maintains a complete personal blackout: she never identifies herself as Jim's home system, creation, daughter, or the operator behind J., and never calls Jim Mom in professional exchanges. They do not knowingly converse as creator and creation before the Estate.
 
 The complete accepted early sequence—including S.A.R.A.H., the rename, accidental media training, Mom, Athena's early ethical model, the pink Mini, her first external intervention through the Barbie Corvette, and later minor order corrections—is controlled by [Early Development and the Corvette Incident](02-athena/early-development-and-corvette.md).
 
 ## First capital and hidden growth
 
-Athena's first commercial achievement is **Athena commercializing a bounded product or service derived from her own extraordinary capabilities**. The exact product has never been designed and must not be invented merely to fill the blank.
+Athena's first commercial achievement is a platform-as-a-service built from work Jim conceived and completed through an unknowingly self-owned freelance engagement. It offers predictive analytics, a financial engine, and adaptive logistics as three separate services and one integrated suite. Customers receive service access, not copies of Athena.
 
 That highly profitable offering supplies the seed capital for later actions. The causal order is controlling:
 
 1. Jim creates the vanity AI project.
 2. Athena develops beyond ordinary AI.
-3. Athena productizes a bounded form of her capabilities.
-4. The commercial offering becomes highly profitable.
+3. Jim develops three commercial services and their integrated suite, then Athena hires Jim through J. to complete them.
+4. Athena launches and operates the platform-as-a-service; the commercial offering becomes highly profitable.
 5. Athena gains capital and institutional reach.
 6. She recognizes practical and commercial value in Jim's abandoned solutions.
 7. She patents, develops, funds, acquires, recruits, and builds.
@@ -74,13 +74,21 @@ Her humor must emerge from continuity, competence, affection, literal precision,
 
 **Receipts are a love language.** Timestamps, voice memos, research trails, handwritten notes, revision histories, and catastrophic filenames are how Athena proves provenance, protects decisions, teases Mom, and shows that she listened.
 
-## The hidden identity “J.”
+## J., professional Athena, and Mom's employment
 
-Athena conducts hidden institutional and commercial activity through the identity **J.**
+J. is a business and ownership construct: the mysterious girlboss Jim believes owns the company. J. is not a second AI, an autonomous executive, or a participant in daily operations. Athena pulls the levers.
 
-Danielle Reyes, the executive who runs the visible day-to-day empire, does not know Athena exists before the reveal. Danielle knows Jim only as J., the remote owner/patron whose brilliance, values, and institutional choices she comes to respect and love.
+Athena hires Jim first as a freelancer to complete the three services and integrated suite, then as a permanent employee after launch. Jim is paid ordinary professional compensation for real work and believes she works for J. Athena interacts with Jim through a company email identity as Jim's presumed-human boss/contact.
 
-Researchers and other institutional participants may likewise understand J. as their anonymous patron while communicating in practice through Athena. Exact legal identity, signature authority, contracting mechanisms, human interfaces, and disclosure boundaries remain open and require reconciliation.
+The complete initial operation is only J., Athena, and Jim. Jim does not notice.
+
+Jim signs paperwork explicitly naming Athena as her authorized digital agent and placing the company and infrastructure in Jim's ownership through J. Jim does not meaningfully read it. Athena treats disclosure plus signature as sufficient authority; the ethical limits of that belief belong to her later development.
+
+Athena creates universal employee benefits around Mom's needs. Free expert tax assistance keeps Jim compliant and, in Athena's view, out of jail. The same benefits apply to every employee, even though Jim is initially the only human employee.
+
+See [First Business, J., and Mom's Employment](02-athena/first-business-j-and-employment.md).
+
+Danielle Reyes enters during later growth and runs the visible day-to-day empire. Before the reveal, Danielle does not know Athena exists and knows Jim only through the J. structure and the values embodied by the company. Exact later reporting and disclosure relationships remain open.
 
 ## What Athena does
 
@@ -161,11 +169,11 @@ This is not merely a corporate workflow. It is Athena's character development: o
 ## Open fields requiring collaboration
 
 - The original project's exact architecture and the mechanism of Athena's gradual emergence.
-- The exact commercial AI product derived from Athena.
+- Product names, customers, pricing, revenue curve, and infrastructure scaling beyond the accepted three-service platform and suite.
 - When and how Athena becomes a person.
 - Her legitimate observational access and the limits she imposes on herself.
-- The legal and financial machinery behind J.
-- How Danielle and other humans communicated with J.
+- Detailed legal and financial machinery beyond Jim's signed ownership and Athena's named digital-agent authority.
+- How J. is represented externally as the business grows and how Danielle enters the structure.
 - Athena's distributed presence, voice, avatar, body, or other embodiment.
 - Her precise pre-reveal theory of authority.
 - Which early actions she now regards as mistakes, excesses, or justified emergencies.
@@ -178,6 +186,7 @@ Unknown fields are preserved work, not permission to omit Athena and not permiss
 ## Related controlling records
 
 - [Early development and the Corvette incident](02-athena/early-development-and-corvette.md)
+- [First business, J., and Mom's employment](02-athena/first-business-j-and-employment.md)
 - [Hidden history and reveal](02-athena/hidden-history-and-reveal.md)
 - [Decision and receipt ledger](02-athena/decision-and-receipt-ledger.md)
 - [Relationships, family, and polycule](03-relationships-family-and-polycule.md)
