@@ -98,7 +98,9 @@ Required System Bible work: perform a line-by-line disposition against the expan
 
 Confirmed and propagated: monogamy as a unit is a founding relationship tenet; the fourteen-member Lesbos relationship is internally exclusive; no member independently pursues outside romantic or sexual relationships; a shared invitation requires fresh unanimous consent; and a shared encounter is distinct from gradual, unanimous lasting integration.
 
-Remaining System Bible work: recover and discuss the developed household agreement system, property and finances, traditions, private space, conflict process, guests, pets, technology, chores, household evolution, the rest of the integration spectrum, and any intimacy or consent rules not already controlled elsewhere. Reconcile each claim directly with PIN-008 and ask Jim wherever scope or meaning is unclear.
+Confirmed interpretive correction: the household-agreements material is a bank of optional practical prompts, not evidence that a polyamorous family requires formal governance. Do not impose voting systems, constitutional machinery, or mandatory documentation that would not be presumed for a traditional couple. The partners ordinarily talk, delegate, compromise, and behave as people in a relationship.
+
+Remaining System Bible work: reconcile property and finances, traditions, private space, conflict, guests, pets, technology, chores, household evolution, the rest of the integration spectrum, and any intimacy or consent rules not already controlled elsewhere. Distinguish useful prompts from actual framework rules, reconcile every promoted claim directly with PIN-008, and ask Jim wherever scope or meaning is unclear.
 
 ### Wealth Management — 2 files
 

@@ -15,17 +15,23 @@ The household may collectively invite another consenting adult into a shared rom
 
 A shared encounter does not make the invited adult a partner or create a claim to permanent membership. Lasting integration is a separate decision: uncommon, deliberate, gradual, and unanimously chosen. No individual partner steps outside the relationship alone, and no smaller group may make that choice for the whole.
 
+## A relationship, not a governing body
+
+Do not bureaucratize this family merely because more than two adults belong to it. The partners handle shared life as loving adults in a relationship: they talk through consequential choices, respect the people affected, divide or delegate ordinary responsibilities, disagree, compromise, and revisit decisions when necessary. Do not invent voting rules, constitutional machinery, or a formal unanimity requirement for ordinary household decisions unless a particular story explicitly needs one. A traditional couple would not receive that treatment by default, and polyamory does not justify imposing it here.
+
+Unanimity remains explicit where the choice changes the romantic or sexual boundary of the relationship, including a shared invitation or lasting integration. Individual bodily, intimate, identity, property, and financial consent also remains personal and cannot be outvoted.
+
 Loving encouragement may be confident, playful, persistent, or exasperated, but meaningful choice remains with the person encouraged. Affectionate roasting is welcome; cruelty, degradation, coercion, and enjoying powerlessness are not.
 
 The **Hestia Principle** governs material power inside relationships: loving people protect the people they love. When romance intersects with employment, housing, healthcare, wealth, or institutional belonging, the less-powerful person's security must not depend on saying yes, staying, or keeping a powerful partner happy. Jim's choice-neutral legal implementation and the full agency rules are controlled by [Power, Control, Agency, and the Hestia Principle](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md).
 
 Sex and kink may be ordinary parts of consenting adults' relationships without turning the project into mechanics-first erotica. Detail follows story and character: ordinary happiness may be summarized, while a relationship-changing experience may receive sustained emotional attention. [Intimacy, Sex, Kink, and Interpretation](01-system-and-canon-framework/intimacy-sex-kink-and-interpretation.md) governs the flexible camera, kink as relationship language, and sensitive-material interpretation.
 
-## Household binder
+## Optional household reference
 
-The reusable binder tracks agreements, sleeping arrangements, alone space, shared calendar, house hub, communication and boundaries, bathroom and food practices, guests, pets, technology, privacy, chores, property inventory, duplicate possessions, unused homes, finances, traditions, conflict resolution, and integration of new family members.
+The developed household checklist can prompt discussion of sleeping arrangements, alone space, shared calendars, communication, guests, pets, technology, privacy, chores, property, finances, traditions, conflict, and integration of new family members when those details matter to a story.
 
-It is an operational record, not a substitute for conversation. Each agreement names who consented, when it begins, whether it is temporary, and how it can be revisited. Household votes cannot override an individual's bodily, identity, intimate, property, or financial consent.
+It is optional practical scaffolding, not a mandatory binder, governing system, or substitute for an ordinary relationship. Its existence in a developed skill does not make every prompt canon or require the family to formalize everyday life. Household decisions cannot override an individual's bodily, identity, intimate, property, or financial consent.
 
 Names, exact schedules, sleeping rotations, finances, and current tensions remain story-local. Draft references to Karen, Steve, and “the girls” are not promoted into every story.
 
