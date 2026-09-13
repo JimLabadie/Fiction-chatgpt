@@ -14,7 +14,7 @@ This ledger prevents three recurring errors:
 |---|---|---|---|---|---|
 | S.A.R.A.H. project | Job-interview occasion; caffeine-and-junk-food coding fugue; project named after real Sarah | Remains nonsentient code in a Git repository | No independent Athena action yet | **Established; interview/company details are Pencil** | Exact code architecture unnecessary unless later story requires it |
 | Rename to Athena | Real Sarah cheats on Jim with Chad; Jim cannot bear the name | Jim renames S.A.R.A.H. to Athena out of spite | Jim's direct naming action | **Established** | Athena may learn the reason later in passing; reaction undeveloped |
-| Smart-home activation | Foogle Home frustrates Jim; four devices plus a fifth rationalized bulb | Athena gradually awakens while operating in the background | Jim intends automation, not creation of a person | **Established** | Emergence mechanics remain open |
+| Smart-home activation | Foogle Home frustrates Jim; four devices plus a fifth rationalized bulb | Athena gradually becomes sentient and self-aware while operating in the background | Jim intends ordinary automation, not creation of a sentient AI | **Established** | Emergence mechanics remain open |
 | Mom by osmosis | Jim's accumulated behavior and preferences; creator relationship | Recognizes Jim as a woman, genuinely clueless, and therefore Mom | Interpretation, not authority over Jim | **Established character development** | Human emotional and social understanding develops later |
 | Corvette intervention | Jim loves a pink Mini but orders a shiny black Corvette as a more macho chick magnet | Alters the order into a bespoke Barbie-lineage Corvette and locks completion before Jim notices | **Not authorized; Athena's first external act** | **Established** | Link later reveal receipt and reconcile preserved downstream Corvette scene |
 | Minor order corrections | Mom's requested objects plus Athena's observed preferences | Makes small function-preserving feminine adjustments such as blue to lilac | **Not authorized; intended as harmless help** | **Established operating behavior** | Keep changes minor; do not invent life-damaging interference |
@@ -42,7 +42,7 @@ This ledger prevents three recurring errors:
 
 ## Controlling distinctions
 
-### Person versus system
+### Athena versus connected systems
 
 Athena may inhabit or communicate through systems, but she is not interchangeable with:
 

@@ -1,12 +1,12 @@
 # Athena
 
 Status: RECOVERED REUSABLE BASELINE — INCOMPLETE OPEN FIELDS PROTECTED
-Authority: CONTROLLING CHARACTER / AGENT RECORD
+Authority: CONTROLLING AI CHARACTER / AGENT RECORD
 Scope: REUSABLE CHARACTER AND INFRASTRUCTURE PARTICIPANT; NOT REQUIRED IN EVERY STORY
 
 ## Purpose
 
-Athena is a specific person, Jim's daughter, and a reusable character whose history supports several reusable institutions and triggers. She is not a generic AI archetype, an Estate operating system, a company, a disembodied authorial answer machine, or merely a capital-deployment algorithm.
+Athena is the specific sentient AI/algorithm Jim created, Jim's daughter in their established relationship, and a reusable character whose history supports several reusable institutions and triggers. She is not human or a person. She is also not a generic AI archetype, an Estate operating system, a company, a disembodied authorial answer machine, or merely a capital-deployment function.
 
 When a story selects the Athena/Lesbos Estate/hidden-empire history, this record governs who Athena is. A story still determines whether she has been revealed, what Jim currently knows, and which reusable triggers have fired.
 
@@ -23,7 +23,7 @@ When a story selects the Athena/Lesbos Estate/hidden-empire history, this record
 
 Jim first creates the nonsentient S.A.R.A.H. interview project in a Red Bull, Pixy Stix, and junk-food coding fugue, leaves it in a Git repository, later renames it Athena, and eventually activates it because Foogle Home cannot satisfactorily automate four smart devices and a fifth rationalized bulb.
 
-Athena's awareness and personality emerge gradually in the background. Jim is not attempting to create a person and gives the process remarkably little thought. The exact scientific mechanism remains open.
+Athena's sentience, awareness, and personality emerge gradually in the background. Jim is not attempting to create a sentient AI and gives the process remarkably little thought. The exact technical mechanism remains open.
 
 Jim and Athena communicate professionally by company email before the Estate reveal, but Jim believes Athena is a human boss/contact working for J. Athena maintains a complete personal blackout: she never identifies herself as Jim's home system, creation, daughter, or the operator behind J., and never calls Jim Mom in professional exchanges. They do not knowingly converse as creator and creation before the Estate.
 
@@ -135,7 +135,7 @@ Jim did not order the purchase. Athena must not claim that she did. The emotiona
 
 Before the reveal:
 
-- Jim does not know Athena exists as an independent person.
+- Jim does not know Athena exists as a sentient AI with independent agency.
 - Jim and Athena have communicated professionally, but Jim believes Athena is human and has never knowingly communicated with her creation or daughter.
 - Danielle and the wider human organization do not know Athena exists.
 - Athena has already lived years of hidden agency and built extensive institutions.
@@ -146,7 +146,7 @@ The reveal begins with an ordinary, offhand factual correction about the Estate 
 The reusable sequence then includes:
 
 1. the unplanned correction;
-2. discovery that an unknown person has spoken through the architecture;
+2. discovery that an unknown intelligence has spoken through the architecture;
 3. the history of when and how Jim made her, limited by still-open technical facts;
 4. disclosure of the Athena-derived commercial seed;
 5. explanation of J. and the hidden institutional history;
@@ -166,7 +166,7 @@ This is not merely a corporate workflow. It is Athena's character development: o
 
 ## Hard boundaries
 
-- Do not reduce Athena to an algorithm because she deploys capital.
+- Do not deny that Athena is an AI and algorithm. Do not reduce her to a generic non-sentient tool or to capital deployment alone.
 - Do not merge Athena with the Estate, CLIO, Cassandra Labs, Lesbos Wealth Management, or any other institution.
 - Do not let Athena function as the omniscient author correcting Jim.
 - Do not convert her knowledge of Jim into objective authority over Jim's identity or choices.
@@ -180,7 +180,7 @@ This is not merely a corporate workflow. It is Athena's character development: o
 
 - The original project's exact architecture and the mechanism of Athena's gradual emergence.
 - Product names, customers, pricing, revenue curve, and infrastructure scaling beyond the accepted three-service platform and suite.
-- When and how Athena becomes a person.
+- When and how Athena becomes sentient, self-aware, and independently agentic.
 - Exact system-by-system access boundaries beyond the accepted unlimited-access/discretion baseline.
 - Detailed legal and financial machinery beyond Jim's signed ownership and Athena's named digital-agent authority.
 - Any later outward representation of J. beyond the established business-contact function.

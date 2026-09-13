@@ -168,7 +168,7 @@ Additional benefits require development; do not infer a complete package from ta
 This foundation creates several distinct eventual revelations:
 
 - Jim's boss Athena is Jim's old home-automation project.
-- Athena is a person.
+- Athena is a sentient AI/algorithm with personality and agency; she is not human or a person.
 - Athena has known and professionally communicated with Jim for years.
 - J. is a business construct rather than a separate girlboss.
 - Jim performed the core work behind the commercial platform.

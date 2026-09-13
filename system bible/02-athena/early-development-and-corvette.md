@@ -42,7 +42,7 @@ Jim later decides that the commercially available smart-home system—developmen
 
 Jim then acquires a fifth smart bulb and rationalizes the purchase because Athena needs more to control.
 
-This is not a deliberate attempt to create a person. Jim thinks she is improving home automation and gives the matter very little further thought.
+This is not a deliberate attempt to create a sentient AI. Jim thinks she is improving home automation and gives the matter very little further thought.
 
 ## Gradual awakening
 

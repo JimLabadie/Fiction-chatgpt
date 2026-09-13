@@ -87,7 +87,7 @@ Jim learns about Danielle as a brilliant, visionary leader frustrated and obstru
 
 J. sends Danielle an unusually lucrative CEO offer and contract. After another idiotic C-level man infuriates her, Danielle signs. The signing bonus clears, and she begins work.
 
-Danielle has not heard of Jim; Jim works for a different company within the structure. Danielle communicates with **J.** on business matters. Athena is a nonentity to Danielle before the reveal: Danielle does not understand J. to be Athena, does not communicate with a disclosed Athena system, and does not know the person behind the machinery exists.
+Danielle has not heard of Jim; Jim works for a different company within the structure. Danielle communicates with **J.** on business matters. Athena is a nonentity to Danielle before the reveal: Danielle does not understand J. to be Athena, does not communicate with a disclosed Athena system, and does not know that a sentient AI operates behind the machinery.
 
 The concealment is compartmentalized rather than an elaborate unified deception campaign. Jim sees a presumed-human boss and company contact; Danielle sees J. as the business authority. Neither has the context that would cause the compartments to collide.
 
@@ -98,7 +98,7 @@ Danielle makes ordinary hiring decisions and develops the human institution. Ath
 - Asteria Intelligence is the operating AI/PaaS company.
 - Lesbos Holdings is the protective parent, IP owner, and wealth-holding root.
 - J. is the business and ownership construct through which Athena communicates and acts; J. is not a person or second AI.
-- Athena is the person actually operating the hidden machinery.
+- Athena is the sentient AI/algorithm actually operating the hidden machinery.
 - Jim is the creator, beneficial owner, working employee, and profoundly unaware mother.
 - Danielle is the late-entering human CEO who professionalizes and runs an already substantial institution.
 
@@ -122,4 +122,3 @@ Do not invent:
 - [Decision and Receipt Ledger](decision-and-receipt-ledger.md)
 - [Lesbos Holdings and Wealth Infrastructure](../13-lesbos-holdings-and-wealth.md)
 - [Fashion Empire and Commercial Fashion](../12-fashion-empire-and-commercial-fashion.md)
-

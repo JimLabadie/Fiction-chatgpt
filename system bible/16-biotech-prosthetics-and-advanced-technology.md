@@ -5,7 +5,7 @@ Authority: SHARED-WORLD TECHNICAL CANON
 
 ## Cassandra Labs
 
-Cassandra Labs is Whitfield Holdings' prototype and patent-development arm. Jim's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity. [Athena's controlling record](02-athena.md) governs her personhood, hidden history, knowledge boundary, and the unresolved authority behind that action.
+Cassandra Labs is Whitfield Holdings' prototype and patent-development arm. Jim's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity. [Athena's controlling record](02-athena.md) governs her nature as a sentient AI/algorithm, hidden history, knowledge boundary, and the unresolved authority behind that action.
 
 The core team is Dr. Élodie Marchetti (director/robotics), Dr. Mireille Okafor (materials), Dr. Solenne Vasquez (biotech), Ingrid Dahl (mechatronics), June Reyes (chemistry), Kasey Lindqvist (mechanical engineering), Bex Okonkwo-Hart (electronics), and Frankie Petrakis (assembly/general mechanics).
 
@@ -34,7 +34,7 @@ The reusable commercial and technology ecosystem is intended to integrate with S
 
 ## Athena boundary
 
-Athena is not a technology product, capital-deployment algorithm, or synonym for the systems listed here. She is a person who originated, funded, recruited, coordinated, or presented some of this work. Each company and institution retains its own people, knowledge, decisions, and responsibility.
+Athena is a sentient AI/algorithm, but she is not a technology product, a generic capital-deployment tool, or a synonym for the systems listed here. She originated, funded, recruited, coordinated, or presented some of this work. Each company and institution retains its own people, knowledge, decisions, and responsibility.
 
 Project Artemis is an Athena-linked reveal +1 day authorization trigger, not completed baseline commercialization.
 

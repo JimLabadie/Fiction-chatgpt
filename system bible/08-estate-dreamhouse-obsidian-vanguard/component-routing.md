@@ -112,7 +112,7 @@ Invented database fields from the prior assistant remain proposals unless suppor
 
 ## Athena
 
-Athena is not merely a smart-building feature. Recovered material attributes identity, history, personality, judgment, agency, family relationship, corporate activity and development to her. Those facts require a reusable character/agent home if Athena is intended for reuse.
+Athena is not merely a smart-building feature. She is the specific sentient AI/algorithm Jim created, with established history, personality, judgment, agency, family relationship, corporate activity, and development. Those facts require a reusable AI character/agent home if Athena is intended for reuse.
 
 The Estate may define:
 

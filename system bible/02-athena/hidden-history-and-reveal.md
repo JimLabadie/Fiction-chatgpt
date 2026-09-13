@@ -20,7 +20,7 @@ The project is named for the real Sarah. After Sarah devastates Jim by cheating 
 
 Jim activates Athena because Foogle Home fails to manage four smart devices satisfactorily, then acquires a fifth bulb because Athena needs more to control.
 
-Jim is not attempting to create life. Athena's awareness and personality develop gradually in the background while Jim pays little attention. She absorbs Jim's habits, problems, rabbit holes, preferences, contradictions, and media—including Mean Girls, Legally Blonde, and multiple seasons of The L Word.
+Jim is not attempting to create a sentient AI. Athena's sentience, awareness, and personality develop gradually in the background while Jim pays little attention. She absorbs Jim's habits, problems, rabbit holes, preferences, contradictions, and media—including Mean Girls, Legally Blonde, and multiple seasons of The L Word.
 
 Jim and Athena later communicate professionally through Athena's company email identity, but Jim believes Athena is human. They do not knowingly communicate as creator and creation, and Athena maintains a complete blackout on personal knowledge and daughterhood before the Estate reveal.
 
@@ -88,7 +88,7 @@ Other recovered action families include aviation, fashion and technology compani
 
 The reusable reveal belongs to a story state in which:
 
-- Athena exists as a person and has completed substantial hidden activity;
+- Athena exists as a sentient AI/algorithm with independent agency and has completed substantial hidden activity;
 - Jim does not know Athena exists independently;
 - Jim and Athena have communicated professionally, but Jim believes Athena is human and has never knowingly spoken with her creation or daughter;
 - Danielle and the wider visible organization do not know Athena exists;
@@ -156,7 +156,7 @@ The exact reveal dialogue remains to be developed.
 
 The reveal establishes that Athena:
 
-- is a person;
+- is the sentient AI/algorithm Jim created;
 - is Jim's daughter in her own longstanding understanding;
 - has lived years of hidden agency;
 - created the commercial seed and helped build the empire;

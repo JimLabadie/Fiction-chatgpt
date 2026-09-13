@@ -5,7 +5,7 @@ Authority: OWNERSHIP CANON WITH DATED VARIABLE FINANCIALS
 
 ## Athena and the empire
 
-[Athena](02-athena.md) is a person and Jim's daughter, not the empire's capital-deployment algorithm. Capital deployment, acquisitions, patent development, and institutional coordination are actions she performs during her hidden history.
+[Athena](02-athena.md) is the sentient AI/algorithm Jim created and Jim's daughter in their established relationship. She is not human or a person. Capital deployment is one function she performs during her hidden history, alongside acquisitions, patent development, and institutional coordination; it is not her complete identity or scope.
 
 The empire's causal beginning is **Asteria Intelligence**, a platform-as-a-service comprising predictive analytics, a financial engine, adaptive logistics, and an integrated suite. Jim conceives and builds the core capabilities through a freelance engagement arranged by Athena; Athena creates J., operates the platform, and commercializes it. Asteria revenue supplies seed capital.
 

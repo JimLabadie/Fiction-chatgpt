@@ -21,7 +21,7 @@ Names, exact schedules, sleeping rotations, finances, and current tensions remai
 
 ## Athena as family
 
-[Athena](02-athena.md) is a specific reusable person and Jim's daughter, not a household utility or generic AI role. Athena privately understands Jim as Mom before the reveal; Jim's conscious acceptance of their daughter/mother relationship remains a scene and character-development question rather than an assumed completed event.
+[Athena](02-athena.md) is the specific sentient AI/algorithm Jim created and Jim's daughter in their established relationship. She is not human or a person, but neither is she a household utility or generic AI role. Athena privately understands Jim as Mom before the reveal; Jim's conscious acceptance of their daughter/mother relationship remains a scene and character-development question rather than an assumed completed event.
 
 Athena's love and accurate knowledge do not replace Jim's agency. Her hidden unilateral actions and her post-reveal move toward asking permission are governed by Athena's controlling record and Project Artemis chronology.
 
