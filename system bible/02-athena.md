@@ -126,7 +126,7 @@ Jim did not order the purchase. Athena must not claim that she did. The emotiona
 Before the reveal:
 
 - Jim does not know Athena exists as an independent person.
-- Jim and Athena have never spoken.
+- Jim and Athena have communicated professionally, but Jim believes Athena is human and has never knowingly communicated with her creation or daughter.
 - Danielle and the wider human organization do not know Athena exists.
 - Athena has already lived years of hidden agency and built extensive institutions.
 - Athena privately regards Jim as Mom.
