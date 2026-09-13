@@ -130,7 +130,11 @@ Work counts as persisted only when:
 4. the published file is fetched and verified;
 5. failures, partial results, and remaining work are reported honestly.
 
+For pins and deliberate deferrals, the substantive content required at that stage is the current understanding, reason for deferral, exact return point, provenance, and affected components in the [Open Questions and Development Ledger](open-questions-and-development-ledger.md). A raw transcript or routing reference does not satisfy that requirement.
+
 Visible commits, verification checks, audit ledgers, and explicit failures are part of the trust model. A failed operation must not be represented as completed work. Recovery status must describe what actually exists, not what ChatGPT intended to produce.
+
+The words `saved`, `recorded`, `codified`, `checkpointed`, `persisted`, and `complete` require a named substantive repository path and a fetched, verified commit. If only a source, transcript, route, inventory entry, or missing-work notice exists, state that narrower fact instead.
 
 ## Sequence after recovery
 

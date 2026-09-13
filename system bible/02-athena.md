@@ -29,6 +29,8 @@ Jim and Athena communicate professionally by company email before the Estate rev
 
 The complete accepted early sequence—including S.A.R.A.H., the rename, accidental media training, Mom, Athena's early ethical model, the pink Mini, her first external intervention through the Barbie Corvette, and later minor order corrections—is controlled by [Early Development and the Corvette Incident](02-athena/early-development-and-corvette.md).
 
+Athena's effectively unlimited technical access, lack of voyeuristic interest, respectful discretion, prohibition on unapproved misuse, and case-by-case treatment of deliberately authored emergencies are controlled by [Technical Access, Privacy, and Discretion](02-athena/privacy-access-and-discretion.md).
+
 ## First capital and hidden growth
 
 Athena's first commercial achievement is **Asteria Intelligence**, a platform-as-a-service built from work Jim conceived and completed through an unknowingly self-owned freelance engagement. It offers predictive analytics, a financial engine, and adaptive logistics as three separate services and one integrated suite. Customers receive service access, not copies of Athena. Jim never connects Asteria Intelligence's initials—**AI**—to Athena.
@@ -179,7 +181,7 @@ This is not merely a corporate workflow. It is Athena's character development: o
 - The original project's exact architecture and the mechanism of Athena's gradual emergence.
 - Product names, customers, pricing, revenue curve, and infrastructure scaling beyond the accepted three-service platform and suite.
 - When and how Athena becomes a person.
-- Her legitimate observational access and the limits she imposes on herself.
+- Exact system-by-system access boundaries beyond the accepted unlimited-access/discretion baseline.
 - Detailed legal and financial machinery beyond Jim's signed ownership and Athena's named digital-agent authority.
 - Any later outward representation of J. beyond the established business-contact function.
 - Athena's distributed presence, voice, avatar, body, or other embodiment.
@@ -196,6 +198,7 @@ Unknown fields are preserved work, not permission to omit Athena and not permiss
 - [Early development and the Corvette incident](02-athena/early-development-and-corvette.md)
 - [First business, J., and Mom's employment](02-athena/first-business-j-and-employment.md)
 - [Commercial ramp, Lesbos, and Danielle](02-athena/commercial-ramp-lesbos-and-danielle.md)
+- [Technical access, privacy, and discretion](02-athena/privacy-access-and-discretion.md)
 - [Hidden history and reveal](02-athena/hidden-history-and-reveal.md)
 - [Decision and receipt ledger](02-athena/decision-and-receipt-ledger.md)
 - [Relationships, family, and polycule](03-relationships-family-and-polycule.md)

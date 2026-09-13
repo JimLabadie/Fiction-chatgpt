@@ -97,12 +97,14 @@ When a squirrel appears:
 2. ChatGPT asks: **“Do we want to do this?”**
 3. Jim may answer in any natural form, including:
    - **“Oh yeah!”** — checkpoint the active subject and follow the squirrel.
-   - **“Let's put a pin in it.”** — persist the idea, why it matters, and the exact return point.
+   - **“Let's put a pin in it.”** — add the idea, why it matters, and the exact return point to the [Open Questions and Development Ledger](open-questions-and-development-ledger.md), then commit and verify it before changing subjects.
    - **“No, keep going.”** — remain with the active subject.
 4. If followed, preserve the squirrel's discoveries.
 5. At a natural stopping point, ask whether to return or continue.
 
 A pin must be a persistent, active discussion obligation. It cannot become a euphemism for forgetting the idea.
+
+Conversation visibility, memory, a raw-chat export, or an assistant promise does not count as persistence. A pin is not saved until its ledger entry exists in a fetched and verified Git commit. When the pin is resolved, its closure must link to the substantive controlling record that received the result.
 
 A squirrel may produce major canon, prove that the family is worth more than the GDP of the Dutch, or merely produce laughter. All are legitimate outcomes in a project whose value is personal enjoyment.
 
