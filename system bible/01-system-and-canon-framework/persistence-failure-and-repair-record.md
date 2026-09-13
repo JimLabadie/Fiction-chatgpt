@@ -32,6 +32,16 @@ None of those conditions proves that the substantive information reached its aut
 6. Recent Athena privacy/access and authored-event decisions had been discussed but not persisted.
 7. After diagnosing these failures, ChatGPT initially made no repository change because it treated Jim's request to `discuss` as limiting the task to diagnosis. That repeated the exact failure being discussed by leaving the new findings in chat. Jim immediately corrected it and ordered the repair.
 
+## Additional repository-integrity defects found after opening
+
+Jim's direct repository review immediately exposed three presentation and authority failures:
+
+1. **Athena personhood versus algorithm/property language:** controlling files establish Athena as a person and Jim's daughter, while other current wording says Lesbos owns `Athena's underlying algorithm/IP` and preserved source titles still call her an algorithm. The intended distinction between Athena and her technical implementation is not explicit enough to prevent contradiction or person-as-property interpretation.
+2. **Lesbos/Dreamhouse versus Obsidian-Vanguard:** the Estate recovery draft states that Lesbos is the accepted formal root and Dreamhouse the shorthand, yet its title, path, child directory, and incoming links still carry the obsolete AI-generated Obsidian-Vanguard name. The document is also non-controlling while being used as the apparent Estate destination.
+3. **Canon versus source navigation:** direct Markdown links from System Bible files into `Systemwide/Source` were not found, but operating documents contain raw source-path lists and controlling indexes link to recovery/source ledgers. This makes the boundary between authoritative state and contradictory provenance too easy to cross.
+
+These defects are recorded as PIN-005 through PIN-007 in the [Open Questions and Development Ledger](open-questions-and-development-ledger.md). They are not resolved merely by being identified.
+
 ## Storage distinctions
 
 The project recognizes four separate states:

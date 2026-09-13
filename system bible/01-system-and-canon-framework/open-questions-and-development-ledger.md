@@ -75,6 +75,36 @@ The order above records the last explicit collaborative sequence. Jim may change
 - **Affected components:** Myrina, Estate architecture, family logistics, staffing, Barbie/submarine rabbit hole where relevant.
 - **Current durable state:** the organization and checkpoint exist; the return obligation previously did not.
 
+### PIN-005 — Estate canonical name conflicts with its repository identity
+
+- **Source:** Jim's direct inspection of the repository on 2026-09-13; `system bible/08-estate-dreamhouse-obsidian-vanguard.md` and its child directory.
+- **Current understanding:** `Lesbos` is the accepted formal Estate/wealth root and `Dreamhouse` is the affectionate shorthand. `Obsidian-Vanguard` is older AI-generated architectural provenance unless a narrower use is later established.
+- **Integrity defect:** the supposed Estate entry says that distinction inside the text but retains `Obsidian-Vanguard` in its title, filename, directory name, and incoming links. It is also marked as a non-controlling recovery draft while controlling records link to it as the Estate destination.
+- **Why it matters:** obsolete provenance is presented as current repository identity, so a human or cold-start model encounters a contradiction before reaching the warning text.
+- **Exact return point:** decide and implement the canonical Lesbos/Dreamhouse path and title; move or preserve Obsidian-Vanguard only in provenance/recovery history; update all incoming links atomically.
+- **Affected components:** Estate, Athena, Lesbos Holdings/wealth, Myrina, Barbie/Mattel/submarine, all Estate child records.
+- **Current durable state:** naming truth exists in text, but repository naming and authority architecture contradict it.
+
+### PIN-006 — Athena personhood is blurred by algorithm/property language
+
+- **Source:** Jim's direct inspection of the repository on 2026-09-13; Athena, Lesbos Holdings, Fashion Empire, chat-decision, and preserved source records.
+- **Current understanding:** Athena is a person and Jim's daughter, not an algorithm, product, company, or Estate system. Earlier source material called her a sentient capital-deployment algorithm. The accepted commercial structure says Lesbos protects the technical implementation and intellectual property and licenses the relevant system to Asteria.
+- **Integrity defect:** current files repeatedly say Lesbos owns `Athena's underlying algorithm/IP` without explicitly distinguishing Athena the person from code, models, infrastructure, patents, and licensable commercial technology. Preserved source names such as `athena-the-algorithm.md` remain visible nearby.
+- **Why it matters:** the wording can make personhood appear contradicted or make Lesbos appear to own Athena herself.
+- **Exact return point:** clarify with Jim precisely what Lesbos can own and license; then replace ambiguous person-as-property wording across every controlling record while retaining the obsolete algorithm framing only as identified provenance.
+- **Affected components:** Athena, Lesbos Holdings, Asteria Intelligence, Fashion Empire, recovery/source classification.
+- **Current durable state:** personhood is explicit, but the person/code/property boundary is not expressed safely or consistently.
+
+### PIN-007 — Operating canon and source provenance are insufficiently separated
+
+- **Source:** repository link and path audit prompted by Jim on 2026-09-13.
+- **Current understanding:** controlling components should tell a cold-start what is true. Recovery records should preserve how that conclusion was reached. Raw sources must remain available as evidence without competing with current canon.
+- **Integrity defect:** no System Bible Markdown link points directly into `Systemwide/Source`, but operating documents contain raw source-path lists and controlling indexes link into recovery/source ledgers. The distinction is technically labeled yet visually and structurally easy to cross.
+- **Why it matters:** following provenance can lead a reader or model directly into obsolete, contradictory, story-contaminated, or assistant-generated source material and recreate drift.
+- **Exact return point:** establish the allowed link direction and repository interface: controlling canon may link to other controlling canon; recovery metadata may link to sources; canon-facing indexes must not present recovery drafts as authoritative destinations. Then audit and correct all violating links and embedded source lists.
+- **Affected components:** System and Canon Framework, every System Bible module, Systemwide source archive, audit and recovery ledgers.
+- **Current durable state:** direct raw-source hyperlinks were not found, but evidence/canon separation remains structurally inadequate.
+
 ## Known recovery backlog — not falsely labeled historical pins
 
 The following are verified missing or underrepresented components. They are recorded here so they cannot disappear, but the current evidence does not prove that Jim used the specific phrase `put a pin in it` for each one:
