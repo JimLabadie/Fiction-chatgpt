@@ -62,7 +62,9 @@ Apply **Pencil**: competent people may simply perform their jobs. The framework 
 
 Love is not treated as a finite resource. Multiple loving relationships can be emotionally real and narratively important without reducing polyamory to erotic decoration.
 
-Fidelity means honoring the terms the people in a relationship actually agreed to. It does not automatically mean exclusivity. Monogamous, polyamorous, and other consensual structures can each be faithful on their own terms.
+**Monogamy is a founding tenet of the relationship framework.** It defines the boundary of fidelity around the committed relationship rather than limiting that relationship to two people. A multi-partner relationship may be monogamous as a unit: all partners are committed inside one relationship, and no member independently pursues outside romantic or sexual relationships.
+
+Any shared invitation beyond that boundary requires fresh, genuine, unanimous consent from every partner and the invited adult. One no stops it. A shared encounter does not create partnership or permanent membership; lasting integration is a separate, deliberate, gradual, unanimous decision.
 
 Adding or removing a partner, or otherwise changing the structure of a relationship, requires genuine communication and agreement among the people affected. Expansion is renegotiation, not unilateral acquisition. Love does not nullify consent, boundaries, or consequences.
 

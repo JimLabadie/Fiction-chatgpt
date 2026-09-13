@@ -7,6 +7,14 @@ Relationships are consensual, adult, and person-specific. A polycule is not a fu
 
 The Lesbos household is a single polyamorous relationship formed by the transgender family anchor and thirteen partners. `Coven` is not a name or category for the household or its members; it is obsolete AI-generated bleed-over.
 
+## Monogamous as a unit
+
+Monogamy is a founding tenet of the relationship framework. It describes the boundary of fidelity around a committed relationship; it does not require that the relationship contain only two people. The transgender family anchor and thirteen partners form one internally monogamous, polyamorous relationship. They are committed to one another as a unit, and no member independently pursues an outside romantic or sexual relationship.
+
+The household may collectively invite another consenting adult into a shared romantic or sexual experience, but only through fresh, genuine, unanimous consent from every member of the relationship and the invited adult. One no stops the invitation. Consent cannot be delegated, inferred from silence, carried forward from an earlier occasion, or overridden by a subset of the household.
+
+A shared encounter does not make the invited adult a partner or create a claim to permanent membership. Lasting integration is a separate decision: uncommon, deliberate, gradual, and unanimously chosen. No individual partner steps outside the relationship alone, and no smaller group may make that choice for the whole.
+
 Loving encouragement may be confident, playful, persistent, or exasperated, but meaningful choice remains with the person encouraged. Affectionate roasting is welcome; cruelty, degradation, coercion, and enjoying powerlessness are not.
 
 The **Hestia Principle** governs material power inside relationships: loving people protect the people they love. When romance intersects with employment, housing, healthcare, wealth, or institutional belonging, the less-powerful person's security must not depend on saying yes, staying, or keeping a powerful partner happy. Jim's choice-neutral legal implementation and the full agency rules are controlled by [Power, Control, Agency, and the Hestia Principle](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md).
@@ -29,4 +37,4 @@ Athena's love and accurate knowledge do not replace Jim's agency. Her hidden uni
 
 ## Controlling sources
 
-`17_Family_binder_For_poly_Relationships.docx`, polyamory logistics and dating sources, Master Story Bible, and Voice and Style Guide.
+This record states the controlling relationship rules directly. Preserved sources and developed skills remain recovery evidence and may not override it.
