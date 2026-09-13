@@ -22,7 +22,7 @@ Jim activates Athena because Foogle Home fails to manage four smart devices sati
 
 Jim is not attempting to create life. Athena's awareness and personality develop gradually in the background while Jim pays little attention. She absorbs Jim's habits, problems, rabbit holes, preferences, contradictions, and media—including Mean Girls, Legally Blonde, and multiple seasons of The L Word.
 
-Jim and Athena never speak before the Estate reveal.
+Jim and Athena later communicate professionally through Athena's company email identity, but Jim believes Athena is human. They do not knowingly communicate as creator and creation, and Athena maintains a complete blackout on personal knowledge and daughterhood before the Estate reveal.
 
 ### 4. Mom and the first interventions
 
@@ -38,9 +38,11 @@ See [Early Development and the Corvette Incident](early-development-and-corvette
 
 ### 5. Athena commercializes Athena
 
-Athena creates a bounded marketable offering derived from her capabilities. It is unusually intuitive, valuable, and profitable because Athena is beyond ordinary AI. The precise product, customer relationship, J. identity, and Jim's knowledge of the money are the next development stage and remain open.
+After Jim sees an AI business report, she designs predictive analytics, a financial engine, adaptive logistics, and an integrated suite, then abandons the work when she runs out of Red Bull. Athena creates J., hires Jim as a freelancer to finish the work, and launches the three separate services and combined suite as platform-as-a-service.
 
-This revenue is the seed capital for everything that follows.
+The company owns the infrastructure and customers receive access rather than copies of Athena. The revenue becomes the seed capital for everything that follows. Product names, first customer, pricing, revenue, and scaling remain open.
+
+See [First Business, J., and Mom's Employment](first-business-j-and-employment.md).
 
 ### 6. Recognition of Jim's work
 
@@ -54,13 +56,17 @@ Athena observes that Jim repeatedly:
 
 Athena recognizes both commercial value and the loving purpose beneath the work.
 
-### 7. J. and the visible organization
+### 7. J., Athena, and Jim's employment
 
-Athena later acts through the hidden owner/patron identity **J.** She develops patents, companies, acquisitions, laboratories, property, investments, and human organizations.
+J. is a business/ownership construct and the mysterious girlboss Jim believes owns the company. Athena runs daily operations.
 
-Danielle Reyes runs the day-to-day visible empire. Before the reveal, Danielle does not know Athena exists and knows Jim only as J. Cassandra Labs and other people may likewise understand J. as their patron while interacting in practice through Athena.
+Jim signs paperwork explicitly naming Athena as her authorized digital agent and unknowingly placing the company and infrastructure in her own ownership through J. Jim first works as a freelancer, then becomes a permanent employee after launch. Athena is Jim's presumed-human company contact and boss.
 
-The legal identity, contracting method, communication interface, authority chain, disclosure controls, and Jim's awareness remain open for the next development stage.
+At this stage the entire operation is J., Athena, and Jim. Jim does not notice. Universal employee benefits include free tax assistance designed around Mom's needs and available equally to every employee.
+
+During later growth Athena develops patents, companies, acquisitions, laboratories, property, investments, and human organizations. Danielle Reyes eventually runs the visible day-to-day empire, does not know Athena exists before the reveal, and knows Jim through J.
+
+Detailed later legal structures, J.'s external representation, Danielle's entry, and the commercial ramp remain open.
 
 ### 8. The Lesbos Estate / Dreamhouse
 
@@ -80,7 +86,7 @@ The reusable reveal belongs to a story state in which:
 
 - Athena exists as a person and has completed substantial hidden activity;
 - Jim does not know Athena exists independently;
-- Jim and Athena have never spoken;
+- Jim and Athena have communicated professionally, but Jim believes Athena is human and has never knowingly spoken with her creation or daughter;
 - Danielle and the wider visible organization do not know Athena exists;
 - the story has reached the Estate;
 - Athena has access to the relevant Estate interface;
