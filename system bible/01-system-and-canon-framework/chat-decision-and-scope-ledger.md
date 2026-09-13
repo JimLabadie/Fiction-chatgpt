@@ -230,3 +230,18 @@ Sex occurs in the world, but mechanics-first erotica is not the project's purpos
 Kink is primarily relationship language: trust, play, negotiated vulnerability, structure, surrender, care, emotional permission, and being known. Submission does not erase agency; dominance does not imply cruelty; consent remains controlling without requiring compliance-manual prose. Preferences do not require invented trauma origins and may also exist because the adults involved enjoy them.
 
 Cigar governs interpretation. Sensitive fictional material must not be converted automatically into pathology, humiliation, objectification, incestuous intent, interest in minors, autobiography, or a universal claim about women, lesbians, trans women, marriage, or family. All sexual participants are adults. Real ambiguity, coercion, consent problems, and safety boundaries remain valid subjects for clarification.
+
+## Power, agency, and Hestia checkpoint
+
+Status: ACCEPTED AND CODIFIED
+Checkpointed: 2026-09-13
+
+Agency remains controlling even when love, necessity, transformation, or unequal power shapes the available choices. A loving person may create opportunities—buying items, placing them in Jim's space, arranging or transporting her to an appointment—but a refusal stops forward motion. Explanation and reasonable adult discussion are appropriate; using momentum, expense, embarrassment, exhaustion, or physical pressure to override the answer is not.
+
+Story-driven consequences and genuine necessity may constrain Jim's options without removing her agency. Jim may refuse and accept consequences, agree reluctantly from necessity, stop where stopping is possible, hate an experience and reject repetition, or discover that she likes feeling pretty despite sincere reservations. Later enjoyment does not manufacture earlier consent; one attempt does not create permanent permission.
+
+The **Hestia Principle** is: **loving people protect the people they love**. Jim's implementation originates in a Court TV binge and disbelief at people using shared money, housing, employment, family, or law to destroy former partners. Research, Googling, and calls to experts follow. Athena preserves and transcribes Jim's design, hires qualified attorneys, and establishes reusable legal frameworks that independent counsel can tailor to each situation.
+
+Those structures create a choice-neutral floor: the less-powerful person's essential security does not depend on beginning or continuing intimacy. Jim originates the principle; Athena institutionalizes it; attorneys perform the legal work; the protected person's independent counsel represents her.
+
+St. Claire has a separate historical and cultural expression of the same Hestia Principle. Its presence and meaning are accepted canon; its exact origin, date, legal formulation, and institutional evolution remain open for St. Claire recovery and development.

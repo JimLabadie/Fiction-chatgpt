@@ -30,6 +30,8 @@ Answer four questions for every instance: content-level or identity-level; retro
 
 Unwanted magical, technological, or accidental transformation may occur, but never grants romantic or sexual consent. “Temporary,” “reversible,” and “easy to reverse” are different: record time limit, required actor, resources, risks, partial reversal, and what happens to memories and records.
 
+A transformation may also become necessary because of genuine external conditions. Necessity may constrain the available choices without erasing agency: the affected person may refuse and accept consequences, agree reluctantly, choose among remaining options, stop where stopping is possible, and later decide whether the experience is welcome, unwanted, mixed, or never to be repeated. A good outcome does not create prior consent. See [Power, Control, Agency, and the Hestia Principle](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md).
+
 ## Controlling sources
 
 Current change-toolkit rules ledger, digital-life addendum, `10_swap_matrix.docx`, and Voice and Style Guide. Older and copied matrices remain recovery evidence until reconciled field by field.

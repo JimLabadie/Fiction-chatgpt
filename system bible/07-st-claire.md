@@ -15,6 +15,8 @@ Luxury housing, artist lofts, co-housing, and permanently affordable housing rem
 - **1988:** a rent strike and land-trust victory become central civic memory.
 - **2003:** an archive fire and reconstruction deepen the commitment to preservation.
 
+St. Claire's history and lore also preserve the **Hestia Principle**: **loving people protect the people they love**. The principle informs a culture in which housing, money, healthcare, employment, family recognition, and community belonging should not become weapons against someone's choice or departure. Its exact historical origin and formal institutional expression remain open rather than invented. See [The Hestia Principle in St. Claire](07-st-claire/hestia-principle.md).
+
 ## Geography
 
 - **Greenleaf Core:** Greenleaf Stage, farmers market, gardens, coffee, films, and festivals.
@@ -45,6 +47,7 @@ The archived recovery chat establishes that this file is materially incomplete. 
 - the later specially governed district structure;
 - the magical/social effect discouraging non-egg men from remaining, including planned exceptions and their handling mechanism;
 - St. Claire marriage, family-law, external-recognition, and parallel legal-instrument systems;
+- the exact historical origin and legal/cultural expression of the Hestia Principle;
 - family-court and sovereignty-inspired structures;
 - later urban-planning rationale and Teodora's role;
 - Reclamation Works, refuse-to-energy, fertilizer, and external utility sales;

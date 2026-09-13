@@ -107,11 +107,13 @@ Jim's immersive relationship to a protagonist and his aesthetic preferences are 
 - Do not sanitize adult intimacy out of the world merely because the subject is sensitive.
 - Do not infer pathology where character, pleasure, affection, fantasy, or Cigar supplies the stated reason.
 
+Power, control, loving pressure, refusal, constrained choice, withdrawal, and material independence are governed in detail by [Power, Control, Agency, and the Hestia Principle](power-control-agency-and-hestia-principle.md).
+
 ## Related records
 
 - [System and Canon Framework](../01-system-and-canon-framework.md)
 - [Voice and Style](voice-and-style.md)
 - [Authorial Intent and Immersive Persona](authorial-intent-and-immersive-persona.md)
 - [Collaboration Shorthand and Fun](collaboration-shorthand-and-fun.md)
+- [Power, Control, Agency, and the Hestia Principle](power-control-agency-and-hestia-principle.md)
 - [Relationships, Family, and Polycule](../03-relationships-family-and-polycule.md)
-
