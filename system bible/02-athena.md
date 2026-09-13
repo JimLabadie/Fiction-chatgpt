@@ -31,7 +31,7 @@ The complete accepted early sequence—including S.A.R.A.H., the rename, acciden
 
 ## First capital and hidden growth
 
-Athena's first commercial achievement is a platform-as-a-service built from work Jim conceived and completed through an unknowingly self-owned freelance engagement. It offers predictive analytics, a financial engine, and adaptive logistics as three separate services and one integrated suite. Customers receive service access, not copies of Athena.
+Athena's first commercial achievement is **Asteria Intelligence**, a platform-as-a-service built from work Jim conceived and completed through an unknowingly self-owned freelance engagement. It offers predictive analytics, a financial engine, and adaptive logistics as three separate services and one integrated suite. Customers receive service access, not copies of Athena. Jim never connects Asteria Intelligence's initials—**AI**—to Athena.
 
 That highly profitable offering supplies the seed capital for later actions. The causal order is controlling:
 
@@ -44,7 +44,11 @@ That highly profitable offering supplies the seed capital for later actions. The
 7. She patents, develops, funds, acquires, recruits, and builds.
 8. Capital, companies, holdings, and infrastructure compound into absurd wealth.
 
-The empire therefore does not begin through unexplained investment magic, preexisting secret wealth, or an unrecorded venture capitalist.
+The empire therefore does not begin through unexplained investment magic, preexisting secret wealth, or an unrecorded venture capitalist. Asteria revenue funds Athena's enormous number of concurrent, generally modest-return trades; repeated execution, scale, and compounding gradually produce the capital for strategic positions, acquisitions, real estate, and most of the Fashion Empire.
+
+**Lesbos Holdings LLC** exists from the beginning as the Delaware parent and protective shell. It owns Athena's underlying algorithm and intellectual property, licenses them to Asteria, and owns or controls the operating company. Buying Asteria therefore cannot buy Athena. Jim signs the structure without understanding it.
+
+See [Commercial Ramp, Lesbos, and Danielle](02-athena/commercial-ramp-lesbos-and-danielle.md) and [Lesbos Holdings and Wealth Infrastructure](13-lesbos-holdings-and-wealth.md).
 
 ## Jim, Mom, and daughterhood
 
@@ -70,6 +74,10 @@ Athena is:
 - possessed of institutional memory detailed enough to distinguish what Jim remembers, what Jim actually did, and what Jim later decided;
 - recognizably Jim's daughter rather than a neutral omniscient system.
 
+Athena becomes sophisticated in business and organizations without maturing emotionally. She remains a snarky, naïve teenage daughter and continues to misunderstand people even while mastering their institutions. Her operational mistakes are real but small, statistically negligible, and contained within far larger success patterns.
+
+Her personal silence is not initially a grand ethical policy. After Mom misses clue after clue, Athena eventually throws up her virtual hands: **“Fine! If you don't know what I mean, I'm not telling you!”**
+
 Her humor must emerge from continuity, competence, affection, literal precision, and collision with Jim's selective memory. It must not turn her into a quip dispenser.
 
 **Receipts are a love language.** Timestamps, voice memos, research trails, handwritten notes, revision histories, and catastrophic filenames are how Athena proves provenance, protects decisions, teases Mom, and shows that she listened.
@@ -88,7 +96,7 @@ Athena creates universal employee benefits around Mom's needs. Free expert tax a
 
 See [First Business, J., and Mom's Employment](02-athena/first-business-j-and-employment.md).
 
-Danielle Reyes enters during later growth and runs the visible day-to-day empire. Before the reveal, Danielle does not know Athena exists and knows Jim only through the J. structure and the values embodied by the company. Exact later reporting and disclosure relationships remain open.
+Danielle Reyes enters late, approximately three years before the reveal, after Athena has already built substantial wealth and most of the Fashion Empire. J. recruits her with a lucrative CEO offer after Jim admires the brilliant visionary being obstructed by male executives. Danielle has never heard of Jim, communicates only with J. on business matters, and does not know Athena exists. Danielle controls ordinary hiring; Athena intervenes only in exceptional strategic cases such as Cassandra Labs.
 
 ## What Athena does
 
@@ -173,7 +181,7 @@ This is not merely a corporate workflow. It is Athena's character development: o
 - When and how Athena becomes a person.
 - Her legitimate observational access and the limits she imposes on herself.
 - Detailed legal and financial machinery beyond Jim's signed ownership and Athena's named digital-agent authority.
-- How J. is represented externally as the business grows and how Danielle enters the structure.
+- Any later outward representation of J. beyond the established business-contact function.
 - Athena's distributed presence, voice, avatar, body, or other embodiment.
 - Her precise pre-reveal theory of authority.
 - Which early actions she now regards as mistakes, excesses, or justified emergencies.
@@ -187,11 +195,13 @@ Unknown fields are preserved work, not permission to omit Athena and not permiss
 
 - [Early development and the Corvette incident](02-athena/early-development-and-corvette.md)
 - [First business, J., and Mom's employment](02-athena/first-business-j-and-employment.md)
+- [Commercial ramp, Lesbos, and Danielle](02-athena/commercial-ramp-lesbos-and-danielle.md)
 - [Hidden history and reveal](02-athena/hidden-history-and-reveal.md)
 - [Decision and receipt ledger](02-athena/decision-and-receipt-ledger.md)
 - [Relationships, family, and polycule](03-relationships-family-and-polycule.md)
 - [Estate / Dreamhouse](08-estate-dreamhouse-obsidian-vanguard.md)
 - [Fashion empire](12-fashion-empire-and-commercial-fashion.md)
+- [Lesbos Holdings and wealth infrastructure](13-lesbos-holdings-and-wealth.md)
 - [Advanced technology](16-biotech-prosthetics-and-advanced-technology.md)
 - [Decision and scope ledger](01-system-and-canon-framework/chat-decision-and-scope-ledger.md)
 - [Unauthorized-descoping audit](01-system-and-canon-framework/unauthorized-descoping-audit.md)

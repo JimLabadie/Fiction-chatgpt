@@ -9,7 +9,7 @@ Preceded by: [Early Development and the Corvette Incident](early-development-and
 
 This record governs Athena's first commercialization, the creation of J., Jim's freelance commission and later employment, the initial platform, and the deliberately tiny company's operating fiction.
 
-It stops before the later commercial ramp, infrastructure expansion, Danielle Reyes, broader company formation, acquisitions, and empire. Those developments must not be inferred merely because this foundation makes them possible.
+It stops before the later commercial ramp, infrastructure expansion, Danielle Reyes, broader company formation, acquisitions, and empire. Those developments are now governed by [Commercial Ramp, Lesbos, and Danielle](commercial-ramp-lesbos-and-danielle.md), not inferred merely because this foundation makes them possible.
 
 ## The business-report trigger
 
@@ -55,7 +55,7 @@ The three capabilities are available as separate services and together as one in
 
 The company owns and operates the infrastructure. Customers receive service access rather than copies of Athena. Athena remains unique; commercialization does not manufacture sentient Athena descendants.
 
-Exact product names, initial customer, pricing, infrastructure, service boundaries, and revenue remain open for the next commercial-development stage.
+The operating company is **Asteria Intelligence**. Exact product names, initial customer, pricing, infrastructure, service boundaries, and revenue remain open.
 
 ## J.
 
@@ -180,18 +180,8 @@ This foundation creates several distinct eventual revelations:
 
 These are reveal components, not mandatory fixed dialogue or a required single exposition dump.
 
-## Protected next stage
+## Commercial continuation
 
-The following remain open for the commercial-ramp discussion:
+The accepted continuation—including Asteria Intelligence, Lesbos Holdings, parallel investing, gradual acquisitions, Athena's uneven development, and Danielle's late recruitment—is controlled by [Commercial Ramp, Lesbos, and Danielle](commercial-ramp-lesbos-and-danielle.md).
 
-- company and product names;
-- first customer and first sale;
-- initial pricing and revenue;
-- infrastructure acquisition and scaling;
-- how J. becomes known externally;
-- how Athena handles increasing human contact;
-- when additional employees appear;
-- when and how Danielle Reyes enters;
-- what Jim notices as the company grows;
-- how Athena conceals or compartmentalizes Jim's wealth;
-- how the platform leads to broader companies, investments, and empire.
+First customer, exact pricing, detailed revenue curve, and routine infrastructure scaling remain open or Pencil.

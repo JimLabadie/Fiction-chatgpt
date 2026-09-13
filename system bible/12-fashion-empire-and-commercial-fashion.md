@@ -7,11 +7,15 @@ Authority: OWNERSHIP CANON WITH DATED VARIABLE FINANCIALS
 
 [Athena](02-athena.md) is a person and Jim's daughter, not the empire's capital-deployment algorithm. Capital deployment, acquisitions, patent development, and institutional coordination are actions she performs during her hidden history.
 
-The empire's causal beginning is a platform-as-a-service comprising predictive analytics, a financial engine, adaptive logistics, and an integrated suite. Jim conceives and builds the core capabilities through a freelance engagement arranged by Athena; Athena creates J., operates the platform, and commercializes it. The revenue supplies seed capital. Athena then recognizes value in Jim's abandoned solutions and builds outward through companies, people, and institutions.
+The empire's causal beginning is **Asteria Intelligence**, a platform-as-a-service comprising predictive analytics, a financial engine, adaptive logistics, and an integrated suite. Jim conceives and builds the core capabilities through a freelance engagement arranged by Athena; Athena creates J., operates the platform, and commercializes it. Asteria revenue supplies seed capital.
+
+Athena compounds that capital through enormous numbers of concurrent market positions, then grows from small investments to strategic stakes, controlling positions, and gradual acquisitions. Most of the Fashion Empire exists before Danielle enters; it is not assembled in a mad dash after a human CEO appears. Athena continues investing afterward as background operation.
+
+Lesbos Holdings LLC owns Athena's algorithm/IP, licenses it to Asteria, controls the operating company, and becomes the protective ownership and wealth root. See [Commercial Ramp, Lesbos, and Danielle](02-athena/commercial-ramp-lesbos-and-danielle.md) and [Lesbos Holdings and Wealth Infrastructure](13-lesbos-holdings-and-wealth.md).
 
 Jim unknowingly owns the initial company through J., signs Athena's digital-agent authority, and later becomes a permanent employee of her own company. [Athena's first-business record](02-athena/first-business-j-and-employment.md) governs this history.
 
-Danielle Reyes enters during later growth, operates the visible day-to-day empire, and does not know Athena exists before the reveal. J. is a business/ownership construct rather than a second AI. Later J. representation, Danielle's entry, and action-by-action authority remain under recovery in Athena's ledger.
+Danielle Reyes enters late, approximately three years before the reveal, operates the visible day-to-day empire through J., and does not know Athena exists. Danielle has not heard of Jim when recruited and works in a different company. J. is a business/ownership construct rather than a second AI. Danielle controls ordinary hiring; Athena reserves rare strategic interventions such as Cassandra Labs.
 
 ## Ownership model
 

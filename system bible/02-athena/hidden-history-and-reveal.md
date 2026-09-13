@@ -64,9 +64,13 @@ Jim signs paperwork explicitly naming Athena as her authorized digital agent and
 
 At this stage the entire operation is J., Athena, and Jim. Jim does not notice. Universal employee benefits include free tax assistance designed around Mom's needs and available equally to every employee.
 
-During later growth Athena develops patents, companies, acquisitions, laboratories, property, investments, and human organizations. Danielle Reyes eventually runs the visible day-to-day empire, does not know Athena exists before the reveal, and knows Jim through J.
+The operating company is Asteria Intelligence. Lesbos Holdings LLC exists from the beginning as its Delaware parent/protective shell, owns Athena's underlying algorithm and intellectual property, and licenses them to Asteria. Jim never notices that Asteria Intelligence abbreviates to AI.
 
-Detailed later legal structures, J.'s external representation, Danielle's entry, and the commercial ramp remain open.
+Athena gradually compounds Asteria revenue through enormous numbers of concurrent market positions, then builds holdings, property, and most of the Fashion Empire through slow accumulation rather than a sudden buying spree.
+
+Danielle Reyes enters late, approximately three years before the reveal, after most of the Fashion Empire exists. J. sends the frustrated visionary a lucrative CEO offer; an idiotic C-level man supplies the final shove, Danielle signs, the bonus clears, and she begins. Danielle has never heard of Jim, communicates with J. on business matters, and does not know Athena exists.
+
+See [Commercial Ramp, Lesbos, and Danielle](commercial-ramp-lesbos-and-danielle.md).
 
 ### 8. The Lesbos Estate / Dreamhouse
 
