@@ -1,4 +1,8 @@
 # Adaptive Textile Research Division ("Living Fabric") — Product Manifest
+
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
 (System Specification: Research Program LF-1, Early-Stage)
 
 ## System Environment & Core Parameters

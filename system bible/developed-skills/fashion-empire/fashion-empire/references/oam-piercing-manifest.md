@@ -1,5 +1,9 @@
 # OAM Piercing Module — Technical Manifest
 
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
 *Part of the Aura-Matrix V-10's Multi-Point Piercing Curation System. Selection happens via consultation before execution — see the Consultation & Selection Process note in `presentation-technology.md`. No genital/intimate placements are included, by deliberate design choice.*
 
 ## Ear Placements (20 total)

@@ -1,10 +1,14 @@
 # Threadbourne Robotics
 
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
 *Reusable reference. A third standalone corporate entity under the same parent holding structure as NAS and OAM (see `presentation-technology.md`) — fashion-specific robotics, automation, and materials science, grounded closer to real-world warehouse-picker and articulated-arm technology than NAS/OAM's more overtly science-fictional register. Like NAS and OAM, Threadbourne is a genuine commercial enterprise with real initial product offerings, valuations, and investment structure — not a device that exists solely for the anchor's own household use. Same dramatic-irony function as the rest of this world: infrastructure the anchor built for reasons that seemed mundane at the time, which turns out, in hindsight, to have been quietly building toward exactly the life she needed.*
 
 ## Origin
 
-Threadbourne began as a single frustration, not a business plan: the anchor, early in her wealth, unable to find a specific watch while getting ready one morning, ended up sketching a retrieval-and-organization concept out of sheer irritation rather than ambition. The patents that followed were filed almost as a side project — solving her own problem first, without any conscious sense of who she was solving it *for*. Everything the company has become since (see product lines below) grew outward from that same instinct: build the thing that would have made getting ready easier, then keep building, one frustration at a time. **This should read as one more piece of evidence for the story's central thesis** — the same throughline Athena's own reveal established (see `athena-the-algorithm.md`): nothing here was ever random. It was always her, solving her own problem years before she understood what the problem actually was.
+Threadbourne began as a single frustration, not a business plan: early in Jim's wealth, she could not find a specific watch while getting ready and sketched a retrieval-and-organization concept out of irritation rather than ambition. The patents grew outward from the same instinct: build the thing that would have made getting ready easier, then keep building one frustration at a time. This becomes evidence in Athena's reveal, while preserving the controlling distinction that Jim created the underlying ideas and Athena remembered, funded, connected, and implemented them.
 
 ## Corporate Mandate
 
@@ -21,7 +25,7 @@ Fashion-specific robotics and automation, spanning four connected domains: autom
 | Retail Innovation | **Self-Service Tailoring Kiosks** — *plain-language: instant-alteration retail booths* | Scaled-down, publicly deployable version of the household's robotic tailoring technology — instant measurement and on-the-spot robotic alteration in flagship retail locations. See `threadbourne-tailoring-kiosk-manifest.md`. | Valuation: ~$4 Billion. Investment: 100% Acquisition (~$2.5 Billion). |
 | Mass-Market Consumer Line | **Threadbourne Home** — *plain-language: the consumer version of AWS* | A compact, mass-market closet-organization and retrieval unit for ordinary consumers — smaller in scale and without the tailoring capability of the full AWS. See `threadbourne-home-manifest.md`. | Valuation: ~$6 Billion. Investment: Majority Control (90% Equity Stake / ~$3.5 Billion). |
 
-**Combined Threadbourne valuation: ~$40 Billion** — see `holdings-map.md`'s Technology & Automation Subsidiaries line, alongside NAS and OAM, for how this rolls into the empire's total capital deployment figure.
+**Working combined Threadbourne valuation: approximately $40 billion.** The dated holdings workbook controls whether and how that model rolls into the accepted empire total.
 
 **Projected Daily Revenue (Post-Launch): ~$22 Million/day.** The highest of the four technology subsidiaries — driven by the Discreet Asset Tag Platform's industry-wide licensing reach and Threadbourne Home's genuine mass-market consumer volume, both of which scale well beyond the household-facing AWS and tailoring-kiosk lines alone.
 
@@ -51,12 +55,12 @@ Each product above has its own detailed technical manifest, in the same specific
 
 ## Positioning Relative to Artisanal Craft
 
-Threadbourne's manufacturing lines are explicitly marketed, internally and externally, as a volume-and-consistency solution rather than a replacement for hand-crafted couture work. Genuinely artisanal pieces — hand-beading, hand-draping, made-to-measure construction — remain outside this system's scope by design, preserving both the artistic and commercial value of human craftsmanship within the empire's holdings. This is a deliberate soft edge against `holdings-map.md`'s existing "Supply Chain Fragility & Artisanal Bottlenecks" gap — Threadbourne can ease some production pressure, but doesn't (and shouldn't) resolve that gap entirely; a story that wants ongoing tension with artisan communities still has room to use it.
+Threadbourne's manufacturing lines are a volume-and-consistency solution rather than a replacement for handcrafted couture. Hand-beading, hand-draping, made-to-measure construction, and other genuinely artisanal work remain outside the system's scope, preserving human craft and leaving real capacity constraints unresolved.
 
 ## Story Hook: Industry Adoption Isn't Universal
 
-Not every house adopts Threadbourne's technology, particularly the Discreet Asset Tag Platform — a rival house's refusal (whether from cost, tradition, or a founder's resistance to being tracked) is a believable, low-key point of industry friction, usable alongside `holdings-map.md`'s existing Category Gaps without needing to become a major plot thread on its own.
+Not every house adopts Threadbourne's technology, particularly the Discreet Asset Tag Platform. Refusal because of cost, tradition, privacy, or resistance to tracking is legitimate industry friction rather than incompetence.
 
 ## Where This Physically Lives
 
-In stories also using `obsidian-vanguard-estate`, AWS's fourteen mannequins (one center-room in the Anchor's Dressing Room, thirteen each paired beside their own partner's closet in the Partner Dressing Room) are housed within those two rooms, serviced by six mobile retrieval robots docked in wall alcoves (see that skill's own entry); the three robotic tailoring units sit in the Grand Wardrobe Complex's overflow storage, reachable via the same Discreet Delivery Elevator that connects both dressing rooms to that complex. Full working duplicate installations of the whole AWS system also exist at Cassandra Labs (development/testing) and the Innovation Showroom (client demonstration) — see `cassandra-labs.md` and `obsidian-vanguard-estate`'s Innovation Showroom entry.
+In stories also using the Lesbos Estate, AWS's fourteen mannequins (one center-room in the Anchor's Dressing Room, thirteen each paired beside their own partner's closet in the Partner Dressing Room) are housed within those two rooms, serviced by six mobile retrieval robots docked in wall alcoves (see that skill's own entry); the three robotic tailoring units sit in the Grand Wardrobe Complex's overflow storage, reachable via the same Discreet Delivery Elevator that connects both dressing rooms to that complex. Full working duplicate installations of the whole AWS system also exist at Cassandra Labs (development/testing) and the Innovation Showroom (client demonstration) — see `cassandra-labs.md` and the Lesbos Estate's Innovation Showroom entry.

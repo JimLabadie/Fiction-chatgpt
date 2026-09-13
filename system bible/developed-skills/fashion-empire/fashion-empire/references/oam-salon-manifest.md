@@ -1,6 +1,10 @@
 # OAM Salon Module — Technical Manifest
 
-*Part of the Aura-Matrix V-10's Synchronized Salon & Laser-Guided Resurfacing Array. Selection happens via consultation before execution — see the Consultation & Selection Process note in `presentation-technology.md`. Owned within Cassandra Labs by Marisol Vega (see `cassandra-labs.md`).*
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
+*Part of the Aura-Matrix V-10's Synchronized Salon & Laser-Guided Resurfacing Array. Selection happens through consultation before execution; see `presentation-technology.md`. Cassandra Labs maintains the development work under its accepted eight-person team.*
 
 ## Hair Services
 

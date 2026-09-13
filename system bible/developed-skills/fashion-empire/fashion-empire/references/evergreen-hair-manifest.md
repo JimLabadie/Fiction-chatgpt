@@ -1,4 +1,8 @@
 # The Perennial Restoration Program — Product Manifest
+
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
 (System Specification: Model Variant PRP-1)
 
 ## System Environment & Core Parameters

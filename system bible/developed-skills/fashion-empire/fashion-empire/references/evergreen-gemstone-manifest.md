@@ -1,4 +1,8 @@
 # The Genesis Gem Foundry — Product Manifest
+
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
 (System Specification: Model Variant GGF-3)
 
 ## System Environment & Core Parameters
@@ -25,7 +29,7 @@
 ## Stage Four: Authentication & Distribution
 
 - **Full Transparency Tagging:** Every piece is tagged at creation identifying its lab-grown origin, growth date, and facility — sold on the basis of ethical sourcing as a genuine selling point rather than something to obscure.
-- **Household & Commercial Use:** Feeds directly into the household's own jewelry and Footwear Vault pieces (see `obsidian-vanguard-estate`), alongside broader commercial sales through the empire's retail holdings.
+- **Household & Commercial Use:** Feeds directly into the household's own jewelry and Footwear Vault pieces (see the Lesbos Estate), alongside broader commercial sales through the empire's retail holdings.
 
 ## Comparative Operational Matrix
 

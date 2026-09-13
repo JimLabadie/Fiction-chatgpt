@@ -1,6 +1,10 @@
 # Presentation Technology Subsidiaries
 
-*Reusable reference. Two standalone corporate entities under the same parent holding structure as the rest of the empire — a deliberate, over-the-top science-fiction element, on-brand with everything else in this world. The core narrative function: the anchor, without consciously realizing why at the time, built herself a safety net for physical transition long before she understood she needed one — doing the heavy lifting a story doesn't want to spend chapters on, the same dramatic-irony logic as the estate's own origin story in `obsidian-vanguard-estate`. **Both NAS and OAM are genuine commercial enterprises with real initial product offerings, valuations, and investment structure — not devices that exist solely for the anchor's private household use.** A story is free to have the anchor's own units be the flagship/prototype installations, with the broader commercial line rolling out alongside or after her own story beats.
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
+*Reusable reference. Two standalone corporate entities under the same parent holding structure as the rest of the empire — a deliberate, over-the-top science-fiction element, on-brand with everything else in this world. The core narrative function: the anchor, without consciously realizing why at the time, built herself a safety net for physical transition long before she understood she needed one — doing the heavy lifting a story doesn't want to spend chapters on, the same dramatic-irony logic as the estate's own origin story in the Lesbos Estate. **Both NAS and OAM are genuine commercial enterprises with real initial product offerings, valuations, and investment structure — not devices that exist solely for the anchor's private household use.** A story is free to have the anchor's own units be the flagship/prototype installations, with the broader commercial line rolling out alongside or after her own story beats.
 
 ## Neo-Anatomical Systems Corp (NAS)
 
@@ -10,7 +14,7 @@
 
 **Ecosystem Integration:**
 - **WIS/AWS synchronization:** Any change made through the Integration Suite updates the anchor's stored biometric profile in the Wardrobe Intelligence System automatically, so Threadbourne's AWS retrieval-and-dressing stations (see `threadbourne-aws-manifest.md`) fit and stage garments correctly from that point forward without a separate manual re-measurement step.
-- **Medical Bay — deliberately no integration:** the Integration Suite's zero-recovery, fully self-contained design is intentional; it does not route through or require monitoring from the estate's Medical Bay & Wellness Center (see `obsidian-vanguard-estate`). The Medical Bay remains available for any of the household's unrelated ordinary health needs, entirely separate from this device.
+- **Medical Bay — deliberately no integration:** the Integration Suite's zero-recovery, fully self-contained design is intentional; it does not route through or require monitoring from the estate's Medical Bay & Wellness Center (see the Lesbos Estate). The Medical Bay remains available for any of the household's unrelated ordinary health needs, entirely separate from this device.
 
 ### Master Corporate Asset & Product Mapping Table (NAS Subsidiary)
 
@@ -111,7 +115,7 @@ The pod then executes across three synchronized phases, each taking roughly one 
 **Zero recovery time** across all three phases — a deliberate sci-fi convenience matching this world's register, not something to be taken literally or dwelt on medically. **No Medical Bay integration**, by the same deliberate design logic as NAS — this device is self-contained and requires no monitoring or aftercare infrastructure.
 
 ## Where This Technology Physically Lives
-In stories also using `obsidian-vanguard-estate`, the Aura-Matrix Pod and its supporting OAM systems are housed within the Grand Wardrobe, Salon & Spa Complex, as a dedicated addition alongside the estate's conventional salon staff and spaces — see that skill's own entry for the physical placement.
+In stories also using the Lesbos Estate, the Aura-Matrix Pod and its supporting OAM systems are housed within the Grand Wardrobe, Salon & Spa Complex, as a dedicated addition alongside the estate's conventional salon staff and spaces — see that skill's own entry for the physical placement.
 
 ## A Reusable Story Pattern: What the Staff Already Suspected
 Because this technology's presence at a private estate is itself unusual — nobody builds or acquires infrastructure this specifically suited to presentation transition without a reason — household staff who are aware of it (estate staff, salon staff, anyone with visibility into what NAS/OAM actually do) have a natural, quiet basis to have already suspected or assumed the anchor was trans, well before any on-page reveal or before the anchor herself consciously knew. This is a reusable emotional beat: the anchor discovering that people around her had already, gently, correctly intuited something about her that she hadn't yet found the words for herself — mirroring the pattern of the anchor's own build choices unconsciously revealing her long before she understood them.

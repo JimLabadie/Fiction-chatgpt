@@ -1,12 +1,16 @@
 # The Patron Model
 
-*Reusable reference. An alternative operating philosophy to the hostile-takeover default described in `holdings-map.md` — available to any story as a deliberate choice the anchor can make once confronted with what the empire has been doing (see SKILL.md's "Here's What You Own" story beat).*
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
+*Reusable reference for the non-voting support and patronage direction recorded in Athena's decision ledger. The dated holdings workbook controls ownership; aggressive acquisition is not treated as the automatic moral or narrative default.*
 
 ## The Shift
 
 Moving away from hostile corporate takeovers and aggressive majority buyouts, the anchor's wealth and infrastructure can instead be deployed to support creators directly, on their own terms — particularly suited to fiercely independent, avant-garde, or family-run artisan houses for whom traditional corporate interference would be genuinely destructive to what makes them valuable in the first place. A patron-style partnership offers unconditional financial backing, supply-chain access, and manufacturing security without demanding creative compromise or board-level control.
 
-This model pairs especially well with the Founder-Veto Gap houses from `holdings-map.md` — the ones capital alone can't crack. The Patron Model doesn't try to crack them; it makes cracking them unnecessary.
+This model is especially useful for houses whose founders, families, trusts, or creative leadership do not want external control. It does not try to crack those protections; it makes control unnecessary.
 
 **Collaborative Studios:** rather than corporate restructuring, the anchor can establish collaborative design residencies (in the estate's reserve spaces, or elsewhere), inviting designers to experiment freely with resources — materials, textile technology, manufacturing access — they wouldn't otherwise have.
 
@@ -26,14 +30,14 @@ Regardless of a specific house's negotiation status, every patron-model deal str
 
 **1. The Portfolio Clause.** In exchange for patronage (capital, logistics access, artisan protection, etc.), the empire receives a defined revenue/royalty share from that house's actual product line — a piece of what the house makes, not just equity or influence. This is what keeps the Patron Model from being pure philanthropy: it's genuine investment with a genuine return, structured to protect the house's creative autonomy rather than seize its control.
 
-**2. The Committed-Partner Access Clause.** Committed partners of the anchor are not given ownership stakes in patron houses — access is not equity. Instead, they receive direct access to those houses' work product (couture, capsule pieces, bespoke commissions) as a benefit of the household's position, billed transparently through the private holding company (see `wealth-management`'s core entity structure) — an entity solely owned by the anchor and her committed partners. This is a clean, legitimate corporate expense category, not personal enrichment or embezzlement; it functions the same way an executive perk or in-kind benefit would at any real company, just at a scale matching this one.
+**2. The Committed-Partner Access Clause.** Access is not equity. Partners may receive clearly documented access to couture, capsule pieces, or bespoke commissions through the household or ownership structure. Accounting, tax, compensation, and related-party treatment must be handled transparently by qualified professionals; the framework does not declare personal benefits to be corporate expenses merely by naming them as such.
 
 ## The Chief of Staff Role
 
-Running the Patron Model — or the empire generally, whichever direction a story's anchor chooses — is a full-time, senior executive function, distinct from and never to be conflated with the Estate Manager role in `obsidian-vanguard-estate` (different domain, different professional background: the Estate Manager comes from hospitality/property management; this role comes from a corporate/business background).
+Running the Patron Model — or the empire generally, whichever direction a story's anchor chooses — is a full-time, senior executive function, distinct from and never to be conflated with the Estate Manager role in the Lesbos Estate (different domain, different professional background: the Estate Manager comes from hospitality/property management; this role comes from a corporate/business background).
 
 This is a **reusable role, not a fixed character** — each story that uses it invents its own named person to fill it. Typical scope:
-- Running point on holdings-map negotiations and status (house-by-house, in whichever direction the story's anchor has chosen).
+- Running point on house-by-house negotiations and relationship status under the accepted holdings ledger.
 - Reporting directly to the anchor — the "here's what you own" briefings and everything downstream of them.
 - Scope naturally sits at a strategic, executive level (deal-making, partnership structuring, empire-wide direction) rather than day-to-day personal-assistant work.
 

@@ -1,4 +1,8 @@
 # Discreet Asset Tag Platform — Product Manifest
+
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
 (System Specification: Model Variant DAT-2)
 
 ## System Environment & Core Parameters
@@ -29,7 +33,7 @@
 ## Stage Four: Licensing & Industry Integration
 
 - **External Licensing Model:** Made available to outside luxury houses and resale platforms on a per-unit or platform-licensing basis, positioning the technology as shared industry infrastructure rather than a closed, single-brand feature.
-- **Internal Empire Adoption:** Deployed across multiple holdings within the empire itself (see `holdings-map.md`), giving the parent structure direct visibility into authentication data across its own brand portfolio.
+- **Internal Empire Adoption:** Deployed across participating holdings, giving the parent structure visibility into authentication data across its own brand portfolio subject to company and privacy controls.
 - **Adoption Variance:** Not universally adopted — some independent or heritage houses may decline integration for reasons of cost, tradition, or founder resistance to tracking technology, leaving a believable, low-key gap in industry-wide coverage.
 
 ## Comparative Operational Matrix

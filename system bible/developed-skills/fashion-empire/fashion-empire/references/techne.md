@@ -1,10 +1,14 @@
 # Techne
 
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
 *Reusable reference, matching the structure of `threadbourne-robotics.md` and `evergreen-biofoundry.md`. The sixth company under the same parent holding structure — but distinct from every company before it: Techne was born from a **conscious** decision, after the anchor's realization, not an unconscious rant discovered in hindsight. Operates its own separate industrial manufacturing building, entirely distinct from Metis Werks (see `metis-werks.md`).*
 
 ## Origin
 
-Techne exists because Metis Werks exists. The moment the anchor committed to acquiring and reopening that abandoned facility, she ran into an immediate, obvious gap: wanting better equipment than what the industry currently offers, and having no source for it. Techne, too, was identified by Athena as an existing, struggling equipment-manufacturing operation rather than built from scratch — acquired via the same debt-financed structure as Metis Werks, full 100% ownership retained, no outside equity investors. Located in the same general district as Metis Werks, roughly two hours from the estate by helicopter. Unlike every other company in this portfolio — which trace back to old rants she didn't understand the meaning of at the time — this acquisition is a **deliberate, conscious business decision**, made in full awareness of who she is and what she's building. It's the first company in her portfolio she chose to acquire on purpose, as herself, rather than one she discovers she already built by accident. Benefits from the anchor's company-wide memo extend automatically to Techne's full workforce the moment the acquisition closes, the same as Metis Werks.
+Techne exists because Metis Werks exists. Once Jim commits to reopening that facility, the need for better manufacturing equipment becomes obvious. Athena identifies an existing struggling equipment manufacturer rather than proposing a new company from nothing. The developed financing model uses debt against the established empire and retains full ownership without outside equity. Techne occupies its own facility in the same broader industrial geography as Metis; exact placement is controlled by the later St. Claire integration and remains open. Unlike the earlier companies discovered through old workups, this acquisition is a deliberate, conscious decision made after Jim understands what she is building. Established company-wide benefits extend to Techne's workforce when the acquisition closes.
 
 ## Corporate Mandate
 
@@ -94,5 +98,5 @@ Positioned directly above Floor 23 — supports helicopter access, consistent wi
 ## Where This Fits
 
 - **Physical location:** A separate building from both the estate and Metis Werks, within helicopter range of both.
-- **Holdings map:** Added to `holdings-map.md`'s Technology & Automation Subsidiaries alongside NAS, OAM, Threadbourne, Evergreen Biofoundry, and Metis Werks — bringing the total to six companies.
+- **Holdings relationship:** Techne is an independent company alongside NAS, OAM, Threadbourne, Evergreen Biofoundry, and Metis Werks. It is not a Metis subsidiary.
 - **Distinct from Cassandra Labs:** Cassandra Labs builds the anchor's own personal rant-derived patents. Techne builds industrial manufacturing equipment for Metis Werks and the wider industry. Different mission, same anonymous-recruitment pattern for its core leadership team only.

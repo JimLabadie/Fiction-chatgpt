@@ -1,5 +1,9 @@
 # Metis Werks
 
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
 *Reusable reference. The empire's fifth technology/manufacturing subsidiary — distinct from every company before it: born from a conscious decision, after the anchor's realization, and launched openly and publicly as her own named act, not discovered as an old unconscious pattern.*
 
 ## Origin
@@ -25,7 +29,7 @@ The workforce skews femme lesbian or trans woman wherever the role practically a
 | Field | Detail |
 |---|---|
 | Facility Name | Metis Werks |
-| Physical Address | A former industrial district, approximately two hours from the estate by helicopter — the facility sat abandoned before acquisition; real jobs, already lost once, brought back rather than newly created elsewhere |
+| Physical location | A former industrial district integrated with the later St. Claire geography. The facility sat abandoned before acquisition; real jobs, already lost once, are brought back rather than newly created elsewhere. Exact placement remains open. |
 | Total Gross Floor Area | ~4,200,000 sq ft (22 operational floors + 3 sublevels) |
 | Structure Type | Vertical Multi-Story Industrial Manufacturing Complex |
 | Total Workforce | ~8,400 personnel (FTE + Contract) |
@@ -79,6 +83,6 @@ The workforce skews femme lesbian or trans woman wherever the role practically a
 
 ## Where This Fits
 
-- **Holdings map:** Fifth company added to `holdings-map.md`'s Technology & Automation Subsidiaries, alongside NAS, OAM, Threadbourne, Evergreen Biofoundry, and Techne.
+- **Holdings relationship:** Metis is an independent company alongside NAS, OAM, Threadbourne, Evergreen Biofoundry, and Techne.
 - **Distinct from Techne:** Metis Werks manufactures apparel, textiles, beauty, and footwear products themselves. Techne (see `techne.md`) is a separate company in a separate building that manufactures the *equipment* used to make those products — Metis Werks is one of Techne's natural customers, not its owner.
 - **Launch framing:** Unlike NAS/OAM/Threadbourne/Evergreen (discovered, unconscious, revealed via "Project Artemis") and Cassandra Labs (anonymous, still unrevealed), Metis Werks is the anchor's first fully conscious, openly named act as herself — worth treating as its own distinct public announcement/story beat, separate from "Project Artemis."

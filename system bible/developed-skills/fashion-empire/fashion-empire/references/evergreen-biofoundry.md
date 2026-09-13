@@ -1,5 +1,9 @@
 # Evergreen Biofoundry
 
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
+
 *Reusable reference. The fourth standalone corporate entity under the same parent holding structure as NAS, OAM, and Threadbourne Robotics (see `presentation-technology.md` and `threadbourne-robotics.md`) — regenerative biotech, lab-grown gemology, and sustainable/traceable materials research. Like OAM and Threadbourne, and unlike NAS, this company was born directly from one of the anchor's own recorded frustrations, not acquired.*
 
 ## Origin
@@ -18,7 +22,7 @@ Evergreen Biofoundry traces back to a single long, late-night voice memo — dic
 
 ## Corporate Mandate
 
-Regenerative biotechnology, ethical lab-grown gemology, and supply-chain sustainability research, positioned as the empire's answer to its own worst impulses — a deliberate internal counterweight to the hostile-acquisition, monopolistic default described in `holdings-map.md`'s standing "here's what you own" beat.
+Regenerative biotechnology, ethical lab-grown gemology, and supply-chain sustainability research, positioned as an internal counterweight to the harms and pressures that can accompany empire-scale ownership and manufacturing.
 
 ## Master Corporate Asset & Product Mapping Table
 
@@ -28,7 +32,7 @@ Regenerative biotechnology, ethical lab-grown gemology, and supply-chain sustain
 | Ethical Gemology | **The Genesis Gem Foundry** — *plain-language: the lab-grown gemstone division* | Lab-grown fine gemstones and precious metals, chemically and structurally identical to their mined equivalents, entirely free of extraction-industry supply chains. Feeds the household's own jewelry and Footwear Vault pieces as well as outside commercial sales. See `evergreen-gemstone-manifest.md`. | Valuation: ~$6 Billion. Investment: 100% Outright Proprietary Ownership (~$3.5 Billion). |
 | Supply Chain Transparency | **The Traceroot Materials Initiative** — *plain-language: the ethical-sourcing certification program* | Full-chain material sourcing verification and ethical-sourcing certification, licensed across the empire's own holdings and to outside houses. See `evergreen-materials-manifest.md`. | Valuation: ~$4 Billion. Investment: Majority Control (85% Equity Stake / ~$2.5 Billion). |
 
-**Combined Evergreen Biofoundry valuation: ~$15 Billion** — folded into `holdings-map.md`'s Technology & Automation Subsidiaries line alongside NAS, OAM, and Threadbourne.
+**Working combined Evergreen Biofoundry valuation: approximately $15 billion.** The dated holdings workbook controls its treatment in the empire total.
 
 **Projected Daily Revenue (Post-Launch): ~$6 Million/day.** The smallest of the four subsidiaries by revenue, reflecting its newer, more B2B-oriented product mix (gemstone supply, materials certification, a slower-adoption biotech treatment) rather than broad direct-to-consumer volume.
 
@@ -40,8 +44,8 @@ Regenerative biotechnology, ethical lab-grown gemology, and supply-chain sustain
 
 ## Story Hook: The Internal Contradiction
 
-Evergreen Biofoundry sits in open tension with the empire's own hostile-acquisition default (see `holdings-map.md`) and, depending on a story's choices, with some of Threadbourne's own manufacturing-scale ambitions — a genuinely sustainable, ethically-sourced subsidiary existing inside a monopolistic luxury conglomerate is not a contradiction a story needs to resolve neatly. It can sit there, unresolved, as evidence that the anchor's better instincts and her empire's worst ones grew up side by side, both equally hers.
+Evergreen Biofoundry may sit in open tension with empire-scale ownership and some of Threadbourne's manufacturing ambitions. A sustainable, ethically sourced subsidiary inside a vast luxury structure is not a contradiction a story must resolve neatly; it can remain a genuine institutional pressure.
 
 ## Where This Physically Lives
 
-In stories also using `obsidian-vanguard-estate`: the Genesis Gem Foundry's household-facing output feeds directly into the Anchor's Dressing Room's Footwear Vault (jewelry side); a Perennial Restoration Program treatment station is a natural addition to the Grand Wardrobe, Salon & Spa Complex alongside OAM's existing salon infrastructure. The Traceroot Materials Initiative has no meaningful physical household presence — it's back-office/supply-chain infrastructure. All of Evergreen's commercial products, alongside the rest of the empire's technology subsidiaries, are also represented in the estate's Innovation Showroom (see that skill's own entry).
+In stories also using the Lesbos Estate: the Genesis Gem Foundry's household-facing output feeds directly into the Anchor's Dressing Room's Footwear Vault (jewelry side); a Perennial Restoration Program treatment station is a natural addition to the Grand Wardrobe, Salon & Spa Complex alongside OAM's existing salon infrastructure. The Traceroot Materials Initiative has no meaningful physical household presence — it's back-office/supply-chain infrastructure. All of Evergreen's commercial products, alongside the rest of the empire's technology subsidiaries, are also represented in the estate's Innovation Showroom (see that skill's own entry).

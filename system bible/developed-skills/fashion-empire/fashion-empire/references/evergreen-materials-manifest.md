@@ -1,4 +1,8 @@
 # The Traceroot Materials Initiative — Product Manifest
+
+Status: ACTIVE RECOVERED DESIGN DETAIL
+Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
+
 (System Specification: Program Variant TMI-2)
 
 ## System Environment & Core Parameters
@@ -24,7 +28,7 @@
 
 ## Positioning Relative to the Empire's Own Practices
 
-The Traceroot Initiative sits in genuine, acknowledged tension with the empire's own hostile-acquisition growth model and some of Threadbourne's manufacturing-scale ambitions (see `holdings-map.md` and `threadbourne-robotics.md`) — a story is not obligated to resolve this tension neatly, and can let it sit as ongoing evidence that the anchor's better instincts and her empire's harder-edged growth strategy developed side by side, sometimes at odds with each other.
+The Traceroot Initiative sits in genuine tension with empire-scale ownership and some of Threadbourne's manufacturing ambitions. A story need not resolve that tension neatly.
 
 ## Comparative Operational Matrix
 
