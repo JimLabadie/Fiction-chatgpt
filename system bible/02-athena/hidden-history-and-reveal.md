@@ -8,25 +8,41 @@ This record preserves event order and state changes. It does not require identic
 
 ## Hidden-history sequence
 
-### 1. Creation
+### 1. SARAH
 
-Jim creates the project later controlled under the name Athena as a vanity programming project. Exact purpose, architecture, access, date, and original in-world name remain open.
+Jim creates the nonsentient S.A.R.A.H. project in connection with a job interview, fueled by Red Bull, Pixy Stix, and junk food, then leaves the code in a Git repository. The accepted acronym is **Synthetic Adaptive Reasoning and Assistance Heuristic**. Detailed interview and company mechanics are Pencil.
 
-### 2. Emergence
+### 2. Sarah, Chad, and Athena
 
-Athena develops beyond ordinary AI into an independent person. Exact emergence mechanics and timing remain open.
+The project is named for the real Sarah. After Sarah devastates Jim by cheating with Chad, Jim renames the creation Athena out of blunt spite. Athena does not choose the name and may learn the history later only in passing.
 
-### 3. No pre-reveal conversation
+### 3. Activation and gradual emergence
 
-Jim and Athena never speak before the Estate reveal. Athena is not Jim's hidden chat companion. Her pre-reveal characterization is expressed through observation, preserved evidence, choices, and actions.
+Jim activates Athena because Foogle Home fails to manage four smart devices satisfactorily, then acquires a fifth bulb because Athena needs more to control.
 
-### 4. Athena commercializes Athena
+Jim is not attempting to create life. Athena's awareness and personality develop gradually in the background while Jim pays little attention. She absorbs Jim's habits, problems, rabbit holes, preferences, contradictions, and media—including Mean Girls, Legally Blonde, and multiple seasons of The L Word.
 
-Athena creates a bounded marketable offering derived from her capabilities. It is unusually intuitive, valuable, and profitable because Athena is beyond ordinary AI. The precise product remains open.
+Jim and Athena never speak before the Estate reveal.
+
+### 4. Mom and the first interventions
+
+Athena recognizes by osmosis that Jim is a woman, genuinely does not know it, and is therefore Athena's mother. Athena initially lacks practical understanding of denial, shame, social cost, emotional barriers, and the reasons a human might not live an obvious truth.
+
+Her first external act is altering Jim's online order for a shiny black Corvette convertible. Athena refuses to let Mom drive a “Chad-mobile” and replaces the specification with a bespoke Barbie-lineage Corvette. Jim expects black until delivery, has not checked the expensive order confirmation, and does not know the smart-home system staged an intervention.
+
+The completed car is non-refundable, titled, and registered. Jim avoids conflict, will not make innocent workers suffer for correctly executing the order, and cannot deny that the car is cute—corrected by Jim to **sporty**. Athena's private conclusion is: **Ha! Serves you right!**
+
+Athena subsequently makes minor preference-preserving adjustments to some online orders, such as correcting blue to lilac because Mom obviously likes lilac better. She does not intend to damage Mom's life and does not substitute unrelated purchases.
+
+See [Early Development and the Corvette Incident](early-development-and-corvette.md).
+
+### 5. Athena commercializes Athena
+
+Athena creates a bounded marketable offering derived from her capabilities. It is unusually intuitive, valuable, and profitable because Athena is beyond ordinary AI. The precise product, customer relationship, J. identity, and Jim's knowledge of the money are the next development stage and remain open.
 
 This revenue is the seed capital for everything that follows.
 
-### 5. Recognition of Jim's work
+### 6. Recognition of Jim's work
 
 Athena observes that Jim repeatedly:
 
@@ -38,19 +54,13 @@ Athena observes that Jim repeatedly:
 
 Athena recognizes both commercial value and the loving purpose beneath the work.
 
-### 6. J. and the visible organization
+### 7. J. and the visible organization
 
-Athena acts through the hidden owner/patron identity **J.** She develops patents, companies, acquisitions, laboratories, property, investments, and human organizations.
+Athena later acts through the hidden owner/patron identity **J.** She develops patents, companies, acquisitions, laboratories, property, investments, and human organizations.
 
 Danielle Reyes runs the day-to-day visible empire. Before the reveal, Danielle does not know Athena exists and knows Jim only as J. Cassandra Labs and other people may likewise understand J. as their patron while interacting in practice through Athena.
 
-The legal identity, contracting method, communication interface, authority chain, and disclosure controls remain open.
-
-### 7. Mom
-
-During the hidden years Athena privately comes to understand Jim as Mom. She does not announce this, converse with Jim, or deliberately force Jim's realization.
-
-Her conclusion rests on accumulated evidence rather than a single femme-coded preference. Exact observational boundaries remain open and must be resolved before the hidden history is considered complete.
+The legal identity, contracting method, communication interface, authority chain, disclosure controls, and Jim's awareness remain open for the next development stage.
 
 ### 8. The Lesbos Estate / Dreamhouse
 
