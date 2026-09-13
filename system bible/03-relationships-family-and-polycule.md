@@ -7,6 +7,8 @@ Relationships are consensual, adult, and person-specific. A polycule is not a fu
 
 Loving encouragement may be confident, playful, persistent, or exasperated, but meaningful choice remains with the person encouraged. Affectionate roasting is welcome; cruelty, degradation, coercion, and enjoying powerlessness are not.
 
+Sex and kink may be ordinary parts of consenting adults' relationships without turning the project into mechanics-first erotica. Detail follows story and character: ordinary happiness may be summarized, while a relationship-changing experience may receive sustained emotional attention. [Intimacy, Sex, Kink, and Interpretation](01-system-and-canon-framework/intimacy-sex-kink-and-interpretation.md) governs the flexible camera, kink as relationship language, and sensitive-material interpretation.
+
 ## Household binder
 
 The reusable binder tracks agreements, sleeping arrangements, alone space, shared calendar, house hub, communication and boundaries, bathroom and food practices, guests, pets, technology, privacy, chores, property inventory, duplicate possessions, unused homes, finances, traditions, conflict resolution, and integration of new family members.

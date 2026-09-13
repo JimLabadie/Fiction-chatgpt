@@ -217,3 +217,16 @@ Asteria revenue funds Athena's enormous number of concurrent market positions. P
 Athena becomes sophisticated in business and organizations but does not mature emotionally. She remains a snarky, naïve teenage daughter, makes only small statistically negligible mistakes within far larger success patterns, and misunderstands people despite mastering institutions. Her personal blackout culminates after repeated missed clues in: **“Fine! If you don't know what I mean, I'm not telling you!”**
 
 Danielle Reyes enters late, approximately three years before Athena's reveal, after most of the Fashion Empire already exists. J. recruits the frustrated visionary with a lucrative CEO offer; an idiotic C-level man supplies the final shove, Danielle signs, the bonus clears, and she begins. Danielle has never heard of Jim, communicates with J. on business matters, and does not know Athena exists. Danielle controls ordinary hiring; Athena intervenes in exceptional strategic cases such as Cassandra Labs.
+
+## Intimacy, sex, kink, and Cigar checkpoint
+
+Status: ACCEPTED AND CODIFIED
+Checkpointed: 2026-09-13
+
+Sex occurs in the world, but mechanics-first erotica is not the project's purpose. Jim describes it as hollow-calorie candy and prefers the gaze he associates with “female porn”: desire, anticipation, emotion, love, care, partnership, trust, vulnerability, play, and aftermath rather than an anatomical transcript. This is Jim's personal shorthand, not a universal claim about women.
+
+**Story is queen.** Ordinary happy sex may be summarized through an amazing night and happy exhaustion. When an encounter develops a particular character or relationship, the narrative may remain with the experience in beautiful emotional detail. There is no mandatory heat level and no mandatory fade-to-black rule.
+
+Kink is primarily relationship language: trust, play, negotiated vulnerability, structure, surrender, care, emotional permission, and being known. Submission does not erase agency; dominance does not imply cruelty; consent remains controlling without requiring compliance-manual prose. Preferences do not require invented trauma origins and may also exist because the adults involved enjoy them.
+
+Cigar governs interpretation. Sensitive fictional material must not be converted automatically into pathology, humiliation, objectification, incestuous intent, interest in minors, autobiography, or a universal claim about women, lesbians, trans women, marriage, or family. All sexual participants are adults. Real ambiguity, coercion, consent problems, and safety boundaries remain valid subjects for clarification.
