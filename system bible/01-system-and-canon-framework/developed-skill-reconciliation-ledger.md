@@ -24,7 +24,7 @@ Word counts below are scale signals only. They do not establish accuracy, author
 | Fashion Empire | 3 | 23 | 24,655 | `12-fashion-empire-and-commercial-fashion.md` plus nineteen detailed company, product, and operating records | **Detailed usable material incorporated; four wrappers/conflicting records deliberately excluded** |
 | Gender Presentation Culture | 3 identical-content copies | 1 | 1,013 | `05-culture-reference-toolkits/gender-presentation-culture.md` | **Detailed reference incorporated** |
 | Estate | 3 | 3 | 9,708 | Estate root plus nine detailed child records — approximately 11,888 words | **Substantially expanded; source disposition and context still incomplete** |
-| Polyamory and Family | 1 | 3 | 2,278 | `03-relationships-family-and-polycule.md` | **Substantive relationship principles incorporated; optional household prompts remain optional** |
+| Polyamory and Family | 1 | 3 | 2,278 | `03-relationships-family-and-polycule.md` plus two detailed child records | **Detailed relationship framework and corrected optional prompt bank incorporated** |
 | Sapphic Culture | 1 | 1 | 2,643 | `06-sapphic-culture.md` plus `06-sapphic-culture/detailed-reference.md` | **Detailed reference incorporated** |
 | Wealth Management | 3 content-equivalent copies | 2 | 2,313 | `13-lesbos-holdings-and-wealth.md` plus `13-lesbos-holdings-and-wealth/wealth-structure.md` | **Detailed reusable structure incorporated with legal and relationship corrections** |
 

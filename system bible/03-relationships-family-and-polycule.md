@@ -23,6 +23,8 @@ This is never a rescue project, a performance of generosity, a reward, or the co
 
 Where the invited adult is an employee, resident, beneficiary, or otherwise subject to the family's material power, the Hestia Principle must make refusal and departure genuinely consequence-neutral before the invitation is made.
 
+Detailed controlling treatment: [Shared Invitations and Lasting Integration](03-relationships-family-and-polycule/invitations-and-integration.md).
+
 ## A relationship, not a governing body
 
 Do not bureaucratize this family merely because more than two adults belong to it. The partners handle shared life as loving adults in a relationship: they talk through consequential choices, respect the people affected, divide or delegate ordinary responsibilities, disagree, compromise, and revisit decisions when necessary. Do not invent voting rules, constitutional machinery, or a formal unanimity requirement for ordinary household decisions unless a particular story explicitly needs one. A traditional couple would not receive that treatment by default, and polyamory does not justify imposing it here.
@@ -37,7 +39,7 @@ Sex and kink may be ordinary parts of consenting adults' relationships without t
 
 ## Optional household reference
 
-The developed household checklist can prompt discussion of sleeping arrangements, alone space, shared calendars, communication, guests, pets, technology, privacy, chores, property, finances, traditions, conflict, and integration of new family members when those details matter to a story.
+The developed household checklist can prompt discussion of sleeping arrangements, alone space, shared calendars, communication, guests, pets, technology, privacy, chores, property, finances, traditions, conflict, and integration of new family members when those details matter to a story. Its full corrected detail is preserved in [Household Practical Prompts](03-relationships-family-and-polycule/household-practical-prompts.md).
 
 It is optional practical scaffolding, not a mandatory binder, governing system, or substitute for an ordinary relationship. Its existence in a developed skill does not make every prompt canon or require the family to formalize everyday life. Household decisions cannot override an individual's bodily, identity, intimate, property, or financial consent.
 
