@@ -8,6 +8,42 @@ Author-established rule (2026-09-14): store each series under `stories/<Series T
 
 During planning, use the current working title and mark it provisional in the series record. If the title changes, rename the folder and update repository links, indexes, and references in the same revision. Keep all series-specific plans, bibles, chapter drafts, timelines, and state records together under that folder. Shared framework material remains under `system bible/`.
 
+## Standard series starter documents
+
+Author-approved on 2026-09-14. Create all nine documents when starting a new series, populated with known facts and explicit **Not yet established** fields:
+
+| Document | Controlling purpose |
+|---|---|
+| `README.md` | Overview and document index |
+| `series-bible.md` | Durable premise and scope |
+| `character-bible.md` | Characters, perceptions, relationships, and development |
+| `world-and-setting.md` | Shared references and series-specific setting |
+| `voice-and-style.md` | House voice and series narration choices |
+| `series-outline.md` | Approved plans and proposed scene choices |
+| `timeline-and-continuity.md` | Accepted events and continuity |
+| `current-story-state.md` | Exact handoff |
+| `series-development.md` | Decisions, reasoning, proposals, and open questions |
+
+README includes navigation, chapter workflow, and an approval register. The development record retains decisions, reasoning, open questions, and rejected alternatives. Link to shared world and house-voice records; do not duplicate entire shared bibles. Each fact has one controlling home. An approved plan is not a completed event.
+
+## Chapter artifacts and lifecycle
+
+Create `stories/<Series Title>/chapters/candidate/` and `stories/<Series Title>/chapters/approved/` at series startup. Empty folders may contain `.gitkeep` placeholders.
+
+Name each chapter artifact `<Series Title> - <Chapter Number> - <Chapter Title>.<extension>`. Use readable titles and zero-padded, series-wide sequential numbers (001, 002, ...). Preserve full display titles in the document; replace only filename-unsafe characters in the filename. Book membership belongs in the outline; numbering remains unique across the series. Apply the same base name to document exports.
+
+Example: `A Life in Plain Sight - 001 - The Door.md`.
+
+1. Write and revise chapter prose in candidate.
+2. Approval of the exact chapter text must come from the author. Outline approval, approval of another chapter, silence, or a successful upload does not approve prose.
+3. After approval, move that chapter into approved with the same filename. Remove the candidate copy as part of the same commit; do not keep two active versions.
+4. Record number, title, book, approved revision, approval date/source, and artifact link in the README approval register.
+5. Update the timeline, current story state, changed character/relationship facts, relevant durable world/premise facts, and outline progress in the same revision.
+6. To revise approved prose, leave the existing approved chapter intact while preparing the proposed revision in candidate. Only after the author approves the revision should it replace the approved artifact; then remove the candidate and reconcile downstream continuity. Git preserves earlier versions.
+7. If the series or chapter title changes, rename affected artifacts and update links and registers together.
+
+Unknown titles/numbers must be resolved sufficiently to give a new chapter its own unambiguous filename. Do not create empty prose files for planned chapters; planning belongs in the outline.
+
 ## Master Story Bible schema
 
 The master bible stores permanent canon: title and premise; world possibilities and impossibilities; transformation, technology, magic, memory, identity, and social rules; immutable facts; setting, era, and culture; foundational relationships; major canon events; important objects, terms, institutions, and rules; permanent changes; and intentional canon revisions.
