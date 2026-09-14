@@ -21,6 +21,12 @@ Write the humor through specific behavior, timing, and social interaction. Maint
 
 Blush is a new social situation, not the first time someone has perceived Steve as a woman. Recognition can develop without resetting what he already knows.
 
+## Comic emphasis approved by the author
+
+Steve's eventual identity is a femme lesbian. His present cluelessness and poorly managed attempts to convey masculinity offer sustained dramatic irony. The author approved the car enthusiasm/indifferent driving and clothing-construction competence examples as a direction for characterization.
+
+Let sincere enthusiasm temporarily outrun self-monitoring, then allow a specific rationalization to expose the gap between what Steve thinks he conveyed and what others noticed. Specific exchanges remain to be written and approved. Do not repeatedly explain the joke or make every observer equally knowing.
+
 ## Continuity of voice
 
 Inherit the preceding scene's emotional state. Avoid repeated explanations of the premise, automatic revelation endings, and narration that prematurely settles Steve's self-understanding.

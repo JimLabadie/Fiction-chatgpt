@@ -15,9 +15,21 @@ Reaction: annoyed; attempts poorly executed masculine overcompensation, which ot
 Specific compensating behaviors: Not yet established.
 What others know: their perception does not give them access to his private thoughts or motives.
 Appearance beyond the stated perception/measurements: Not yet established.
-History, work, residence, abilities, habits, fears, preferences, and individual speech: Not yet established.
+History, work, residence, further abilities/habits/preferences, fears, and individual speech: Not yet established. Selected interests are recorded below.
 Current relationships, attractions, friends, and family: Not yet established.
 Original/current physical state or actual transformation: Not yet established beyond the approved premise; do not infer a change at Blush.
+
+## Author-established destination
+
+Steve ultimately recognizes and lives as a femme lesbian. This is the destination, not his starting self-understanding. See [series-bible.md](series-bible.md#themes-and-series-promise).
+
+## Selected interests and comic characterization
+
+The author liked and accepted the paired examples: Steve sincerely enjoys cars despite being an indifferent driver, and has an exceptional eye for clothing construction while rationalizing that interest as technical rather than feminine.
+
+Specific vehicles, driving incidents, training, occupation, sewing experience, and wardrobe remain unset. The illustrative seam/dress exchange is a development example, not an accepted scene or chapter.
+
+His cluelessness and the mismatch between intended masculine presentation and the feminine side others perceive are intentional sources of comedy. Preserve his real competence and enjoyment alongside the rationalizations. These interests are individual traits, not a general test of gender.
 
 ## Shared characters available through Blush
 

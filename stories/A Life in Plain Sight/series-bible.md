@@ -33,7 +33,7 @@ No prior test-story biography or relationship circle is inherited automatically.
 ## Themes and series promise
 
 Approved starting tension: Steve's understanding of himself differs from everyone's longstanding perception of him; his annoyed overcompensation contributes comedy.
-Author-established emotional destination: Steve is loved, cherished, and living as his true self.
+Author-established emotional destination: Steve is loved, cherished, and living as his true self: a femme lesbian. This identity destination is author-established; recognition, presentation, pronoun changes, and any name change have not yet occurred or been scheduled.
 
 His current life is not bad; it is grey. Through experience, he learns that this greyness is not an inevitable normal he must accept, nor the life he wants. Preserve this starting condition rather than inventing an abusive or catastrophic past to justify change.
 

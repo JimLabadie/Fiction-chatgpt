@@ -30,6 +30,10 @@ Current handoff: [current-story-state.md](current-story-state.md).
 - Established the long-term destination: Steve is loved, cherished, and living as his true self.
 - Established that his starting life is not bad, but grey; he learns that greyness is not an inevitable normal or what he wants. Recorded in the Series Bible and linked from the outline. This does not settle the route, relationship cast, or timetable.
 
+- Explicitly established Steve's future identity as a femme lesbian, while retaining his initial self-understanding.
+- Accepted the paired interest examples: genuine car enthusiasm despite indifferent driving, and a strong eye for clothing construction rationalized as technical interest. Exact illustrative dialogue is not approved chapter text.
+- Affirmed cluelessness and the gap between intended masculinity and perceived femininity as fertile comedy. Updated the character and voice records.
+
 ## Creative reasoning and proposals
 
 The approved series title supports visibility, self-recognition, and a life extending beyond the first night at Blush.
