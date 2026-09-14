@@ -2,6 +2,12 @@
 
 Status: ACTIVE STRUCTURAL REFERENCE
 
+## Series folders
+
+Author-established rule (2026-09-14): store each series under `stories/<Series Title>/`, using the readable series title as its folder name. Preserve spaces and capitalization where supported; replace only characters that cannot be used in a folder name. Do not use the protagonist's name or an opaque series ID as the folder name.
+
+During planning, use the current working title and mark it provisional in the series record. If the title changes, rename the folder and update repository links, indexes, and references in the same revision. Keep all series-specific plans, bibles, chapter drafts, timelines, and state records together under that folder. Shared framework material remains under `system bible/`.
+
 ## Master Story Bible schema
 
 The master bible stores permanent canon: title and premise; world possibilities and impossibilities; transformation, technology, magic, memory, identity, and social rules; immutable facts; setting, era, and culture; foundational relationships; major canon events; important objects, terms, institutions, and rules; permanent changes; and intentional canon revisions.

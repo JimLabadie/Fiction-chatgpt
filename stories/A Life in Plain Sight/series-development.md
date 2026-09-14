@@ -1,6 +1,6 @@
-# Steve Series — Development Record
+# A Life in Plain Sight — Series Development Record
 
-Series ID: steve-blush-001
+Series folder: stories/A Life in Plain Sight/
 Status: ACTIVE SERIES PLANNING; NO NARRATIVE CHAPTERS WRITTEN
 Created: 2026-09-14
 Working title proposal: A Life in Plain Sight
@@ -40,7 +40,7 @@ The title can cover being visible to others before recognizing oneself, then ext
 
 Possible first-book title: **The Night at Blush**. This is also a proposal.
 
-The stable series ID remains steve-blush-001 even if the display title changes.
+The folder uses the current series title: `stories/A Life in Plain Sight/`. This remains a working title pending author selection. If the title changes, rename the folder and update references in the same revision. The previous folder was `stories/steve-blush-001/`.
 
 ## Proposed opening arc — not accepted events
 
