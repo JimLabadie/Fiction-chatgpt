@@ -10,9 +10,12 @@ Age: 35.
 Occupation: Software engineer. Employer, exact role, employment terms, and technical specialty: Not yet established.
 Author's initial pronouns: he/him. Initial narration uses he/him in close third-person past tense; later transition remains to be developed.
 Others' longstanding perception: a beautiful lesbian, 5 feet 6 inches tall, 105 pounds.
-Self-understanding: an egg who has not recognized the identity implicit in the premise.
+Self-understanding: an egg who has not recognized the identity implicit in the premise. Steve considers himself simply himself, a regular guy; he has never seriously considered himself trans.
+Knowledge of trans people: Steve knows trans women and is not naive or generally ignorant about transgender people. His failure to recognize himself is personal, not informational.
+Reasoning about himself: Steve believes that because he is not meaningfully dysphoric, he could not be trans. His current life is not painful or intolerable enough, in his own understanding, to make that possibility seem applicable to him.
 Knowledge: he notices others perceive/treat him as a woman; this is familiar, not a new discovery at Blush.
 Reaction: annoyed; attempts poorly executed masculine overcompensation, which others find even funnier.
+Masculine performance: Steve's masculinity can be consciously performative, particularly when he feels other people's perception pressing against his self-understanding. He is not always solemn about his failures at it: he can recognize when an attempt at performing masculinity has gone badly and internally laugh at himself. This self-awareness does not yet lead him to question his gender.
 Specific compensating behaviors: Not yet established.
 What others know: their perception does not give them access to his private thoughts or motives.
 Appearance beyond the stated perception/measurements: Not yet established.
@@ -26,11 +29,13 @@ Steve ultimately recognizes and lives as a femme lesbian. This is the destinatio
 
 ## Selected interests and comic characterization
 
-The author liked and accepted the paired examples: Steve sincerely enjoys cars despite being an indifferent driver, and has an exceptional eye for clothing construction while rationalizing that interest as technical rather than feminine.
+The paired traits are canon: Steve sincerely enjoys cars despite being an indifferent driver, and has an exceptional eye for clothing construction while rationalizing that interest as technical rather than feminine.
 
 Specific vehicles, driving incidents, training, sewing experience, and wardrobe remain unset. The illustrative seam/dress exchange is a development example, not an accepted scene or chapter.
 
 His cluelessness and the mismatch between intended masculine presentation and the feminine side others perceive are intentional sources of comedy. Preserve his real competence and enjoyment alongside the rationalizations. These interests are individual traits, not a general test of gender.
+
+Steve's comedy should not depend on making him ignorant of trans people or incapable of seeing his own absurdity. He can know perfectly well what being trans means, recognize that one of his macho performances was ridiculous, laugh at himself, and still sincerely conclude that none of this makes him trans. His blind spot is the application of what he knows to himself.
 
 ## Athena and the selected wider history
 
