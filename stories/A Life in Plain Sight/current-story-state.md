@@ -14,11 +14,11 @@ See [Character Bible](character-bible.md#steve). Steve is familiar with others p
 ## Approvals in force
 
 Series title, starting premise, broad first-five-chapter progression, nine-document standard, and candidate-to-approved chapter workflow are approved.
-Approval of the outline does not approve nonexistent chapter prose.
+The author has also approved the discussed book/chapter titles, narration settings, and creative direction. Approval of the outline does not approve nonexistent chapter prose.
 
 ## Next work
 
-Develop Steve's exact adult age, ordinary life, reason for entering Blush, narrative POV/tense/pronouns, and first meaningful interaction. Then draft the selected chapter into candidate.
+Develop Steve's exact adult age, ordinary life, reason for entering Blush, and first meaningful interaction. Narration is approved: close third-person, past tense, initially he/him. Then draft the selected chapter into candidate.
 No immediate scene action or chapter text has yet been authorized as an accepted event.
 
 ## Open plans and source records

@@ -5,13 +5,13 @@ Status: BROAD OPENING ARC APPROVED; SCENE DETAILS OPEN
 ## Book and long-range structure
 
 Series: A Life in Plain Sight.
-First-book title proposal: The Night at Blush. Not approved.
+First-book title: The Night at Blush. Approved in the author's blanket approval of the discussion to date.
 Book boundaries, later arcs, chapter lengths, and release structure: Not yet established.
 Chapter numbers run continuously across the series for unique artifact names.
 
 ## Opening arc
 
-The author approved the premise of these five chapters on 2026-09-14. This approves their broad dramatic progression, not every suggested action, chapter title, or unchosen alternative. No planned event is a completed story event.
+The author approved the premise of these five chapters on 2026-09-14. The author subsequently approved the discussion to date, including the proposed chapter titles and direction. Unchosen alternatives remain available planning choices, not simultaneous required events. No planned event is a completed story event.
 
 Planning scale: five chapters. The first four can occupy one continuous evening. The fifth follows the consequences of that evening; the time transition is an outline proposal, not an automatic scene jump.
 
@@ -43,7 +43,7 @@ Movement: Steve begins participating rather than merely observing.
 
 A specific misunderstanding becomes difficult to explain away. Someone may discover that Steve understood an invitation very differently, or Steve may finally recognize that a particular woman was flirting.
 
-Avoid a group diagnosis, forced declaration, instant makeover, or complete identity resolution. Any candid exchange preserves dignity and room for Steve's own response. The title is provisional; the chapter need not end in a revelation.
+Avoid a group diagnosis, forced declaration, instant makeover, or complete identity resolution. Any candid exchange preserves dignity and room for Steve's own response. The chapter need not end in a revelation.
 
 Movement: one concrete assumption becomes uncertain, while the human connection can continue.
 
@@ -61,7 +61,7 @@ Steve becomes loved, cherished, and able to live as his true self. His starting 
 
 The controlling emotional premise is in [series-bible.md](series-bible.md#themes-and-series-promise). Exact milestones, relationships, pacing, and book boundaries remain open. This destination has not occurred in the story.
 
-## Longer-series development — proposal
+## Approved longer-series direction
 
 Let the continuing story grow through relationships, belonging, work, interests, choices, and the consequences of recognition. Do not make indefinite failure to notice the same evidence the sole engine. Preserve gradual change without resetting Steve after each meaningful experience.
 
@@ -69,7 +69,7 @@ Keep romantic possibilities distinct from established partners. Existing charact
 
 ## Chapter production status
 
-| Number | Working title | Plan | Manuscript |
+| Number | Chapter title | Plan | Manuscript |
 |---|---|---|---|
 | 001 | The Door | Broad premise approved | Not drafted |
 | 002 | A Seat at the Bar | Broad premise approved | Not drafted |
@@ -77,7 +77,7 @@ Keep romantic possibilities distinct from established partners. Existing charact
 | 004 | What Did You Think Was Happening? | Broad premise approved | Not drafted |
 | 005 | A Reason to Come Back | Broad premise approved | Not drafted |
 
-Chapter titles remain working titles. See [README.md](README.md#chapter-storage-and-approval) for filenames and promotion rules.
+Chapter titles are approved, subject to later deliberate revision. See [README.md](README.md#chapter-storage-and-approval) for filenames and promotion rules.
 
 ## Setup and payoff register
 

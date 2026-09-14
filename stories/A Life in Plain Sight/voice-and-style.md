@@ -1,16 +1,16 @@
 # A Life in Plain Sight — Voice and Style
 
-Status: HOUSE VOICE SELECTED; NARRATION SETTINGS OPEN
+Status: AUTHOR-APPROVED VOICE AND NARRATION
 
 ## Controlling voice
 
 Use the [shared Voice and Style Guide](../../system%20bible/01-system-and-canon-framework/voice-and-style.md): intimate, candid, contemporary, conversational, psychologically observant, emotionally immediate, naturally humorous, and grounded in lived experience.
 
-POV: Not yet established.
-Tense: Not yet established.
-Narrative pronoun treatment: Not yet established.
+POV: Close third-person, centered on Steve.
+Tense: Past.
+Narrative pronoun treatment: Initially he/him, consistent with Steve's starting self-understanding. Other characters' language may reflect their own perceptions. The later narrative transition remains to be developed with his recognition.
 Author's initial reference to Steve: he/him.
-Narrative distance: Follow the house guide's psychological closeness; specific POV remains open.
+Narrative distance: Follow the house guide's psychological closeness; use the selected close third-person POV.
 Approved prose samples: None yet.
 
 ## Steve's perception gap and comedy

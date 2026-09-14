@@ -20,7 +20,7 @@ Audience details, book count, genre positioning, and publication schedule: Not y
 - The distinction is between noticing other people's responses and understanding himself. Do not write him as encountering this recurring experience for the first time at Blush.
 - The intended format is a long-running series. Plan a few opening chapters before drafting.
 
-The author's opening description uses he/him for Steve. Preserve that starting self-understanding in planning; choose the narrative POV and pronoun treatment explicitly before drafting. Other characters' perceptions and forms of address can differ. Do not turn their perception into knowledge of Steve's private thoughts.
+The author's opening description uses he/him for Steve. Preserve that starting self-understanding in planning; use the approved close third-person, past-tense narration with initial he/him pronouns. Other characters' perceptions and forms of address can differ. Do not turn their perception into knowledge of Steve's private thoughts.
 
 Framework constraint: characters participating in nightlife romance or attraction are adults. Steve's exact adult age remains unset.
 

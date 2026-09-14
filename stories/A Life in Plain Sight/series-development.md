@@ -34,19 +34,22 @@ Current handoff: [current-story-state.md](current-story-state.md).
 - Accepted the paired interest examples: genuine car enthusiasm despite indifferent driving, and a strong eye for clothing construction rationalized as technical interest. Exact illustrative dialogue is not approved chapter text.
 - Affirmed cluelessness and the gap between intended masculinity and perceived femininity as fertile comedy. Updated the character and voice records.
 
+- Author explicitly approved everything discussed to date. This confirms close third-person past-tense narration, initial he/him narration, the proposed first-book and chapter titles, and the longer-series craft direction. Unanswered questions and mutually alternative scene options remain open; this does not approve unwritten chapter prose.
+- Approved the discussed approach of letting sincere enthusiasm outrun self-monitoring, varying other characters' reactions, preserving enjoyable parts of Steve's earlier life, and allowing later affectionate self-recognition to continue the comedy.
+
 ## Creative reasoning and proposals
 
 The approved series title supports visibility, self-recognition, and a life extending beyond the first night at Blush.
-First-book title **The Night at Blush** remains a proposal.
+First-book title **The Night at Blush** is approved.
 The longer-series direction and specific scene alternatives remain clearly marked in [series-outline.md](series-outline.md).
 Comic application: the novelty at Blush is its people and potential for connection, not Steve's first encounter with this recurring social friction. Specific compensating actions are still undeveloped.
 
 ## Decisions to develop next
 
 1. Steve's exact adult age, ordinary life, and immediate reason for entering Blush.
-2. POV, tense, and initial narrative pronoun treatment.
+2. The later pronoun transition as Steve's recognition develops; initial narration is settled.
 3. Who first forms a meaningful connection with Steve, using established character records.
-4. Detailed scenes within the approved five-chapter arc and final chapter titles.
+4. Detailed scenes within the approved five-chapter arc using the approved chapter titles.
 5. Which additional framework modules belong to this series.
 6. Exact physical/self-perception mechanics only as needed; the longstanding perception is already settled.
 7. Book boundaries and later arcs.

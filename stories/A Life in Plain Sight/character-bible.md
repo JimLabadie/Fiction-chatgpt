@@ -7,7 +7,7 @@ Status: ESTABLISHED BASELINE; NO COMPLETED SCENES
 Role: Main character.
 Name: Steve. Surname and aliases: Not yet established.
 Age: Adult under the framework; exact age not yet established.
-Author's initial pronouns: he/him. Narrative treatment remains to be selected.
+Author's initial pronouns: he/him. Initial narration uses he/him in close third-person past tense; later transition remains to be developed.
 Others' longstanding perception: a beautiful lesbian, 5 feet 6 inches tall, 105 pounds.
 Self-understanding: an egg who has not recognized the identity implicit in the premise.
 Knowledge: he notices others perceive/treat him as a woman; this is familiar, not a new discovery at Blush.
