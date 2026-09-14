@@ -18,11 +18,19 @@ Audience details, book count, genre positioning, and publication schedule: Not y
 - Steve is aware that people perceive and treat him as this beautiful woman. It annoys him; he does not recognize what it means about himself.
 - He tries to compensate with poorly executed masculine overcompensation, which others find even funnier.
 - The distinction is between noticing other people's responses and understanding himself. Do not write him as encountering this recurring experience for the first time at Blush.
-- The intended format is a long-running series. Plan a few opening chapters before drafting.
+- The intended format is a long-running series. The opening identity/relationship arc is deliberately slow and must not be compressed merely to fit an early five-chapter sketch.
 
 The author's opening description uses he/him for Steve. Preserve that starting self-understanding in planning; use the approved close third-person, past-tense narration with initial he/him pronouns. Other characters' perceptions and forms of address can differ. Do not turn their perception into knowledge of Steve's private thoughts.
 
 Framework constraint: characters participating in nightlife romance or attraction are adults. Steve is 35.
+
+## Why Steve goes to Blush
+
+Brittney has been nagging Steve to go to Blush. Steve finally gives in for almost adversarial reasons: he expects to go, get shot down, and then tell Brittney that he told her so.
+
+Steve is not entering Blush to discover himself, secretly hoping for transition, or knowingly seeking a lesbian community. In his own mind he is running a small experiment designed to prove Brittney wrong. The comic flaw in the experiment is that he is, unbeknownst to himself, a lesbian entering a lesbian bar.
+
+Blush is already Chloe's regular Saturday hangout with her girls. For them, the opening night is simply a normal night in a familiar place until Steve arrives.
 
 ## Module selection
 
@@ -43,6 +51,8 @@ After recognition, Emily goes through a sustained period of exuberant overcorrec
 
 The intended progression is: masculine overcorrection -> recognition, relief, and joy -> exuberant feminine and lesbian overcorrection -> settled, confident femme Emily. Transition does not replace Steve with a different person; Emily retains the interests, habits, relationships, competence, humor, and personality that were always hers.
 
+A core early-series movement is Steve acquiring a life he does not yet understand. Belonging, friendship, romance, safety, ordinary fun, and being wanted by other people can all deepen well before identity recognition. The story does not need to resolve Steve/Emily quickly in order to move. A meaningful early milestone can be as small as Steve wanting to return to Blush for his own reasons rather than because Brittney pushed him there.
+
 ## Satire, stereotypes, and reclamation
 
 The series is satirical and affectionate. Emily's experimentation with feminine and lesbian stereotypes is not mockery of women, lesbians, trans women, femininity, masculinity, or butchness. Stereotypes do not define identity, and no interest or presentation is a test of whether someone is a woman or a lesbian.
@@ -59,16 +69,54 @@ This also echoes Steve's childhood conditioning. Before kindergarten he learned 
 
 ## Relationship direction
 
-Steve's eventual central relationship circle is the love interest and her polycule members. They are intended to become important to him, but their identities, personalities, individual goals, relationship structure, and exact entry into the story are not yet established.
+The primary love interest is Chloe, age 29, a high-femme lesbian and successful project manager at a software company other than Steve's employer. Blush is her regular hangout with her girls.
 
-The recovered author direction is that they genuinely see and cherish the woman in Steve before he understands himself, while still remaining distinct people with their own interests, personalities, reasons for noticing him, and lives beyond Steve. Steve's underlying qualities as established for this direction are loving, caring, kind, and selfless. Do not turn the polycule into a coordinated identity committee or use them to dictate Steve's self-discovery.
+Chloe's attraction is rooted in Steve/Emily as a person, not in a label and not in waiting for Steve to become someone else. Physical attraction can be immediate, but love grows from what she repeatedly observes: Steve noticing when a waitress is having a bad day, reacting to unfair treatment, rabbit-holing into how broken systems might be fixed, treating children and older people with care, trying to solve problems larger than himself, and being willing to revisit his own failures, apologize, and own what he did wrong.
 
-Emily's eventual transition is expected to be a major internal event for her but almost comically unsurprising to many people around her. Reactions may carry a "wait, I thought she already was" or "about time" quality. Their lack of surprise must not diminish the importance of Emily's own recognition.
+Steve is not a saint. He can become frustrated, judge too quickly, snap, or lash out. What matters to Chloe is not perfection but the recurring pattern that Steve cares whether he has hurt someone and is capable of understanding more, repairing where he can, and continuing to care.
+
+Chloe falls for Steve as Steve actually is. She does not tolerate Steve while waiting for Emily to arrive. Later recognition and transition allow her to watch someone she already loves become more joyful.
+
+Chloe's girls are the broader eventual relationship/friendship circle. Their individual identities and exact polycule structure remain to be developed. Most may be feminine/high femme according to the author's stated preference, without requiring uniformity.
+
+Their initial response to Steve is protective suspicion because an apparently straight man has entered a lesbian bar and is interacting with Chloe. One or more may initially suspect tourist, creep, fetishizer, or lost straight guy. Steve gradually destroys those hypotheses through who he actually is.
+
+Once they understand more deeply what they are seeing, they can become more cautious than Brittney. This caution is not because Steve is fragile or incapable; it is because they understand that the truth has to become his. They may run interference when someone else is about to label him, corner him, or force a conclusion. They can become his genuine friends, lovers, and guides first while protecting his ownership of self-recognition.
+
+The governing relationship principle is: they may see before Steve does, but they do not get to tell Steve who he is before he owns it himself. Their love protects agency rather than weakness.
+
+They are not a coordinated gender committee. They may disagree, revise their interpretations, tease, worry that they are reading too much into him, and have different levels of confidence. Attraction and friendship remain person-specific.
+
+## Athena timing and hidden-world position at story opening
+
+The selected reusable Athena chronology remains controlling. This series does not rewrite Athena's origin, commercial ramp, relationship to J., Lesbos Holdings, Asteria Intelligence, Danielle, or the Fashion Empire.
+
+For this story, the opening at Blush occurs late enough in Athena's hidden-history period that the hidden commercial machine is already well advanced. Steve has already created the original project and unknowingly shaped Athena through years of ordinary habits, media, rabbit holes, problem-solving, contradictions, and care. He does not know the sentient Athena/daughter reality.
+
+Asteria Intelligence and Lesbos Holdings already exist. Athena has already accumulated substantial capital and institutional reach. The Fashion Empire is already substantially built or well on the way to dominance rather than waiting to be created after Steve's gender arc. Danielle may already be in her established late-stage human leadership role if the final story chronology places the opening within the reusable approximately-three-years-before-reveal window; exact calendar dating remains open until mapped against the controlling Athena history.
+
+This timing is deliberate. The Steve/Chloe/belonging arc is allowed to take as much time as it needs without requiring the narrative to pause for years of empire-building. Routine trades, filings, hiring, acquisitions, and institutional growth can remain off-page background machinery, consistent with the reusable Athena record.
+
+The thematic link is Steve himself: the same person Chloe watches notice suffering, chase rabbit holes, imagine fixes, save work, and move on is the person whose patterns shaped Athena. Athena's later hidden-world behavior extends that established tendency at absurd scale; it does not appear from nowhere after transition.
+
+## Farce, reality contract, and metafiction
+
+The author does not intend the Athena/Fashion Empire/wealth machinery to resemble realistic economics, corporate governance, AI development, or ordinary commercial reality. The series is allowed to be completely unhinged farce with an emotionally sincere core.
+
+The emotional logic should remain grounded even when the external world becomes deliberately impossible. Chloe's love, Steve's belonging, Emily's relief, Brittney and Liz's family bond, Athena's daughter-love, mistakes, consent learning, and relationship consequences should be treated as real to the characters even when the surrounding scale is absurd.
+
+Do not weaken the comedy by half-pretending that Athena's empire is sober realistic corporate fiction. The story may explicitly acknowledge its own ridiculousness.
+
+Fourth-wall breaks are available as intentional plot and comedy devices rather than accidental slips. Their exact frequency, narrating mechanism, and responsible characters remain to be developed.
+
+A possible later "fifth wall" layer is also available as a prospective metafictional device: awareness not merely of an audience, but of story-making machinery outside the story, such as canon, drafts, revision, discarded possibilities, authorship, AI-assisted creation, or the apparatus by which the story is being built. Athena is a natural possible interface for this because of her receipts, provenance obsession, version history, and institutional memory, but the exact mechanism is not yet canonized and must not be introduced casually before its narrative purpose is established.
+
+Metafiction does not erase stakes. Characters cannot use awareness of story construction as a universal escape hatch from consequences, consent, continuity, or emotional truth.
 
 ## Open boundaries
 
 The cause and exact physical/perceptual mechanism remain unset. The timing is settled: this did not begin at Blush.
-Story dates, Steve's surname, employer, exact job responsibilities, appearance details beyond the stated measurements/perception, and detailed relationship cast: Not yet established.
+Story dates, Steve's surname, employer, exact job responsibilities, appearance details beyond the stated measurements/perception, Chloe's fuller biography, and the detailed relationship cast: Not yet established.
 Narration choices are recorded in [voice-and-style.md](voice-and-style.md).
 Plans live in [series-outline.md](series-outline.md); completed events live in [timeline-and-continuity.md](timeline-and-continuity.md).
 
@@ -79,6 +127,14 @@ Plans live in [series-outline.md](series-outline.md); completed events live in [
 2026-09-14: Preserved the recovered relationship direction: the eventual love interest and her polycule are central future relationships, but remain undeveloped; they see and cherish the woman in Steve without owning or dictating his self-discovery.
 
 2026-09-14: Established Emily as Steve's eventual recognized/chosen name and established relief and joy, sustained exuberant feminine/lesbian experimentation, affectionate stereotype reclamation, and contagious rejection of social self-policing as long-term series direction. This is not a formal movement and does not make Emily an ideological leader.
+
+2026-09-14: Established Chloe as the primary love interest; established Steve's adversarial reason for finally entering Blush; established the girls' progression from protective suspicion to genuine friendship/love and deliberate protection of Steve's agency; established Chloe's attraction as rooted in Steve/Emily's underlying personhood, compassion, flaws, accountability, and world-fixing impulse.
+
+2026-09-14: Rejected the assumption that the first five outlined chapters must contain the full opening developmental arc. The early relationship/belonging phase may be substantially larger, and identity recognition must not be rushed merely to satisfy an early outline scale.
+
+2026-09-14: Established story-opening Athena timing late in the hidden commercial period so that Asteria, Lesbos Holdings, substantial wealth, and the Fashion Empire are already well advanced while Steve remains unaware. The exact calendar placement and Danielle timing must remain consistent with the reusable Athena chronology.
+
+2026-09-14: Established the series reality contract as emotionally sincere but deliberately impossible, unhinged farce. Fourth-wall breaks are available plot/comedy devices. A possible later fifth-wall metafictional layer is approved as a development direction, with exact mechanism still open.
 
 ## Commercial fictionalization and authorial intent
 
