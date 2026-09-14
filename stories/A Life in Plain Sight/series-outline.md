@@ -55,7 +55,13 @@ If the chapter moves into the next day, contrast the experience at Blush with an
 
 Movement: he makes an active choice that can sustain the next arc.
 
-## Longer-series direction — proposal
+## Author-established long-term destination
+
+Steve becomes loved, cherished, and able to live as his true self. His starting life is not bad; it is grey. He gradually discovers that this greyness is not something he must treat as normal or something he wants.
+
+The controlling emotional premise is in [series-bible.md](series-bible.md#themes-and-series-promise). Exact milestones, relationships, pacing, and book boundaries remain open. This destination has not occurred in the story.
+
+## Longer-series development — proposal
 
 Let the continuing story grow through relationships, belonging, work, interests, choices, and the consequences of recognition. Do not make indefinite failure to notice the same evidence the sole engine. Preserve gradual change without resetting Steve after each meaningful experience.
 

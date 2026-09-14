@@ -27,6 +27,9 @@ Current handoff: [current-story-state.md](current-story-state.md).
 - Required chapters to move to approved only after chapter approval. Implemented the standard in the shared [Templates and Schemas](../../system%20bible/01-system-and-canon-framework/templates-and-schemas.md) and this series' [README](README.md).
 - Distributed the previous combined development record into the approved document set. Git history retains its earlier complete versions; this is reorganization, not loss or rejection of the outline or premise.
 
+- Established the long-term destination: Steve is loved, cherished, and living as his true self.
+- Established that his starting life is not bad, but grey; he learns that greyness is not an inevitable normal or what he wants. Recorded in the Series Bible and linked from the outline. This does not settle the route, relationship cast, or timetable.
+
 ## Creative reasoning and proposals
 
 The approved series title supports visibility, self-recognition, and a life extending beyond the first night at Blush.
