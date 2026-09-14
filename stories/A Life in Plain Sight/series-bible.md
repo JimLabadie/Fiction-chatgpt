@@ -39,6 +39,12 @@ His current life is not bad; it is grey. Through experience, he learns that this
 
 This is the long-term direction, not a completed realization or a fixed timetable. The people, experiences, and specific choices through which he reaches it remain to be developed.
 
+## Relationship direction
+
+Steve's eventual central relationship circle is the love interest and her polycule members. They are intended to become important to him, but their identities, personalities, individual goals, relationship structure, and exact entry into the story are not yet established.
+
+The recovered author direction is that they genuinely see and cherish the woman in Steve before he understands himself, while still remaining distinct people with their own interests, personalities, reasons for noticing him, and lives beyond Steve. Steve's underlying qualities as established for this direction are loving, caring, kind, and selfless. Do not turn the polycule into a coordinated identity committee or use them to dictate Steve's self-discovery.
+
 ## Open boundaries
 
 The cause and exact physical/perceptual mechanism remain unset. The timing is settled: this did not begin at Blush.
@@ -49,6 +55,8 @@ Plans live in [series-outline.md](series-outline.md); completed events live in [
 ## Canon revisions
 
 2026-09-14: Clarified that Steve already notices others treating him as a woman and is annoyed by it. Lack of self-recognition must not be mistaken for ignorance of those repeated encounters. Source: author's direct clarification in the series-planning conversation.
+
+2026-09-14: Preserved the recovered relationship direction: the eventual love interest and her polycule are central future relationships, but remain undeveloped; they see and cherish the woman in Steve without owning or dictating his self-discovery.
 
 ## Commercial fictionalization and authorial intent
 
