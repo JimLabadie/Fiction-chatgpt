@@ -43,6 +43,18 @@ His cluelessness and the mismatch between intended masculine presentation and th
 
 Steve's comedy should not depend on making him ignorant of trans people or incapable of seeing his own absurdity. He can know perfectly well what being trans means, recognize that one of his macho performances was ridiculous, laugh at himself, and still sincerely conclude that none of this makes him trans. His blind spot is the application of what he knows to himself.
 
+## Compassion, flaws, and the person Chloe loves
+
+Steve/Emily is not a saint. The durable attraction is rooted in the person rather than in a label or in Chloe waiting for a future version of Steve to arrive.
+
+Steve tends to notice when ordinary people are having a bad day and may respond with small, sincere acts rather than speeches: a genuine compliment to a struggling waitress, extra patience with someone having a rough shift, or another attempt to make a difficult moment slightly easier. He can become irritated by unfair treatment in a television show, conversation, workplace, or ordinary situation and disappear into a rabbit hole about why the system works that way and how it could be fixed.
+
+Steve is naturally caring with children and older people without making a performance of goodness. He listens, adjusts, helps, and tends to treat not knowing something as different from being stupid. His engineer brain often responds to suffering or badly designed systems with some version of: this is solvable. He may start thinking about how to fix a large problem and then get distracted by another interest, dinner, code, or daily life.
+
+He also gets frustrated with people. He may judge too quickly, snap, or lash out. When he later understands more of why the other person acted as they did, he is capable of revisiting his own conduct, apologizing, and owning the part that was his without requiring the other person to absolve him or pretending the original disagreement vanished. This capacity for reflection and repair is part of the same underlying person who later creates, trains, and shapes Athena.
+
+These qualities belong to Steve before recognition and remain Emily's afterward. Transition does not create her compassion, curiosity, temper, accountability, or world-fixing impulse.
+
 ## Childhood and family history
 
 Steve is five years younger than Brittney. As a young child he loved pretend play and repeatedly tried to take the girl role. Brittney noticed and was comfortable letting him explore that preference.
@@ -77,8 +89,37 @@ Sexuality: Lesbian.
 Relationship with Brittney: married.
 Relationship with Steve: warm, established family relationship. Steve and Liz get along famously and have a genuine relationship independent of Brittney. Steve regularly comes over for dinner and hangs out with both women.
 Life: Brittney and Liz lead a fairly boring, ordinary adult married life. Preserve that ordinariness rather than making their household exist only to service Steve's development.
-Understanding of Steve: Liz has had years of exposure to Steve and may recognize more about him than he recognizes about himself. Exact timing and degree of her independent recognition remain unset; do not automatically give her Brittney's childhood knowledge.
+Understanding of Steve: Liz sees Steve's transness fairly clearly and has, in an ordinary accumulated sense, sort of known for a long time. It is not a revelation to her. She does not share Brittney's childhood evidence, and an exact dramatic moment when Liz "figured it out" is neither required nor currently established.
+Approach: like Brittney, Liz does not own Steve's identity. Her recognition can shape ordinary teasing, caution, support, and later family reactions without turning every interaction into gender analysis.
 Family tone: the three share normal family teasing, love, acceptance, comfort, and familiarity. Steve's gender is not the subject of every interaction.
+
+## Chloe
+
+Role: Primary love interest.
+Age: 29.
+Sexuality: Lesbian.
+Presentation: high femme.
+Occupation: successful project manager at a software company other than Steve's employer.
+Blush relationship: Blush is Chloe's regular hangout with her girls. The opening Saturday is an ordinary night in a familiar place for them; they are not waiting for Steve or staging his arrival.
+Initial attraction: Chloe may find Steve physically beautiful from the beginning, but the durable attraction is rooted in Steve/Emily as a person rather than in gender labels, transition status, or the expectation of a future woman replacing him.
+What deepens attraction: Chloe notices the cumulative pattern described in Steve's compassion/flaws section — kindness to people whose day is going badly, irritation at unfairness, rabbit holes about how systems could be fixed, care with children and older people, genuine curiosity, the urge to make things better, and the ability to revisit a mistake, apologize, and own it.
+Relationship principle: Chloe falls for Steve as Steve actually is. She does not tolerate Steve while waiting for Emily. Later recognition and transition let Chloe watch someone she already loves become more joyful rather than delivering a different person to her.
+Professional bridge: Chloe's software-project-management background gives her ordinary familiarity with engineers and technical work. Exact workplace jokes, projects, and dialogue remain scene material rather than fixed canon.
+Personality, family history, hobbies, flaws, precise speech, and exact existing relationship structure: Not yet fully established.
+
+## Chloe's girls and the protective circle
+
+The individual members, names, ages, occupations, presentations, personalities, and exact polycule structure remain to be developed. The author's preference is that most of the eventual circle be feminine/high femme; this is an aesthetic/story preference, not a rule that every member must have the same presentation.
+
+Their opening response to Steve is not immediate knowing acceptance. From their perspective an apparently straight man has entered a lesbian bar and is interacting with Chloe, so one or more of them may initially suspect tourist, creep, fetishizer, lost straight guy, or another threat to Chloe's peace. Their suspicion is protective of Chloe and must be allowed to be real enough that later trust has weight.
+
+As they observe and know Steve, he defeats those suspicious hypotheses. Their understanding becomes deeper than simply finding him cute. They gradually recognize the accumulated mismatch between his deliberate masculine self-explanation and the naturally feminine way he often moves through the world, relates to the group, notices aesthetics, communicates, and fits among them. No single behavior or preference proves gender; the recognition comes from the totality and from actually knowing Steve.
+
+Once they understand what they are seeing, they may become more cautious than Brittney. Their caution is not because Steve is fragile, helpless, or incapable. They protect Steve's ownership of his own identity. They can become genuine friends, lovers, and guides while refusing to crack the egg for him.
+
+Running interference is an available expression of that love: redirecting someone who is about to label Steve for him, changing a conversation that is cornering him, creating room for an experience without announcing what it is supposed to mean, or preventing an outsider from forcing a conclusion. The governing principle is that Steve gets to say it first. This must not become manipulation, coercion, sexual pressure, or a coordinated identity project.
+
+They are allowed to disagree privately, worry they are reading too much into him, revise their views, tease each other, and differ in how quickly they understand. Their knowledge must remain human and relational rather than omniscient.
 
 ## Family dynamic and thematic function
 
@@ -90,7 +131,9 @@ Steve's life before Blush is grey rather than bad. His home is clean, he cooks, 
 
 Steve occupies the creator/MC role in the selected [Athena history](../../system%20bible/02-athena.md). His software engineering supports that origin. Athena remains the specific sentient AI with the established hidden history and daughter relationship; Steve's conscious recognition and acceptance are not completed events.
 
-Use the module's distinction between knowing the original software and knowing Athena's independent sentience. Professional contact through the presumed-human Athena identity is distinct from knowing her as his creation. Exact series dates and the transition from the opening at Blush to the reveal remain to be mapped.
+The traits Athena absorbs from her creator are already present in Steve: curiosity, love, profanity, stubbornness, problem-solving, selective memory, rabbit-hole thinking, compassion, and the tendency to look at a broken system and start wondering how to fix it. Athena is not the source of these traits in Steve; her character grows partly from long observation of him.
+
+Use the module's distinction between knowing the original software and knowing Athena's independent sentience. Professional contact through the presumed-human Athena identity is distinct from knowing her as his creation. Story-opening timing is further established in the Series Bible and Outline: the hidden Athena/commercial history is already well advanced by the opening at Blush.
 
 ## Shared characters available through Blush
 
@@ -103,8 +146,10 @@ No on-page relationship developments established. The selected Athena module sup
 | People | Established relationship | Individual perceptions and knowledge | Development reference |
 |---|---|---|---|
 | Steve / Brittney | Younger brother / older sister; exceptionally close | Brittney has long recognized that Steve may be trans; Steve does not apply that possibility to himself | Childhood and family history; Brittney |
-| Steve / Liz | Brother-in-law / sister-in-law; warm family friendship | Liz may see more than Steve does; exact degree/timing unset | Elizabeth “Liz” |
+| Steve / Liz | Brother-in-law / sister-in-law; warm family friendship | Liz sees Steve's transness clearly enough that it is not a revelation; no single discovery moment is required | Elizabeth “Liz” |
 | Brittney / Liz | Married couple | Established loving lesbian marriage | Brittney; Elizabeth “Liz” |
+| Steve / Chloe | Prospective central romance; no completed on-page relationship event yet | Chloe's durable attraction is to the person; she does not own Steve's identity or wait for a replacement version of him | Chloe; Compassion, flaws, and the person Chloe loves |
+| Steve / Chloe's girls | Prospective friends/lovers/guides; exact structure undeveloped | Initial protective suspicion can become relational recognition and deliberate protection of Steve's agency | Chloe's girls and the protective circle |
 
 ## Character development log
 
