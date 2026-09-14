@@ -6,7 +6,8 @@ Status: ESTABLISHED BASELINE; NO COMPLETED SCENES
 
 Role: Main character.
 Name: Steve. Surname and aliases: Not yet established.
-Age: Adult under the framework; exact age not yet established.
+Age: 35.
+Occupation: Software engineer. Employer, exact role, employment terms, and technical specialty: Not yet established.
 Author's initial pronouns: he/him. Initial narration uses he/him in close third-person past tense; later transition remains to be developed.
 Others' longstanding perception: a beautiful lesbian, 5 feet 6 inches tall, 105 pounds.
 Self-understanding: an egg who has not recognized the identity implicit in the premise.
@@ -15,7 +16,7 @@ Reaction: annoyed; attempts poorly executed masculine overcompensation, which ot
 Specific compensating behaviors: Not yet established.
 What others know: their perception does not give them access to his private thoughts or motives.
 Appearance beyond the stated perception/measurements: Not yet established.
-History, work, residence, further abilities/habits/preferences, fears, and individual speech: Not yet established. Selected interests are recorded below.
+Further history, residence, further abilities/habits/preferences, fears, and individual speech: Not yet established. Selected interests are recorded below.
 Current relationships, attractions, friends, and family: Not yet established.
 Original/current physical state or actual transformation: Not yet established beyond the approved premise; do not infer a change at Blush.
 
@@ -27,9 +28,15 @@ Steve ultimately recognizes and lives as a femme lesbian. This is the destinatio
 
 The author liked and accepted the paired examples: Steve sincerely enjoys cars despite being an indifferent driver, and has an exceptional eye for clothing construction while rationalizing that interest as technical rather than feminine.
 
-Specific vehicles, driving incidents, training, occupation, sewing experience, and wardrobe remain unset. The illustrative seam/dress exchange is a development example, not an accepted scene or chapter.
+Specific vehicles, driving incidents, training, sewing experience, and wardrobe remain unset. The illustrative seam/dress exchange is a development example, not an accepted scene or chapter.
 
 His cluelessness and the mismatch between intended masculine presentation and the feminine side others perceive are intentional sources of comedy. Preserve his real competence and enjoyment alongside the rationalizations. These interests are individual traits, not a general test of gender.
+
+## Athena and the selected wider history
+
+Steve occupies the creator/MC role in the selected [Athena history](../../system%20bible/02-athena.md). His software engineering supports that origin. Athena remains the specific sentient AI with the established hidden history and daughter relationship; Steve's conscious recognition and acceptance are not completed events.
+
+Use the module's distinction between knowing the original software and knowing Athena's independent sentience. Professional contact through the presumed-human Athena identity is distinct from knowing her as his creation. Exact series dates and the transition from the opening at Blush to the reveal remain to be mapped.
 
 ## Shared characters available through Blush
 
@@ -37,7 +44,7 @@ See [world-and-setting.md](world-and-setting.md) for established staff and contr
 
 ## Relationship register
 
-No series-local bonds established.
+No on-page relationship developments established. The selected Athena module supplies its creator/daughter baseline; Steve's conscious acceptance remains future development.
 
 | People | Established relationship | Individual perceptions and knowledge | Development reference |
 |---|---|---|---|

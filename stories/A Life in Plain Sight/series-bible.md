@@ -10,7 +10,7 @@ Audience details, book count, genre positioning, and publication schedule: Not y
 ## Durable premise
 
 - This is the first planned commercial series using the reusable framework and its established house voice.
-- The main character is Steve, distinct from the Jim persona.
+- The main character is Steve, distinct from the Jim persona: a 35-year-old software engineer.
 - Steve is an egg: he has not yet recognized the identity implicit in the premise.
 - Steve wanders into Blush.
 - Everyone sees Steve as a beautiful lesbian, 5 feet 6 inches tall and 105 pounds.
@@ -22,12 +22,12 @@ Audience details, book count, genre positioning, and publication schedule: Not y
 
 The author's opening description uses he/him for Steve. Preserve that starting self-understanding in planning; use the approved close third-person, past-tense narration with initial he/him pronouns. Other characters' perceptions and forms of address can differ. Do not turn their perception into knowledge of Steve's private thoughts.
 
-Framework constraint: characters participating in nightlife romance or attraction are adults. Steve's exact adult age remains unset.
+Framework constraint: characters participating in nightlife romance or attraction are adults. Steve is 35.
 
 ## Module selection
 
 The established house voice and Blush/St. Claire setting are selected. See [world-and-setting.md](world-and-setting.md).
-Other St. Claire mechanics, Athena, the Estate, and the hidden empire have not been selected for this series.
+The Athena/Lesbos Estate/Fashion Empire history is selected, with Steve bound to the MC/creator role. The series expands from Blush into this wider world. Other St. Claire mechanics remain unselected unless separately established.
 No prior test-story biography or relationship circle is inherited automatically.
 
 ## Themes and series promise
@@ -42,10 +42,18 @@ This is the long-term direction, not a completed realization or a fixed timetabl
 ## Open boundaries
 
 The cause and exact physical/perceptual mechanism remain unset. The timing is settled: this did not begin at Blush.
-Story dates, Steve's exact adult age, surname, occupation, relationships, appearance details beyond the stated measurements/perception, and eventual name choice: Not yet established.
+Story dates, Steve's surname, employer, exact job responsibilities, relationships, appearance details beyond the stated measurements/perception, and eventual name choice: Not yet established.
 Narration choices are recorded in [voice-and-style.md](voice-and-style.md).
 Plans live in [series-outline.md](series-outline.md); completed events live in [timeline-and-continuity.md](timeline-and-continuity.md).
 
 ## Canon revisions
 
 2026-09-14: Clarified that Steve already notices others treating him as a woman and is annoyed by it. Lack of self-recognition must not be mistaken for ignorance of those repeated encounters. Source: author's direct clarification in the series-planning conversation.
+
+## Commercial fictionalization and authorial intent
+
+The author intends playful, deliberately extravagant fiction and is open about using AI in its creation. Exact publication acknowledgment wording remains to be drafted.
+
+Real-world people, businesses, brands, and products used as inspirations are to have distinct fictional identities in this commercial series. Maintain [entity-name-mapping.md](entity-name-mapping.md) as they arise. Existing invented shared-world characters and institutions remain available under their established names. This series-level adaptation does not rename the source archive or shared System Bible.
+
+Use coherent fictional histories, products, designs, and relationships rather than relying on spelling changes alone. Do not frame invented events as factual claims about the real inspiration. Fictional name selection and reader-facing packaging remain creative work in progress; no legal clearance is claimed.

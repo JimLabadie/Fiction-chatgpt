@@ -2,7 +2,7 @@
 
 Status: Planning. Series title and broad five-chapter opening arc approved. No chapter prose written or approved.
 
-Steve wanders into Blush. Everyone has always seen him as a beautiful woman; he is annoyed by it and compensates poorly, to others' amusement. The commercial series uses the established house voice.
+Steve, a 35-year-old software engineer, wanders into Blush. Everyone has always seen him as a beautiful woman; he is annoyed by it and compensates poorly, to others' amusement. The commercial series uses the established house voice.
 
 ## Records
 
@@ -17,6 +17,8 @@ Steve wanders into Blush. Everyone has always seen him as a beautiful woman; he 
 | [timeline-and-continuity.md](timeline-and-continuity.md) | Accepted events and continuity |
 | [current-story-state.md](current-story-state.md) | Exact handoff |
 | [series-development.md](series-development.md) | Decisions, reasoning, proposals, and open questions |
+
+Supplemental series record: [entity-name-mapping.md](entity-name-mapping.md) tracks fictional identities for real-world inspirations as the series expands into Athena, Lesbos, and the Fashion Empire.
 
 ## Resume here
 

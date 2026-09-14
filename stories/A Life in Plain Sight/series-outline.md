@@ -61,6 +61,14 @@ Steve becomes loved, cherished, and able to live as his true self. His starting 
 
 The controlling emotional premise is in [series-bible.md](series-bible.md#themes-and-series-promise). Exact milestones, relationships, pacing, and book boundaries remain open. This destination has not occurred in the story.
 
+## Selected expansion into Athena, Lesbos, and the Fashion Empire
+
+Steve is a 35-year-old software engineer and occupies the creator/MC role in the selected Athena history. The series moves outward from Blush into the Lesbos Estate and Fashion Empire.
+
+Preserve the shared history's causal sequence and knowledge boundaries. The exact placement of reveals, story dates, book boundaries, and transition scenes remains open. The empire's scope should develop alongside Steve's relationships and self-recognition; selecting it does not displace the approved opening arc.
+
+Real-world inspiration names are mapped to distinct fictional identities in [entity-name-mapping.md](entity-name-mapping.md) before they become manuscript facts.
+
 ## Approved longer-series direction
 
 Let the continuing story grow through relationships, belonging, work, interests, choices, and the consequences of recognition. Do not make indefinite failure to notice the same evidence the sole engine. Preserve gradual change without resetting Steve after each meaningful experience.

@@ -37,6 +37,11 @@ Current handoff: [current-story-state.md](current-story-state.md).
 - Author explicitly approved everything discussed to date. This confirms close third-person past-tense narration, initial he/him narration, the proposed first-book and chapter titles, and the longer-series craft direction. Unanswered questions and mutually alternative scene options remain open; this does not approve unwritten chapter prose.
 - Approved the discussed approach of letting sincere enthusiasm outrun self-monitoring, varying other characters' reactions, preserving enjoyable parts of Steve's earlier life, and allowing later affectionate self-recognition to continue the comedy.
 
+- Established Steve as a 35-year-old software engineer.
+- Selected the Athena, Lesbos Estate, and Fashion Empire progression, with Steve as Athena's creator/MC. This supplies a long-term path from Blush into the wider framework without scheduling every reveal.
+- Author wants distinct fictional identities for real-world entities and people, mapped as they arise, and openly acknowledges AI involvement. Created the series entity-name register; replacement names are still to be developed.
+- The intended tone remains silly, enjoyable fiction. No actual person's private life or actual company's conduct is being asserted by invented story events.
+
 ## Creative reasoning and proposals
 
 The approved series title supports visibility, self-recognition, and a life extending beyond the first night at Blush.
@@ -46,13 +51,14 @@ Comic application: the novelty at Blush is its people and potential for connecti
 
 ## Decisions to develop next
 
-1. Steve's exact adult age, ordinary life, and immediate reason for entering Blush.
+1. Steve's ordinary routine, employer/job details, and immediate reason for entering Blush; age and profession are settled.
 2. The later pronoun transition as Steve's recognition develops; initial narration is settled.
 3. Who first forms a meaningful connection with Steve, using established character records.
 4. Detailed scenes within the approved five-chapter arc using the approved chapter titles.
-5. Which additional framework modules belong to this series.
+5. The chronology and transition into the selected Athena/Lesbos/Fashion Empire history; other optional components remain open.
 6. Exact physical/self-perception mechanics only as needed; the longstanding perception is already settled.
 7. Book boundaries and later arcs.
+8. Fictional names and distinctive identities for the real-world inspirations as each becomes relevant.
 
 ## Rejected or superseded alternatives
 
