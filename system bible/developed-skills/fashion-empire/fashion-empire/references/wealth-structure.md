@@ -1,5 +1,7 @@
 # Managing Wealth at Scale — Asset & Ownership Structure
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../../../../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACTIVE REUSABLE FINANCIAL-STRUCTURE REFERENCE
 Authority: LESBOS AND HESTIA CONTROLLING RECORDS GOVERN; COSTS AND REAL-WORLD LEGAL DETAILS REQUIRE DATE-AND-JURISDICTION CHECKING
 
@@ -65,7 +67,7 @@ Full single-family office — CEO, CIO, Controller, analysts, in-house tax direc
 
 Empire-scale acquisitions may use separate special-purpose entities, trusts, and holding companies to isolate liabilities, organize ownership, preserve intellectual property, and make reporting legible. These structures do not create permission to conceal beneficial ownership, evade disclosure thresholds, frustrate regulators, or treat antitrust law as a paperwork trick. Transactions use qualified counsel and comply with the reporting, review, tax, and competition rules applicable to their dates and jurisdictions.
 
-Lesbos Holdings remains the controlling parent and intellectual-property owner. Individual acquisition vehicles sit beneath the disclosed ownership structure and are administrative or risk-isolation tools, not a way to transfer Athena or obscure Jim's beneficial ownership from lawful oversight.
+Lesbos Holdings remains the controlling parent and intellectual-property owner. Individual acquisition vehicles sit beneath the disclosed ownership structure and are administrative or risk-isolation tools, not a way to transfer Athena or obscure MC's beneficial ownership from lawful oversight.
 
 ## The Partner Safety Layer
 Distinct from the general trust structure above, and specific to stories where the anchor's household includes multiple committed partners (see the relationship framework): a deliberate legal/financial layer exists to protect each partner **independently of the relationship's future** — protection that exists because the anchor genuinely wants it to, not because any partner has asked or needs to prove anything to receive it.

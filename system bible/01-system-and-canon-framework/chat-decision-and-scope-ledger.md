@@ -1,5 +1,7 @@
 # Persist Story Bibles Chat — Decision and Scope Ledger
 
+**Current interpretation (2026-09-14):** Historical Jim references below retain their provenance. Reusable main-character roles now bind to the current story's MC under [Persona, MC, and Commercial Story Binding](persona-mc-and-commercial-story-binding.md). Jim remains an optional persona; commercial fiction is supported. This name/scope revision does not close unrelated recovery obligations.
+
 Status: IN PROGRESS — DIRECT USER STATEMENTS REVIEWED
 Authority: RECOVERY LEDGER; JIM'S STATEMENTS AND CORRECTIONS CONTROL
 Source: preserved 26-page `Persist Story Bibles` conversation archive

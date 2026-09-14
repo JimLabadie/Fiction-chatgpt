@@ -17,7 +17,7 @@ St. Claire remains an optional reusable shared-world component with its own cult
 
 **Respect is the load-bearing boundary.** Relationships, sexuality, mentorship, authority, family, community, transformation, and care only work when the people involved retain dignity, agency, and personhood.
 
-Women are not rewards, services, interchangeable bodies, institutional appliances, or decorations. They have interiority, competence, history, judgment, desire, boundaries, and the power to affect Jim, one another, and the world.
+Women are not rewards, services, interchangeable bodies, institutional appliances, or decorations. They have interiority, competence, history, judgment, desire, boundaries, and the power to affect the MC, one another, and the world.
 
 Attraction, admiration, aspiration, identification, envy, and the wish to resemble or belong beside a woman may coexist. Physical beauty may be a genuine reason for narrative interest. Beauty does not erase personhood, and personhood does not require beauty to be minimized or defended.
 

@@ -1,5 +1,7 @@
 # Lesbos Holdings and Wealth Infrastructure
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../../../../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACCEPTED REUSABLE INFRASTRUCTURE — DETAILED WEALTH STRUCTURE INCORPORATED
 Authority: CONTROLLING OWNERSHIP AND WEALTH-ORIGIN RECORD
 
@@ -13,7 +15,7 @@ Lesbos Holdings LLC is the reusable legal and financial root that protects Athen
 - Lesbos owns Athena's underlying algorithm and intellectual property.
 - Asteria Intelligence licenses the technology it needs from Lesbos.
 - Lesbos owns or controls Asteria, so an attempted takeover of the operating company cannot acquire Athena.
-- Jim is the beneficial owner through the signed J./Athena authority structure and does not understand the arrangement before the reveal.
+- MC is the beneficial owner through the signed J./Athena authority structure and does not understand the arrangement before the reveal.
 - J. is the outward business/ownership construct Athena uses; it is not a second intelligence or human executive.
 
 ## Wealth origin
@@ -44,7 +46,7 @@ Love supplies direction, not a claim that every asset is a personal toy. Acquire
 
 ## Danielle boundary
 
-Danielle Reyes enters late, when most of the Fashion Empire already exists. She is hired as CEO approximately three years before Athena's reveal and runs the visible human institution through J. Danielle has not heard of Jim at recruitment and does not know Athena exists.
+Danielle Reyes enters late, when most of the Fashion Empire already exists. She is hired as CEO approximately three years before Athena's reveal and runs the visible human institution through J. Danielle has not heard of MC at recruitment and does not know Athena exists.
 
 Ordinary hiring and organizational development belong to Danielle. Athena reserves exceptional strategic recruitment for rare cases with direct significance, such as Cassandra Labs.
 

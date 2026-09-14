@@ -1,5 +1,7 @@
 # The Hestia Principle in St. Claire
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACCEPTED CULTURAL AND HISTORICAL BASELINE — ORIGIN DETAILS OPEN
 Authority: CONTROLLING ST. CLAIRE LORE COMPONENT
 Parent: [The District of St. Claire](../07-st-claire.md)
@@ -16,7 +18,7 @@ Protection means building conditions in which a person remains safe enough to ch
 
 The principle belongs to St. Claire's history and lore. It may inform the district's family structures, mutual aid, housing protections, parallel legal instruments, chosen-family practices, and response to unequal power without reducing all of those institutions to one rule.
 
-St. Claire's version is its own cultural development. It is not derived from Jim's later Court-TV rabbit hole or Athena's legal implementation, even though both express the same underlying principle.
+St. Claire's version is its own cultural development. It is not derived from MC's later Court-TV rabbit hole or Athena's legal implementation, even though both express the same underlying principle.
 
 ## Protected incompleteness
 

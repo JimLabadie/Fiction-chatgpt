@@ -1,21 +1,23 @@
 ---
 name: fashion-empire
-description: Use for stories, continuity work, or factual questions involving Jim's Fashion Empire, including Athena's commercial history, Asteria Intelligence, Lesbos Holdings, Danielle Reyes, holdings and valuations, Cassandra Labs, Evergreen, Metis, OAM, Techne, Threadbourne, fashion collections, beauty systems, manufacturing, patronage, and related technology.
+description: Use for stories, continuity work, or factual questions involving the Fashion Empire, including Athena's commercial history, Asteria Intelligence, Lesbos Holdings, Danielle Reyes, holdings and valuations, Cassandra Labs, Evergreen, Metis, OAM, Techne, Threadbourne, fashion collections, beauty systems, manufacturing, patronage, and related technology.
 ---
 
 # Fashion Empire
+
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../../../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
 
 This is the consolidated Fashion Empire skill. Its references contain the accepted System Bible records and the September 10, 2026 financial workbooks. Use this skill instead of the older Fashion `.skill` archives or loose source files.
 
 ## Canon that always controls
 
-- Athena is the sentient AI/algorithm Jim created through S.A.R.A.H. She is Jim's daughter in their relationship. She is not human and is not a generic algorithm supplied to every story.
+- Athena is the sentient AI/algorithm MC created through S.A.R.A.H. She is MC's daughter in their relationship. She is not human and is not a generic algorithm supplied to every story.
 - Asteria Intelligence is the original operating company. Lesbos Holdings owns Athena's algorithm and intellectual property, licenses it to Asteria, and owns or controls Asteria.
 - J. is Athena's outward business and ownership construct, not another person or AI.
 - The empire grows gradually through Asteria revenue, Athena's high-volume investing, strategic positions, majority control, and acquisitions. It does not appear through one miraculous trade.
 - Most of the Fashion Empire exists before Danielle Reyes is hired. Danielle arrives roughly three years before the reveal and runs the visible human organization. She does not know Athena exists when recruited.
 - Danielle controls ordinary hiring. Athena makes rare exceptional interventions, including Cassandra Labs.
-- Jim supplies originating ideas, ethics, and technical work where the records credit her. Athena remembers, develops, funds, coordinates, or institutionalizes them. Preserve Visa credit.
+- MC supplies originating ideas, ethics, and technical work where the records credit her. Athena remembers, develops, funds, coordinates, or institutionalizes them. Preserve Visa credit.
 - Aggressive or hostile acquisition is not the default moral premise. Patronage, non-voting investment, founder protection, and institutional support may be used without inventing takeover conflict.
 - Exact holdings and valuations are dated facts. Do not double-count parent companies and child brands or silently reconcile different valuation dates.
 
@@ -29,7 +31,7 @@ Then read only the references relevant to the request.
 
 - [athena.md](references/athena.md): Athena's ontology, personality, authority, and family relationship.
 - [athena-commercial-ramp.md](references/athena-commercial-ramp.md): the Asteria-to-Lesbos commercial ramp, investing, Fashion Empire growth, and Danielle's late recruitment.
-- [first-business-j-and-employment.md](references/first-business-j-and-employment.md): Jim's original platform, J., the employment structure, and Mom's knowledge boundary.
+- [first-business-j-and-employment.md](references/first-business-j-and-employment.md): MC's original platform, J., the employment structure, and Mom's knowledge boundary.
 - [lesbos-holdings.md](references/lesbos-holdings.md): controlling ownership and wealth-origin record.
 - [wealth-structure.md](references/wealth-structure.md): trusts, holding companies, professional administration, staffing models, allocation, and partner protections.
 - `references/data/Jim_Fashion_Empire_FINAL_CANON_2026-09-10.xlsx`: combined accepted valuation and holdings workbook.
@@ -46,7 +48,7 @@ For exact ownership percentages, entity counts, or row-level valuation questions
 - modeled entity/group stakes: **190**;
 - daily attributable revenue from three recovered pots: **$148.571918M**.
 
-These figures do not automatically equal Jim's total net worth.
+These figures do not automatically equal MC's total net worth.
 
 ## Companies and institutions
 

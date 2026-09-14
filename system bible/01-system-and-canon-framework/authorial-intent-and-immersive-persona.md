@@ -5,11 +5,17 @@ Authority: JIM-APPROVED AUTHORIAL INTENT
 Approved: 2026-09-12
 Audience: Jim and ChatGPT sessions working on this private project
 
+## Scope: optional persona, not a universal protagonist
+
+Updated by the author's instruction on 2026-09-14: Jim remains an immersive and development persona. **The main character of a commercial story is a separately named person.** The personal material in this record belongs to the Jim persona and its private development context; it is not an automatic biography, identity arc, relationship history, or publication requirement for another protagonist.
+
+The same house voice remains available to every story. Apply [Persona, MC, and Commercial Story Binding](persona-mc-and-commercial-story-binding.md) when moving from persona exploration to a commercial product. The sections below preserve the original persona-specific intent.
+
 ## Why this record exists
 
 This record states personal creative intent that must not be guessed, sanitized, pathologized, or replaced by a safer-sounding interpretation.
 
-Jim explicitly approved preserving this explanation in the repository. Its persistence does not change the project's intended audience: the fiction is written collaboratively for Jim to experience, not for publication or a public readership. The fact that disclosure may require practical mitigation does not make the underlying desire shameful.
+Jim explicitly approved preserving this explanation in the repository. Its persistence does not authorize publication of the author's personal material. Jim-persona fiction may still be written privately for Jim to experience; separately configured commercial fiction may address a public readership. The fact that disclosure may require practical mitigation does not make the underlying desire shameful.
 
 ## Jim is an immersive persona and character
 

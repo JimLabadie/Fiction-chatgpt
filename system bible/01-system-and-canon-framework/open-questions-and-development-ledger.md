@@ -1,5 +1,7 @@
 # Open Questions and Development Ledger
 
+**Current interpretation (2026-09-14):** Historical Jim references below retain their provenance. Reusable main-character roles now bind to the current story's MC under [Persona, MC, and Commercial Story Binding](persona-mc-and-commercial-story-binding.md). Jim remains an optional persona; commercial fiction is supported. This name/scope revision does not close unrelated recovery obligations.
+
 Status: ACTIVE — INITIAL BACKFILL IN PROGRESS
 Authority: CONTROLLING REGISTER FOR PINS, DEFERRED DISCUSSIONS, AND RETURN OBLIGATIONS
 Created: 2026-09-13

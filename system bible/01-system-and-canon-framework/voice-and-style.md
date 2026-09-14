@@ -9,6 +9,10 @@ Source fidelity: Full normalized text of `02 - Voice and Style Guide.docx.docx`;
 
 This guide defines the house voice for fiction written in this project. It describes desired characteristics rather than attempting to reproduce the distinctive style or wording of any particular author. Consistency of voice matters across chapters.
 
+# Voice across personas and commercial stories
+
+This house voice applies equally to private persona fiction and commercial fiction. Jim remains an optional development persona; the current story supplies the viewpoint character's name, identity, biography, knowledge, and individual speech. Preserve intimacy, candor, humor, psychological closeness, and lived physical detail without making every protagonist Jim or importing the author's personal history.
+
 # Core Voice
 
 The prose should feel intimate, candid, contemporary, conversational, psychologically observant, character-centered, emotionally immediate, occasionally awkward, naturally humorous, and grounded rather than theatrical.

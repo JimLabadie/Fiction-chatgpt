@@ -1,5 +1,7 @@
 # Techne
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACTIVE RECOVERED DESIGN DETAIL
 Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
 
@@ -8,7 +10,7 @@ Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CO
 
 ## Origin
 
-Techne exists because Metis Werks exists. Once Jim commits to reopening that facility, the need for better manufacturing equipment becomes obvious. Athena identifies an existing struggling equipment manufacturer rather than proposing a new company from nothing. The developed financing model uses debt against the established empire and retains full ownership without outside equity. Techne occupies its own facility in the same broader industrial geography as Metis; exact placement is controlled by the later St. Claire integration and remains open. Unlike the earlier companies discovered through old workups, this acquisition is a deliberate, conscious decision made after Jim understands what she is building. Established company-wide benefits extend to Techne's workforce when the acquisition closes.
+Techne exists because Metis Werks exists. Once MC commits to reopening that facility, the need for better manufacturing equipment becomes obvious. Athena identifies an existing struggling equipment manufacturer rather than proposing a new company from nothing. The developed financing model uses debt against the established empire and retains full ownership without outside equity. Techne occupies its own facility in the same broader industrial geography as Metis; exact placement is controlled by the later St. Claire integration and remains open. Unlike the earlier companies discovered through old workups, this acquisition is a deliberate, conscious decision made after MC understands what she is building. Established company-wide benefits extend to Techne's workforce when the acquisition closes.
 
 ## Corporate Mandate
 

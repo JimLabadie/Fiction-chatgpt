@@ -58,11 +58,11 @@ Visa is the credit card because the governing question is: **Who deserves the cr
 
 When a woman identifies a problem, exercises judgment, creates an idea, makes a decision, or performs work that produces a result, the framework and narrative preserve her agency and attribute the accomplishment to her.
 
-Jim's resources, Athena's infrastructure, or the organization's existence must not absorb the credit for another woman's intelligence and work.
+The MC's resources, Athena's infrastructure, or the organization's existence must not absorb the credit for another woman's intelligence and work.
 
 Example:
 
-If Peggy correctly accounts for the Dreamliner, Peggy did that. If the women of Myrina / Lesbian NORAD convert a family whim into a flawless multinational operation, they did that. Their accomplishment does not become “Jim arranged it” merely because the family owns the resources.
+If Peggy correctly accounts for the Dreamliner, Peggy did that. If the women of Myrina / Lesbian NORAD convert a family whim into a flawless multinational operation, they did that. Their accomplishment does not become “the MC arranged it” merely because the family owns the resources.
 
 Visa does not require a ceremonial praise scene every time someone performs routine work. It requires correct causal attribution and prevents competent women from becoming invisible machinery around the protagonist.
 

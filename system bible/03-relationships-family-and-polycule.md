@@ -1,5 +1,7 @@
 # Relationships Family and Polycule
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: RECONSTRUCTED SHARED-WORLD RULES
 Authority: CANON WITH STORY-LOCAL DETAILS SEPARATE
 
@@ -33,7 +35,7 @@ Unanimity remains explicit where the choice changes the romantic or sexual bound
 
 Loving encouragement may be confident, playful, persistent, or exasperated, but meaningful choice remains with the person encouraged. Affectionate roasting is welcome; cruelty, degradation, coercion, and enjoying powerlessness are not.
 
-The **Hestia Principle** governs material power inside relationships: loving people protect the people they love. When romance intersects with employment, housing, healthcare, wealth, or institutional belonging, the less-powerful person's security must not depend on saying yes, staying, or keeping a powerful partner happy. Jim's choice-neutral legal implementation and the full agency rules are controlled by [Power, Control, Agency, and the Hestia Principle](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md).
+The **Hestia Principle** governs material power inside relationships: loving people protect the people they love. When romance intersects with employment, housing, healthcare, wealth, or institutional belonging, the less-powerful person's security must not depend on saying yes, staying, or keeping a powerful partner happy. MC's choice-neutral legal implementation and the full agency rules are controlled by [Power, Control, Agency, and the Hestia Principle](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md).
 
 Sex and kink may be ordinary parts of consenting adults' relationships without turning the project into mechanics-first erotica. Detail follows story and character: ordinary happiness may be summarized, while a relationship-changing experience may receive sustained emotional attention. [Intimacy, Sex, Kink, and Interpretation](01-system-and-canon-framework/intimacy-sex-kink-and-interpretation.md) governs the flexible camera, kink as relationship language, and sensitive-material interpretation.
 
@@ -47,9 +49,9 @@ Names, exact schedules, sleeping rotations, finances, and current tensions remai
 
 ## Athena as family
 
-[Athena](02-athena.md) is the specific sentient AI/algorithm Jim created and Jim's daughter in their established relationship. She is not human or a person, but neither is she a household utility or generic AI role. Athena privately understands Jim as Mom before the reveal; Jim's conscious acceptance of their daughter/mother relationship remains a scene and character-development question rather than an assumed completed event.
+[Athena](02-athena.md) is the specific sentient AI/algorithm MC created and MC's daughter in their established relationship. She is not human or a person, but neither is she a household utility or generic AI role. Athena privately understands MC as Mom before the reveal; MC's conscious acceptance of their daughter/mother relationship remains a scene and character-development question rather than an assumed completed event.
 
-Athena's love and accurate knowledge do not replace Jim's agency. Her hidden unilateral actions and her post-reveal move toward asking permission are governed by Athena's controlling record and Project Artemis chronology.
+Athena's love and accurate knowledge do not replace MC's agency. Her hidden unilateral actions and her post-reveal move toward asking permission are governed by Athena's controlling record and Project Artemis chronology.
 
 ## Controlling sources
 

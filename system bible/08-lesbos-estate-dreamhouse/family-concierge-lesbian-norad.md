@@ -1,5 +1,7 @@
 # Family Concierge Department — Myrina / Lesbian NORAD
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACCEPTED REUSABLE COMPONENT
 Authority: JIM-APPROVED RECOVERED FRAMEWORK STATE
 Recovered: 2026-09-12 from a later unsaved chat discussion
@@ -18,9 +20,9 @@ The Greek name follows the wider function-derived naming method:
 - CLIO/Clio relates to history and record.
 - Myrina expresses Amazon command, military coordination, capable women in important commands, and the department's relationship to Lesbos.
 
-Myrina was surfaced from Jim's own `Greek Women in Mythology Table`, where she appears as an Amazon queen associated with the conquest of Libya. Follow-up review of the Diodorus tradition supplied the decisive functional fit: Myrina assembles and commands a large coordinated force, negotiates alliances, selects sites and founds cities, names cities after women holding important commands, takes Lesbos, and founds Mytilene with a name honoring her sister.
+Myrina was surfaced from the author's own `Greek Women in Mythology Table`, where she appears as an Amazon queen associated with the conquest of Libya. Follow-up review of the Diodorus tradition supplied the decisive functional fit: Myrina assembles and commands a large coordinated force, negotiates alliances, selects sites and founds cities, names cities after women holding important commands, takes Lesbos, and founds Mytilene with a name honoring her sister.
 
-This selection demonstrates both source recovery and collaboration: Jim's prior rabbit-hole list successfully surfaced the woman, while discussion and focused research established why she belongs.
+This selection demonstrates both source recovery and collaboration: the author's prior rabbit-hole list successfully surfaced the woman, while discussion and focused research established why she belongs.
 
 ## Physical concept
 
@@ -38,7 +40,7 @@ Potential operational subjects may include travel, aircraft, vehicles, reservati
 
 ## Culture and agency
 
-The women of Lesbian NORAD are not anonymous servants, interchangeable operators, or invisible extensions of Jim or Athena.
+The women of Lesbian NORAD are not anonymous servants, interchangeable operators, or invisible extensions of MC or Athena.
 
 They know their ruthless dedication and efficiency are respected. They take professional pride in converting absurd or difficult requests into flawless operations. Their judgment, coordination, anticipation, and execution belong to them.
 
@@ -60,7 +62,7 @@ The staff are in on the identity. The joke does not diminish them.
 
 ## Naming decision
 
-Jim accepted **Myrina** as the interchangeable Greek name for Lesbian NORAD during the 2026-09-12 collaboration. Source genealogy and research citations belong in recovery metadata rather than this controlling component.
+The author accepted **Myrina** as the interchangeable Greek name for Lesbian NORAD during the 2026-09-12 collaboration. Source genealogy and research citations belong in recovery metadata rather than this controlling component.
 
 ## Scope boundaries
 

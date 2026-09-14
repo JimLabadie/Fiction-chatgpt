@@ -1,5 +1,7 @@
 # Lesbos Estate and Dreamhouse
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: DETAILED CONTROLLING ESTATE BASELINE WITH NAMED OPEN FIELDS
 Authority: CONTROLLING ESTATE IDENTITY ARCHITECTURE FACILITIES AND OPERATING BOUNDARIES
 
@@ -78,8 +80,8 @@ Private household circulation, invited visitor circulation, scheduled institutio
 - Do not use older separate museum, gallery, and showroom wings after their consolidation into Mnemosyne in Anchor B.
 - Do not reinterpret the fourteen-member household design as an accidental maximum or remove the thirteen-partner structure as though it belonged to only one story.
 - Do not call the relationship or its partners a `coven`. That term is obsolete AI-generated bleed-over, not canon.
-- Do not treat Athena as the Estate operating system. Athena is the sentient AI Jim created and may access Estate systems without becoming identical to them.
-- Do not turn staff into anonymous extensions of Jim, Athena, or the building. People perform the work and receive credit.
+- Do not treat Athena as the Estate operating system. Athena is the sentient AI MC created and may access Estate systems without becoming identical to them.
+- Do not turn staff into anonymous extensions of MC, Athena, or the building. People perform the work and receive credit.
 - Do not turn collections into untouchable museum property merely because they are conserved or displayed.
 - Do not fill reserve space simply to make the Estate sound complete.
 - Do not require an investment or strategic justification for every pleasurable feature. Sometimes the family owns something because it is useful, beautiful, fun, or cool.

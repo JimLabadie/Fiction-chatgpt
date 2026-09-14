@@ -8,6 +8,23 @@ The master bible stores permanent canon: title and premise; world possibilities 
 
 Permanent-change entries preserve the original state, the change, and the canonical result. Canon revisions preserve the old fact, new fact, reason, and effective story point.
 
+## Story identity and audience binding
+
+Each Story Bible also records:
+
+- mode: private persona fiction or commercial fiction;
+- intended readership and product;
+- MC's story name, surname if needed, and aliases;
+- persona selection: Jim explicitly selected, or a distinct protagonist;
+- baseline identity, pronouns, biography, and current identity state;
+- POV and tense;
+- selected world and history modules;
+- which character occupies creator, owner, anchor, and related roles;
+- patron alias, retaining J. unless deliberately changed;
+- inherited module facts and any expressly approved departures.
+
+If a commercial MC has not yet been named, use `[MC_NAME]` in planning and resolve it before producing finished prose. Do not silently fill the name with Jim.
+
 ## Character Bible schema
 
 Each entry contains identity and role; original/baseline state; current state; completed, active, expected, temporary, and permanent changes; knowledge, beliefs, ignorance, and secrets; motivations, fears, contradictions, voice, humor, emotional habits, and behavioral limits; relationship-specific perceptions and tensions; and a dated/chapter-linked development log.
@@ -37,6 +54,7 @@ Example entries such as `Ether-burn` and `Iron-pact` are placeholders and are no
 When requesting narrative generation, provide only the context needed for the next section:
 
 - controlling story and module names;
+- the story's MC name, persona selection, and audience binding;
 - current handoff point;
 - requested action or scene scope;
 - POV and tense if not already fixed;

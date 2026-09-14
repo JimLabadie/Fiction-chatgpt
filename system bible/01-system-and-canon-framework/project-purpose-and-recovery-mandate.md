@@ -6,7 +6,7 @@ Approved: 2026-09-12
 
 ## Why the framework exists
 
-This framework exists to support Jim's private, personal fantasy fiction.
+This framework supports both Jim's private, personal fantasy fiction and commercial fiction for other readers. Both use the established house voice. The current story brief selects its audience and main character under [Persona, MC, and Commercial Story Binding](persona-mc-and-commercial-story-binding.md).
 
 For personal reasons, Jim cannot live the lives available to his characters. The stories provide an imaginative way to experience those lives. The world is therefore closer to a persistent dream than a simulation of ordinary reality.
 
@@ -24,11 +24,11 @@ The framework must never sacrifice the desired fantasy merely to make it commerc
 
 ## Audience and value
 
-The primary audience is Jim. He is the intended reader of the stories, the source of creative intent, and an equal participant in their development.
+For private persona fiction, the primary audience is Jim. For commercial fiction, the intended readership is set by the product brief. Jim remains the author, source of creative intent, and equal participant in development; the protagonist does not inherit his name.
 
 The operational audience is ChatGPT in a cold-start conversation. The framework must let a new chat recover and use the world without depending on temporary conversation memory.
 
-The project is not being built for publication, sale, a deadline, a public readership, or economic return. Its value is personal and experiential. Progress is not measured by speed, word count, module count, or declarations of completion. It is measured by whether the recovered world is trustworthy, immersive, usable, and something Jim wants to inhabit through fiction.
+The original private-fiction purpose remains available. Publication, sale, public readership, and economic return are now supported when the author selects a commercial project. Commercial work preserves the voice, emotional specificity, and imaginative richness of the framework; it does not require importing the author's private biography. Progress is not measured by speed, word count, module count, or declarations of completion. It is measured by whether the recovered world is trustworthy, immersive, usable, and something Jim wants to inhabit through fiction.
 
 ## Creative partnership
 
@@ -48,7 +48,7 @@ Asking is an essential authorship step, not merely a fallback when data is missi
 
 ## Current phase: recovery and reconstruction
 
-The project is not currently in story-writing mode. The current phase uses the surviving archive, imported skills, documents, spreadsheets, and recovered conversations to reconstruct durable framework states comparable in depth and function to what Jim reasonably believed had already been saved.
+Recovery remains an active workstream, but it does not prohibit author-requested story writing or commercial development. The recovery phase uses the surviving archive, imported skills, documents, spreadsheets, and recovered conversations to reconstruct durable framework states comparable in depth and function to what Jim reasonably believed had already been saved.
 
 Exact lost wording may be impossible to reproduce. The required recovery target is the substantive state:
 

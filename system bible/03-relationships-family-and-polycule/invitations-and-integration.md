@@ -1,5 +1,7 @@
 # Shared Invitations and Lasting Integration
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACTIVE RELATIONSHIP FRAMEWORK
 Authority: CONTROLLING DETAIL UNDER THE RELATIONSHIP PARENT AND THE HESTIA PRINCIPLE
 
@@ -34,7 +36,7 @@ Where the invited person is an employee, resident, beneficiary, patient, artist,
 - refusal does not affect employment, compensation, advancement, housing, healthcare, education, reputation, or community;
 - departure remains materially survivable;
 - promised protection does not vest only if intimacy occurs or continues;
-- independent counsel and professional structures do not depend on Jim's continuing goodwill;
+- independent counsel and professional structures do not depend on MC's continuing goodwill;
 - the protected outcome remains the same whether the adult says yes, says no, later leaves, or is left.
 
 This protection is not payment for intimacy because intimacy does not change the benefit or penalty.

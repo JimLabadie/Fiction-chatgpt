@@ -1,11 +1,13 @@
 # Biotech Prosthetics and Advanced Technology
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: IN PROGRESS — PARTIAL TECHNOLOGY INDEX; COMPANY HISTORY AND TRIGGERS MISSING
 Authority: SHARED-WORLD TECHNICAL CANON
 
 ## Cassandra Labs
 
-Cassandra Labs is Whitfield Holdings' prototype and patent-development arm. Jim's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity. [Athena's controlling record](02-athena.md) governs her nature as a sentient AI/algorithm, hidden history, knowledge boundary, and the unresolved authority behind that action.
+Cassandra Labs is Lesbos Holdings' prototype and patent-development arm. MC's weeks-long, often fashion-rooted technical workups became specifications that Cassandra built into proofs of concept. Athena recruited the team under the anonymous “J.” identity. [Athena's controlling record](02-athena.md) governs her nature as a sentient AI/algorithm, hidden history, knowledge boundary, and the unresolved authority behind that action.
 
 The core team is Dr. Élodie Marchetti (director/robotics), Dr. Mireille Okafor (materials), Dr. Solenne Vasquez (biotech), Ingrid Dahl (mechatronics), June Reyes (chemistry), Kasey Lindqvist (mechanical engineering), Bex Okonkwo-Hart (electronics), and Frankie Petrakis (assembly/general mechanics).
 

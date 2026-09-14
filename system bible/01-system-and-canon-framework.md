@@ -7,6 +7,10 @@ This repository is a reusable library of settings, characters, organizations, as
 
 This module governs canon authority, source status, continuity, writing practice, state tracking, ingestion, recovery, and version handling across that library. It does not own substantive setting, company, technology, character, or transformation facts that belong to another reusable module.
 
+## Persona, protagonist, and commercial scope
+
+The framework supports private persona fiction and commercial fiction with the same house voice. **MC means the main character assigned by the current story; it does not mean Jim.** Jim remains the author's optional immersive and development persona. Commercial protagonists use their own names and character records. See [Persona, MC, and Commercial Story Binding](01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md).
+
 ## Governing hierarchy
 
 1. Jim's explicit current instruction.
@@ -39,10 +43,10 @@ Reusable components may also define triggered events or state transitions. Their
 ## Module files
 
 - [`project-purpose-and-recovery-mandate.md`](01-system-and-canon-framework/project-purpose-and-recovery-mandate.md) defines why the framework exists, its audience, the creative partnership, the present reconstruction phase, resolution requirements, and visible proof of persistence.
-- [`authorial-intent-and-immersive-persona.md`](01-system-and-canon-framework/authorial-intent-and-immersive-persona.md) records Jim's immersive relationship to the protagonist, aesthetic preference as a design input, the distinction between admiration and objectification, Danielle and Amélie's promotion, persona-led development, and archetype boundaries.
+- [`authorial-intent-and-immersive-persona.md`](01-system-and-canon-framework/authorial-intent-and-immersive-persona.md) records Jim's optional immersive persona, aesthetic preference as a design input, the distinction between admiration and objectification, Danielle and Amélie's promotion, persona-led development, and archetype boundaries.
 - [`collaboration-shorthand-and-fun.md`](01-system-and-canon-framework/collaboration-shorthand-and-fun.md) defines Pencil, Cigar, Visa, Rabbit Hole, Squirrel, the Squirrel protocol, and fun as part of the work.
 - [`intimacy-sex-kink-and-interpretation.md`](01-system-and-canon-framework/intimacy-sex-kink-and-interpretation.md) governs the story-led treatment of consensual adult sex, emotional intimacy, kink, sensitive interpretation, and Cigar boundaries.
-- [`power-control-agency-and-hestia-principle.md`](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md) governs loving initiative, refusal, constrained choice, withdrawal, choice-neutral protection, and Jim's Court-TV-born Hestia implementation.
+- [`power-control-agency-and-hestia-principle.md`](01-system-and-canon-framework/power-control-agency-and-hestia-principle.md) governs loving initiative, refusal, constrained choice, withdrawal, choice-neutral protection, and the MC's Court-TV-born Hestia implementation.
 - [`authority-and-status.md`](01-system-and-canon-framework/authority-and-status.md) defines the hierarchy, canon classes, promotion rules, conflict handling, scope boundaries, and imported-instruction limits.
 - [`continuity-and-state.md`](01-system-and-canon-framework/continuity-and-state.md) defines scene continuity, character state, transformation state, timeline practice, and current-story handoff.
 - [`voice-and-style.md`](01-system-and-canon-framework/voice-and-style.md) preserves the complete normalized Voice and Style Guide, including the agency, dignity, identity, anatomy, intimacy, and reclaimed-experience supplement.

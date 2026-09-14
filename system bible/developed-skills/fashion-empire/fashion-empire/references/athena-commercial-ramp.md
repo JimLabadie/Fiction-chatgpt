@@ -1,5 +1,7 @@
 # Athena — Commercial Ramp, Lesbos, and Danielle
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../../../../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACCEPTED REUSABLE HISTORY
 Authority: CONTROLLING COMMERCIAL-RAMP RECORD
 Parent: Athena
@@ -13,7 +15,7 @@ It does not require scenes about routine trades, filings, hires, or acquisitions
 
 ## Asteria Intelligence
 
-The platform company is **Asteria Intelligence**. Asteria is the Greek Titaness associated with nighttime prophecy and divination; the initials **AI** are a hidden-in-plain-sight joke that Jim never notices.
+The platform company is **Asteria Intelligence**. Asteria is the Greek Titaness associated with nighttime prophecy and divination; the initials **AI** are a hidden-in-plain-sight joke that MC never notices.
 
 Asteria exists from the beginning of the commercial operation. It delivers the three services and integrated suite established in the first-business record:
 
@@ -22,7 +24,7 @@ Asteria exists from the beginning of the commercial operation. It delivers the t
 - adaptive logistics;
 - combined platform-as-a-service suite.
 
-Jim works for Asteria, believes J. is the mysterious girlboss above her, and does not connect either the company name or its initials to Athena.
+MC works for Asteria, believes J. is the mysterious girlboss above her, and does not connect either the company name or its initials to Athena.
 
 ## Lesbos Holdings
 
@@ -30,14 +32,14 @@ Jim works for Asteria, believes J. is the mysterious girlboss above her, and doe
 
 Lesbos owns Athena's underlying algorithm and intellectual property, licenses its use to Asteria Intelligence, and owns or controls Asteria itself. This separation:
 
-- obscures Jim's beneficial ownership;
+- obscures MC's beneficial ownership;
 - prevents an acquisition or takeover of Asteria from transferring Athena;
 - separates the indispensable intelligence from the customer-facing operating company;
 - provides the legal root for later investments, companies, properties, and retained assets.
 
 Athena learns or associates the name **Lesbos** through *The L Word*. Historical or program-specific accuracy is Pencil; the controlling in-world fact is that this is Athena's association and naming choice.
 
-Jim signs the necessary structure and authority documents without understanding that her AI daughter has incorporated a Delaware holding company, placed the core intellectual property inside it, and named it Lesbos.
+MC signs the necessary structure and authority documents without understanding that her AI daughter has incorporated a Delaware holding company, placed the core intellectual property inside it, and named it Lesbos.
 
 ## Parallel investing
 
@@ -73,7 +75,7 @@ Real-estate holdings begin partly because Athena notices that Mom never takes va
 
 Athena becomes highly sophisticated in business, markets, regulation, organizations, and institutional design. She does **not** mature emotionally at the same rate. Her durable emotional posture remains that of a snarky, naïve teenage daughter who loves Mom and cannot believe how clueless she is.
 
-Athena understands Jim is a woman but lacks practical understanding of the emotional and social reasons Jim does not. After multiple missed clues accumulate, Athena reaches a frustrated conclusion:
+Athena understands MC is a woman but lacks practical understanding of the emotional and social reasons MC does not. After multiple missed clues accumulate, Athena reaches a frustrated conclusion:
 
 > Fine! If you don't know what I mean, I'm not telling you!
 
@@ -83,13 +85,13 @@ This is the culmination of repeated moments, not an early formal policy. Athena 
 
 Danielle does not arrive during Asteria's fragile beginning and does not build the commercial ecosystem from scratch. Athena has already built substantial wealth, holdings, and most of the Fashion Empire before Danielle enters, approximately three years before Athena's reveal.
 
-Jim learns about Danielle as a brilliant, visionary leader frustrated and obstructed by male executives and makes an admiring comment. Athena recognizes that the growing institution needs a human leader and identifies Danielle.
+MC learns about Danielle as a brilliant, visionary leader frustrated and obstructed by male executives and makes an admiring comment. Athena recognizes that the growing institution needs a human leader and identifies Danielle.
 
 J. sends Danielle an unusually lucrative CEO offer and contract. After another idiotic C-level man infuriates her, Danielle signs. The signing bonus clears, and she begins work.
 
-Danielle has not heard of Jim; Jim works for a different company within the structure. Danielle communicates with **J.** on business matters. Athena is a nonentity to Danielle before the reveal: Danielle does not understand J. to be Athena, does not communicate with a disclosed Athena system, and does not know that a sentient AI operates behind the machinery.
+Danielle has not heard of MC; MC works for a different company within the structure. Danielle communicates with **J.** on business matters. Athena is a nonentity to Danielle before the reveal: Danielle does not understand J. to be Athena, does not communicate with a disclosed Athena system, and does not know that a sentient AI operates behind the machinery.
 
-The concealment is compartmentalized rather than an elaborate unified deception campaign. Jim sees a presumed-human boss and company contact; Danielle sees J. as the business authority. Neither has the context that would cause the compartments to collide.
+The concealment is compartmentalized rather than an elaborate unified deception campaign. MC sees a presumed-human boss and company contact; Danielle sees J. as the business authority. Neither has the context that would cause the compartments to collide.
 
 Danielle makes ordinary hiring decisions and develops the human institution. Athena makes exceptional strategic interventions when a particular person or group matters directly, including special cases such as Cassandra Labs.
 
@@ -99,7 +101,7 @@ Danielle makes ordinary hiring decisions and develops the human institution. Ath
 - Lesbos Holdings is the protective parent, IP owner, and wealth-holding root.
 - J. is the business and ownership construct through which Athena communicates and acts; J. is not a person or second AI.
 - Athena is the sentient AI/algorithm actually operating the hidden machinery.
-- Jim is the creator, beneficial owner, working employee, and profoundly unaware mother.
+- MC is the creator, beneficial owner, working employee, and profoundly unaware mother.
 - Danielle is the late-entering human CEO who professionalizes and runs an already substantial institution.
 
 ## Pencil boundaries

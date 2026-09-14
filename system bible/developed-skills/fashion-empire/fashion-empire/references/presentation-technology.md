@@ -1,5 +1,7 @@
 # Presentation Technology Subsidiaries
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../../../../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACTIVE RECOVERED DESIGN DETAIL
 Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
 
@@ -46,7 +48,7 @@ Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CO
 | Shoulder width | Broader, male-typical | Narrowed to proportionate female-typical range |
 | Waist-to-hip ratio | Typically minimal waist/hip differentiation | ~0.7 ratio (the commonly cited typical female range) |
 | Hip width | Male-typical narrower pelvis | Widened; a story may specify exact inches if it wants that level of precision |
-| Bust | N/A | Cup size is a per-character choice, not defaulted — this is one of the more personal configuration decisions and should be decided in-scene, the way Jim's other choices were |
+| Bust | N/A | Cup size is a per-character choice, not defaulted — this is one of the more personal configuration decisions and should be decided in-scene, the way MC's other choices were |
 | Hand/foot size | Male-typical, larger | Reduced proportionate to new overall frame |
 | Muscle tone | Male-typical definition | Softened, redistributed beneath the new fat pattern |
 | Body fat percentage | ~10–15% male-typical | ~20–25%, typical female-range distribution (hip, thigh, gluteal, chest) |

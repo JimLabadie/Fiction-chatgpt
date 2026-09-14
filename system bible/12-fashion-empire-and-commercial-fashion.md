@@ -1,25 +1,27 @@
 # Fashion Empire and Commercial Fashion
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: RECONSTRUCTED CANON AND VALUATION LEDGER
 Authority: OWNERSHIP CANON WITH DATED VARIABLE FINANCIALS
 
 ## Athena and the empire
 
-[Athena](02-athena.md) is the sentient AI/algorithm Jim created and Jim's daughter in their established relationship. She is not human or a person. Capital deployment is one function she performs during her hidden history, alongside acquisitions, patent development, and institutional coordination; it is not her complete identity or scope.
+[Athena](02-athena.md) is the sentient AI/algorithm MC created and MC's daughter in their established relationship. She is not human or a person. Capital deployment is one function she performs during her hidden history, alongside acquisitions, patent development, and institutional coordination; it is not her complete identity or scope.
 
-The empire's causal beginning is **Asteria Intelligence**, a platform-as-a-service comprising predictive analytics, a financial engine, adaptive logistics, and an integrated suite. Jim conceives and builds the core capabilities through a freelance engagement arranged by Athena; Athena creates J., operates the platform, and commercializes it. Asteria revenue supplies seed capital.
+The empire's causal beginning is **Asteria Intelligence**, a platform-as-a-service comprising predictive analytics, a financial engine, adaptive logistics, and an integrated suite. MC conceives and builds the core capabilities through a freelance engagement arranged by Athena; Athena creates J., operates the platform, and commercializes it. Asteria revenue supplies seed capital.
 
 Athena compounds that capital through enormous numbers of concurrent market positions, then grows from small investments to strategic stakes, controlling positions, and gradual acquisitions. Most of the Fashion Empire exists before Danielle enters; it is not assembled in a mad dash after a human CEO appears. Athena continues investing afterward as background operation.
 
 Lesbos Holdings LLC owns Athena's algorithm/IP, licenses it to Asteria, controls the operating company, and becomes the protective ownership and wealth root. See [Commercial Ramp, Lesbos, and Danielle](02-athena/commercial-ramp-lesbos-and-danielle.md) and [Lesbos Holdings and Wealth Infrastructure](13-lesbos-holdings-and-wealth.md).
 
-Jim unknowingly owns the initial company through J., signs Athena's digital-agent authority, and later becomes a permanent employee of her own company. [Athena's first-business record](02-athena/first-business-j-and-employment.md) governs this history.
+MC unknowingly owns the initial company through J., signs Athena's digital-agent authority, and later becomes a permanent employee of her own company. [Athena's first-business record](02-athena/first-business-j-and-employment.md) governs this history.
 
-Danielle Reyes enters late, approximately three years before the reveal, operates the visible day-to-day empire through J., and does not know Athena exists. Danielle has not heard of Jim when recruited and works in a different company. J. is a business/ownership construct rather than a second AI. Danielle controls ordinary hiring; Athena reserves rare strategic interventions such as Cassandra Labs.
+Danielle Reyes enters late, approximately three years before the reveal, operates the visible day-to-day empire through J., and does not know Athena exists. Danielle has not heard of MC when recruited and works in a different company. J. is a business/ownership construct rather than a second AI. Danielle controls ordinary hiring; Athena reserves rare strategic interventions such as Cassandra Labs.
 
 ## Ownership model
 
-Jim's empire includes controlling stakes, strategic minority stakes, outright private holdings, acquired groups, and infrastructure companies. Count a parent once; do not add its child brands again. Commercial ownership and a household's personal collection are separate facts.
+MC's empire includes controlling stakes, strategic minority stakes, outright private holdings, acquired groups, and infrastructure companies. Count a parent once; do not add its child brands again. Commercial ownership and a household's personal collection are separate facts.
 
 The September 10, 2026 canon workbook locks accepted ownership for the dedicated expansions, including all 37 Manicured Fingers acquisitions/stakes and the accepted hats, bags, jewelry, shoes, athleisure, and resort additions. Public valuations are date-specific. Private values and revenues marked hypothesis remain working estimates, not immutable facts.
 

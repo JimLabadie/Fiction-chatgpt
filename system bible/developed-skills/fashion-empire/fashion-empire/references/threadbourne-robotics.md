@@ -1,5 +1,7 @@
 # Threadbourne Robotics
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../../../../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACTIVE RECOVERED DESIGN DETAIL
 Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
 
@@ -8,7 +10,7 @@ Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CO
 
 ## Origin
 
-Threadbourne began as a single frustration, not a business plan: early in Jim's wealth, she could not find a specific watch while getting ready and sketched a retrieval-and-organization concept out of irritation rather than ambition. The patents grew outward from the same instinct: build the thing that would have made getting ready easier, then keep building one frustration at a time. This becomes evidence in Athena's reveal, while preserving the controlling distinction that Jim created the underlying ideas and Athena remembered, funded, connected, and implemented them.
+Threadbourne began as a single frustration, not a business plan: early in MC's wealth, she could not find a specific watch while getting ready and sketched a retrieval-and-organization concept out of irritation rather than ambition. The patents grew outward from the same instinct: build the thing that would have made getting ready easier, then keep building one frustration at a time. This becomes evidence in Athena's reveal, while preserving the controlling distinction that MC created the underlying ideas and Athena remembered, funded, connected, and implemented them.
 
 ## Corporate Mandate
 

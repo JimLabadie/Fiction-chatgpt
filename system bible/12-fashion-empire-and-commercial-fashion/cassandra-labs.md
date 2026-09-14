@@ -1,5 +1,7 @@
 # Cassandra Labs
 
+**MC binding:** MC is the current story's named main character, not a required proper name. Jim remains an optional persona. Apply [Persona, MC, and Commercial Story Binding](../01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md); selected history and relationships remain controlling.
+
 Status: ACTIVE RECOVERED DESIGN DETAIL
 Authority: SUBORDINATE TO THE FASHION, ATHENA, TECHNOLOGY, WEALTH, AND ESTATE CONTROLLING RECORDS; FINANCIAL FIGURES ARE WORKING MODELS UNLESS THE DATED WORKBOOK ACCEPTS THEM
 
@@ -14,7 +16,7 @@ Cassandra Labs is where those specs get built into physical, working prototypes.
 
 ## The Team
 
-Recruited individually, one at a time, over several years — not by the anchor consciously, but by her sentient system (Athena or an equivalent), who noticed which researchers' published work the anchor lingered over, reread, or mentioned once in passing and never brought up again. The system reaches out under an anonymous patron identity (this story uses "J.," the anchor's own signature initial) to fund and recruit them. **None of the team has ever met the anchor, or knows anything about who the patron actually is** — only that a private, anonymous funder with extraordinary technical vision has supported genuinely mission-driven work for years, no strings attached, no interference beyond specs that always happen to be fashion-rooted.
+Recruited individually, one at a time, over several years — not by the anchor consciously, but by her sentient system (Athena or an equivalent), who noticed which researchers' published work the anchor lingered over, reread, or mentioned once in passing and never brought up again. The system reaches out under an anonymous patron identity (this story uses "J.," the selected patron alias; it need not match the anchor's initial) to fund and recruit them. **None of the team has ever met the anchor, or knows anything about who the patron actually is** — only that a private, anonymous funder with extraordinary technical vision has supported genuinely mission-driven work for years, no strings attached, no interference beyond specs that always happen to be fashion-rooted.
 
 **The accepted core team contains eight members, all lesbian or trans femme.** Later source material proposed a ninth specialist, Marisol Vega, but that addition is not part of the controlling eight-person roster unless Jim restores it.
 
@@ -54,8 +56,8 @@ If a story also uses the Lesbos Estate: once the team is offered a purpose-built
 
 ## The Meeting, When It Happens
 
-None of the eight have met their patron in person before the relevant reveal. When that meeting occurs, both sides may be starstruck for different reasons: the team meets the mysterious J. who understood their mission, while Jim meets the people who treated her private technical workups seriously and built them. The exact scene remains story state.
+None of the eight have met their patron in person before the relevant reveal. When that meeting occurs, both sides may be starstruck for different reasons: the team meets the mysterious J. who understood their mission, while MC meets the people who treated her private technical workups seriously and built them. The exact scene remains story state.
 
 ## Commissioned Work Beyond Rant-Derived Patents
 
-Unlike the team's usual rant-to-patent pipeline, Jim can also directly commission new work from the team, including technology that integrates with NAS even though NAS itself was acquired rather than invented. One developed example is a full-length preview mirror integrated with NAS body data so a patient can see an accurate whole-body render before choosing a configuration; Bex Okonkwo-Hart is the natural technical lead. Technical commissions may route through Athena or J. Danielle and the human organization control ordinary HR, benefits, and policy; Athena's role remains exceptional recruitment, ownership, and technical coordination rather than routine personnel management.
+Unlike the team's usual rant-to-patent pipeline, MC can also directly commission new work from the team, including technology that integrates with NAS even though NAS itself was acquired rather than invented. One developed example is a full-length preview mirror integrated with NAS body data so a patient can see an accurate whole-body render before choosing a configuration; Bex Okonkwo-Hart is the natural technical lead. Technical commissions may route through Athena or J. Danielle and the human organization control ordinary HR, benefits, and policy; Athena's role remains exceptional recruitment, ownership, and technical coordination rather than routine personnel management.

@@ -1,5 +1,7 @@
 # Historical Recovery and Story Evidence
 
+**Current interpretation (2026-09-14):** Historical Jim references below retain their provenance. Reusable main-character roles now bind to the current story's MC under [Persona, MC, and Commercial Story Binding](01-system-and-canon-framework/persona-mc-and-commercial-story-binding.md). Jim remains an optional persona; commercial fiction is supported. This name/scope revision does not close unrelated recovery obligations.
+
 Status: ACTIVE EVIDENCE LEDGER
 Authority: EVIDENCE NOT DIRECT CANON
 

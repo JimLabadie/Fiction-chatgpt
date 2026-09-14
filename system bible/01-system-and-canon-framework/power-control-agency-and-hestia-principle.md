@@ -15,34 +15,34 @@ Agency is queen even when reality, magic, danger, or necessity constrains the av
 
 ## Creating opportunity without converting momentum into consent
 
-A loving partner, friend, or family member may act on informed affection before Jim asks. She may buy clothing, place cosmetics in Jim's bathroom or bedroom, schedule an appointment, or bring Jim to a place she sincerely believes will help.
+A loving partner, friend, or family member may act on informed affection before MC asks. She may buy clothing, place cosmetics in MC's bathroom or bedroom, schedule an appointment, or bring MC to a place she sincerely believes will help.
 
 Those actions create an opportunity. They do not complete the choice.
 
-If Jim says no:
+If MC says no:
 
 - forward motion stops;
 - prior expense, scheduling, travel, embarrassment, or inconvenience does not override the answer;
 - the other person may explain why she acted and why she thinks the opportunity matters;
 - reasonable adults may discuss facts, needs, fears, consequences, and misunderstandings;
-- Jim decides whether to proceed;
+- MC decides whether to proceed;
 - discussion must not become exhaustion, punishment, or pressure until surrender.
 
-Bringing Jim to an appointment may be loving initiative. Pushing Jim through the door after she refuses is wrong.
+Bringing MC to an appointment may be loving initiative. Pushing MC through the door after she refuses is wrong.
 
 ## Necessity and constrained choice
 
-A story may impose genuine penalties, dangers, or consequences on refusal. An external force may require transformation or another unwanted course of action. Agency does not require Jim to control reality or receive a consequence-free menu.
+A story may impose genuine penalties, dangers, or consequences on refusal. An external force may require transformation or another unwanted course of action. Agency does not require MC to control reality or receive a consequence-free menu.
 
-The story preserves agency when Jim understands the meaningful facts, is allowed to dislike the situation, and makes the choice available within the constraint. Jim may agree from necessity without secretly wanting the necessity.
+The story preserves agency when MC understands the meaningful facts, is allowed to dislike the situation, and makes the choice available within the constraint. MC may agree from necessity without secretly wanting the necessity.
 
-Where circumstances leave choices—timing, method, form, presentation, privacy, assistance, or what happens afterward—those choices remain Jim's. If stopping is possible, Jim may stop. If stopping becomes impossible or dangerous, that fact should ordinarily be known before agreement; an emergency that prevents prior knowledge remains an emergency rather than retroactive consent.
+Where circumstances leave choices—timing, method, form, presentation, privacy, assistance, or what happens afterward—those choices remain MC's. If stopping is possible, MC may stop. If stopping becomes impossible or dangerous, that fact should ordinarily be known before agreement; an emergency that prevents prior knowledge remains an emergency rather than retroactive consent.
 
 ## Trying, stopping, and learning
 
 Consent to try is not permanent consent and does not dictate the honest result.
 
-Jim may say:
+MC may say:
 
 - “Screw it. I'm not doing it,” and accept story-driven consequences;
 - “I hated that. Never again”;
@@ -60,19 +60,21 @@ The protected floor may be adapted to the situation but can cover employment, co
 
 The protection is not payment for intimacy because it does not depend on intimacy occurring or continuing. Its purpose is to make refusal and departure materially survivable and to prevent a hurt or angry powerful person from turning shared infrastructure into a weapon.
 
-Independent counsel represents and advises the protected person. The framework must not depend solely on Jim remaining benevolent, calm, available, or correct.
+Independent counsel represents and advises the protected person. The framework must not depend solely on MC remaining benevolent, calm, available, or correct.
 
-## Origin of Jim's implementation
+<a id="origin-of-jims-implementation"></a>
 
-Jim's implementation begins with a Court TV binge. Jim watches people use money, housing, lawyers, children, employment, and shared property to devastate people they once claimed to love and cannot understand how loving partners or decent human beings could do that.
+## Origin of MC's implementation
 
-The disbelief becomes a Jim rabbit hole: research, extensive Googling, and phone calls to experts. Jim originates the moral principle and develops the practical requirements.
+MC's implementation begins with a Court TV binge. MC watches people use money, housing, lawyers, children, employment, and shared property to devastate people they once claimed to love and cannot understand how loving partners or decent human beings could do that.
 
-Athena later preserves and transcribes Jim's work, hires qualified attorneys, and has them establish reusable legal frameworks that independent counsel can tailor to different relationships, jurisdictions, and power imbalances.
+The disbelief becomes a MC rabbit hole: research, extensive Googling, and phone calls to experts. MC originates the moral principle and develops the practical requirements.
+
+Athena later preserves and transcribes MC's work, hires qualified attorneys, and has them establish reusable legal frameworks that independent counsel can tailor to different relationships, jurisdictions, and power imbalances.
 
 Credit remains distinct:
 
-- **Jim** originates the principle and practical design;
+- **MC** originates the principle and practical design;
 - **Athena** remembers, organizes, commissions, and institutionalizes it;
 - **the hired attorneys** perform the legal work and create usable instruments;
 - **the protected person's independent counsel** adapts and explains the arrangement for that person.
@@ -81,7 +83,7 @@ Exact clauses and universal real-world enforceability are Pencil. The fictional 
 
 ## St. Claire's separate expression
 
-St. Claire has its own historical and cultural expression of the Hestia Principle. It shares the underlying truth—loving people protect the people they love—but it is a separate piece of St. Claire history and lore rather than a claim that Jim or Athena invented the district's values.
+St. Claire has its own historical and cultural expression of the Hestia Principle. It shares the underlying truth—loving people protect the people they love—but it is a separate piece of St. Claire history and lore rather than a claim that MC or Athena invented the district's values.
 
 Its exact originating event, date, legal formulation, and institutional evolution remain open for St. Claire recovery and development. See [The Hestia Principle in St. Claire](../07-st-claire/hestia-principle.md).
 
