@@ -28,17 +28,6 @@ The "U-Haul" joke (moving in together very fast) is genuinely load-bearing commu
 
 Stonewall (1969) was significantly driven by trans women of color (Sylvia Rivera, Marsha P. Johnson) — be careful not to flatten this into a lesbian-specific or gay-male-only story. Lesbian feminist separatism (1970s) and the lesbian "sex wars" (1980s, pro-sex vs. anti-porn feminist factions) are real internal-community fault lines worth knowing before writing an older character's politics. Lesbians were heavily and disproportionately involved in caregiving during the AIDS crisis despite facing low personal medical risk — a real, moving, under-dramatized piece of history. The Lesbian Avengers (1992, direct-action group) and The L Word (2004, huge cultural touchstone with a genuinely mixed community reception, and the source of the "the Muffia"/Bette archetype above) are useful reference points for a character with historical memory or opinions. The 1950s Lavender Scare and the Buffalo nautical-star tradition (both above, under Symbols) are useful grounding for any story reaching back to mid-century lesbian life specifically, when visibility carried real professional and legal risk.
 
-## Common Outsider Tells
-
-Treating "lesbian" and "queer" as interchangeable for a character who'd have a real preference; writing sapphic relationships as uniformly "soft" or conflict-free by default; leaning on the U-Haul joke as the only relationship humor available; assuming every character is either butch or femme with nothing in between; writing coming out as one scene rather than a repeated task across contexts; collapsing bisexual women's experience into lesbian experience; using "scissoring" as if it is in-community shorthand rather than an outsider trope; missing that a small local scene may be interconnected rather than made of strangers; treating a historically weighted symbol as pure decorative trivia; and having a character recite niche flag history as common knowledge.
-
-## Workflow
-
-1. A scene needs sapphic community texture: pull concrete, era-appropriate vocabulary and touchstones from above rather than inventing generic approximations — note which decade/cohort a character belongs to, since usage genuinely differs by generation.
-2. A scene involves a small local social scene: default to assuming some interconnection ("friendcest" — exes, mutual friends, shared history) unless the story has a specific reason the character is isolated from community.
-3. A scene reaches for a stereotype (U-Haul jokes, scissoring, bed death) as its only material: check the Common Outsider Tells list first and add specificity or a knowing/self-aware angle instead of playing it straight.
-4. A scene involves a symbol (jewelry, tattoo, flag, decorated object): check the Symbols & Visual Culture section for its real history and match the emotional register to that history — a black triangle or lavender reference carries real weight; a carabiner or U-Haul joke is lighter.
-5. For a trans sapphic character, pair this reference with [Gender Presentation Culture](../05-culture-reference-toolkits/gender-presentation-culture.md) rather than assuming this file alone covers presentation or transition detail.
 # Sapphic Culture
 
 Status: RECONSTRUCTED REFERENCE
