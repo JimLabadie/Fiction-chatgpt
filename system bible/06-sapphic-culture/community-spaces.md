@@ -4,9 +4,8 @@
 Lesbian bars (a real, often-discussed phenomenon: the number of dedicated lesbian bars in the US has collapsed over decades, a fact the community itself talks about)
 
 ## Sports & Recreational Communities
-### Softball
 softball leagues (a genuine long-running cultural institution, not just a joke)
-### Roller Derby
+Roller Derby
 
 ## Bookstores & Community Centers
 ### women's bookstores
@@ -14,10 +13,8 @@ women's bookstores (mostly a historical/1970s-90s touchstone now)
 ### LGBT community centers
 
 ## Pride, Dyke Marches & Political Spaces
-### Pride parades
-
-### dyke marches 
-more explicitly political and grassroots, less corporate-sponsored)  
+Pride parades
+dyke marches (more explicitly political and grassroots, less corporate-sponsored)  
 
 ## Lesbian Land & Intentional Communities
 lesbian land / intentional separatist communities (1970s history)
