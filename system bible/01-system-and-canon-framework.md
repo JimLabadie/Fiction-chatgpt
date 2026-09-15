@@ -32,6 +32,24 @@ Meaningful conflicts are reported and logged. Detail, repetition, filenames, ass
 - Intimacy is consensual.
 - Character growth belongs to the character.
 
+## Mandatory pre-generation ambiguity gate
+
+Before creating prose, changing story state, or applying a world mechanic, compare the request and current story state against every active rule whose outcome could materially depend on an unstated fact.
+
+A **blocking ambiguity** exists when two or more plausible values for an unstated fact would select materially different canonical rules, trigger states, permissions, character reactions, or story outcomes. When a blocking ambiguity exists:
+
+- **Stop before generation and ask Jim for the missing fact.**
+- Do not resolve it through genre convention, statistical likelihood, ordinary-world assumptions, narrative convenience, model inference, stereotypes, or what would make the scene easier to write.
+- Omission is not permission to choose a value.
+- A broad label does not silently establish narrower facts contained within or adjacent to that label. For example, gender description and sexual orientation do not automatically establish cis/trans status, egg/questioning status, anatomy, presentation, or self-knowledge.
+- Treat identity, transformation state, anatomy, knowledge, relationship status, prior exposure, consent, location-specific eligibility, trigger conditions, and exception status as separate state dimensions whenever active canon distinguishes them.
+- If Jim deliberately establishes a consequential fact as **unknown on page** while separately supplying its canonical truth, the ambiguity is resolved for generation but remains unresolved for the character/reader. Apply the true canonical state without leaking knowledge the viewpoint character, other characters, or reader has not earned.
+- If the relevant module declares required trigger inputs, every required input must be known in canon before the trigger is evaluated. A missing input means the mechanic is not yet evaluable; it does not default to false, true, or the statistically common case.
+
+This gate is a pre-generation control. It should normally be invisible in finished prose; its purpose is to prevent convenient invention before it becomes continuity.
+
+Regression tests for this rule live in [`01-system-and-canon-framework/regression-tests.md`](01-system-and-canon-framework/regression-tests.md).
+
 ## Repository inclusion rule
 
 Reusable material belongs even when it is highly specific. Named people, detailed biographies, buildings, companies, histories, inventories, institutions, and social structures remain in the library when they are intended to recur or be available across stories. The test is intended cross-story reuse, not whether the material resembles story content.
@@ -53,6 +71,7 @@ Reusable components may also define triggered events or state transitions. Their
 - [`ingestion-recovery-and-versioning.md`](01-system-and-canon-framework/ingestion-recovery-and-versioning.md) defines source registration, claim-level parsing, version comparison, preservation, completion criteria, recovery checks, and honest progress states.
 - [`templates-and-schemas.md`](01-system-and-canon-framework/templates-and-schemas.md) records the complete functional schemas of the Story Bible, Character Bible, Timeline, Current Story State, Ideas document, and World Lexicon.
 - [`legacy-protocols-and-conflicts.md`](01-system-and-canon-framework/legacy-protocols-and-conflicts.md) extracts reusable scope, state, pacing, boundary, naming, verification, and conflict-detection rules from older protocol experiments without importing their plots or characters.
+- [`regression-tests.md`](01-system-and-canon-framework/regression-tests.md) contains deliberately underspecified prompts that verify the ambiguity gate and other framework controls before prose generation.
 - [`source-coverage.md`](01-system-and-canon-framework/source-coverage.md) accounts for all 17 sources assigned by the original inventory and states what happened to each.
 - [`chat-decision-and-scope-ledger.md`](01-system-and-canon-framework/chat-decision-and-scope-ledger.md) records the controlling purpose, scope decisions, and direct corrections recovered from the complete 26-page chat export.
 - [`unauthorized-descoping-audit.md`](01-system-and-canon-framework/unauthorized-descoping-audit.md) records material omitted, downgraded, or mislabeled story-local without Jim's consent and tracks the required corrections.
