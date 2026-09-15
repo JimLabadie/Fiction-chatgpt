@@ -4,6 +4,9 @@ The entries below preserve wording recovered from Expressions & Language. This i
 
 ## Identity and self-description
 
+- **Lesbian:** an identity, community, and history, not merely an act or anatomy.
+- **Egg:** informal trans-community language for someone who has not recognized or acknowledged being trans. It is a metaphor, not a diagnosis others own.
+- **Chosen family:** durable kinship built through care and commitment.
 - **Butch** A person (typically a woman or non-binary individual) with a masculine gender expression, presentation, or identity.
 - **Femme** A person with a feminine gender expression, presentation, or identity.
 - **Soft Butch** A butch individual who incorporates softer, more approachable, or less rigid traditional masculine elements into their style.
