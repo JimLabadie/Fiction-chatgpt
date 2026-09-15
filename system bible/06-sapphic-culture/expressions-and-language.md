@@ -1,0 +1,105 @@
+#Slang terms
+Here is a list of lesbian slang terms, ranging from historical vocabulary and butch/femme subculture terminology to contemporary digital and internet slang:
+- **Butch** A person (typically a woman or non-binary individual) with a masculine gender expression, presentation, or identity.
+- **Femme** A person with a feminine gender expression, presentation, or identity.
+- **Soft Butch** A butch individual who incorporates softer, more approachable, or less rigid traditional masculine elements into their style.
+- **Stone Butch** A butch individual who prefers to give pleasure to their partners without receiving or wanting physical touch in return.
+- **High Femme** Someone who embraces an ultra-feminine, glamorous, and hyper-visible aesthetic (often featuring makeup, heels, and dresses).
+- **Futch** A blend of "femme" and "butch," used to describe someone who falls somewhere in the middle of the butch-femme spectrum.
+- **Stem** A variation of futch; often used (particularly in Black lesbian communities) to describe someone who is stud-femme or somewhere between a stud and a femme.
+- **Stud** A term primarily used within Black and Latinx lesbian communities to describe a strong, masculine-presenting queer woman or non-binary person.
+- **Bullike (or Bull dagger** A historical term, often used within Black communities, for a masculine or aggressive queer woman.
+- **Andro** Short for androgyne or androgenous; describing a look or identity that blends both masculine and feminine traits.
+- **U-Haul Lesbian** A humorous stereotype about lesbians moving in together exceptionally fast (often on the second date).
+- **U-Haul National Holiday** A playful joke referring to the speed at which queer women escalate relationships.
+- **Lesbro** A male best friend who exclusively hangs out within a lesbian friend group or social circle.
+- **Ghost-Gf (or Ghost Girlfriend)** An ambiguous placeholder or imagined partner when someone is perpetually single.
+- **Lumberjill** A lesbian who dresses in stereotypical outdoor wear, flannel shirts, and boots.
+- **Dyke** A reclaimed slur that originated as a derogatory term for a masculine woman, now widely used within the community as a badge of pride.
+- **Baby Dyke** A affectionate term for someone who has recently come out as a lesbian and is navigating the culture for the first time.
+- **Tomato, Tomato** A slang game or phrasing used playfully when teasing two friends about whether they are dating or just roommates.
+- **Sapphic** An umbrella term used to describe women and non-binary people who are attracted to women (derived from the ancient Greek poet Sappho).
+- **Achillean** A parallel term to sapphic, used for men and masculine-aligned people who love men (though less common in pure slang).
+- **Cottagecore** An aesthetic celebrating a pastoral, rural, slow-paced lifestyle that became deeply popularized within online lesbian spaces.
+- **Carpet Muncher** A vulgar, highly derogatory term historically used against lesbians, occasionally subverted in private reclaimed contexts.
+- **Scissor** A slang term for tribadism (a sex act between women), which became a pervasive pop culture myth about how all lesbians have sex.
+- **Spoon** Referring to cuddling positions (big spoon/little spoon), heavily integrated into dating profile preferences.
+- **The Beard** A person (often of the opposite sex) who poses as a romantic partner to conceal someone's sexual orientation (less common today, but historically significant).
+- **Lavender Ceiling** The systemic barriers that queer people face in professional advancement and corporate leadership.
+- **Lavender Marriage** A marriage of convenience between a gay person and someone of the opposite sex to present a straight facade to society.
+- **Pansy Craze** A historical era (1920s–1930s) of underground queer culture, though more associated with gay male history, it paved the way for early butch/femme visibility.
+- **Chapstick Lesbian** A term popularized by Ellen DeGeneres in the late 1990s to describe a low-maintenance, casual lesbian who isn't aggressively butch, but doesn't wear makeup either.
+- **Lipstick Lesbian** A lesbian who exhibits a distinctively feminine gender presentation.
+- **Pan-Fried** A playful slang term sometimes used inside internet circles to describe feeling overwhelmed by attraction to multiple people.
+- **The L Word** A pop culture shorthand for lesbianism, popularized by the television series of the same name.
+- **Garlic Bread & Cake** Sometimes used jokingly in ace-adjacent lesbian spaces, but more broadly, inside jokes about comfort foods being better than dating.
+- **Cat Lady** A stereotype historically weaponized against unmarried women that has been enthusiastically embraced by many lesbians.
+- **Martini Lesbian** A chic, urban, sophisticated older archetype of a single lesbian.
+- **Dry Clean Only** A niche joke about high-maintenance outfits worn to pride events.
+- **Taco Tuesday** A colloquial internet joke used among queer women on social media platforms like TikTok.
+- **Bojack / Flannel Uniform** Wearing a plaid button-down shirt as a humorous nod to traditional lesbian fashion stereotypes.
+- **Bi-fi (or Gay-dar)** The intuitive ability to spot other queer people in public spaces.
+- **CompHet (Compulsory Heterosexuality)** A sociological and slang term describing the pressure for women to assume or act heterosexual due to societal norms, often experienced by lesbians before coming out.
+- **Pining** An intense state of longing for a friend or crush, famously amplified in lesbian media tropes.
+- **The "Roommate"** A historical euphemism used by historians and elders to describe lifelong female romantic partners who lived together.
+- **J-Crew Panther** A playful descriptor for a preppy, corporate-leaning lesbian aesthetic.
+- **Queerbaiting** A media marketing technique where creators hint at LGBTQ+ (often lesbian) relationships between characters to attract viewers without ever making it canon.
+- **Crying to Chappell Roan** A modern internet slang phrase reflecting the emotional, anthemic soundtrack of contemporary queer culture.
+- **The Hand-Hold Anxiety** The hyper-vigilance queer couples experience when deciding whether it is safe to hold hands in public.
+- **Dr. Martens / Doc Cult** The heavy cultural adoption of platform boots as standard footwear across the spectrum of lesbian fashion.
+- **Exquisite Corpsing** A dark humor term used in online spaces about past relationships ending abruptly.
+- **Kinsey Scale 6** Referring to the Kinsey scale, a 6 denotes someone exclusively attracted to the same sex.
+- **Second-Spring Coming Out** Coming out as a lesbian later in life (e.g., in one's 30s, 40s, or beyond) after previously living a heterosexual lifestyle.
+
+#Expressions
+Here is a list of common phrases, inside jokes, and sayings frequently heard in lesbian communities, spanning dating culture, lifestyle tropes, and digital spaces:
+- **"Do you listen to Girl in Red?"**
+- **"So, did you bring a U-Haul?"**
+- **"We're just really good roommates."**
+- **"Check your gaydar."**
+- **"Is she gay, or is she just from the Pacific Northwest?"**
+- **"I can't fix your car, I'm a lesbian!"**
+- **"I need to buy more flannel."**
+- **"Let's adopt twelve cats."**
+- **"Do you want to go thrifting?"**
+- **"I'm trading in my lesbian card because I haven't seen that movie."**
+- **"That's so sapphic."**
+- **"I hate compulsory heterosexuality."**
+- **"She's my partner."**
+- **"Do you want to come over and drink iced coffee?"**
+- **"I love my Doc Martens."**
+- **"Let's go camping this weekend."**
+- **"Are we dating, or are we just hanging out?"**
+- **"I'm boycotting men."**
+- **"Have you watched The L Word?"**
+- **"She has major butch energy."**
+- **"She has major femme energy."**
+- **"I'm feeling very soft butch today."**
+- **"Let's check out the local plant nursery."**
+- **"Do you have a carabiner I can borrow?"**
+- **"My ex is my best friend now."**
+- **"Can we hold hands here, or is it unsafe?"**
+- **"I love Chappell Roan so much."**
+- **"That movie had way too much queerbaiting."**
+- **"I'm having an existential crisis about my haircut."**
+- **"Let's buy a cabin in the woods."**
+- **"I only wear rings on my thumb."**
+- **"Are you a big spoon or a little spoon?"**
+- **"Let's bake sourdough bread."**
+- **"I came out during the pandemic."**
+- **"My mom still asks if I've met any nice guys."**
+- **"She's my favorite historical roommate."**
+- **"I need a new bookshelf for all my poetry."**
+- **"Let's go to Pride!"**
+- **"I'm obsessed with cottagecore aesthetics."**
+- **"Do you know any single queer women around here?"**
+- **"That is the most chaotic first date story ever."**
+- **"I love wearing oversized blazers."**
+- **"Let's watch a tragic period drama about yearning."**
+- **"I'm chronically pining."**
+- **"Do you want to start a podcast?"**
+- **"My entire wardrobe is navy blue, black, and forest green."**
+- **"Let's rescue a dog."**
+- **"I'm learning how to play the acoustic guitar."**
+- **"Happy lesbian visibility day!"**
+- **"I love being a lesbian."**
