@@ -6,9 +6,23 @@ Status: GOVERNING WORKFLOW RULE
 
 This protocol governs archive recovery, source audits, provenance checks, corpus consolidation, and any request whose purpose is to determine whether information exists, existed previously, was lost during consolidation, conflicts across versions, or is adequately represented in current canon/reference material.
 
-It exists to prevent dangerous failure modes: a partial search being reported as an archive-wide conclusion; missing source material being silently replaced by model inference, general knowledge, or newly invented material; and apparently obsolete or duplicate material being discarded before its unique holdings are known.
+It exists to prevent dangerous failure modes: a partial search being reported as an archive-wide conclusion; missing source material being silently replaced by model inference, general knowledge, or newly invented material; apparently obsolete or duplicate material being discarded before its unique holdings are known; and existing recovery infrastructure being forgotten and recreated instead of used.
 
 A source gap must remain visible until it is either recovered from evidence or explicitly reconstructed/created by Jim.
+
+## Mandatory recovery entry point
+
+Before beginning any archive-recovery, source-audit, historical-source, corpus-coverage, duplicate/version, lost-material, catalog, or consolidation investigation, retrieve and inspect the existing recovery infrastructure:
+
+- `Systemwide/Audit/README.md`
+- `Systemwide/Audit/component-coverage-register.md`
+- relevant generated tables under `Systemwide/Audit/`, including `repository-file-inventory.tsv`, `exact-duplicate-groups.tsv`, `normalized-text-match-groups.tsv`, `filename-family-candidates.tsv`, and `package-member-inventory.tsv` when applicable.
+
+`Systemwide/Audit/` is the structural catalog and baseline for recovery work. Do not create a competing catalog merely because the existing one was not remembered or surfaced automatically.
+
+The Audit directory's own completion boundary controls how its data may be described: structural inventory or machine-readable extraction coverage is not semantic review, claim review, authority resolution, or operational consolidation.
+
+**Information that exists but is not routed into the task is functionally unavailable. Recovery work must therefore begin from the existing Audit catalog, not from model memory or ad hoc source discovery.**
 
 ## Core corpus principles
 
@@ -38,95 +52,37 @@ A later document may be less complete. An incomplete draft may contain unique de
 
 ## Trigger conditions
 
-Enter Archive Recovery / Source Audit Mode when Jim asks to do things such as:
-
-- check/search/look through the archive;
-- check/search the chats, conversations, source documents, original documents, historical files, developed skills, or recovery material;
-- determine whether something existed before;
-- recover the original version, intent, rule, aesthetic, fact, relationship, history, mechanic, or wording;
-- determine whether current source material is complete or sufficient;
-- compare current material with historical material;
-- find where a detail came from;
-- determine whether a detail is source-derived or invented;
-- investigate an apparent loss caused by consolidation, migration, harmonization, summarization, or rewriting;
-- inventory, catalog, consolidate, deduplicate, or decide what historical material should be retained.
+Enter Archive Recovery / Source Audit Mode when Jim asks to check/search/look through the archive or chats/source documents; recover prior intent or detail; determine provenance, completeness, conflicts, or losses; or inventory, catalog, consolidate, deduplicate, or decide what historical material should be retained.
 
 When the request names multiple corpus classes, all named corpus classes are part of the requested search. Do not silently treat one class as representative of another.
 
 ## 1. Define the corpus before drawing conclusions
 
-Identify the available evidence universe relevant to the request. Depending on the project, this may include:
+Start from `Systemwide/Audit/` to identify the available evidence universe relevant to the request. Depending on the project, this may include archived chats/conversation exports, original/source documents, current System Bible modules, detailed-reference files, developed skills and `SKILL.md` files, historical/recovery folders, story-specific bibles and continuity files, accepted prose, spreadsheets/inventories/exports/bundles, and repository history.
 
-- archived chats/conversation exports;
-- original/source documents;
-- current System Bible modules;
-- detailed-reference files;
-- developed skills and their `SKILL.md` files;
-- historical/recovery folders;
-- story-specific bibles and continuity files;
-- accepted/approved prose;
-- spreadsheets, inventories, exports, bundles, and other retained artifacts;
-- repository history or older versions where available.
-
-Determine which requested corpus classes are actually accessible/searchable in the current environment.
-
-If a requested corpus is inaccessible, incomplete, unindexed, or otherwise cannot be searched, state that explicitly. Never convert inaccessible evidence into negative evidence.
+Determine which requested corpus classes are actually accessible/searchable in the current environment. If a requested corpus is inaccessible, incomplete, unindexed, or otherwise cannot be searched, state that explicitly. Never convert inaccessible evidence into negative evidence.
 
 ## 2. Exhaustive scope means systematic coverage, not sampling
 
-When Jim asks to "check the archive," "look through the chats and source documents," or otherwise requests archive-wide recovery, the task is exhaustive within the accessible corpus.
+When Jim asks to check the archive or source corpus, the task is exhaustive within the accessible requested corpus. Do not stop because a few plausible hits were found, current files appear sufficient, a query returned no immediate results, a cleaner file appears authoritative, or enough evidence exists to construct a plausible replacement.
 
-Do not stop because:
+Where the corpus can be enumerated, establish the count from the Audit baseline and track actual coverage. If technical limits require batches, continue in batches. Do not downgrade the request to sampling without saying so.
 
-- a few plausible hits were found;
-- current files appear to answer the question;
-- a search query returned no immediate results;
-- a later-looking or cleaner file appears authoritative;
-- the likely answer seems obvious;
-- enough evidence exists to construct a plausible replacement.
+## 3. Use the existing catalog; do not recreate it
 
-Search every accessible requested corpus class. Where the corpus can be enumerated, establish the count and track coverage. If there are 26 accessible archived chats, an archive-wide chat search is not complete until all 26 have been searched or inspected to the degree necessary for the question. If hundreds of source documents are available, do not describe a subset search as a search of "the source documents."
+The structural catalog already lives under `Systemwide/Audit/`. It is the inventory/progress-control layer, not a summary of what the project "really means."
 
-If technical limits prevent exhaustive inspection in one operation, continue in batches. Do not downgrade the request to sampling without saying so.
+Before adding new catalog artifacts, verify whether the Audit directory already provides the needed structure. Extend the existing recovery system rather than creating parallel inventories that can drift apart.
 
-## 3. Build a persistent corpus catalog before aggressive consolidation
-
-Before trying to decide globally what to keep, delete, merge, or rewrite, create and maintain a catalog of the surviving corpus.
-
-The catalog is an inventory and progress-control layer, not a summary of what the project "really means."
-
-For each source, record as available:
-
-- stable source identifier/path;
-- filename/title;
-- source type (document, chat, spreadsheet, skill, module, export, etc.);
-- size/page/row/message information where available;
-- apparent date/version metadata without treating it as authoritative;
-- processing status;
-- source status if evidenced: draft, iterative, consolidated, current, historical, export, unknown;
-- known relationships to other sources: predecessor, successor, apparent duplicate, partial overlap, consolidation, divergent branch, unknown;
-- notes about accessibility or extraction limitations.
-
-Do not require full interpretation of a source merely to catalog its existence.
-
-The first catalog pass is preservation-oriented: establish what exists and make it trackable.
+The first-pass structural catalog remains preservation-oriented: it establishes what exists and makes it trackable without prematurely deciding authority, redundancy, or destination.
 
 ## 4. Process sources incrementally into a holdings ledger
 
-After inventory, process sources in manageable units. The purpose of extraction is to record **what each source actually contains**, not merely what topic the filename suggests it contains.
+After inventory, process sources in manageable units. The purpose of extraction is to record what each source actually contains, not merely what topic its filename suggests.
 
-A source may contain holdings relevant to many different modules or stories. Preserve those cross-topic holdings rather than forcing the entire source into one category.
+A source may contain holdings relevant to many modules or stories. Preserve those cross-topic holdings rather than forcing the entire source into one category.
 
-For each substantive holding, record enough information to preserve provenance, including:
-
-- source identifier;
-- location within source (section/page/row/message/range where available);
-- concise description or extracted rule/fact/example;
-- implicated subjects/modules/entities;
-- whether the holding is direct source content or an explicit inference;
-- relationship to known parallel holdings if established;
-- authority status only when supported by evidence;
-- unresolved conflicts/questions.
+For each substantive holding, preserve source identifier, location within source where available, concise rule/fact/example/claim/correction/decision/unresolved idea, implicated subjects/modules/entities, provenance category, authority status only when evidenced, known relationships/conflicts, and processing state.
 
 For very large documents, checkpoint by section/page range or another stable subdivision. Never mark the entire source processed when only part has been inspected.
 
@@ -138,30 +94,19 @@ Examples and discovered deficiencies are diagnostics, not automatic replacements
 
 If a question reveals that femme presentation, St. Claire, Athena, polycule rules, Fashion Empire holdings, transformation mechanics, or another area is underrepresented, record that deficiency. Do not silently abandon the corpus process to rebuild only the latest example unless Jim explicitly chooses to do so.
 
-The catalog and holdings process must continue to provide systematic corpus-wide coverage.
-
 ## 6. Search semantically, not only by current terminology
 
-Historical material may use different names, labels, spellings, filenames, or conceptual language.
-
-Use multiple searches where necessary, including:
-
-- current terminology;
-- older known terminology;
-- synonyms and closely related concepts;
-- names of implicated characters, places, organizations, systems, or aesthetics;
-- distinctive examples or phrases remembered from later material;
-- likely filenames/source-family names.
+Historical material may use different names, labels, spellings, filenames, or conceptual language. Use multiple searches where necessary: current terminology, older terminology, synonyms, implicated entities, distinctive examples, and likely source-family names.
 
 A failed keyword search is not sufficient evidence that the concept is absent.
 
 ## 7. Search results are discovery evidence; inspect relevant sources
 
-Snippets, filenames, inventories, indexes, and search-result excerpts may identify candidate evidence but do not automatically establish its full meaning.
+Snippets, filenames, inventories, indexes, and search-result excerpts identify candidate evidence but do not automatically establish full meaning.
 
-Open and inspect promising hits in context before relying on them for substantive conclusions. When different versions exist, compare their actual contents rather than assuming the newest-looking filename, timestamp, or consolidation is authoritative.
+Open and inspect promising hits in context. When versions exist, compare actual contents rather than assuming the newest-looking filename, timestamp, folder, or consolidation is authoritative.
 
-Historical duplication, inconsistent versioning, repeated `final` filenames, emergency exports, and partial consolidations are expected features of this archive. Treat them as recovery evidence, not noise to be discarded automatically.
+Historical duplication and chaotic naming are expected recovery evidence, not noise to discard automatically.
 
 ## 8. Authority and recovery value are independent
 
@@ -169,158 +114,109 @@ Do not collapse "is this current canon?" and "is this valuable evidence?" into o
 
 A source can have low or zero current authority while preserving unique high-value recovery evidence. A current authoritative module can be incomplete as an archival representation of earlier detailed material.
 
-Where useful, track separately:
-
-- **Source status:** draft / iterative / consolidated / current / historical / recovered / export / unknown.
-- **Authority:** governing / subordinate / superseded / non-canon / uncertain / not yet assessed.
-- **Recovery value:** unique detail / duplicated detail / partial overlap / possible lost detail / provenance-only / not yet assessed.
-- **Relationship:** predecessor / successor / apparent duplicate / consolidation / divergent branch / unknown.
-
-These classifications must be evidence-based. Unknown is preferable to an unsupported assumption.
+Where useful, track source status, authority, recovery value, and evidenced relationships separately. Unknown is preferable to an unsupported assumption.
 
 ## 9. No premature KEEP / DELETE judgment
 
-Do not decide that a historical source can be deleted merely because it appears old, incomplete, duplicated, superseded, or incorporated into another file.
+Do not decide that a historical source can be deleted merely because it appears old, incomplete, duplicated, superseded, or incorporated elsewhere.
 
 A source becomes a candidate for true redundancy only after its substantive holdings have been extracted and compared sufficiently to determine that it contributes no unique recovery value that needs preservation.
 
-Until then, retain it.
-
-Cleanup is a later phase than inventory and extraction.
+Cleanup is later than inventory and extraction.
 
 ## 10. Hard provenance categories
 
-During recovery/audit work, keep the following categories separate:
+During recovery/audit work, keep these categories separate:
 
 ### SOURCE
 Directly stated or clearly established by retrieved evidence.
 
 ### INFERENCE
-A conclusion reasonably derived from retrieved evidence but not itself stated there. Identify it explicitly as inference.
+Reasonably derived from retrieved evidence but not itself stated there. Identify it explicitly.
 
 ### CONFLICT
-Two or more relevant sources materially disagree, or authority/provenance cannot yet resolve which version governs. Report the conflict rather than silently selecting the convenient answer.
+Relevant sources materially disagree or authority/provenance cannot yet resolve which governs.
 
 ### GAP
-The searched evidence does not supply enough information to answer the question. A gap is not permission to invent.
+The searched evidence does not supply enough information. A gap is not permission to invent.
 
 ### NOT FOUND IN SEARCHED CORPUS
-The information was not found after the stated accessible corpus was systematically searched. This does not mean it never existed outside that corpus.
+Not found after the stated accessible corpus was systematically searched. This does not mean it never existed elsewhere.
 
 ### NOT SEARCHED / NOT SEARCHABLE
-A corpus or portion of a corpus was not searched or could not be searched. It cannot be used as evidence of absence.
+A corpus or portion was not searched or could not be searched. It cannot be evidence of absence.
 
 ### RECONSTRUCTION / NEW MATERIAL
-Material deliberately created after recovery fails or proves incomplete. It must be identified as reconstructed/new rather than recovered source material and does not become canon merely because it was proposed.
+Material deliberately created after recovery fails or proves incomplete. It is not recovered source material and does not become canon merely because proposed.
 
 ## 11. No silent gap filling during audits
 
-During Archive Recovery / Source Audit Mode, do not silently bridge missing information using:
+Do not silently bridge missing information using general model knowledge, real-world or genre conventions, assumptions about Jim's intent, extrapolation from adjacent canon, newly invented examples, or cleaner formulations.
 
-- general model knowledge;
-- real-world conventions;
-- genre conventions;
-- assumptions about what Jim probably intended;
-- extrapolation from adjacent canon;
-- newly invented examples;
-- a cleaner or more internally consistent formulation.
+If a source says only `femme — nails, makeup, "girly" clothes`, do not expand that into a detailed aesthetic and describe the expansion as what the source establishes.
 
-If the source says only `femme — nails, makeup, "girly" clothes`, do not expand that into a detailed aesthetic and then describe the expansion as what the source establishes.
-
-If additional reasoning would be useful, first mark the source gap. Any proposed interpretation or reconstruction must then be clearly labeled separately from recovered evidence.
+First mark the gap. Any interpretation/reconstruction must be clearly separated from recovered evidence.
 
 ## 12. Never make synthesis sound like source text
 
-Language describing source contents must be traceable to retrieved source evidence.
-
-Do not say:
-
-- "the guide establishes..."
-- "the archive says..."
-- "the source defines..."
-- "the original intent was..."
-
-unless the retrieved evidence supports that statement.
-
-When appropriate, instead say:
-
-- "the source explicitly states..."
-- "the examples consistently suggest..." (INFERENCE)
-- "I have not found a source that defines..." (GAP or NOT FOUND, depending on coverage)
-- "I would propose..." (NEW MATERIAL)
-
-The reader must be able to tell where Jim's recovered material ends and model reasoning begins.
+Language describing source contents must be traceable to retrieved evidence. The reader must be able to tell where recovered material ends and model reasoning begins.
 
 ## 13. Coverage receipts and persistent progress are mandatory
 
-Every archive-wide recovery or source-audit conclusion must include a coverage receipt sufficient to show what was actually searched or processed.
+Every archive-wide recovery or source-audit conclusion must include a coverage receipt showing what was actually searched or processed.
 
-Where counts are available, report them, for example:
+Where counts are available, use the Audit baseline rather than guessing. Structural inventory or machine-extracted text does not mean semantic or claim review.
 
-`Coverage: archived chats 26/26; indexed source documents 347/347; developed skill families 8/8; current System Bible searched. Not searchable: 3 binary legacy artifacts.`
-
-If exact counts cannot be established, name the corpus classes and state the limitation rather than inventing precision.
-
-For incremental corpus processing, persist progress in the catalog/ledger rather than relying on conversational memory. A future session must be able to determine what has and has not been processed without rereading the entire archive.
-
-A coverage receipt describes work actually completed. Never report intended, assumed, or partial coverage as completed coverage.
+For incremental corpus processing, persist progress in the Audit/ledger rather than relying on conversational memory. A future session must be able to determine what has and has not been processed without rediscovering the recovery infrastructure.
 
 ## 14. Calibrate conclusions to coverage
 
-Use conclusions no stronger than the evidence allows.
+Use conclusions no stronger than the evidence allows. Partial search means `not found in the subset searched`; complete accessible search can support `not found in the searched accessible corpus`; conflicts remain conflicts; inaccessible material remains explicit.
 
-- Partial search: `Not found in the subset searched.`
-- Complete accessible search: `Not found in the searched accessible corpus.`
-- Inaccessible material remains: explicitly identify it.
-- Multiple versions disagree: `Conflicting versions found.`
-- Evidence supports only part of remembered material: `Partial recovery.`
-- Direct historical source recovered: `Recovered`, with provenance.
-
-Never convert `not found` into `does not exist` unless the evidence genuinely warrants that claim.
+Never convert `not found` into `does not exist` without evidence that warrants it.
 
 ## 15. Authority and recovery are separate questions
 
-Finding historical material does not automatically make it current canon.
+Finding historical material does not automatically make it current canon. First establish what the evidence says, then apply the project's authority hierarchy.
 
-First determine what the historical evidence says. Then apply the project's authority hierarchy to determine whether it governs, conflicts, was superseded, or should be proposed for restoration.
-
-Do not erase useful historical evidence merely because a later consolidation omitted it. Omission may itself be evidence of consolidation loss.
+Do not erase historical evidence merely because a later consolidation omitted it. Omission may itself be evidence of consolidation loss.
 
 ## 16. Recovery before reconstruction
 
-When the purpose is to recover lost intent or detail:
+When recovering lost intent/detail:
 
-1. Search/process the accessible requested corpus systematically.
-2. Identify direct evidence, partial evidence, conflicts, and gaps.
-3. Report coverage and provenance.
-4. Only after recovery is exhausted should reconstruction be considered.
-5. Reconstruction requires explicit separation from recovered material and does not become canon until Jim accepts it.
+1. Retrieve the existing Audit baseline and coverage register.
+2. Search/process the accessible requested corpus systematically using that inventory as the checklist.
+3. Identify direct evidence, partial evidence, conflicts, and gaps.
+4. Report coverage and provenance.
+5. Only after recovery is exhausted consider reconstruction.
+6. Keep reconstruction explicitly separate until Jim accepts it.
 
-The model's ability to produce a plausible answer is not evidence that the answer was ever part of the project.
+Plausibility is not evidence that an answer was ever part of the project.
 
 ## 17. Corpus workflow and definition of done
 
-The default corpus-recovery pipeline is:
+Default pipeline:
 
-**Corpus inventory → incremental source extraction → holdings ledger → consolidation → operational modules → coverage audit → later redundancy/cleanup review.**
+**Existing corpus inventory (`Systemwide/Audit/`) → incremental source extraction → holdings/claim ledger → consolidation → operational modules → coverage audit → later redundancy/cleanup review.**
 
-Track two independent kinds of completeness:
+Track independently:
 
 ### Archive coverage
-Has every accessible source been inventoried and processed to the required degree?
+Has every accessible source been inventoried and processed to the required semantic degree?
 
 ### Operational coverage
-Has every extracted substantive holding been incorporated into an appropriate operational module, deliberately retained as historical evidence, identified as duplicate/superseded with evidence, or flagged as unresolved/conflicting?
+Has every extracted substantive holding been incorporated appropriately, deliberately retained as historical evidence, identified as duplicate/superseded with evidence, or flagged unresolved/conflicting?
 
-Do not declare the corpus consolidation complete merely because current modules look coherent. Completion requires both forms of coverage to be accounted for.
+Do not declare consolidation complete merely because current modules look coherent.
 
 ## 18. Relationship to other governing protocols
 
 For story drafting, `00-module-router.md` and `00-mandatory-source-grounded-drafting.md` remain mandatory.
 
-This protocol adds a different layer: it governs claims about what the archive contains, what was historically intended, whether source material is sufficient, how the corpus is incrementally recovered, and whether information has been lost.
+This protocol governs what the archive contains, historical intent, source sufficiency, incremental recovery, and loss detection.
 
-When both modes apply, perform recovery/source audit first where unresolved provenance could materially affect drafting. Do not draft through an unresolved recovery question by substituting model invention.
+The module router should route recovery/audit tasks here; this protocol then routes those tasks to `Systemwide/Audit/` before raw-source investigation.
 
 ## Governing principles
 
@@ -333,3 +229,5 @@ When both modes apply, perform recovery/source audit first where unresolved prov
 **Searching is not sampling. Inference is not source. Plausibility is not provenance.**
 
 **A gap must remain visible until evidence or Jim fills it.**
+
+**A catalog that cannot be discovered when needed is operationally broken.**
