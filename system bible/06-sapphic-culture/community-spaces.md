@@ -1,11 +1,9 @@
 # Community Spaces & Institutions
-
-## Lesbian Bars
-Lesbian bars (a real, often-discussed phenomenon: the number of dedicated lesbian bars in the US has collapsed over decades, a fact the community itself talks about)
-
+## Social spaces
+- **Lesbian bars** (a real, often-discussed phenomenon: the number of dedicated lesbian bars in the US has collapsed over decades, a fact the community itself talks about)
 ## Sports & Recreational Communities
-softball leagues (a genuine long-running cultural institution, not just a joke)
-Roller Derby
+- **softball leagues** (a genuine long-running cultural institution, not just a joke)
+- **Roller Derby** [content when available]
 
 ## Bookstores & Community Centers
 ### women's bookstores
