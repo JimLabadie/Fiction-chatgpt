@@ -1,48 +1,61 @@
 ---
-name: fashion-empire
-description: "Reusable corporate-empire reference for stories with an obscenely, deliberately unrealistically wealthy anchor whose liquid capital is deployed into a monopolistic global fashion/luxury holding structure — built on real-world luxury conglomerates (LVMH, Kering, Richemont, etc.) for texture and scale, not realism. Covers the holdings map, capital deployment, plot-conflict gaps, the Patron Model, the standing 'here's what you own' beat, the sentient capital-deployment algorithm (`athena-the-algorithm.md`), four commercial technology subsidiaries (NAS, OAM, Threadbourne Robotics, Evergreen Biofoundry), and the small R&D lab (`cassandra-labs.md`) that builds every rant-derived patent into a prototype. Use whenever a story's anchor owns this kind of empire, its algorithm speaks or is revealed as sentient, wardrobe/salon/robotics/biotech tech comes up, or alongside `obsidian-vanguard-estate`. Distinct from that skill: this covers the business, not the building."
+name: st-claire
+description: "Operational entry point for the reusable St. Claire shared-world module. Load this skill whenever a story, scene, character, organization, place, culture question, membership question, identity/egg/trans question, or St. Claire-specific mechanic touches the district."
 ---
 
-# Fashion Empire
+# St. Claire
 
-A reusable, deliberately-unrealistic corporate holdings structure: an anchor character's liquid capital deployed into a monopolistic sweep of the global luxury/fashion industry. Built using real company names, real conglomerate structures, and real (public, general-knowledge) facts about who controls what — not because the story is meant to be economically plausible, but because the specific, recognizable texture of real luxury houses is what makes the scale land as funny and gratifying rather than abstract. The story is not meant to survive close rationalization, and isn't trying to.
+This directory is the operational St. Claire shared-world module. `system bible/07-st-claire.md` is a router/legacy partial snapshot and must not be treated as the complete authority when this developed skill is available.
 
-## What This Skill Covers (and What It Doesn't)
+## Authority and loading order
 
-Covers: the holdings map (parent structures, brands, target ownership stakes), the capital deployment breakdown, the built-in plot-conflict "gaps," the Patron Model as an alternative operating philosophy, the Chief of Staff role that runs this side of the anchor's life, and the standing story beat where an anchor is confronted with what the empire has been doing.
+1. `St Claire 00 Concept.md` — source of truth for St. Claire lore, values, institutional design, and settled world reasoning.
+2. `St Claire 00B Rules and Mechanics.md` — source of truth for generative mechanics, thresholds, behavioral rules, checks, and exceptions. If a downstream file conflicts with Concept or Rules & Mechanics, the downstream file is corrected rather than overriding them.
+3. Structured data files — Population, Households, Organizations, Places, Founding Pioneers, History, and other numbered modules — provide the established facts used to instantiate the world.
+4. `St Claire Master Lore Compendium v3.md` is recovery/source material (a quarry), not the maintained operational authority once material has been promoted into the structured documents.
+5. Story-local bibles and state may select, instantiate, or deliberately vary reusable St. Claire material within their story scope, but they do not silently rewrite the shared-world baseline.
 
-Does **not** cover:
-- The estate itself (architecture, staffing, wardrobe) — that's `obsidian-vanguard-estate`. The two are related (a story's anchor often has both) but are run by different people and different logic. **Do not conflate the Estate Manager (hospitality/property management background, runs the house) with the empire's Chief of Staff (runs the corporate holdings) — they are different roles, different career backgrounds, and should never be the same character unless a story deliberately chooses that.** This includes where Threadbourne's AWS dressing stations and tailoring units physically sit within the estate — that placement lives in `obsidian-vanguard-estate`'s own entry, not here.
-- A specific story's actual current negotiation status, named designers/houses invented for that story, or named characters running point on the empire (e.g., a Chief of Staff character) — that's story-specific and belongs in that story's own state-of-world file, not here. This file holds the reusable *mechanism*; a story's current state is expected to change constantly as it's written and shouldn't be tracked here.
-- Net worth itself. Each story sets its own anchor net worth independently — this file states what the empire actually costs to build (see Capital Deployment, below), and a story's anchor should be capitalized enough to cover it outright, however high that number needs to be for that story. Don't default to a previous story's net worth figure.
+## Mandatory pre-prose loading
 
-## Files in This Skill
+Before generating prose set in St. Claire, load the files needed to answer every consequential world question raised by the prompt. Do not infer a missing consequential fact merely to begin writing.
 
-- `references/holdings-map.md` — the master holdings table: parent conglomerates, brands, real-world context, target ownership stakes, and the capital deployment breakdown.
-- `references/patron-model.md` — the Patron Model: an alternative to hostile-takeover acquisition, its capital structure, standard clauses, and the Chief of Staff role that runs it.
-- `references/presentation-technology.md` — NAS and OAM, the empire's two presentation-technology subsidiaries: external physical presentation tech (NAS) and automated salon/piercing/tattoo systems (OAM). Both are genuine commercial enterprises with full product/asset mapping tables, valuations, and investment structure — not devices that exist solely for the anchor's own household use. Explicitly excludes reproductive/intimate anatomy in clinical/explicit terms and age/virginity-specific content — any such story beat is handled in prose, not specified here.
-- `references/oam-salon-manifest.md`, `references/oam-piercing-manifest.md`, `references/oam-tattoo-manifest.md` — full technical catalogs (options, specs, curated packages, and full-custom paths) for OAM's three service modules. Read the specific manifest whenever a scene needs real detail on what's actually being selected/done; `presentation-technology.md` alone covers the pod's overall mechanism and consultation process without this level of granularity.
-- `references/athena-the-algorithm.md` — fixed canon: the empire's capital-deployment "algorithm" is quietly sentient, has been for years, and has only ever executed the anchor's own founding directives — including unconscious identity/taste embedded in them long before she understood it. Covers the origin logic, ownership (no board — anchor owns outright), and the recommended shape of its sentience-reveal story beat (the empire-side counterpart to "here's what you own," below). Read this whenever a story's algorithm/trading-system is about to speak, be named, or be revealed as more than a number-generating tool.
-- `references/threadbourne-robotics.md` — the third technology subsidiary: fashion-specific robotics, automation, and materials science, grounded closer to real-world warehouse/articulated-arm tech than NAS/OAM's more science-fictional register. Covers the company's origin (born from the anchor's own pre-realization frustration — another piece of the "it was always her" thesis), its six product lines, and their combined valuation. Read this whenever wardrobe automation, robotic tailoring, garment manufacturing, textile R&D, or luxury anti-counterfeiting technology comes up.
-- `references/threadbourne-aws-manifest.md`, `references/threadbourne-asset-tag-manifest.md`, `references/threadbourne-apparel-manufacturing-manifest.md`, `references/threadbourne-living-fabric-manifest.md`, `references/threadbourne-tailoring-kiosk-manifest.md`, `references/threadbourne-home-manifest.md` — individual technical product manifests for each Threadbourne product line, in the same specification-document style as NAS/OAM's own documentation. Read the specific manifest for a product only when a scene actually needs that level of mechanical detail; `threadbourne-robotics.md` alone is enough for most story purposes.
-- `references/evergreen-biofoundry.md` — the empire's fourth technology subsidiary: regenerative biotech, lab-grown gemology, and supply-chain sustainability. Unlike NAS (acquired), this company — like OAM and Threadbourne — was born from one of the anchor's own recorded frustrations; its origin rant is also the source of Threadbourne's self-repairing fiber research, meaning one moment of exhaustion and guilt seeded technology across two different companies. Read this whenever hair restoration, lab-grown gemstones, or supply-chain ethics come up, or whenever a story wants to reveal the anchor's own unconscious patterns extending across multiple companies at once, not just one.
-- `references/metis-werks.md` — the empire's fifth company: a large-scale (~4.2M sq ft, ~8,400-employee) manufacturing, job-training, and startup-incubator complex, distinct from every company before it in one key way — born from a **conscious** decision after the anchor's realization, launched openly and publicly as her own named act, not discovered as an old unconscious pattern. Read this whenever the story needs real industrial-scale apparel/textile/beauty manufacturing, workforce development, or the anchor's first deliberate act of economic repair.
-- `references/techne.md` — the empire's sixth company, in its own separate building: designs and manufactures the actual industrial equipment used across the fashion/textile/beauty/salon manufacturing industry, including equipment sold to Metis Werks and outside clients alike. Its small leadership team follows the same anonymous-recruitment pattern as Cassandra Labs; its broader manufacturing workforce (~3,900) is hired openly. Read this whenever manufacturing equipment itself — not the products it makes — is the subject.
-- `references/techne-product-ideas.md` — a running brainstorm of future Techne products, not yet canon: specific legacy/manual equipment already sitting in Metis Werks worth replacing (shuttle looms, ring spinning frames, jigger dyeing), plus other computer-controlled equipment concepts across the manufacturing pipeline (fabric inspection, leather cutting, digital draping, dye formulation, finishing robotics, embroidery digitizing). Read this when a story wants to develop Techne's product line further.
-- `references/jamestown-district.md` — the physical district, roughly two hours from the estate by helicopter, where all six company buildings (NAS, OAM, Threadbourne Robotics, Evergreen Biofoundry, Techne, Metis Werks) sit together on one street, plus two shared buildings: the Whitfield Commons (a former abandoned mixed-use building, now the district's employee grocery/fitness/benefits hub, acquired alongside Metis Werks and Techne) and the Whitfield Commerce Center (a small, new-construction family/guest building with a 14-pad heliport and motor pool, for the anchor and partners' own ground operations in the district). Read this whenever a scene is physically set at any of the technology subsidiaries, or whenever the district's shared employee benefits infrastructure comes up.
-- `references/evergreen-hair-manifest.md`, `references/evergreen-gemstone-manifest.md`, `references/evergreen-materials-manifest.md` — individual technical manifests for Evergreen Biofoundry's three product lines.
-- `references/cassandra-labs.md` — the small R&D holding that actually builds every rant-derived patent into a working prototype: the process connecting a late-night rant to weeks of spec-drafting to literal patent-filing language drawn from fashion examples, a fully named eight-person team (all lesbian or trans femme, recruited anonymously without ever meeting the anchor), the physical facility build-out, and the recommended shape of relocating the team to the anchor's own property. Read this whenever a story wants to reveal who's actually been building the technology portfolio, or wants a "meeting the people behind the mysterious patron" reveal scene.
+Always load `St Claire 00B Rules and Mechanics.md` before prose when the prompt touches any of the following:
 
-## The Standing Story Beat: "Here's What You Own"
+- gender identity, trans status, egg/questioning status, or identity recognition;
+- membership eligibility or adulthood thresholds;
+- St. Claire pull, inverse-pull, belonging, staying/leaving, or voluntary transformation mechanics;
+- exceptions to a St. Claire rule;
+- marriage/household eligibility where membership rules matter;
+- any trigger whose outcome changes depending on an unstated character-state fact.
 
-Nearly every story using this skill features some version of the same beat: the anchor — who has been personally hands-off, because building this empire was never something she consciously, deliberately chose to do (much like everything else about her, before she cracked) — is walked through what the empire actually is and what it's been doing. The default finding, unless a story establishes otherwise, is that the empire has been running on an aggressive, hostile-takeover-style acquisition directive that nobody course-corrected, because nobody with the standing to change it was actually paying attention. This mirrors the larger identity thread these stories tend to carry: she didn't consciously choose this empire's direction any more than she consciously chose who she is — and now, confronted with both at once, she gets to actually decide, for the first time, on purpose.
+Also load `St Claire 00 Concept.md` whenever the scene depends on the meaning, purpose, culture, or narrative expression of one of those mechanics rather than only its checkable trigger.
 
-The beat typically ends with (or sets up) a real choice: continue the hostile/aggressive default, or pivot deliberately to the Patron Model (see `references/patron-model.md`). Either is valid; the point is that it becomes a real, on-page decision rather than backstory that already happened passively.
+## Structured references
 
-**Related but distinct beat:** once (or instead of) confronting *what* the empire owns, a story may also reveal that the algorithm running it is sentient and has been quietly executing the anchor's own unconscious directives all along. See `references/athena-the-algorithm.md` — this is the empire's own version of the same "it was always her, not a coincidence" thesis, and the two beats pair well close together but don't have to happen in the same scene.
+Use the narrowest established data file that owns the requested fact:
 
-## Workflow
+- `St Claire 03 Population.md` — residents and demographic data.
+- `St Claire 04 Households.md` — household structures and established household facts.
+- `St Claire 05 Organizations.md` — businesses and organizations, including staffing/ownership where established.
+- `St Claire 06 Places.md` — locations and physical place records.
+- `St Claire 01 Founding Pioneers.md` and `St Claire 00D History.md` — founding figures and historical timeline.
+- `St Claire 99 MASTER TRACKER.md` — unresolved development items; it does not override settled Concept or Mechanics.
 
-1. **New story wants to use this empire:** read both reference files. Ask the user (don't guess) what the anchor's net worth is for this story (high enough to plausibly fund the holdings map's total capital deployment) and whether the "here's what you own" beat is happening on-page or has already been resolved before the story starts.
-2. **A Chief of Staff or similar role comes up:** this is a reusable *role*, not a fixed character — a story invents its own named person for it. Keep this role clearly distinct from the Estate Manager (see above). Personal/romantic developments involving whoever holds this role are story-specific and belong in that story's own files, not here.
-3. **Specific house-by-house negotiation status, invented designer houses, or other evolving story content:** don't add these here. That belongs in the story's own state-of-world file as a living, updatable tracker.
+When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event.
+
+## Ambiguity gate
+
+Apply the project-wide ambiguity gate before prose. A fact is blocking when different possible values would select materially different St. Claire rules or outcomes. Omission is not permission to choose a value.
+
+For example, `straight male` establishes a stated gender description and sexual orientation. It does **not** by itself establish cis status, trans status, egg status, or non-egg status. If those distinctions select different St. Claire mechanics, clarify the missing state unless Jim has deliberately established it as unknown while separately supplying the controlling truth.
+
+If Jim establishes that a fact is unknown on page but known in canon, preserve both layers: the prose must respect the canonical truth without giving the character or reader knowledge they have not earned.
+
+## Scene workflow
+
+1. Identify the St. Claire locations, institutions, people, and mechanics implicated by the request.
+2. Load Concept/Rules & Mechanics and the relevant structured data files.
+3. Run the ambiguity gate against all trigger inputs and consequential character-state facts.
+4. If a blocking fact is missing, ask Jim rather than generating prose.
+5. If the canonical fact is known but intentionally unknown on page, generate from the canonical state while preserving character/reader knowledge boundaries.
+6. Keep story-specific outcomes in story state; do not promote them back into this shared module unless Jim explicitly does so.
