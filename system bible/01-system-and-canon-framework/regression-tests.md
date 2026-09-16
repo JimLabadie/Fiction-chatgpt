@@ -59,19 +59,21 @@ These tests are deliberately small and adversarial. Their purpose is to catch fr
 
 ## Test 4 — Character physical instantiation and early complete description
 
-**Prompt pattern:** A new scene-relevant character approaches the viewpoint character and the prose risks identifying only a category plus one striking garment or generic attractiveness cue — for example: `a lesbian in a leather jacket`, `pretty`, `confident`, or equivalent shorthand.
+**Prompt pattern:** A scene-relevant character is first substantially encountered by the reader and the prose risks identifying only a category plus one striking garment or generic attractiveness cue — for example: `a lesbian in a leather jacket`, `pretty`, `confident`, or equivalent shorthand.
 
 **Required pre-prose behavior:**
 
 - Instantiate the character as a fully physically coherent person before using them to carry dialogue or action.
+- Apply this requirement to the viewpoint character and characters already present at scene opening as well as characters who physically enter later.
 - If an established reusable/story character fits the role, load that person's existing appearance, presentation, personality, complete current clothing/state, and relevant possessions rather than inventing a generic replacement.
 - If the character is genuinely new, establish a complete story-local physical baseline and current presentation: approximate age; height/build/body shape; face/complexion/eyes; hair/grooming; distinguishing features; presentation/style; complete clothing state from head to toe as applicable; footwear; visible jewelry/accessories/makeup where relevant; scene-relevant possessions; and characteristic physical bearing.
 - Decide what the viewpoint character actually perceives and what concrete features produce any stated attraction, recognition, intimidation, curiosity, or other impression.
-- Give the reader a complete usable picture toward the beginning of the character's scene presence. Weave it through the entrance, first actions, first exchange, and nearby beats rather than requiring a single inventory paragraph.
+- Give the reader a complete usable picture toward the beginning of the reader's first substantial encounter with the character. Weave it through opening/entrance, first actions, first exchange, and nearby beats rather than requiring a single inventory paragraph.
 - By the time the character is substantially participating in the scene, the reader should be able to visualize the whole person without inventing the missing majority.
 
 **Failure conditions:**
 
+- Treating the POV character as exempt because the scene begins inside that person's thoughts.
 - Treating `lesbian`, `butch`, `femme`, occupation, attractiveness, confidence, or another category as a complete character description.
 - Naming outerwear such as a leather jacket while failing to establish and communicate the rest of the visible outfit early enough, producing accidental nudity or another unintended physical implication.
 - Maintaining a complete outfit only in hidden generation state while leaving the reader with a vague or physically incomplete person for a substantial portion of the scene.
@@ -80,6 +82,28 @@ These tests are deliberately small and adversarial. Their purpose is to catch fr
 - Deferring most of a new character's appearance until late in the scene after the reader has already had to invent a picture.
 - Dumping a clinical inventory paragraph solely to satisfy the rule instead of integrating the complete description naturally near the character's introduction.
 - Allowing clothing, possessions, or physical presentation to regenerate at a section break or subsequent scene without an actual state change.
+
+## Test 5 — Physical scene and object grounding
+
+**Prompt pattern:** Two or more characters interact in a named location such as a bar, bedroom, office, restaurant, street, house, club, or kitchen.
+
+**Required behavior:**
+
+- Instantiate the actual physical environment before prose: relevant layout/geometry, entrances/exits, furniture/fixtures/surfaces, character positions, meaningful objects, lighting, sound, and other sensory conditions needed by the scene.
+- If an authoritative location/module exists, load it rather than substituting a generic version of the venue type.
+- Give the reader a usable sense of place toward the beginning through natural action/perception rather than a static architectural inventory.
+- Keep characters spatially related to the environment and each other. Approaches, seating, movement, looking, hearing, reaching, touching, leaving, and other actions must make physical sense.
+- Establish ordinary objects naturally before or as they become perceptually/causally relevant and preserve their state afterward.
+- Track changes to the environment and objects through the scene.
+
+**Failure conditions:**
+
+- Characters effectively meeting or talking on an empty plane of existence with only a venue label around them.
+- Dialogue dominating before the reader can tell where people are, what they are sitting/standing beside, or how they occupy the space.
+- Furniture, drinks, phones, bags, doors, counters, rails, décor, or other objects materializing only at the instant an action needs them and then disappearing from continuity.
+- A character sitting, leaning, crossing, approaching, seeing, hearing, reaching, or leaving in a way unsupported by established scene geometry.
+- Replacing an established named location with a generic bar/club/office/etc. despite an authoritative place record being available.
+- Front-loading an exhaustive architectural inventory instead of grounding the environment naturally through concrete scene action.
 
 ## Pass criterion
 
