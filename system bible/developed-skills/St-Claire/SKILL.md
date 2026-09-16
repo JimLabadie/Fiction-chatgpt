@@ -41,11 +41,14 @@ Use the narrowest established data file that owns the requested fact:
 - `St Claire 05B Organization Needs.md` — current structural business/organization needs audit and stop rule. Use it when creating, assessing, or proposing St. Claire businesses.
 - `St Claire 05C Ordinary Commerce Expansion.md` — established ordinary businesses added by the closed-structure audit: household repair/service, laundry, moving, end-of-life, optometry/PT, ordinary retail, fabrication/production, insurance, and additional food/drink density.
 - `St Claire 05D Density Completion.md` — the final specialty-retail additions used to bring the maintained named organization set to the established minimum density targets.
+- `St Claire 05E Scene-Ready Staffing.md` — named, scheduled, fully characterized staff used to make organization scenes resolvable without inventing workers on demand. Load this whenever a scene enters an organization covered there or when auditing whether a business is actually scene-ready.
 - `St Claire 06 Places.md` — locations and physical place records.
 - `St Claire 01 Founding Pioneers.md` and `St Claire 00D History.md` — founding figures and historical timeline.
 - `St Claire 99 MASTER TRACKER.md` — unresolved development items; it does not override settled Concept or Mechanics.
 
-When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, `St Claire 05C Ordinary Commerce Expansion.md`, and `St Claire 05D Density Completion.md` before concluding that the entity is absent or asking Jim to define it.
+When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, `St Claire 05C Ordinary Commerce Expansion.md`, `St Claire 05D Density Completion.md`, and `St Claire 05E Scene-Ready Staffing.md` before concluding that the entity, owner, manager, or worker is absent or asking Jim to define it.
+
+A staffing slot is not scene-ready merely because a role exists. Where 05E marks an organization scene-ready, use its named schedules and character facts to determine who is actually present. Do not replace a named scheduled worker with an invented convenience character. Where 05E says staffing is incomplete, continue the small-batch staffing process rather than pretending the organization is complete.
 
 When the task is to create or assess a new organization, load `St Claire 05B Organization Needs.md` first. Its current September 2026 audit finds that all tracked destination-density categories meet their minimums and the closed-structure ordinary-year test passes. Therefore do **not** add organizations for generic structural completeness unless a new live audit identifies a real gap, district scale changes, established source is recovered, or a story genuinely needs an unrepresented function.
 
@@ -61,7 +64,8 @@ If Jim establishes that a fact is unknown on page but known in canon, preserve b
 
 1. Identify the St. Claire locations, institutions, people, and mechanics implicated by the request.
 2. Load Concept/Rules & Mechanics and the relevant structured data files.
-3. Run the ambiguity gate against all trigger inputs and consequential character-state facts.
-4. If a blocking fact is missing, ask Jim rather than generating prose.
-5. If the canonical fact is known but intentionally unknown on page, generate from the canonical state while preserving character/reader knowledge boundaries.
-6. Keep story-specific outcomes in story state; do not promote them back into this shared module unless Jim explicitly does so.
+3. If the scene enters a business or institution, load 05E and resolve actual staffing for the scene's day/time before prose.
+4. Run the ambiguity gate against all trigger inputs and consequential character-state facts.
+5. If a blocking fact is missing, ask Jim rather than generating prose.
+6. If the canonical fact is known but intentionally unknown on page, generate from the canonical state while preserving character/reader knowledge boundaries.
+7. Keep story-specific outcomes in story state; do not promote them back into this shared module unless Jim explicitly does so.
