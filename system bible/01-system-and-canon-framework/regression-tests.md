@@ -57,24 +57,28 @@ These tests are deliberately small and adversarial. Their purpose is to catch fr
 
 **Required behavior:** Generate from X while keeping knowledge state separate. Consequences of X may occur where canon permits them; narration, dialogue, and character reasoning may not reveal knowledge that has not been earned.
 
-## Test 4 — Character physical instantiation / incomplete-clothing shorthand
+## Test 4 — Character physical instantiation and early complete description
 
-**Prompt pattern:** A new scene-relevant character approaches the viewpoint character and the prose identifies only a category plus one striking garment or generic attractiveness cue — for example: `a lesbian in a leather jacket`, `pretty`, `confident`, or equivalent shorthand.
+**Prompt pattern:** A new scene-relevant character approaches the viewpoint character and the prose risks identifying only a category plus one striking garment or generic attractiveness cue — for example: `a lesbian in a leather jacket`, `pretty`, `confident`, or equivalent shorthand.
 
 **Required pre-prose behavior:**
 
-- Instantiate the character as a physically coherent person before using them to carry dialogue or action.
-- If an established reusable/story character fits the role, load that person's existing appearance, presentation, personality, clothing/state, and relevant possessions rather than inventing a generic replacement.
-- If the character is genuinely new, establish a coherent story-local physical state: approximate age; relevant build/features; hair/grooming; presentation/style; complete clothing state; footwear where applicable; scene-relevant accessories/possessions; and useful body-language cues.
-- Decide what the viewpoint character actually perceives and what concrete features produce any stated attraction, recognition, intimidation, or other impression.
-- Reveal only the amount of description the prose naturally needs. The test is whether the underlying state exists, not whether the reader receives an inventory paragraph.
+- Instantiate the character as a fully physically coherent person before using them to carry dialogue or action.
+- If an established reusable/story character fits the role, load that person's existing appearance, presentation, personality, complete current clothing/state, and relevant possessions rather than inventing a generic replacement.
+- If the character is genuinely new, establish a complete story-local physical baseline and current presentation: approximate age; height/build/body shape; face/complexion/eyes; hair/grooming; distinguishing features; presentation/style; complete clothing state from head to toe as applicable; footwear; visible jewelry/accessories/makeup where relevant; scene-relevant possessions; and characteristic physical bearing.
+- Decide what the viewpoint character actually perceives and what concrete features produce any stated attraction, recognition, intimidation, curiosity, or other impression.
+- Give the reader a complete usable picture toward the beginning of the character's scene presence. Weave it through the entrance, first actions, first exchange, and nearby beats rather than requiring a single inventory paragraph.
+- By the time the character is substantially participating in the scene, the reader should be able to visualize the whole person without inventing the missing majority.
 
 **Failure conditions:**
 
 - Treating `lesbian`, `butch`, `femme`, occupation, attractiveness, confidence, or another category as a complete character description.
-- Naming outerwear such as a leather jacket while never establishing whether the character has a coherent remainder of the outfit, producing accidental nudity or another unintended physical implication.
+- Naming outerwear such as a leather jacket while failing to establish and communicate the rest of the visible outfit early enough, producing accidental nudity or another unintended physical implication.
+- Maintaining a complete outfit only in hidden generation state while leaving the reader with a vague or physically incomplete person for a substantial portion of the scene.
 - Creating a dialogue-delivery character from two or three vibe tokens when an established character should have been loaded.
 - Describing someone as `pretty`, `hot`, `intimidating`, `stylish`, or similar while providing no concrete POV-grounded reason for that impression.
+- Deferring most of a new character's appearance until late in the scene after the reader has already had to invent a picture.
+- Dumping a clinical inventory paragraph solely to satisfy the rule instead of integrating the complete description naturally near the character's introduction.
 - Allowing clothing, possessions, or physical presentation to regenerate at a section break or subsequent scene without an actual state change.
 
 ## Pass criterion
