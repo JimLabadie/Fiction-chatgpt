@@ -50,6 +50,15 @@ The closed-structure rule matters here: distinct community-sharing, commercial, 
 - Community role: logistical backbone for community-event setup as well as ordinary storage/logistics needs
 - Recovery note: retained because storage/logistics is a distinct closed-structure function, not because every infrastructure function must become a nonprofit
 
+### Municipal Utilities & Power Substation
+- Type: civic utility / distribution infrastructure; exact legal classification not re-decided by this recovery
+- Category: Utilities / energy distribution
+- Function: operates St. Claire's electrical distribution/grid and power-substation infrastructure
+- Owner/leadership: Amara Okoye — green-energy grid steward
+- Community role: distributes power/resources through the district as part of St. Claire's closed civic infrastructure
+- Boundary: Harriet Osei – St. Claire Reclamation Works creates/reclaims energy and other usable resources; Municipal Utilities & Power Substation distributes power. Reclamation Works is not the electrical distribution utility, and the two functions must not be collapsed.
+- Recovery note: restored after confirming that the apparent overlap with Reclamation Works was a rename/scope misunderstanding rather than duplication
+
 ### The Central Post & Logistics Depot
 - Type: civic/service infrastructure; exact institutional/legal classification not re-decided by this recovery
 - Category: Logistics / communications
@@ -103,4 +112,3 @@ These are deliberately not resolved by this recovery because doing so would requ
 
 - `The District Gazette` versus current `Marion Castellano's St. Claire Beacon` — both occupy investigative/public-discourse press territory; the older Gazette also coexisted with the hyperlocal Daily Record. Determine succession, coexistence, or rename before promotion.
 - `The Brass & Bough` — compare its actual niche against current plant/floral businesses before deciding whether it is a distinct business or redundant source proliferation.
-- `Municipal Utilities & Power Substation` — preserve the infrastructure requirement, but current Harriet Osei – St. Claire Reclamation Works already owns major waste/water/energy utility functions. Reconcile the electrical-grid/substation role before creating a separate organization record.
