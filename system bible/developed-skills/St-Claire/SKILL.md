@@ -38,13 +38,16 @@ Use the narrowest established data file that owns the requested fact:
 - `St Claire 04 Households.md` — household structures and established household facts.
 - `St Claire 05 Organizations.md` — primary businesses and organizations, including staffing/ownership where established.
 - `St Claire 05A Recovered Organizations.md` — source-established organizations and civic functions recovered after consolidation dropped them from the maintained Organizations dataset; load alongside 05 for organization/entity resolution.
-- `St Claire 05B Organization Needs.md` — current structural business/organization needs audit. Use it when creating, assessing, or proposing St. Claire businesses so development fills real functional/density gaps rather than duplicating existing institutions.
-- `St Claire 05C Ordinary Commerce Expansion.md` — established ordinary businesses added by the closed-structure audit: household repair/service, laundry, moving, end-of-life, optometry/PT, ordinary retail, fabrication/production, insurance, and additional food/drink density. Load alongside 05 and 05A for organization/entity resolution.
+- `St Claire 05B Organization Needs.md` — current structural business/organization needs audit and stop rule. Use it when creating, assessing, or proposing St. Claire businesses.
+- `St Claire 05C Ordinary Commerce Expansion.md` — established ordinary businesses added by the closed-structure audit: household repair/service, laundry, moving, end-of-life, optometry/PT, ordinary retail, fabrication/production, insurance, and additional food/drink density.
+- `St Claire 05D Density Completion.md` — the final specialty-retail additions used to bring the maintained named organization set to the established minimum density targets.
 - `St Claire 06 Places.md` — locations and physical place records.
 - `St Claire 01 Founding Pioneers.md` and `St Claire 00D History.md` — founding figures and historical timeline.
 - `St Claire 99 MASTER TRACKER.md` — unresolved development items; it does not override settled Concept or Mechanics.
 
-When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, and `St Claire 05C Ordinary Commerce Expansion.md` before concluding that the entity is absent or asking Jim to define it. When the task is to create or assess a new organization, also load `St Claire 05B Organization Needs.md` and prefer an established unmet function over redundant proliferation.
+When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, `St Claire 05C Ordinary Commerce Expansion.md`, and `St Claire 05D Density Completion.md` before concluding that the entity is absent or asking Jim to define it.
+
+When the task is to create or assess a new organization, load `St Claire 05B Organization Needs.md` first. Its current September 2026 audit finds that all tracked destination-density categories meet their minimums and the closed-structure ordinary-year test passes. Therefore do **not** add organizations for generic structural completeness unless a new live audit identifies a real gap, district scale changes, established source is recovered, or a story genuinely needs an unrepresented function.
 
 ## Ambiguity gate
 
