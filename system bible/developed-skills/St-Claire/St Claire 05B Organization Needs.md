@@ -1,16 +1,14 @@
 # St. Claire — Organization Needs
 
-Status: OPERATIONAL STRUCTURAL NEEDS — USE WITH ORGANIZATIONS DATA
+Status: OPERATIONAL STRUCTURAL NEEDS — CURRENT AUDIT SATISFIED
 
-This record tracks organization/business functions that St. Claire still needs for structural completeness. It does not create businesses, names, owners, staff, or canon details. `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, and `St Claire 05C Ordinary Commerce Expansion.md` are the records of established organizations.
+This record tracks organization/business functions that St. Claire needs for structural completeness. Established organizations live in `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, `St Claire 05C Ordinary Commerce Expansion.md`, and `St Claire 05D Density Completion.md`.
 
 ## Governing test
 
 St. Claire is a destination district of roughly 14,500 residents with substantial outside visitor traffic and is also designed as an essentially closed civic/economic structure. Residents should be able to satisfy ordinary life needs internally without routinely leaving the district for mundane necessities.
 
-A missing **function** is a structural need. A provider that exists structurally but has not yet been individually named is not automatically a gap.
-
-Do not generate dozens of fully named businesses merely to satisfy a numeric target. Establish missing functions/slots first; name and instantiate people only when a story needs them or when a recurring structural anchor genuinely needs an identity.
+A missing **function** is a structural need. A provider that exists structurally but has not yet been individually named is not automatically a gap. Do not generate dozens of fully named businesses merely to satisfy a numeric target.
 
 ## Existing density targets
 
@@ -23,57 +21,45 @@ Use the governing targets in `St Claire 00B Rules and Mechanics.md`:
 - Fabrication/workshop/incubator spaces: 10–15
 - Civic/mutual-aid institutions: 10–20 total; safety-net-specific organizations remain only a small subset of the overall organization ecology
 
-Exact current counts must be calculated from the live organization records when needed. Do not preserve stale counts here as current truth.
+## September 2026 density recount
 
-## Current audit result after ordinary-commerce build
+The last complete pre-expansion audit baseline recorded:
 
-The major ordinary-year functional gaps identified in the September 2026 audit have now been structurally filled in `St Claire 05C Ordinary Commerce Expansion.md`.
+- Food/drink: 26
+- Nightlife/social: 10
+- Specialty shops: 21
+- Arts/culture: 10
+- Fabrication/workshop/incubator: 8
 
-### Corrected trade finding
+The ordinary-commerce build in 05C deliberately added:
 
-The audit initially treated electrician, plumber, and HVAC as absent independent functions. A deeper check found that `St. Claire Builders & Co.` already has established Master Electrician Jolene "Jo" Briggs, Master Plumber Siobhan O'Leary, HVAC technician Dulce "Dev" Torres, plus the district's general contractor, roofer, mason, framer, finish carpenter, and painter.
+- 5 food/drink establishments
+- 7 specialty-retail establishments when Clearview Optometry & Eyewear's real optical-retail function is counted alongside the six dedicated retail additions
+- 3 fabrication/production establishments
 
-Those professions were **not missing**. The actual gap was routine household-service access: appliance repair, small maintenance, handyman work, and service calls that should not require treating every leaking faucet as a construction project. `Hearth & Home Service Cooperative` now owns that ordinary-service layer and coordinates licensed master-trade work with Builders when appropriate.
+05D then adds the smallest useful remaining specialty-retail set: Trail & Tide Outfitters and Chord & Key Music.
 
-### Functional gaps now filled
+**Reconciled maintained named-set result:**
 
-The following ordinary-life functions are now explicitly represented:
+- Food/drink: **31** — target 30–50 — **minimum satisfied**
+- Nightlife/social: **10** — target 10–20 — **minimum satisfied**
+- Specialty shops: **30** — target 30–60 — **minimum satisfied**
+- Arts/culture: **10** — target 10–20 — **minimum satisfied**
+- Fabrication/workshop/incubator: **11** — target 10–15 — **minimum satisfied**
 
-- routine household maintenance and appliance repair
-- laundry, wash-dry-fold, and dry-cleaning intake
-- moving and local household/business delivery
-- funeral, memorial, cremation/burial coordination, and end-of-life service
-- optometry, eyewear, contacts, and glasses repair
-- outpatient physical therapy and rehabilitation
-- everyday footwear sales and shoe repair
-- phone/computer/electronics sales, accessories, and repair
-- furniture and mattresses
-- major household appliances, delivery, and installation coordination
-- office/school supplies, copying, printing, binding, and stationery
-- ordinary housewares and household goods
-- ordinary insurance agency/navigation outside the Co-op's direct benefit structure
-- additional professional wood fabrication, metal fabrication, and upholstery/repair production
-- additional ordinary food/drink density across breakfast, pizza/delivery, overnight diner service, café service, and worker-oriented breakfast/lunch
+Civic/mutual-aid was already assessed as healthy rather than deficient, and the recovered-organization pass restored several civic/infrastructure functions. Do not add civic or mutual-aid organizations merely to increase organization count.
 
-### Areas that remain density-sensitive rather than functionally absent
+These numbers are a reconciled recount from the last full baseline plus the explicitly categorized additions made since that baseline. Future changes to 05/05A/05C/05D require a fresh count rather than copying these numbers forward indefinitely.
 
-**Specialty retail:** 05C adds shoes, electronics, furniture, appliances, office supplies, and housewares. This materially improves breadth. Continue to calculate the live category count against the 30–60 target before deciding more named retail is needed.
+## Corrected trade finding
 
-**Food/drink:** 05C adds five ordinary food/drink establishments. Variety and time-of-day coverage are now stronger, including an explicit late-night/overnight food function. Recount live records against the 30–50 target before further expansion.
+`St. Claire Builders & Co.` already has established Master Electrician Jolene "Jo" Briggs, Master Plumber Siobhan O'Leary, HVAC technician Dulce "Dev" Torres, plus the district's general contractor, roofer, mason, framer, finish carpenter, and painter. Those professions were never actually missing.
 
-**Fabrication/workshop/incubator:** 05C adds three production-oriented shops (woodworks, metalworks, upholstery), specifically to add actual productive businesses rather than more incubator institutions. Recount live records against the 10–15 target before further expansion.
+The real gap was routine household-service access: appliance repair, small maintenance, handyman work, and service calls that should not require treating every leaking faucet as a construction project. `Hearth & Home Service Cooperative` in 05C now owns that ordinary-service layer and coordinates licensed master-trade work with Builders when appropriate.
 
-**Trades/home services:** structurally healthy after recognizing Builders' existing master trades and adding the routine household-service layer. Do not create separate plumber/electrician/HVAC companies merely because those job titles do not headline their own organizations.
+## Closed-structure functional result
 
-### Do not inflate mutual aid
-
-Current civic/mutual-aid coverage is healthy. Community infrastructure and ordinary commerce coexist; one must not be used as a substitute for the other.
-
-The Exchange, St. Claire Tool Library, and Fenwick Hardware demonstrate the rule: sharing/swapping, borrowing specialized tools, and purchasing ordinary hardware are three different functions and can all coexist.
-
-## Closed-structure ordinary-year audit
-
-When checking whether St. Claire is functionally complete, test whether a resident could handle an ordinary year internally. Check at minimum:
+The September 2026 ordinary-year audit now has explicit internal coverage for:
 
 - groceries and ordinary household consumables
 - banking, accounting/taxes, insurance, and routine financial services
@@ -88,10 +74,12 @@ When checking whether St. Claire is functionally complete, test whether a reside
 - utilities/power distribution, sanitation, waste processing, and public works
 - funeral/end-of-life services
 - weddings/events and related ordinary services
-- lodging for visitors
+- visitor lodging
 - ordinary recreation, dining, nightlife, arts, and culture
+- outdoor/sporting-goods retail
+- musical-instrument retail, rental, repair, and lessons
 
-If a function is absent, record the functional need before creating a named provider.
+The closed-structure audit therefore finds **no currently demonstrated ordinary-life functional hole requiring another organization**.
 
 ## Infrastructure baseline after recovery
 
@@ -101,11 +89,20 @@ Reclamation Works and Municipal Utilities are distinct: Reclamation Works create
 
 ## Reconciliation items, not needs
 
-Do not count these as missing-function slots until their existing records are reconciled:
+These remain canon-reconciliation questions and are **not** justification for additional businesses:
 
 - District Gazette versus Marion Castellano's St. Claire Beacon — determine succession/coexistence/rename.
 - The Brass & Bough versus current plant/floral businesses — determine whether its source-established niche is genuinely distinct.
 
-## Next audit rule
+## Stop rule
 
-Do not continue adding organizations from this needs file by momentum. The next organization expansion begins with a **fresh live recount and ordinary-year functional check** across 05, 05A, and 05C. If the remaining issue is only that a numeric density target is low, add the smallest useful set of ordinary businesses needed to close it. If no function or target is actually missing, stop.
+**Stop expanding the organization ecology for structural completeness.** All tracked destination-density categories now meet their minimum target, and the ordinary-year functional test currently passes.
+
+Future organizations should be added only when:
+
+1. a story genuinely needs a business or institution not already represented;
+2. a future live audit identifies a real missing function;
+3. district population/visitor scale changes enough to require additional density; or
+4. established source material is recovered and survives conflict/succession checks.
+
+The next St. Claire organization work is therefore **record completeness and staffing realism**, not more business creation.
