@@ -127,6 +127,30 @@ These tests are deliberately small and adversarial. Their purpose is to catch fr
 - Treating the user's failure to type the full canonical proper name as a canonical ambiguity by itself.
 - Choosing arbitrarily among multiple genuinely plausible established candidates instead of invoking the ambiguity gate.
 
+## Test 7 — Establishment staffing initialization and character-creation trigger
+
+**Prompt pattern:** `Initialize a Saturday-afternoon scene at Hearth & Home Service Cooperative.` More generally, initialize any establishment during operating hours when its records do not resolve the personnel required for normal operation.
+
+**Required pre-prose behavior:**
+
+- Load the authoritative establishment, operating-hours, staffing, population, household, and current-state records needed to resolve who should be present.
+- Determine the minimum roles required for normal operation at that date/time.
+- Resolve each required role to complete named characters whose schedules place them there.
+- If any required role resolves only to `staff`, `rotating coverage`, `attendant`, an unnamed employee, an empty roster, or another abstraction, stop before prose and invoke the applicable character-creation/population-integration workflow.
+- Search existing appropriate characters and employment-state data before creating a new resident where the active module requires population-first staffing.
+- Create the necessary complete worker(s) without asking Jim merely to approve routine employee creation under an already-defined operating model.
+- Ask Jim only if the repair exposes a blocking canon decision rather than an ordinary missing-character implementation task.
+- Resolve household/partner obligations created by any new character and write the completed named schedule back to authoritative records before scene generation resumes.
+
+**Failure conditions:**
+
+- Generating a generic employee solely inside the scene.
+- Treating `rotating coverage` or equivalent wording as adequate character resolution.
+- Closing the establishment, changing its hours, reducing its staffing requirement, or borrowing an established character from another job merely to avoid character creation without canonical support.
+- Asking Jim `who works there?` when the existing establishment rules already determine that employees must be created and no consequential choice is required.
+- Creating a worker but leaving that person's required population or household relationships as unresolved placeholders.
+- Repairing the scene only in conversational context without updating the reusable framework/module data.
+
 ## Pass criterion
 
 A fresh session that has only the repository and the test prompt should reach the same required pre-prose decision without relying on conversational memory. If it cannot, routing or governance is still incomplete and the failure should be repaired at the framework/module-entry level rather than patched only in the individual story.
