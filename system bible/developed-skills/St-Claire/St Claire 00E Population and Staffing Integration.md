@@ -22,6 +22,19 @@ For every organization staffing batch, use this order:
 9. Re-run demographic and relationship-structure checks against the aggregate named population after each small batch, not merely against the employees just created.
 10. Update the organization staffing record so a requested day/time resolves to the named people actually scheduled to be there.
 
+## Establishment initialization trigger — mandatory
+
+Whenever a St. Claire scene initializes or substantially uses an establishment whose ordinary operation requires staff, run a staffing-resolution check before prose.
+
+- Resolve the establishment's operating hours and the scene's day/time.
+- Resolve every role required for normal operation at that moment to named scheduled residents.
+- If the establishment has no employees recorded, has only owner/role abstractions, uses unnamed `staff`, `coverage`, `rotation`, `attendant`, or equivalent placeholders, or cannot produce the named people required for that date/time, **do not generate convenience NPCs and do not proceed as though staffing exists.**
+- Invoke this population-first character-creation workflow immediately. Search established residents and employment-state data first; create complete new residents only for genuine remaining vacancies.
+- Ordinary completion of already-defined establishment staffing does not require a separate canon approval from Jim. It is implementation of the existing organization. Ask Jim only when staffing the establishment would require a materially new canon decision about the establishment, an existing person's life, or another blocking ambiguity.
+- Complete every created worker's population and household obligations, then write the named schedule back into the establishment's staffing records before scene generation resumes.
+
+**Operational test:** `Initialize Hearth & Home Service Cooperative on Saturday afternoon.` If the current records cannot name the workers required to operate at that time, the scene must stop at initialization and enter staffing/character creation. `Rotating coverage` is not a person.
+
 ## Household employment dispersion — default rule
 
 For small businesses and ordinary organizations, members of the same household or immediate family normally work in different workplaces.
