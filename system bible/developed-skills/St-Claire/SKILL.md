@@ -34,21 +34,26 @@ Also load `St Claire 00 Concept.md` whenever the scene depends on the meaning, p
 
 Use the narrowest established data file that owns the requested fact:
 
-- `St Claire 03 Population.md` — residents and demographic data.
+- `St Claire 03 Population.md` — primary residents and demographic data.
 - `St Claire 04 Households.md` — household structures and established household facts.
 - `St Claire 05 Organizations.md` — primary businesses and organizations, including staffing/ownership where established.
 - `St Claire 05A Recovered Organizations.md` — source-established organizations and civic functions recovered after consolidation dropped them from the maintained Organizations dataset; load alongside 05 for organization/entity resolution.
 - `St Claire 05B Organization Needs.md` — current structural business/organization needs audit and stop rule. Use it when creating, assessing, or proposing St. Claire businesses.
-- `St Claire 05C Ordinary Commerce Expansion.md` — established ordinary businesses added by the closed-structure audit: household repair/service, laundry, moving, end-of-life, optometry/PT, ordinary retail, fabrication/production, insurance, and additional food/drink density.
-- `St Claire 05D Density Completion.md` — the final specialty-retail additions used to bring the maintained named organization set to the established minimum density targets.
-- `St Claire 05E Scene-Ready Staffing.md` — named, scheduled, fully characterized staff used to make organization scenes resolvable without inventing workers on demand. Load this whenever a scene enters an organization covered there or when auditing whether a business is actually scene-ready.
+- `St Claire 05C Ordinary Commerce Expansion.md` — established ordinary businesses added by the closed-structure audit.
+- `St Claire 05D Density Completion.md` — final specialty-retail additions used to bring the maintained named organization set to the established minimum density targets.
+- `St Claire 05E Scene-Ready Staffing.md` — named, complete scene-ready staffing records beginning with Hearth & Home Service Cooperative.
+- `St Claire 05F Scene-Ready Staffing Batch 2.md` — named, complete scene-ready staffing for Washday Laundry & Cleaners and St. Claire Moving & Delivery.
 - `St Claire 06 Places.md` — locations and physical place records.
 - `St Claire 01 Founding Pioneers.md` and `St Claire 00D History.md` — founding figures and historical timeline.
 - `St Claire 99 MASTER TRACKER.md` — unresolved development items; it does not override settled Concept or Mechanics.
 
-When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, `St Claire 05C Ordinary Commerce Expansion.md`, `St Claire 05D Density Completion.md`, and `St Claire 05E Scene-Ready Staffing.md` before concluding that the entity, owner, manager, or worker is absent or asking Jim to define it.
+### Population and staffing resolution
 
-A staffing slot is not scene-ready merely because a role exists. Where 05E marks an organization scene-ready, use its named schedules and character facts to determine who is actually present. Do not replace a named scheduled worker with an invented convenience character. Where 05E says staffing is incomplete, continue the small-batch staffing process rather than pretending the organization is complete.
+`St Claire 03 Population.md` remains the primary population dataset, but scene-ready staffing is being built in small validated batches as required by Rules & Mechanics. Until those records are physically consolidated into Population, **05E and all later 05-series scene-ready staffing files are also authoritative named-person records** and must be searched for duplicate names, demographics, relationships, schedules, and scene presence. Do not treat a staffing-file person as absent merely because the same record has not yet been copied into 03.
+
+A business is scene-ready only when its ordinary operating coverage resolves to named complete people. An unnamed staffing slot is a development gap, not permission to invent a convenience NPC during prose. At a specified scene date/time, use the established work schedules plus story state to determine who is plausibly present; employees are not permanently installed at their workplaces.
+
+When a scene uses a named establishment, load its Organizations/Places material plus the applicable scene-ready staffing file. When resolving any St. Claire organization, search `St Claire 05 Organizations.md`, `St Claire 05A Recovered Organizations.md`, `St Claire 05C Ordinary Commerce Expansion.md`, and `St Claire 05D Density Completion.md` before concluding that the entity is absent or asking Jim to define it.
 
 When the task is to create or assess a new organization, load `St Claire 05B Organization Needs.md` first. Its current September 2026 audit finds that all tracked destination-density categories meet their minimums and the closed-structure ordinary-year test passes. Therefore do **not** add organizations for generic structural completeness unless a new live audit identifies a real gap, district scale changes, established source is recovered, or a story genuinely needs an unrepresented function.
 
@@ -63,9 +68,9 @@ If Jim establishes that a fact is unknown on page but known in canon, preserve b
 ## Scene workflow
 
 1. Identify the St. Claire locations, institutions, people, and mechanics implicated by the request.
-2. Load Concept/Rules & Mechanics and the relevant structured data files.
-3. If the scene enters a business or institution, load 05E and resolve actual staffing for the scene's day/time before prose.
-4. Run the ambiguity gate against all trigger inputs and consequential character-state facts.
+2. Load Concept/Rules & Mechanics and the relevant structured data files, including scene-ready staffing for a staffed establishment.
+3. Run the ambiguity gate against all trigger inputs and consequential character-state facts.
+4. Resolve named staff and actual schedule coverage for the scene's day/time rather than inventing workers.
 5. If a blocking fact is missing, ask Jim rather than generating prose.
 6. If the canonical fact is known but intentionally unknown on page, generate from the canonical state while preserving character/reader knowledge boundaries.
 7. Keep story-specific outcomes in story state; do not promote them back into this shared module unless Jim explicitly does so.
