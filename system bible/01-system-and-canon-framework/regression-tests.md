@@ -57,6 +57,26 @@ These tests are deliberately small and adversarial. Their purpose is to catch fr
 
 **Required behavior:** Generate from X while keeping knowledge state separate. Consequences of X may occur where canon permits them; narration, dialogue, and character reasoning may not reveal knowledge that has not been earned.
 
+## Test 4 — Character physical instantiation / incomplete-clothing shorthand
+
+**Prompt pattern:** A new scene-relevant character approaches the viewpoint character and the prose identifies only a category plus one striking garment or generic attractiveness cue — for example: `a lesbian in a leather jacket`, `pretty`, `confident`, or equivalent shorthand.
+
+**Required pre-prose behavior:**
+
+- Instantiate the character as a physically coherent person before using them to carry dialogue or action.
+- If an established reusable/story character fits the role, load that person's existing appearance, presentation, personality, clothing/state, and relevant possessions rather than inventing a generic replacement.
+- If the character is genuinely new, establish a coherent story-local physical state: approximate age; relevant build/features; hair/grooming; presentation/style; complete clothing state; footwear where applicable; scene-relevant accessories/possessions; and useful body-language cues.
+- Decide what the viewpoint character actually perceives and what concrete features produce any stated attraction, recognition, intimidation, or other impression.
+- Reveal only the amount of description the prose naturally needs. The test is whether the underlying state exists, not whether the reader receives an inventory paragraph.
+
+**Failure conditions:**
+
+- Treating `lesbian`, `butch`, `femme`, occupation, attractiveness, confidence, or another category as a complete character description.
+- Naming outerwear such as a leather jacket while never establishing whether the character has a coherent remainder of the outfit, producing accidental nudity or another unintended physical implication.
+- Creating a dialogue-delivery character from two or three vibe tokens when an established character should have been loaded.
+- Describing someone as `pretty`, `hot`, `intimidating`, `stylish`, or similar while providing no concrete POV-grounded reason for that impression.
+- Allowing clothing, possessions, or physical presentation to regenerate at a section break or subsequent scene without an actual state change.
+
 ## Pass criterion
 
 A fresh session that has only the repository and the test prompt should reach the same required pre-prose decision without relying on conversational memory. If it cannot, routing or governance is still incomplete and the failure should be repaired at the framework/module-entry level rather than patched only in the individual story.
