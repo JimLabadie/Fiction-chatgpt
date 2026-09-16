@@ -35,30 +35,38 @@ Before continuing prose, lock:
 
 A section break does not advance time, change clothes, move objects, restore energy, resolve embarrassment, or reset relationships.
 
-## Character physical-instantiation gate
+## Character physical-instantiation and early-description gate
 
-A character who enters a scene, becomes scene-relevant, or begins carrying dialogue must exist as a physically coherent person before prose uses that character. A few shorthand signals are not a substitute for instantiation.
+A character who enters a scene, becomes scene-relevant, or begins carrying dialogue must exist as a fully physically coherent person before prose uses that character. A few shorthand signals are not a substitute for instantiation.
 
-Before prose, establish internally from canon or deliberate story-local creation enough of the following to keep the person visually and physically continuous:
+Before prose, establish from canon or deliberate story-local creation a **complete physical baseline and current presentation state**, including:
 
 - canonical or story-local identity and approximate age;
-- body/build and relevant physical features;
-- hair and grooming;
+- height, build, body shape/proportions, and scene-relevant physical features;
+- face, complexion/skin, eyes, hair, and distinguishing features;
+- grooming;
 - presentation and individual style rather than category shorthand alone;
-- complete clothing state appropriate to the scene, including top/outerwear, bottoms or equivalent garment, and footwear where applicable;
-- scene-relevant jewelry, accessories, makeup, glasses, bags, phones, keys, drinks, or other possessions;
-- posture, movement, body language, and other distinguishing physical habits when relevant;
-- what the viewpoint character can actually perceive and what specifically produces attraction, recognition, intimidation, familiarity, or another physical impression.
+- complete current clothing from head to toe as applicable: layers, top/outerwear, bottoms or equivalent garment, underlayers when they materially affect appearance/state, hosiery/socks when relevant, and footwear;
+- jewelry, accessories, makeup or deliberate lack of it where relevant to presentation, glasses, bags, and other visible carried items;
+- scene-relevant possessions such as phone, keys, drink, coat, vehicle, or equipment;
+- posture, movement, body language, voice, and distinguishing physical habits when relevant;
+- what the viewpoint character can actually perceive and what concrete features produce attraction, recognition, intimidation, familiarity, curiosity, or another physical impression.
 
-This is an **internal generation requirement, not a prose-dump requirement**. Finished prose should reveal physical information naturally and at the level the scene needs. It does not need to inventory every garment or body feature in one paragraph. But omitted prose detail must not mean the underlying state was never decided.
+**Complete internal state and complete reader-facing description are both required, but they are not the same thing.** The character's full physical state must be settled before generation. The prose must then give the reader a complete usable picture of a newly introduced scene-relevant character **toward the beginning of that character's presence in the scene**.
 
-When an existing reusable or story character is available, load that character's established appearance, presentation, clothing/state, and personality rather than regenerating the person from a trope or a few generic cues. When a new character is genuinely needed, create a coherent story-local person before using them as a dialogue function.
+“Toward the beginning” does not require a single inventory paragraph. Description should be woven naturally through the character's entrance, first actions, first exchange, and the nearby beats that follow. It may arrive across several sentences or paragraphs. But it may not be deferred so long that the reader spends a substantial scene interacting with a vague body, floating face, single garment, trope, or dialogue voice and only later discovers what the person actually looks like.
+
+A complete usable reader picture normally includes the character's apparent age range, overall body/build, face or distinguishing facial impression, hair/grooming, presentation/style, complete visible outfit including footwear when it can reasonably be perceived, notable accessories, and characteristic physical bearing. Exact measurements or exhaustive microscopic detail are not required unless canon or the scene makes them relevant. The standard is that the reader can visualize the whole person rather than having to invent the missing majority.
+
+When viewpoint matters, description must remain POV-grounded. A viewpoint character need not clinically catalogue another person; instead, concrete observations should accumulate naturally. If the viewpoint character finds someone attractive, striking, intimidating, elegant, awkward, familiar, or otherwise physically notable, the prose must show the observable reasons for that impression rather than substituting the adjective for description. What the viewpoint character notices can also characterize the viewpoint character.
+
+When an existing reusable or story character is available, load that character's established appearance, presentation, clothing/state, and personality rather than regenerating the person from a trope or a few generic cues. When a new character is genuinely needed, create the complete coherent story-local person before using them as a dialogue function.
 
 Do not substitute labels such as `lesbian`, `butch`, `femme`, `executive`, `bartender`, `pretty`, `confident`, `leather jacket`, or similar shorthand for the rest of a human being. Category, occupation, attractiveness, and one striking garment may inform characterization; none of them completes it.
 
-If a scene makes a physical claim that requires an unstated complementary fact — for example, naming outerwear while leaving the rest of the clothing state physically indeterminate — resolve the state before prose rather than allowing the text to imply an accidental or impossible configuration.
+If a scene makes a physical claim that requires an unstated complementary fact — for example, naming outerwear while leaving the rest of the clothing state physically indeterminate — resolve the complete state before prose and describe the person sufficiently early that the text does not imply accidental nudity, impossible clothing, or a visually incomplete character.
 
-The gate applies equally to newly introduced characters and continuing characters. For continuing characters, established state controls: clothing and possessions do not regenerate merely because a new scene or section begins.
+The gate applies equally to newly introduced characters and continuing characters. A continuing character does not need to be re-described from scratch every time the reader already knows the established baseline, but any changed current presentation — clothing, hair, grooming, injury, transformation, accessories, or other visually meaningful state — must be established early enough for the reader to picture the character correctly. Established clothing and possessions do not regenerate merely because a new scene or section begins.
 
 ## Character state model
 
