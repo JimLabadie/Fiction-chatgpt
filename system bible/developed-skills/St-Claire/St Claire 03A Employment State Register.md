@@ -11,36 +11,13 @@ A missing entry here does **not** mean unemployed. Unknown remains unknown.
 
 ## Employment-state vocabulary
 
-Use one of these only when established by evidence:
+Use one of these only when established by evidence: full-time; part-time; self-employed; unemployed-seeking; unemployed-not-seeking; between jobs; student; caregiving; retired; disabled or otherwise not working; other established state; unresolved legacy state.
 
-- full-time
-- part-time
-- self-employed
-- unemployed-seeking
-- unemployed-not-seeking
-- between jobs
-- student
-- caregiving
-- retired
-- disabled or otherwise not working
-- other established state
-- unresolved legacy state
-
-Each entry records:
-
-- **Name**
-- **Occupation/profession**
-- **Current employer/organization**
-- **Employment state**
-- **Work schedule / additional-work availability**
-- **Evidence/source**
-- **Staffing candidate:** yes / no / unresolved
+Each entry records Name, occupation/profession, current employer/organization, employment state, work schedule/additional-work availability, evidence/source, and staffing-candidate status.
 
 ## Population-first rule
 
-Before creating a new employee, search this register, Population, Households, and existing staffing files. Residents explicitly established as unemployed-seeking, between jobs, apprenticeship-seeking, or part-time and seeking more work are considered before a new resident is created.
-
-Do not infer availability from a blank employer, missing schedule, vague occupation, or an old incomplete record.
+Before creating a new employee, search this register, Population, Households, and existing staffing files. Residents explicitly established as unemployed-seeking, between jobs, apprenticeship-seeking, or part-time and seeking more work are considered before a new resident is created. Do not infer availability from a blank employer, missing schedule, vague occupation, or an old incomplete record.
 
 ## Household-dispersion rule
 
@@ -56,142 +33,84 @@ The legacy Population contains many clearly employed residents because their occ
 
 ### Pre-00E staffing batches
 
-Current status: STAFF-COMPLETE / POPULATION-INTEGRATION-PENDING.
+Current status: REPAIR IN PROGRESS.
 
-The employees in 05E, 05F, and 05E2 are clearly employed by their staffing records and therefore are not candidates for other jobs during this repair. Their named partners/household members must be resolved separately.
+05E Hearth & Home household obligations are now resolved through Batches 1–3. The remaining pre-00E businesses in 05F and 05E2 still require population/household integration and coverage audits before scene-ready promotion.
 
-## Initial verified entries
+## Hearth & Home employee entries
 
-**Mara Kessler**
-- Occupation/profession: Residential service technician / cooperative operations lead
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 7:00 AM–3:30 PM plus established emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Mara Kessler** — Residential service technician / operations lead; Hearth & Home Service Cooperative; full-time; Mon–Fri 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Lena Ortiz**
-- Occupation/profession: Service dispatcher/coordinator
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 7:00 AM–3:00 PM plus first Saturday monthly; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Lena Ortiz** — Lead dispatcher; Hearth & Home Service Cooperative; full-time; Mon–Fri 7:00–3:00 plus first Saturday monthly; staffing candidate: no.
 
-**Nia Okafor**
-- Occupation/profession: Service dispatcher/coordinator
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 11:00 AM–7:00 PM plus alternating Saturday coverage; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Nia Okafor** — Dispatcher/scheduling coordinator; Hearth & Home Service Cooperative; full-time; Mon–Fri 11:00–7:00 plus alternating Saturday coverage; staffing candidate: no.
 
-**June Park**
-- Occupation/profession: Appliance-repair technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Tuesday–Saturday 7:00 AM–3:30 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**June Park** — Appliance-repair technician; Hearth & Home Service Cooperative; full-time; Tue–Sat 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Tessa Vale**
-- Occupation/profession: Appliance-repair technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Tuesday–Saturday 7:00 AM–3:30 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Tessa Vale** — Appliance-repair technician; Hearth & Home Service Cooperative; full-time; Tue–Sat 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Robin Shah**
-- Occupation/profession: General maintenance technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 7:00 AM–3:30 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Robin Shah** — General maintenance technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Celia Morgan**
-- Occupation/profession: Residential maintenance technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 7:00 AM–3:30 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Celia Morgan** — Residential maintenance technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Sofia Rinaldi**
-- Occupation/profession: Finish-repair and fixture technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 7:00 AM–3:30 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Sofia Rinaldi** — Finish-repair/fixture technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Avery Brooks**
-- Occupation/profession: Fixture and residential repair technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 7:00 AM–3:30 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Avery Brooks** — Fixture/residential repair technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 7:00–3:30 plus emergency rotation; staffing candidate: no.
 
-**Imani Cole**
-- Occupation/profession: Residential diagnostic technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 10:30 AM–7:00 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Imani Cole** — Residential diagnostic technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 10:30–7:00 plus emergency rotation; staffing candidate: no.
 
-**Erin Walsh**
-- Occupation/profession: Appliance and residential systems technician
-- Current employer/organization: Hearth & Home Service Cooperative
-- Employment state: full-time
-- Work schedule / additional-work availability: Monday–Friday 10:30 AM–7:00 PM plus emergency rotation; not an open staffing candidate
-- Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
-- Staffing candidate: no
+**Erin Walsh** — Appliance/residential systems technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 10:30–7:00 plus emergency rotation; staffing candidate: no.
 
-## Hearth & Home household-member resolution audit
+**Grace Mendoza** — Accessibility/aging-in-place maintenance technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 10:30–7:00 plus emergency rotation; staffing candidate: no.
 
-The pre-00E staffing pass created eleven partner names. Exact-name repository searches classify them before any new character data is invented.
+**Quinn Foster** — Accessibility/residential maintenance technician; Hearth & Home Service Cooperative; full-time; Mon–Fri 10:30–7:00 plus emergency rotation; staffing candidate: no.
 
-### Confirmed unresolved names
+**Dani Foster** — General residential maintenance technician; Hearth & Home Service Cooperative; full-time; Tue–Sat 10:30–7:00 plus emergency rotation; staffing candidate: no.
 
-The following exact names resolve only to their 05E relationship mention (apart from this audit/register). They therefore represent genuinely incomplete people introduced by the staffing pass, not established residents whose facts may be freely overwritten:
+**Yasmin Haddad** — Residential maintenance technician; Hearth & Home Service Cooperative; full-time; Tue–Sat 10:30–7:00 plus emergency rotation; staffing candidate: no.
 
-- Elise Navarro — partner of Mara Kessler
-- Morgan Bell — partner of Lena Ortiz
-- Rachel Kim — partner of June Park
-- Holly Mercer — partner of Tessa Vale
-- Dana Price — partner of Robin Shah
-- Mei Alvarez — partner of Robin Shah
-- Corinne Blake — partner of Robin Shah
-- Naomi Feld — partner of Sofia Rinaldi
-- Keisha Ward — partner of Avery Brooks
-- Felicia Grant — partner of Imani Cole
+Evidence/source for all Hearth & Home employee entries: `St Claire 05E Scene-Ready Staffing.md`.
 
-Their employment states remain unresolved. None is assumed unemployed and none is automatically assigned to a business.
+## Hearth & Home resolved household members
 
-### Resolved accidental identity collision — Priya Desai
+These entries close the former unresolved partner queue. Their complete resident records live in Household Population Integration Batches 1–3.
 
-05E names `Priya Desai` as one of Lena Ortiz's partners. The maintained St. Claire data already contains **Priya Desai-Nakamura**, a distinct established resident with a single (not seeking) household at Anchor Point and an established job as Member Services Coordinator at The Common Table.
+**Elise Navarro** — independent bookkeeping/payroll specialist; self-employed full-time equivalent; not a staffing candidate. Source: 03B.
 
-**Jim's decision:** the 05E `Priya Desai` reference is an accidental name collision. It does **not** refer to Priya Desai-Nakamura. Priya Desai-Nakamura's established identity, household, relationship status, and employment remain unchanged.
+**Priya Sethi** — municipal records/permits analyst; full-time; not a staffing candidate. Clean non-colliding partner identity replacing invalid `Priya Desai` residue. Source: 03B.
 
-The accidental `Priya Desai` name in Lena Ortiz's triad is therefore invalid staffing-generation residue. Lena remains established as being in a triad, but this partner requires a non-colliding identity during household completion. No replacement name or additional character facts are canon merely by implication; they are created through the normal small-batch population process.
+**Morgan Bell** — independent audio producer/editor; self-employed full-time equivalent; not a staffing candidate. Source: 03B.
 
-### Near-name search discipline
+**Rachel Kim** — community-based occupational therapist; full-time; not a staffing candidate. Source: 03B.
 
-Other searches returned unrelated residents sharing first or last names — e.g. Morgan Yu, Corinne Vasquez, Naomi Kincaid, Doris Feldman — but no evidence identifies them as the 05E partners. Similar names are not merged without evidence.
+**Holly Mercer** — bicycle mechanic/commuter-cycling instructor; full-time; not a staffing candidate. Source: 03B.
+
+**Dana Price** — residential property claims adjuster; full-time; not a staffing candidate. Source: 03C.
+
+**Mei Alvarez** — collections registrar/archival technician, St. Claire Museum of Queer History & Regional Archives; full-time; not a staffing candidate. Source: 03C.
+
+**Corinne Blake** — licensed clinical social worker/outpatient therapist; self-employed; not a staffing candidate. Source: 03C.
+
+**Naomi Feld** — bookseller/inventory and events manager, Open Page; full-time; not a staffing candidate. Source: 03C.
+
+**Keisha Ward** — grants/development manager, St. Claire Museum of Queer History & Regional Archives; full-time; not a staffing candidate. Source: 03C.
+
+**Felicia Grant** — high-school guidance/college-career counselor, St. Claire public school system; full-time; not a staffing candidate. Source: 03D.
+
+**Maya Grant-Cole** — student; minor; no adult staffing availability. Source: 03D.
+
+**Zoe Grant-Cole** — student; minor; no adult staffing availability. Source: 03D.
+
+## Protected identity record
+
+**Priya Desai-Nakamura** remains a distinct established resident. The accidental 05E `Priya Desai` collision was resolved by Jim as staffing-generation residue. Priya Desai-Nakamura's established single/not-seeking household and Member Services Coordinator role at The Common Table are unchanged.
 
 ## Hearth & Home integration status
 
-- Employee employment states: PARTIALLY MIGRATED — verified entries above.
-- Household partners: 10 genuinely incomplete names plus 1 partner identity requiring a clean replacement after accidental collision resolution.
-- Priya Desai-Nakamura: PROTECTED ESTABLISHED RESIDENT — no change.
-- Same-small-business household clustering: no partner is currently established as another Hearth & Home employee.
-- Population integration: IN PROGRESS — identity collision resolved; household completion remains.
-- Scene-ready promotion: NOT YET.
-
-## Next migration action
-
-Complete the missing household members in small demographic-checked batches, including a clean non-colliding identity for Lena Ortiz's unnamed third triad member. For each person: preserve all established relationship facts; assign a separate occupation/employment state and routine consistent with St. Claire's existing economic ecology; avoid same-small-business household clustering absent a specific reason; create/repair the household record; then repeat the audit against Population, Households, Organizations, and this register.
+- Employee employment states: COMPLETE FOR 05E — all 15 named Hearth & Home workers are represented above.
+- Household partner/dependent obligations created by 05E: COMPLETE through 03B/03C/03D.
+- Priya collision: RESOLVED; protected established resident unchanged.
+- Same-small-business household clustering: PASS — none of the repaired partners/dependents was assigned to Hearth & Home.
+- Open staffing candidates manufactured during repair: 0.
+- Legacy Population employment-state migration: still incomplete globally; this does not erase the requirement to audit actual available residents before future new staffing.
+- Hearth & Home final promotion: depends on the separate final consistency/coverage audit in 05G; household resolution itself is no longer blocking.
