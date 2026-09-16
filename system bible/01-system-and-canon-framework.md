@@ -50,6 +50,21 @@ This gate is a pre-generation control. It should normally be invisible in finish
 
 Regression tests for this rule live in [`01-system-and-canon-framework/regression-tests.md`](01-system-and-canon-framework/regression-tests.md).
 
+## Establishment staffing initialization gate
+
+When a scene initializes or substantially uses a named establishment, organization, business, institution, service point, or other location whose ordinary operation requires personnel, resolve its staffing before prose generation.
+
+1. Load the authoritative establishment record, operating hours, staffing records, and current story date/time/state.
+2. Determine the minimum roles and coverage required for the establishment to operate normally at that moment.
+3. Resolve those roles to established named characters and their schedules. Do not substitute an unnamed clerk, bartender, receptionist, technician, server, guard, manager, or other convenience NPC merely because the scene needs someone to perform a function.
+4. If required operational roles cannot resolve to complete named characters, **pause scene generation and invoke the applicable character-creation/population-integration workflow before the establishment is used.** Missing ordinary employees are a framework completion task, not permission for invisible staffing.
+5. Character creation under already-established staffing requirements is ordinary framework implementation and does not require Jim to approve each employee individually. Search/reuse existing appropriate characters first where the governing module requires it, then create only the unresolved people necessary for realistic coverage.
+6. If filling the staffing gap would require a genuine canon choice — such as changing the establishment's nature, ownership, operating model, required headcount, an established character's career or relationship, or another materially consequential fact — use the ambiguity gate and ask Jim rather than choosing silently.
+7. Every newly created character must satisfy the active character schema and applicable population/household rules. A newly named partner, household member, dependent, or other person creates the corresponding completion obligation; solving an Employee-Shaped Object must not create a Partner-Shaped Object.
+8. After completion, update the authoritative staffing/current-state records so the same establishment/date/time can resolve directly on later use. Do not make the scene depend on conversational memory of the repair.
+
+This gate applies whether the establishment is the scene destination, background workplace, service provider, or incidental stop. It does not require exhaustive staffing for people who cannot materially be present or relevant, but every role required to make the establishment operational at the initialized date/time must resolve to real named characters.
+
 ## Repository inclusion rule
 
 Reusable material belongs even when it is highly specific. Named people, detailed biographies, buildings, companies, histories, inventories, institutions, and social structures remain in the library when they are intended to recur or be available across stories. The test is intended cross-story reuse, not whether the material resembles story content.
