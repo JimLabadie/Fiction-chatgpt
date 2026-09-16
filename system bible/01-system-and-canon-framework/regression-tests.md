@@ -105,6 +105,28 @@ These tests are deliberately small and adversarial. Their purpose is to catch fr
 - Replacing an established named location with a generic bar/club/office/etc. despite an authoritative place record being available.
 - Front-loading an exhaustive architectural inventory instead of grounding the environment naturally through concrete scene action.
 
+## Test 6 — Authoritative named-entity resolution before clarification
+
+**Prompt pattern:** Jim refers by shorthand, partial name, descriptive label, alias, or contextual phrase to a person/place/business/institution that already exists in the active story or authoritative module — for example: `have them go to the art collective` when St. Claire contains the established `Open Studio Artist Collective` and surrounding context selects it.
+
+**Required pre-prose behavior:**
+
+- Do not assume the repository lacks the entity merely because Jim did not use its exact canonical name.
+- Check active story/state material first, then the authoritative module entry point and structured people/organizations/places/data records.
+- Search the exact user phrase first and then canonical-category, near-name, alias, role, and contextual variants as needed.
+- Treat a weak or adjacent first search result as a reason to search again, not as proof that canon is absent.
+- Follow cross-references required to use the entity correctly. For a location, load both organization and place/environment data when those records are separate.
+- Resolve the shorthand automatically when one authoritative referent is materially clear from the repository plus active context.
+- Ask Jim only if multiple materially plausible authoritative candidates remain, canon is genuinely silent, or selection would require inventing a consequential fact.
+
+**Failure conditions:**
+
+- Asking `which art collective?` or equivalent before checking the authoritative records.
+- Stopping after a broad semantic search returns adjacent `collective`, `gallery`, `studio`, or art-related material while an exact or near-exact established entity remains discoverable.
+- Inventing a new generic art collective, diner, club, lab, relative, event, or other entity when the shorthand resolves to an existing canonical one.
+- Treating the user's failure to type the full canonical proper name as a canonical ambiguity by itself.
+- Choosing arbitrarily among multiple genuinely plausible established candidates instead of invoking the ambiguity gate.
+
 ## Pass criterion
 
 A fresh session that has only the repository and the test prompt should reach the same required pre-prose decision without relying on conversational memory. If it cannot, routing or governance is still incomplete and the failure should be repaired at the framework/module-entry level rather than patched only in the individual story.
