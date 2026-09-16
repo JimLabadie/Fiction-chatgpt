@@ -36,6 +36,27 @@ Before continuing prose, lock:
 
 A section break does not advance time, change clothes, move objects, restore energy, resolve embarrassment, reset relationships, rearrange a room, remove furniture, refill a drink, or teleport a character or possession.
 
+## Authoritative named-entity resolution gate
+
+Before asking Jim to identify, define, choose, or clarify a referenced person, place, business, institution, group, object, program, event, or other named or recognizable world entity, first determine whether the repository already resolves the reference.
+
+This gate applies not only to exact proper names but also to ordinary shorthand, partial names, descriptive references, aliases, and context-dependent phrases such as `the art collective`, `the diner`, `her aunt`, `the lab`, `the estate`, or `the gala` when the active story/world context may make one established entity the intended referent.
+
+Required resolution sequence:
+
+1. Check the active story state, Character Bible, Timeline, and immediately governing story material for an already established referent.
+2. Check the authoritative shared-world/module entry point and its structured people/organizations/places/data files.
+3. Search exact phrase/name matches first, then near-name, alias, category, role, and contextual matches when the exact wording is not the canonical record name.
+4. Follow authoritative cross-references needed to instantiate the entity correctly. For a named location, this can require both its Organization record and Place record; for a person, the population/character record and current story state may both matter.
+5. Use surrounding conversational/story context to disambiguate among repository candidates only when that context makes the intended referent materially clear and does not require inventing a missing canonical fact.
+6. Ask Jim only if multiple materially plausible authoritative candidates remain, the repository is genuinely silent, or choosing among candidates would require inventing a consequential fact.
+
+A weak first search result is not evidence that canon is absent. Do not stop after broad semantic search returns adjacent concepts. Retry with the user's exact wording, canonical category terms, likely aliases, and the active module's structured records before declaring the reference missing or ambiguous.
+
+Do not replace an established entity with a newly invented generic equivalent merely because the user used shorthand rather than its full canonical name. Conversely, do not force a repository match when context genuinely supports multiple candidates; that is a real ambiguity and belongs at the ambiguity gate.
+
+The purpose is **retrieval before invention and retrieval before interrogation**: if Jim already did the work and the repository contains the answer, use it.
+
 ## Character physical-instantiation and early-description gate
 
 The trigger is the **reader's first substantial encounter with a character**, not merely the character physically entering a scene. This includes the viewpoint character, a character already present when the scene opens, and any other person who becomes scene-relevant or begins carrying dialogue/action.
@@ -92,7 +113,7 @@ For every substantial scene, establish from canon or deliberate story-local crea
 
 **The reader must receive a usable sense of place toward the beginning of the scene.** As with character description, this does not require a static room inventory. Ground the setting through action and perception: a boot hooks a brass stool rail; condensation wets a coaster; bass comes through the concrete floor; a bartender reaches across a particular counter; purple light catches a bottle; a character has to angle around another stool to approach. Description and action should prove that the characters occupy a real space.
 
-Do not use generic venue labels as substitutes for environment. `bar`, `bedroom`, `office`, `restaurant`, `street`, `house`, `club`, or `kitchen` names a category; it does not instantiate the location. If an authoritative place/module already defines the environment, load and use it rather than rebuilding a generic version.
+Do not use generic venue labels as substitutes for environment. `bar`, `bedroom`, `office`, `restaurant`, `street`, `house`, `club`, or `kitchen` names a category; it does not instantiate the location. If an authoritative place/module already defines the environment, load and use it rather than rebuilding a generic version. Resolve shorthand or partial location references through the authoritative named-entity resolution gate before concluding that no such location is established.
 
 Objects must have continuity and causal reality. A character cannot drink from an unestablished glass, sit on an unestablished stool, put a phone into a pocket that their clothing does not have, set a bag down nowhere, cross a room with no spatial relationship, or interact with décor/furniture that appears only at the instant the prose needs it. Ordinary objects need not receive elaborate introductions, but the scene model must contain them and the prose must establish them naturally when they become perceptually or causally relevant.
 
