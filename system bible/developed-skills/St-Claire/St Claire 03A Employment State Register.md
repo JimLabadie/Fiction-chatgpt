@@ -150,12 +150,15 @@ The employees in 05E, 05F, and 05E2 are clearly employed by their staffing recor
 - Evidence/source: `St Claire 05E Scene-Ready Staffing.md`
 - Staffing candidate: no
 
-## Unresolved household-member queue — Hearth & Home
+## Hearth & Home household-member resolution audit
 
-The following names were introduced as household/relationship facts in 05E and require resolution against Population and Households before the Hearth & Home batch can clear population integration. They are **not** assumed unemployed and are **not** automatically candidates for Hearth & Home or any other business:
+The pre-00E staffing pass created eleven partner names. Exact-name repository searches now classify them before any new character data is invented.
+
+### Confirmed unresolved names
+
+The following exact names resolve only to their 05E relationship mention (apart from this audit/register). They therefore represent genuinely incomplete people introduced by the staffing pass, not established residents whose facts may be freely overwritten:
 
 - Elise Navarro — partner of Mara Kessler
-- Priya Desai — partner of Lena Ortiz
 - Morgan Bell — partner of Lena Ortiz
 - Rachel Kim — partner of June Park
 - Holly Mercer — partner of Tessa Vale
@@ -166,8 +169,31 @@ The following names were introduced as household/relationship facts in 05E and r
 - Keisha Ward — partner of Avery Brooks
 - Felicia Grant — partner of Imani Cole
 
-Repository search currently finds Elise Navarro only in the 05E staffing record, demonstrating the kind of unresolved Partner-Shaped Object this audit is intended to eliminate. Each queued person must either resolve to an existing authoritative record or receive a complete person/household/employment record in a small checked batch.
+Their employment states remain unresolved. None is assumed unemployed and none is automatically assigned to a business.
+
+### Blocking identity collision — Priya Desai
+
+05E names `Priya Desai` as one of Lena Ortiz's partners. The maintained St. Claire data already contains **Priya Desai-Nakamura**, a distinct established resident with:
+
+- a single (not seeking) household at Anchor Point in `St Claire 04 Households.md`; and
+- an established job as Member Services Coordinator at The Common Table in `St Claire 05 Organizations.md`.
+
+The staffing-created shorthand `Priya Desai` cannot silently be treated as Priya Desai-Nakamura because that would overwrite an established single/not-seeking relationship state. It also cannot silently be declared a different person merely because 05E omitted the second surname. This is a genuine identity ambiguity under the framework's ambiguity gate.
+
+**Repair status:** BLOCKED PENDING JIM DECISION — determine whether Lena's partner was intended to be a new distinct Priya Desai (in which case the duplicate/near-duplicate name should likely be repaired before character completion) or whether the staffing pass accidentally collided with Priya Desai-Nakamura (in which case Lena's triad fact must be repaired rather than rewriting Priya Desai-Nakamura's established household).
+
+### Near-name search discipline
+
+Other searches returned unrelated residents sharing first or last names — e.g. Morgan Yu, Corinne Vasquez, Naomi Kincaid, Doris Feldman — but no evidence identifies them as the 05E partners. Similar names are not merged without evidence.
+
+## Hearth & Home integration status
+
+- Employee employment states: PARTIALLY MIGRATED — verified entries above.
+- Household partners: 10 genuinely incomplete names; 1 blocking identity collision (`Priya Desai`).
+- Same-small-business household clustering: no partner is currently established as another Hearth & Home employee.
+- Population integration: BLOCKED by the Priya identity ambiguity plus completion of the ten genuine partner records.
+- Scene-ready promotion: NOT YET.
 
 ## Next migration action
 
-Resolve the Hearth & Home household-member queue first. For each person: search Population and Households; preserve established facts; determine employment state only from evidence; create missing complete records where genuinely absent; distribute employment across St. Claire's existing economic ecology; then perform same-small-business household clustering check before marking Hearth & Home population-integrated.
+Once the Priya identity ambiguity is resolved, complete the genuine missing household members in small demographic-checked batches. For each person: preserve all established relationship facts; assign a separate occupation/employment state and routine consistent with St. Claire's existing economic ecology; avoid same-small-business household clustering absent a specific reason; create/repair the household record; then repeat the audit against Population, Households, Organizations, and this register.
