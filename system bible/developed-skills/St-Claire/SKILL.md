@@ -38,11 +38,12 @@ Use the narrowest established data file that owns the requested fact:
 - `St Claire 04 Households.md` — household structures and established household facts.
 - `St Claire 05 Organizations.md` — businesses and organizations, including staffing/ownership where established.
 - `St Claire 05A Recovered Organizations.md` — source-established organizations and civic functions recovered after consolidation dropped them from the maintained Organizations dataset; load alongside `St Claire 05 Organizations.md` for organization/entity resolution until the recovered records are fully consolidated.
+- `St Claire 05B Organization Needs.md` — current structural business/organization needs audit. Use it when creating, assessing, or proposing St. Claire businesses so new development fills real functional/density gaps rather than duplicating existing institutions.
 - `St Claire 06 Places.md` — locations and physical place records.
 - `St Claire 01 Founding Pioneers.md` and `St Claire 00D History.md` — founding figures and historical timeline.
 - `St Claire 99 MASTER TRACKER.md` — unresolved development items; it does not override settled Concept or Mechanics.
 
-When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search both `St Claire 05 Organizations.md` and `St Claire 05A Recovered Organizations.md` before concluding that the entity is absent or asking Jim to define it.
+When a scene uses a named establishment such as Blush, load its Organizations/Places material in addition to any mechanics implicated by the character or event. When resolving any St. Claire organization, search both `St Claire 05 Organizations.md` and `St Claire 05A Recovered Organizations.md` before concluding that the entity is absent or asking Jim to define it. When the task is to create or assess a new organization, also load `St Claire 05B Organization Needs.md` and prefer an established unmet function over redundant proliferation.
 
 ## Ambiguity gate
 
