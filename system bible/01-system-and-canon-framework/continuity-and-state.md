@@ -26,18 +26,21 @@ Before continuing prose, lock:
 - viewpoint character, tense, and POV mode;
 - characters present and absent;
 - clothing, grooming, appearance, injury, fatigue, hunger, intoxication, and other physical state;
-- objects in hand, possessions, vehicles, rooms, and access permissions;
+- objects in hand, possessions, vehicles, rooms, furniture, fixtures, surfaces, and access permissions;
+- ambient physical conditions such as lighting, sound, temperature, weather, crowding, smell, and other sensory conditions where relevant;
 - what each character knows, believes, misunderstands, and conceals;
 - promises, appointments, travel requirements, unfinished conversations, and immediate plans;
 - relationship closeness, tension, consent, and unresolved emotional developments;
 - transformation baseline, completed changes, changes in progress, temporary effects, and permanent effects;
 - the preceding scene's emotional temperature and natural next action.
 
-A section break does not advance time, change clothes, move objects, restore energy, resolve embarrassment, or reset relationships.
+A section break does not advance time, change clothes, move objects, restore energy, resolve embarrassment, reset relationships, rearrange a room, remove furniture, refill a drink, or teleport a character or possession.
 
 ## Character physical-instantiation and early-description gate
 
-A character who enters a scene, becomes scene-relevant, or begins carrying dialogue must exist as a fully physically coherent person before prose uses that character. A few shorthand signals are not a substitute for instantiation.
+The trigger is the **reader's first substantial encounter with a character**, not merely the character physically entering a scene. This includes the viewpoint character, a character already present when the scene opens, and any other person who becomes scene-relevant or begins carrying dialogue/action.
+
+Every such character must exist as a fully physically coherent person before prose uses them. A few shorthand signals are not a substitute for instantiation.
 
 Before prose, establish from canon or deliberate story-local creation a **complete physical baseline and current presentation state**, including:
 
@@ -52,11 +55,13 @@ Before prose, establish from canon or deliberate story-local creation a **comple
 - posture, movement, body language, voice, and distinguishing physical habits when relevant;
 - what the viewpoint character can actually perceive and what concrete features produce attraction, recognition, intimidation, familiarity, curiosity, or another physical impression.
 
-**Complete internal state and complete reader-facing description are both required, but they are not the same thing.** The character's full physical state must be settled before generation. The prose must then give the reader a complete usable picture of a newly introduced scene-relevant character **toward the beginning of that character's presence in the scene**.
+**Complete internal state and complete reader-facing description are both required, but they are not the same thing.** The character's full physical state must be settled before generation. The prose must then give the reader a complete usable picture **toward the beginning of the reader's first substantial encounter with that character**.
 
-“Toward the beginning” does not require a single inventory paragraph. Description should be woven naturally through the character's entrance, first actions, first exchange, and the nearby beats that follow. It may arrive across several sentences or paragraphs. But it may not be deferred so long that the reader spends a substantial scene interacting with a vague body, floating face, single garment, trope, or dialogue voice and only later discovers what the person actually looks like.
+“Toward the beginning” does not require a single inventory paragraph. Description should be woven naturally through the opening/entrance, first actions, first exchange, and nearby beats. It may arrive across several sentences or paragraphs. But it may not be deferred so long that the reader spends a substantial scene interacting with a vague body, floating face, single garment, trope, or dialogue voice and only later discovers what the person actually looks like.
 
 A complete usable reader picture normally includes the character's apparent age range, overall body/build, face or distinguishing facial impression, hair/grooming, presentation/style, complete visible outfit including footwear when it can reasonably be perceived, notable accessories, and characteristic physical bearing. Exact measurements or exhaustive microscopic detail are not required unless canon or the scene makes them relevant. The standard is that the reader can visualize the whole person rather than having to invent the missing majority.
+
+The viewpoint character is not exempt merely because the narration originates inside that character. On the reader's first substantial encounter with a POV character, establish that character's own physical presence and current presentation early and naturally. Mirrors, self-inventory, or unnatural self-observation are not required; use action, clothing interaction, spatial relationships, other characters' reactions, ordinary self-awareness, and other natural POV-compatible methods.
 
 When viewpoint matters, description must remain POV-grounded. A viewpoint character need not clinically catalogue another person; instead, concrete observations should accumulate naturally. If the viewpoint character finds someone attractive, striking, intimidating, elegant, awkward, familiar, or otherwise physically notable, the prose must show the observable reasons for that impression rather than substituting the adjective for description. What the viewpoint character notices can also characterize the viewpoint character.
 
@@ -67,6 +72,31 @@ Do not substitute labels such as `lesbian`, `butch`, `femme`, `executive`, `bart
 If a scene makes a physical claim that requires an unstated complementary fact — for example, naming outerwear while leaving the rest of the clothing state physically indeterminate — resolve the complete state before prose and describe the person sufficiently early that the text does not imply accidental nudity, impossible clothing, or a visually incomplete character.
 
 The gate applies equally to newly introduced characters and continuing characters. A continuing character does not need to be re-described from scratch every time the reader already knows the established baseline, but any changed current presentation — clothing, hair, grooming, injury, transformation, accessories, or other visually meaningful state — must be established early enough for the reader to picture the character correctly. Established clothing and possessions do not regenerate merely because a new scene or section begins.
+
+## Scene physical-instantiation and environmental grounding gate
+
+Characters do not meet, talk, move, drink, sit, touch, look, or react on an empty plane of existence. Before prose, instantiate the physical scene as deliberately as the people in it.
+
+For every substantial scene, establish from canon or deliberate story-local creation the usable physical environment, including as applicable:
+
+- exact location and the relevant part of that location;
+- room/space shape, scale, layout, entrances/exits, and meaningful sightlines;
+- furniture, fixtures, counters, tables, stools/chairs, walls, floors, doors, windows, rails, shelves, stages, booths, equipment, or other structures characters can perceive or interact with;
+- where each present character is positioned relative to those objects and to one another;
+- objects already present and their state: glasses, bottles, menus, napkins, phones, bags, coats, dishes, keys, receipts, ashtrays where appropriate, décor, signage, or other scene-specific items;
+- lighting and visible color/texture;
+- sound and its physical source;
+- temperature, airflow, weather exposure, smell, crowd density, movement, and other useful sensory conditions;
+- practical pathways and constraints: how someone approaches, sits, leaves, reaches the restroom, gets a drink, sees another person, hears speech, or crosses the space;
+- changes caused during the scene: moved chairs, emptied drinks, discarded labels, wet coats, opened doors, shifted bags, broken objects, spilled liquid, or anything else that should persist.
+
+**The reader must receive a usable sense of place toward the beginning of the scene.** As with character description, this does not require a static room inventory. Ground the setting through action and perception: a boot hooks a brass stool rail; condensation wets a coaster; bass comes through the concrete floor; a bartender reaches across a particular counter; purple light catches a bottle; a character has to angle around another stool to approach. Description and action should prove that the characters occupy a real space.
+
+Do not use generic venue labels as substitutes for environment. `bar`, `bedroom`, `office`, `restaurant`, `street`, `house`, `club`, or `kitchen` names a category; it does not instantiate the location. If an authoritative place/module already defines the environment, load and use it rather than rebuilding a generic version.
+
+Objects must have continuity and causal reality. A character cannot drink from an unestablished glass, sit on an unestablished stool, put a phone into a pocket that their clothing does not have, set a bag down nowhere, cross a room with no spatial relationship, or interact with décor/furniture that appears only at the instant the prose needs it. Ordinary objects need not receive elaborate introductions, but the scene model must contain them and the prose must establish them naturally when they become perceptually or causally relevant.
+
+Environmental description should not become architectural sludge. Apply Pencil: establish enough concrete, specific reality for the reader to inhabit the place and for actions to have physical meaning. The goal is not exhaustive inventory; it is **complete usable scene geometry, object continuity, sensory grounding, and causal coherence**.
 
 ## Character state model
 
