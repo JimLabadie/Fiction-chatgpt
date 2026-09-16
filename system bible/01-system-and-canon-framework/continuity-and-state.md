@@ -35,6 +35,31 @@ Before continuing prose, lock:
 
 A section break does not advance time, change clothes, move objects, restore energy, resolve embarrassment, or reset relationships.
 
+## Character physical-instantiation gate
+
+A character who enters a scene, becomes scene-relevant, or begins carrying dialogue must exist as a physically coherent person before prose uses that character. A few shorthand signals are not a substitute for instantiation.
+
+Before prose, establish internally from canon or deliberate story-local creation enough of the following to keep the person visually and physically continuous:
+
+- canonical or story-local identity and approximate age;
+- body/build and relevant physical features;
+- hair and grooming;
+- presentation and individual style rather than category shorthand alone;
+- complete clothing state appropriate to the scene, including top/outerwear, bottoms or equivalent garment, and footwear where applicable;
+- scene-relevant jewelry, accessories, makeup, glasses, bags, phones, keys, drinks, or other possessions;
+- posture, movement, body language, and other distinguishing physical habits when relevant;
+- what the viewpoint character can actually perceive and what specifically produces attraction, recognition, intimidation, familiarity, or another physical impression.
+
+This is an **internal generation requirement, not a prose-dump requirement**. Finished prose should reveal physical information naturally and at the level the scene needs. It does not need to inventory every garment or body feature in one paragraph. But omitted prose detail must not mean the underlying state was never decided.
+
+When an existing reusable or story character is available, load that character's established appearance, presentation, clothing/state, and personality rather than regenerating the person from a trope or a few generic cues. When a new character is genuinely needed, create a coherent story-local person before using them as a dialogue function.
+
+Do not substitute labels such as `lesbian`, `butch`, `femme`, `executive`, `bartender`, `pretty`, `confident`, `leather jacket`, or similar shorthand for the rest of a human being. Category, occupation, attractiveness, and one striking garment may inform characterization; none of them completes it.
+
+If a scene makes a physical claim that requires an unstated complementary fact — for example, naming outerwear while leaving the rest of the clothing state physically indeterminate — resolve the state before prose rather than allowing the text to imply an accidental or impossible configuration.
+
+The gate applies equally to newly introduced characters and continuing characters. For continuing characters, established state controls: clothing and possessions do not regenerate merely because a new scene or section begins.
+
 ## Character state model
 
 Each character entry preserves an original baseline and a separate current state. Never rewrite the baseline to make later development look inevitable.
