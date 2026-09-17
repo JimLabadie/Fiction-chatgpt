@@ -1,0 +1,15 @@
+# Relevant Information — 450-Word Summary
+
+Steve and Chloe return from dancing to find Nat, Tori, Sofia, and Maddie behaving suspiciously normally. Their teasing quickly becomes another affectionate interrogation, this time about Steve’s older sister Brittney. While bantering with the group, Steve accidentally distinguishes Chloe from the other four as no longer quite a stranger, then awkwardly tries to walk the admission back.
+
+Remembering the misunderstanding he identified while dancing, Steve decides he owes Chloe accurate information. He tells her plainly that he is a guy and explains that people frequently mistake him for a woman. Chloe admits she had assumed he was a woman. Steve then confesses that he finally recognized her flirting while they danced, but had considered it contradictory evidence because Chloe is a lesbian with four girlfriends and Steve identifies as a man. His real concern is that Chloe might later feel tricked if he knowingly allowed her mistaken assumption to continue. Chloe understands, thanks him for telling her, and accepts the correction without turning it into a crisis.
+
+The other women are visibly processing the revelation, and Nat’s teasing briefly pushes too far when Steve asks whether they think he is lying. The group immediately becomes serious: they believe him and will treat his stated identity as authoritative. The humor resumes when Nat reserves the right to continue mocking his pink Mini.
+
+Conversation expands organically. Steve talks about cooking for Brittney and Liz, including learning to make proper pernil after Liz’s aunt savaged his first attempt. He discovers Sofia owns a salon, Maddie is a graphic designer, Tori is an attorney, Nat sells enterprise software, and Chloe manages software projects. Individual chemistry begins to emerge through the existing relationships: Sofia responds warmly to Steve’s instinct to fix things for people he cares about; Maddie delights in his outrage over her impossible client; Tori enjoys sparring with him; Nat turns their antagonism playfully flirtatious; and Steve and Chloe bond over professional absurdities. Chloe remains clearly interested after learning Steve is a man, but gives him slightly more space rather than pressing the attraction.
+
+The group also discovers that they already know Brittney and Liz, horrifying Steve as formerly separate parts of his life suddenly acquire communication channels.
+
+By late evening, Steve has stopped thinking about escaping Blush. Nat commandeers his phone and adds him to their group chat, “Blush Witness Protection.” Despite protesting, Steve chooses to stay in it. The women then invite him back the following Friday. Steve insists on “maybe,” but specifically asks whether Chloe will be there.
+
+After affectionate goodbyes, Chloe walks Steve to his pink Mini. Their attraction remains unresolved but warm and careful. On the drive home, the group chat erupts. Asked whether they will see him Friday, Steve finally replies, “Probably”—then seals his defeat by asking what time.
