@@ -1,0 +1,9 @@
+# Cross-Examination - Summary 250
+
+Steve’s promised single drink at Blush turns into something far less controlled when he joins Chloe Bennett and her four girlfriends—Nat, Tori, Sofia, and Maddie. Nat immediately interrogates him, Tori provides dry legal commentary, Sofia quietly notices everything, and Maddie creates a winged tax accountant named Dennis. Chloe, meanwhile, keeps watching Steve with a warm, focused interest he initially refuses to interpret.
+
+Instead of feeling overwhelmed by the group’s overlapping conversations, affectionate insults, and constant interruptions, Steve realizes their rhythm feels familiar. His own family communicates the same way: argument without danger, insults without injury, noise without hostility. When Nat pushes too far into his dating history, Steve tells her to stop. She immediately does, apologizes, and the group moves on, deepening his unexpected sense of belonging.
+
+Then Chloe asks him to dance. Steve expects his complete lack of skill to provide the evening’s necessary failure. Instead, Chloe teaches him to stop predicting her movements and follow. He relaxes, laughs, and discovers he is genuinely having fun.
+
+Watching from the table, the others debate Steve’s identity and Chloe’s obvious attraction, eventually recognizing that whatever assumptions are in play, Chloe genuinely likes him. Steve reaches the same realization from the opposite direction: Chloe is flirting with him and may believe he is a woman. Uncomfortable benefiting from an uncorrected assumption, he decides he needs to tell her privately. Unfortunately for Steve’s carefully controlled evening, he also likes Chloe, likes her family, and no longer hates dancing.
