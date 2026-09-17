@@ -1,0 +1,9 @@
+# Relevant Information — 250-Word Summary
+
+After dancing with Chloe, Steve returns to the table and finally addresses the misunderstanding he realized during the dance: Chloe thinks he is a woman. He tells her plainly, “I’m a guy,” explaining that strangers frequently get his gender wrong and that he didn’t want Chloe to feel he had deliberately misled her. Chloe admits she had assumed he was a woman, thanks him for correcting her, and accepts the information without making it a crisis. When Steve worries the others do not believe him, they become serious and make clear that his stated identity is enough for them.
+
+The evening then returns to affectionate chaos. Steve discusses Brittney, Liz, cooking, coding, cars, and his pink Mini while learning more about Sofia, Maddie, Tori, Nat, and Chloe. His connections with the five women begin differentiating naturally, with hints of playful chemistry beyond Chloe while Chloe remains the clearest attraction. The women also discover Steve is Brittney’s brother and Liz’s brother-in-law, horrifying him because his previously separate social worlds can now communicate.
+
+Instead of leaving after his promised single drink, Steve orders another beer and mozzarella sticks and gradually stops thinking about escape. Nat adds him to the group chat, “Blush Witness Protection.” Steve protests but chooses to remain. The women invite him back to Blush the following Friday, and he reluctantly admits he might return—after accidentally revealing particular interest in whether Chloe will be there.
+
+Chloe walks him to his pink Mini. Later, the group chat asks whether they will see him Friday. Steve replies, “Probably,” then gives himself away completely by asking what time.
