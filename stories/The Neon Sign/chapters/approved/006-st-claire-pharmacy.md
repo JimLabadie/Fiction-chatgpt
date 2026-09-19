@@ -1,6 +1,6 @@
 # Chapter Six — St. Claire Pharmacy
 
-Steve knew the outing had changed shape when Brittney turned right instead of left.
+The first indication that Steve had misunderstood the nature of the outing came when Brittney turned right instead of left.
 
 He stopped on the sidewalk.
 
