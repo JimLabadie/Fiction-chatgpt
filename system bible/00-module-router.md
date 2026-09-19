@@ -29,10 +29,11 @@ The archived `developed-skills/**/SKILL.md` files are recovery evidence for rout
 4. If the task is archive recovery, source audit, corpus coverage, provenance, historical comparison, duplicate/version analysis, lost-material recovery, cataloging, or consolidation, retrieve `system bible/00-archive-recovery-and-source-audit-protocol.md` and then its mandatory `Systemwide/Audit/` entry points before ad hoc source discovery.
 5. Retrieve every matched parent module and relevant linked detail.
 6. Retrieve story-local authority as required by the task.
-7. If a matched module creates a conflict or unresolved prerequisite, stop and report it before silently drafting around it.
-8. Draft/analyze only after routing is complete.
-9. Audit the result against the same loaded modules.
-10. For prose, provide the source receipt required by `00-mandatory-source-grounded-drafting.md`, including this router and all matched modules actually retrieved.
+7. For prose, run the hard pre-draft scene gate in `00-mandatory-source-grounded-drafting.md`: resolve the actual place/establishment, environment, present people and staff, schedule where relevant, story-cast physical state, objects/operations, spatial continuity, and scene plan. Retrieval alone does not satisfy this step.
+8. If a matched module creates a conflict, unresolved prerequisite, or unresolved required scene input, stop and report it before silently drafting around it. Do not evade a blocker by leaving the establishment/person/place unnamed, genericizing it, inventing a convenience NPC, or omitting the physical world.
+9. Draft/analyze only after routing **and the applicable hard pre-draft gate** are complete.
+10. Audit the result against the same loaded modules and the resolved scene inputs. For prose, the post-draft source-fidelity gate is mandatory before delivery.
+11. For prose, provide the source receipt required by `00-mandatory-source-grounded-drafting.md`, including this router and all matched modules actually retrieved. A receipt is evidence of retrieval only; it is not evidence that the hard gates passed.
 
 ## Recovery / source-audit routing
 
