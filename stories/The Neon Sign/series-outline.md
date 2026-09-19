@@ -6,7 +6,7 @@ This outline separates established development from future/proposed progression.
 
 ## Chapter One — Settled Science
 
-Established title: **Settled Science**.
+Established title: **Settled Science**. **APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
 
 Opening development centers on Steve, Brittney, Chloe, and Blush. Steve enters Blush to prove Brittney wrong. Steve meets the seven-woman group — Brittney, Liz, Chloe, Nat, Maddie, Tori, and Emily — and Britt eventually brings her “stray” home.
 
@@ -46,19 +46,19 @@ Steve owns the lipstick. Steve does **not** yet own a compact. Steve embraces th
 
 ## Chapter Two — You Have 47 Unread Messages
 
-Recovered title and generated chapter exist in conversation history. Premise/continuity revisions were approved, but exact final prose approval has not yet been recovered into the repository.
+**APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
 
 ## Chapter Three — Terms and Conditions Apply
 
-Recovered title. Jim explicitly approved this generated chapter as “perfect.” Exact approved prose still requires recovery before an approved manuscript file can be created.
+**APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
 
 ## Chapter Four — Remedial Lesbianism
 
-Recovered title. Concept approved; exact prose approval status remains unrecovered.
+**APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
 
 ## Chapter Five — Powder Rooms and Purse Theory
 
-Recovered title. Bathroom initiation, lipstick flirting, purse theory, and purse-ceremony development were revised/approved. Exact final prose still requires recovery before a manuscript artifact can be treated as approved.
+**APPROVED.** Bathroom initiation, lipstick flirting, purse theory, and purse-ceremony development are established. Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
 
 ## Chapter Six — St. Claire Pharmacy
 
