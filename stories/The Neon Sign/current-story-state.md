@@ -3,13 +3,13 @@
 Status: ACTIVE DEVELOPMENT
 Story: **The Neon Sign**
 Current day: Saturday
-Current handoff: at the end of the diner sequence, immediately before the group proceeds to St. Claire Pharmacy and then purse shopping.
+Current handoff: immediately after approved Chapter Six at St. Claire Pharmacy; the group is leaving the pharmacy to continue to purse shopping.
 
 ## Location and movement
 
-Current location: St. Claire diner.
+Current location: St. Claire Medical Plaza / just outside St. Claire Pharmacy.
 Present characters: Steve, Brittney, Liz, Chloe, Nat, Maddie, Tori, Emily.
-Next movement: leave the diner physically, travel to **St. Claire Pharmacy** at St. Claire Medical Plaza in the Residential Infill zone, then later to the appropriate canonical boutique. No teleportation.
+Next movement: travel physically from St. Claire Medical Plaza to the appropriate canonical boutique. No teleportation.
 
 Exact diner/boutique canonical names must be resolved from the live St. Claire records or recovered accepted source before prose; do not invent generic replacements.
 
@@ -19,7 +19,7 @@ Clothing: jeans, sweater, sneakers.
 Presentation: male-presenting clothing with fresh red lipstick.
 Carrying: green purse.
 Owns: lipstick.
-Does not yet own / needs: compact.
+Now owns: compact with preferred hinge; reusable travel bottles; hand lotion; small pill container; two zippered organizer pouches; hard safety-pin case; travel tissues and approved practical odds and ends.
 
 Purse contents contributed at the diner:
 - Maddie: tissues, mints.
@@ -53,9 +53,9 @@ Steve's mastery pattern is active: when Steve encounters a relevant subject Stev
 
 Next chapter begins with continuity from the diner rather than a reset.
 
-First destination: **St. Claire Pharmacy**, located in St. Claire Medical Plaza in the Residential Infill zone. Its sole owner/pharmacist is **Odette Brennan**. Practical/travel-size supplies become the comic realization that a purse creates its own ecosystem — and Steve immediately begins optimizing/customizing that ecosystem rather than remaining a passive novice.
+Completed in approved Chapter Six: **St. Claire Pharmacy**, with **Odette Brennan**. Steve bought the compact, confronted travel-size economics, discovered modular purse organization, reorganized the green purse, and independently arrived at multiple-purse logic. Odette treated Steve's presentation as ordinary.
 
-Second destination: canonical boutique. Steve discovers that function is not the only variable: flashy can be cool, and color/style matter. Steve discovers that feminine presentation/accessories and quality handbags can be expensive, then personally chooses a quality, larger, more expressive purse. This is the beginning of Steve trying to “win” purses, not merely own one.
+Next destination: canonical boutique. Steve discovers that function is not the only variable: flashy can be cool, and color/style matter. Steve discovers that feminine presentation/accessories and quality handbags can be expensive, then personally chooses a quality, larger, more expressive purse. This is the beginning of Steve trying to “win” purses, not merely own one.
 
 Future continuity already approved: within roughly a week, Steve researches handbags extensively and develops informed, potentially questionably expensive preferences around function, construction, color, and style. Shoes will eventually trigger the same mastery behavior, but that rabbit hole is not yet an on-page event.
 
