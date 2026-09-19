@@ -15,7 +15,8 @@ Status: ACTIVE DEVELOPMENT
 | 7 | Saturday, current sequence | St. Claire diner | Steve is with all seven women, in jeans, sweater, sneakers, fresh red lipstick, carrying a green purse. | Current physical/presentation anchor. |
 | 8 | Saturday | Diner / powder room | Lipstick/powder-room initiation and purse discussion occur. | Steve owns lipstick; no compact yet. |
 | 9 | Saturday | Diner table | Purse “ceremony”: each woman contributes practical items. | Green purse now contains the established donated inventory; Steve embraces purse ownership. |
-| 10 | Saturday, immediate next | Leaving diner → pharmacy → boutique | Planned, not yet completed: practical drugstore supplies, then quality purse shopping. | Do not record as completed until prose establishes it. |
+| 10 | Saturday | Diner → St. Claire Medical Plaza / St. Claire Pharmacy | **Approved Chapter Six:** group travels normally to the pharmacy; Steve buys a compact, reusable travel bottles, lotion, small pill container, two organizer pouches, a safety-pin case, and other practical items; reorganizes the green purse by function/access; adopts “multiple-purse logic.” | Pharmacy portion completed; Steve's mastery/optimization pattern is now on-page canon. |
+| 11 | Saturday, immediate next | St. Claire Pharmacy → boutique | Planned, not yet completed: purse shopping. | Next handoff; resolve canonical boutique/geography before prose. |
 
 ## Current possession register — Steve
 
@@ -23,7 +24,8 @@ Wearing: jeans, sweater, sneakers.
 Presentation: fresh red lipstick.
 Carrying: green purse.
 Personally owned relevant item: lipstick.
-Explicitly absent/needed: compact.
+Newly acquired at St. Claire Pharmacy: compact with preferred hinge; reusable travel bottles; hand lotion; small pill container; two zippered organizer pouches; hard case for safety pins; small travel tissues and other approved practical odds and ends.
+Organization state: Steve has reorganized the green purse by access and category; lipstick + compact are together and easy to reach; emergency cash has a designated interior pocket; cable is contained; medical and potentially messy items are grouped.
 
 Green-purse donated contents:
 - tissues and mints — Maddie
