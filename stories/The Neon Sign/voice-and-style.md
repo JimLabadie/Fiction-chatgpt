@@ -2,15 +2,39 @@
 
 Status: ACTIVE
 
-Tone: loving, sweet, sentimental, playful, and funny.
+## Story feel
 
-The comedy comes primarily from Jim's obliviousness and the increasing mismatch between what is obvious to others/the reader and what Jim manages not to conclude.
+Warm, funny, character-driven, socially alive, and grounded in a boisterous family rhythm. The story can be ridiculous without treating its people as ridiculous.
 
-The story may put jokes at Jim's expense, but not at the expense of trans identity or femininity. Embarrassment can be funny; degradation is not the engine.
+Comic narration is a strength and should be preserved. Physical description and environment must remain present around dialogue; strong banter is not permission to turn scenes into disembodied scripts.
 
-The woman who loves Jim should feel protective and trustworthy without becoming solemn or clinical. She is allowed to be delighted, mischievous, and completely game.
+## Family rhythm
 
-Emotional sincerity matters. Tenderness and comedy should reinforce each other rather than cancel each other out.
+Steve and the polycule mesh because both sides understand affectionate chaos. Teasing, argument, interruptions, protection, private texts, group-chat pile-ons, and sincere “this might mean something” conversations can coexist.
 
-POV: Not yet established.
-Tense: Not yet established.
+The polycule is not one voice. Britt, Liz, Chloe, Nat, Maddie, Tori, and Emily must remain individually recognizable in speech, behavior, presentation, and their relationship to Steve.
+
+## Voice references
+
+Use the established performance references as directional vibes, never copied dialogue or impersonation:
+
+- Steve / Emily — later-season Leonard Hofstadter.
+- Britt — Maureen O'Hara in *Johnny Dangerously*.
+- Liz — Rosie Perez.
+- Chloe — Aubrey Plaza.
+- Nat — Kaitlin Olson.
+- Maddie — Phoebe in *Friends*.
+- Tori — funny American Victoria Winslow in *RED* / *RED 2*.
+
+## Physical grounding
+
+At first meaningful appearance, render enough of each person to picture them. Maintain clothing, hair, presentation, handbags/objects, positions, and setting through dialogue-heavy scenes.
+
+Steve's presentation changes must be visible and continuous. Do not silently swap Steve from jeans/sweater/sneakers into another outfit, invent possessions such as a compact, or erase the green purse between locations.
+
+## Gender/presentation treatment
+
+Steve retains agency. Feminine choices should increasingly be Steve's choices. Do not turn every personality trait into foreshadowing. Gender development and attraction can be meaningful without converting every joke into a diagnosis.
+
+POV: Not yet established in the repository record.
+Tense: Not yet established in the repository record.
