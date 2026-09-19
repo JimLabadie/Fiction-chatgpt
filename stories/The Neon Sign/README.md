@@ -26,13 +26,13 @@ Candidate prose belongs in `chapters/candidate/`; author-approved prose moves to
 
 ## Approval register
 
-Recovery audit on 2026-09-19 established the following:
+Jim clarified on 2026-09-19 that the story's earlier process was informal and that **all prior generated chapters are author-approved**. Lack of a formal approval marker in the old workflow is not evidence of non-approval.
 
-- **Chapter One — Settled Science:** title and generated prose are recoverable from conversation history, but no explicit author approval/revision of the chapter prose was found. Do not mark the prose approved by inference.
-- **Chapter Two — You Have 47 Unread Messages:** generated; its premise/continuity received author-approved revisions, including the pronoun choice, but explicit approval of the final chapter prose has not yet been recovered.
-- **Chapter Three — Terms and Conditions Apply:** generated and explicitly approved by Jim as “perfect.” Exact approved prose has not yet been recovered into the repository, so approval is known but the manuscript artifact remains pending recovery.
-- **Chapter Four — Remedial Lesbianism:** generated; concept was approved, but explicit approval of the exact chapter prose has not been recovered.
-- **Chapter Five — Powder Rooms and Purse Theory:** generated; the bathroom initiation, lipstick flirting, purse theory, and purse-ceremony development were revised/approved. Exact final approved prose has not yet been recovered into the repository, so do not manufacture a manuscript from summary.
-- **Chapter Six — St. Claire Pharmacy:** explicitly approved by Jim on 2026-09-19 and persisted verbatim at [chapters/approved/006-st-claire-pharmacy.md](chapters/approved/006-st-claire-pharmacy.md).
+- **Chapter One — Settled Science:** APPROVED.
+- **Chapter Two — You Have 47 Unread Messages:** APPROVED.
+- **Chapter Three — Terms and Conditions Apply:** APPROVED.
+- **Chapter Four — Remedial Lesbianism:** APPROVED.
+- **Chapter Five — Powder Rooms and Purse Theory:** APPROVED.
+- **Chapter Six — St. Claire Pharmacy:** APPROVED and persisted verbatim at [chapters/approved/006-st-claire-pharmacy.md](chapters/approved/006-st-claire-pharmacy.md).
 
-Known approval is not permission to reconstruct missing prose from summaries. Recover exact text before creating missing approved chapter artifacts.
+For Chapters One through Five, approval status is settled. Exact manuscript artifacts still require recovery of the previously generated text before those files can be populated faithfully; do not reconstruct the prose from summaries.
