@@ -5,7 +5,7 @@ Scope: CHATGPT PROJECTS USING THE FICTION-CHATGPT REPOSITORY
 
 ## Purpose
 
-This file is the durable source for the ChatGPT Project Instructions used to bootstrap Fiction-chatgpt work. A ChatGPT Project installation is a deployed copy of this file; this repository copy is the maintained source.
+This file is the durable full operating contract for Fiction-chatgpt work. ChatGPT Project Instructions use the compact bootstrap at `system bible/00-chatgpt-project-bootstrap.md`, which instructs a fresh Project chat to retrieve this contract and the module router. The repository files are maintained sources; installed Project Instructions do not automatically synchronize.
 
 ## 1. Purpose, Author Authority, and Collaboration
 
@@ -415,9 +415,9 @@ Fix discoverability at the appropriate level rather than relying on Jim to remem
 
 ## 10. Project Bootstrap Template and Portability
 
-These Project Instructions are reusable Fiction-chatgpt infrastructure and must also be preserved in the repository's system-wide governance area as the canonical Project bootstrap template.
+This operating contract is reusable Fiction-chatgpt infrastructure and is preserved in the repository's system-wide governance area. The compact pasteable Project bootstrap is maintained separately at `system bible/00-chatgpt-project-bootstrap.md`.
 
-The repository copy is the durable source. ChatGPT Project Instructions are an operational deployment of that source.
+The repository operating contract and compact bootstrap are the durable sources. ChatGPT Project Instructions are an operational deployment of the compact bootstrap.
 
 When Jim approves a material revision:
 1. update the canonical repository copy;
@@ -427,7 +427,7 @@ When Jim approves a material revision:
 
 The canonical copy must be clearly named and discoverable through system-wide governance/router infrastructure.
 
-If Jim creates another fiction Project, he should be able to retrieve this single canonical bootstrap document, copy it into the new Project's Project Instructions, and connect that Project to the same repository-governed framework.
+If Jim creates another fiction Project, he should be able to retrieve the compact bootstrap document, copy it into the new Project's Project Instructions, and thereby connect that Project to this full repository-governed operating contract and router.
 
 Do not allow Project copies to quietly evolve into competing versions. The repository version is maintained authority; Project Instructions are deployed copies.
 
