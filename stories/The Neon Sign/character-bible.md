@@ -10,7 +10,7 @@ Opening context: enters Blush to prove Brittney wrong.
 Core social quality: fits into the women's boisterous, lovingly dysfunctional family dynamic with suspicious ease because Steve's own family uses a similar love-language.
 Current presentation state: jeans, sweater, sneakers, fresh red lipstick, carrying/using a green purse.
 Current agency state: Steve is actively making feminine choices rather than merely having them made for him. Steve chose the green dress independently and has fully embraced the usefulness and pleasure of the purse.
-Current practical discovery: Steve owns lipstick, needs a compact, and is learning that feminine upkeep and accessories are expensive.
+Current practical state after St. Claire Pharmacy: Steve owns lipstick and a compact with the better hinge; has begun organizing the green purse with reusable travel bottles, lotion, a small pill container, two zippered organizer pouches, and a hard case for safety pins; and is learning that feminine upkeep/accessories can be both useful and expensive.
 Identity/pronoun development: feminine pronoun movement has begun in development; exact current self-description and pronoun boundary must follow accepted prose/state rather than be silently advanced.
 Behavioral note: Steve's blatantly “anti-male” moments on not-dates are personality/value beats that endear Steve to the women; they are not automatic gender clues.
 Learning/mastery pattern: if Steve does not know a subject that becomes relevant, Steve conquers the knowledge rather than remaining a novice. Steve researches aggressively, optimizes, customizes, and develops informed opinions. This applies to feminine-coded domains as naturally as anything else.
