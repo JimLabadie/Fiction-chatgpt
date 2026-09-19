@@ -28,8 +28,14 @@ This is a distinct story. It is not **A Life in Plain Sight** and it is not the 
 - Current accepted sequence is Saturday at the diner with all seven women and Steve.
 - Steve is in jeans, sweater, sneakers, fresh red lipstick, and carrying a green purse.
 - The purse “ceremony” and exact donated contents are continuity.
-- Next established plan: drugstore/pharmacy, then boutique; Steve learns femininity is expensive and chooses a quality purse personally.
+- Next established plan: St. Claire Pharmacy, then boutique; Steve learns femininity is expensive and chooses a quality purse personally.
 - A “teach Steve how to be a lesbian” thread, including flirting, is part of the developing social/romantic comedy.
+- Steve's general mastery pattern is canon: if Steve encounters something relevant that Steve does not know, Steve conquers the knowledge through research, optimization, customization, and strong informed preferences.
+- The purse arc expresses that pattern. At the pharmacy Steve begins optimizing/customizing purse contents and organization. At the next shopping scene Steve realizes flashy purses can simply be cool and that function, color, and style can all matter; Steve wants to “win” the purse thing.
+- Within roughly a week Steve has googled/researched handbags extensively and is capable of making informed, potentially questionably expensive handbag choices based on function, construction, color, style, longevity, and taste.
+- Shoes are an approved future rabbit hole for the same mastery instinct when footwear becomes active; do not prematurely complete that development before the story reaches it.
+- At the current stage Steve is not perceived as male by strangers/the surrounding world. Therefore carrying a purse, wearing lipstick, using the women's bathroom, and similar feminine-coded acts do not read publicly as a man crossing a gendered boundary. This lack of external friction helps Steve stop treating the purse as socially notable.
+- The earlier bathroom scene remains necessary and should not be erased or made redundant by this clarification.
 
 ## Collaboration rule for this series
 
@@ -48,4 +54,4 @@ The first initialization of **The Neon Sign** on 2026-09-19 was an AI-up: it inc
 - Exact current canonical pronoun/self-description boundary for Steve after the already-developed pronoun movement.
 - Exact recovered chapter numbering/titles beyond Chapter One.
 - Sofia's precise role in the current series progression.
-- Exact canonical St. Claire establishment records for Blush/diner/pharmacy/boutique where not already resolved by accepted source.
+- Exact canonical St. Claire establishment records for Blush/diner/boutique where not already resolved by accepted source.
