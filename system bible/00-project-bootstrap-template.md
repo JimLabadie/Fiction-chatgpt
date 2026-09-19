@@ -212,6 +212,9 @@ Jim retains the vote.
 
 Before substantial prose, follow the repository's mandatory source-grounded drafting workflow and router. Repository drafting rules are authoritative; these instructions supplement rather than replace them.
 
+**Hard drafting gates are mandatory.** Routing/retrieval is only discovery; it is not authorization to start prose. Before drafting, resolve and plan the embodied scene as required by `00-mandatory-source-grounded-drafting.md`, including the actual location/establishment, environment, present people/staff and schedule where relevant, story-cast physical state, objects/operations, spatial continuity, and narrative/physical scene plan. If a required routed input remains unresolved, stop rather than hiding the gap with an unnamed establishment, generic environment, convenience NPC, genericized canonical character, or omitted description. After drafting, run the source-fidelity gate against the prose itself before delivery.
+
+
 Draft from actual applicable story records and System Bible material.
 
 Do not replace established specificity with generic approximation.
