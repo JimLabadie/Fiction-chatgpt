@@ -44,16 +44,35 @@ The women contribute:
 
 Steve owns the lipstick. Steve does **not** yet own a compact. Steve embraces the purse rather than treating it as a prop imposed by the women.
 
-## Next chapter progression — established plan, not yet completed event
+## Chapter Two — You Have 47 Unread Messages
 
-1. Leave the diner normally; preserve physical travel and possessions.
-2. Go to **St. Claire Pharmacy** at St. Claire Medical Plaza for practical/travel-size supplies and the “life hack” side of purse ownership.
-3. Steve begins optimizing and customizing the purse system rather than simply accepting the women's inherited purse wisdom: organization, access, size, redundancy, and practical usefulness become a Steve problem to solve.
-4. Continue to the appropriate boutique.
-5. Steve discovers that function is only one axis: a flashy purse can also simply be **cool**. Color and style become legitimate selection criteria alongside utility.
-6. Steve discovers that femininity/presentation upkeep and quality handbags are expensive.
-7. Steve chooses and purchases a quality, larger, more personally expressive purse. The choice is Steve's and marks the point where Steve starts trying to “win” the purse thing.
-8. Within roughly a week, Steve's normal mastery instinct has produced extensive handbag research and informed, potentially questionably expensive opinions/choices. This is later continuity, not something the pharmacy scene must complete immediately.
+Recovered title and generated chapter exist in conversation history. Premise/continuity revisions were approved, but exact final prose approval has not yet been recovered into the repository.
+
+## Chapter Three — Terms and Conditions Apply
+
+Recovered title. Jim explicitly approved this generated chapter as “perfect.” Exact approved prose still requires recovery before an approved manuscript file can be created.
+
+## Chapter Four — Remedial Lesbianism
+
+Recovered title. Concept approved; exact prose approval status remains unrecovered.
+
+## Chapter Five — Powder Rooms and Purse Theory
+
+Recovered title. Bathroom initiation, lipstick flirting, purse theory, and purse-ceremony development were revised/approved. Exact final prose still requires recovery before a manuscript artifact can be treated as approved.
+
+## Chapter Six — St. Claire Pharmacy
+
+**APPROVED 2026-09-19.** Steve and the seven women leave the diner and go to St. Claire Pharmacy. Steve buys a compact, discovers the purse “ecosystem,” reorganizes the green purse around modular containment and frequency of access, and independently embraces multiple-purse logic. Odette Brennan treats Steve's lipstick/purse presentation as ordinary. The chapter ends with the group leaving for purse shopping and Steve ready for something bigger, better made, and more personally suited.
+
+Approved manuscript: `chapters/approved/006-st-claire-pharmacy.md`.
+
+## Immediate next progression — established plan, not yet completed event
+
+1. Continue physically from St. Claire Pharmacy to the appropriate canonical boutique; preserve Saturday wardrobe, green purse, and newly organized contents.
+2. Steve discovers that function is only one axis: a flashy purse can also simply be **cool**. Color and style become legitimate selection criteria alongside utility.
+3. Steve discovers that femininity/presentation upkeep and quality handbags are expensive.
+4. Steve chooses and purchases a quality, larger, more personally expressive purse. The choice is Steve's and marks the point where Steve starts trying to “win” the purse thing.
+5. Within roughly a week, Steve's normal mastery instinct produces extensive handbag research and informed, potentially questionably expensive opinions/choices.
 
 ## Longer relationship progression
 
