@@ -13,6 +13,10 @@ Current agency state: Steve is actively making feminine choices rather than mere
 Current practical discovery: Steve owns lipstick, needs a compact, and is learning that feminine upkeep and accessories are expensive.
 Identity/pronoun development: feminine pronoun movement has begun in development; exact current self-description and pronoun boundary must follow accepted prose/state rather than be silently advanced.
 Behavioral note: Steve's blatantly “anti-male” moments on not-dates are personality/value beats that endear Steve to the women; they are not automatic gender clues.
+Learning/mastery pattern: if Steve does not know a subject that becomes relevant, Steve conquers the knowledge rather than remaining a novice. Steve researches aggressively, optimizes, customizes, and develops informed opinions. This applies to feminine-coded domains as naturally as anything else.
+Purse trajectory: Steve rapidly shifts from purse novice to optimizing contents, placement, organization, and practical use. The next shopping beat establishes that a flashy purse can also simply be cool; Steve intends to “win” the purse thing rather than merely accommodate it. Within roughly a week, Steve has extensively researched handbags and can justify potentially questionable expensive choices through function, construction, color, style, longevity, and personal preference.
+Future footwear principle: when shoes become an active domain, the same mastery instinct applies; shoes are a future rabbit hole, not yet a completed story event.
+Outside perception: at the current stage, Steve is not perceived as male by strangers/the surrounding world. Feminine-coded items/actions therefore do not create the public incongruity Steve might expect. This contributes to Steve forgetting that carrying a purse was ever supposed to be socially notable.
 
 ## Brittney / Britt
 
