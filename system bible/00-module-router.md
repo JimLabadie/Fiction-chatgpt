@@ -7,11 +7,12 @@ Scope: ALL STORY DEVELOPMENT, CONTINUITY, REVISION, DRAFTING, RECOVERY, AND SOUR
 
 The System Bible contains reusable modules that function like skills. They are not useful if a writer must remember from prior conversation which module exists. This router is the mandatory discovery layer.
 
-## ChatGPT Project bootstrap template
+## ChatGPT Project bootstrap and operating contract
 
-Path: `system bible/00-project-bootstrap-template.md`
+Pasteable Project bootstrap: `system bible/00-chatgpt-project-bootstrap.md`
+Full operating contract: `system bible/00-project-bootstrap-template.md`
 
-This file is the canonical reusable ChatGPT Project Instructions template for Fiction-chatgpt. LOAD WHEN setting up a new ChatGPT Project for this repository, auditing Project bootstrap behavior, diagnosing why a fresh Project/chat did not discover this router, or revising the Project-level operating contract. The repository copy is the maintained source; Project Instructions are deployed copies and do not automatically synchronize.
+LOAD WHEN setting up a new ChatGPT Project for this repository, auditing Project bootstrap behavior, diagnosing why a fresh Project/chat did not discover this router, or revising the Project-level operating contract. The compact bootstrap is the text deployed into ChatGPT Project Instructions; it retrieves the full repository operating contract and this router. The repository files are maintained sources; installed Project Instructions do not automatically synchronize.
 
 
 Before substantive story work, retrieve this router first. Match the requested task, planned scene, characters, setting, relationships, objects, technologies, continuity questions, and recovery/source-audit needs against the triggers below. Retrieve every matched controlling System Bible module before analysis or prose. When a matched parent module points to a detailed reference that is relevant to the task, retrieve that detail too.
