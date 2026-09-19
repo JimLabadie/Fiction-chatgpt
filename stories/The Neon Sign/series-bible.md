@@ -31,6 +31,16 @@ Steve begins male-presenting. Feminine presentation develops through Steve's own
 
 Do not treat every Steve trait as a gender clue. In particular, the deliberately “anti-male” moments on individual not-dates are Steve's personality and values, not evidence of gender.
 
+### Steve's mastery pattern
+
+When Steve encounters a subject Steve does not understand and it becomes relevant to his life, ignorance is temporary: Steve researches, learns, optimizes, customizes, and develops strong informed preferences. Feminine-coded domains are not exceptions. Once Steve adopts something as his, Steve approaches it in Steve's own way rather than remaining tentative or dependent on the women for expertise.
+
+Purses are the first major expression of this pattern. Steve moves quickly from accepting a purse to optimizing its contents and organization, then recognizes that function, color, and style can coexist. Within roughly a week, Steve has researched handbags extensively enough to make informed — and potentially questionably expensive — choices based on construction, function, color, style, and personal taste. Future footwear follows the same underlying pattern and may become an even deeper knowledge rabbit hole when the story reaches it.
+
+### Social perception
+
+Steve's internal self-understanding and outside perception are not the same thing. At the current stage, strangers/the surrounding world do **not** perceive Steve as male. A purse, lipstick, use of a women's restroom, and similar feminine-coded presentation therefore do not read to bystanders as “a man doing/wearing/carrying a feminine thing.” This lack of external friction matters: once Steve begins carrying the purse, ordinary social response lets Steve stop thinking of the purse itself as an unusual public act. The women's-bathroom scene remains necessary to the developed progression; do not retroactively erase its significance.
+
 ## Governing shared world
 
 St. Claire shared-world canon applies. Story-local events instantiate the district without rewriting its reusable baseline. Established St. Claire businesses, places, residents, staffing, schedules, culture, and geography must be resolved from the live module before prose rather than replaced by generic inventions.
