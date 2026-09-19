@@ -47,10 +47,13 @@ Steve owns the lipstick. Steve does **not** yet own a compact. Steve embraces th
 ## Next chapter progression — established plan, not yet completed event
 
 1. Leave the diner normally; preserve physical travel and possessions.
-2. Go to the appropriate St. Claire pharmacy/drugstore for practical/travel-size supplies and the “life hack” side of purse ownership.
-3. Continue to the appropriate boutique.
-4. Steve discovers that femininity/presentation upkeep and quality handbags are expensive.
-5. Steve chooses and purchases a quality, larger purse personally.
+2. Go to **St. Claire Pharmacy** at St. Claire Medical Plaza for practical/travel-size supplies and the “life hack” side of purse ownership.
+3. Steve begins optimizing and customizing the purse system rather than simply accepting the women's inherited purse wisdom: organization, access, size, redundancy, and practical usefulness become a Steve problem to solve.
+4. Continue to the appropriate boutique.
+5. Steve discovers that function is only one axis: a flashy purse can also simply be **cool**. Color and style become legitimate selection criteria alongside utility.
+6. Steve discovers that femininity/presentation upkeep and quality handbags are expensive.
+7. Steve chooses and purchases a quality, larger, more personally expressive purse. The choice is Steve's and marks the point where Steve starts trying to “win” the purse thing.
+8. Within roughly a week, Steve's normal mastery instinct has produced extensive handbag research and informed, potentially questionably expensive opinions/choices. This is later continuity, not something the pharmacy scene must complete immediately.
 
 ## Longer relationship progression
 
