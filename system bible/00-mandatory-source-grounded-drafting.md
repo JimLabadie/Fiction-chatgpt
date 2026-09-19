@@ -66,11 +66,68 @@ If a materially relevant answer is no, the scene is not finished. Revise it befo
 
 This audit supplements the source-grounding audit above. It does not require exhaustive description or repeated inventories; its purpose is to prevent dialogue, plot, or continuity work from silently displacing the embodied physical world.
 
+## Hard Pre-Draft Scene Gate
+
+For substantial story prose, retrieval is not permission to draft. After routing and retrieval, complete a concrete scene-resolution pass before prose begins.
+
+Resolve, from authoritative sources where applicable:
+
+- **Scene identity:** exact location or establishment, scene time/day when relevant, and physical route/handoff from the prior scene.
+- **Environment:** established visual, sensory, architectural, furnishing, tool, merchandise, infrastructure, ambient-population, and ordinary-use details needed to render the place as an inhabited physical environment.
+- **People:** every named or speaking non-story character who will appear; canonical physical/presentation details; role; and, for staffed establishments, actual plausible presence at the scene time from authoritative staffing/schedule records.
+- **Story cast state:** who is present; current clothing/presentation, hair/makeup, footwear/accessories, possessions, physical/emotional state, knowledge, relationships, and any continuity delta that matters on page.
+- **Objects and operations:** established physical specifications, ownership/location/contents/state, and ordinary operational facts materially used by the scene.
+- **Scene plan:** physical movement through the location, important interactions with the environment, character/emotional/comedic beats, and the intended end-state/handoff.
+
+A field may be marked not materially relevant; it may not be silently skipped merely because dialogue or plot can proceed without it.
+
+### Hard stop rule
+
+If a routed authority requires a consequential location, establishment, staff member, schedule, character fact, object fact, or other scene input and that input cannot be resolved after the required search, **do not draft around the gap**.
+
+Specifically prohibited workarounds include:
+
+- leaving an unresolved establishment unnamed while otherwise treating it as established;
+- creating a generic or nameless clerk, employee, owner, customer, resident, or convenience NPC;
+- replacing a canonical person's established appearance with plausible generic description;
+- rendering an unresolved place as a featureless or generic room/store/office;
+- omitting physical description, staffing, schedule, geography, or operations in order to avoid resolving them;
+- treating absence from the first retrieved file as evidence that no canonical material exists.
+
+Stop at the blocker, report the exact unresolved input, and resolve it through authoritative search or Jim's consequential creative decision before prose. **A blank is not a safe substitute for an invention.**
+
+### Planning is mandatory process
+
+For substantial prose, planning is a required process stage, not optional brainstorming. The plan need not be shown to Jim unless collaboration or a consequential creative choice calls for discussion, but it must exist before drafting and must integrate both:
+
+1. **physical scene planning** — place, people, presentation, spatial movement, objects, environment interaction, continuity; and
+2. **narrative scene planning** — purpose, emotional movement, comedy/relationship beats, discoveries, decisions, and handoff.
+
+When Jim is actively developing the scene collaboratively, do not skip directly from a new idea to finished prose unless Jim explicitly asks to draft immediately and the hard gate is already satisfied.
+
+## Post-Draft Source Fidelity Gate
+
+Before delivery, compare the actual prose—not intentions—against the resolved scene inputs and every routed source.
+
+The draft fails this gate and must be revised before delivery if it:
+
+- contradicts or genericizes an established character description;
+- uses an unresolved or impossible staff presence;
+- turns a sourced place into a formless/generic environment when established details should be perceptible;
+- introduces an unsourced convenience person, establishment, object, capability, schedule, or world fact;
+- drops required wardrobe, presentation, possessions, spatial continuity, or physical state;
+- initializes the physical world and then lets it disappear into dialogue-space;
+- advances a consequential identity, relationship, transformation, or canon state beyond the established boundary.
+
+A drafting receipt proves only that files were retrieved. **It does not satisfy either gate.** Source details must survive into the prose where relevant.
+
 ## Required Drafting Pipeline
 
 For substantial story prose, use this order:
 
-**source routing and retrieval → continuity/current-state check → scene initialization → prose drafting → scene-state audit → source/continuity audit → delivery**
+**source routing and retrieval → continuity/current-state check → hard scene-resolution gate → physical scene plan → narrative/emotional scene plan → blocker check → prose drafting → scene-state audit → source-fidelity audit → continuity audit → delivery**
 
-Do not replace scene initialization with an assumption that readers will infer clothing, people, objects, or environmental details from canon or common sense. If a perceptible fact matters to experiencing the scene, establish it in the prose.
+Do not replace scene initialization or planning with an assumption that readers will infer clothing, people, objects, staffing, or environmental details from canon or common sense. If a perceptible fact matters to experiencing the scene, establish it in the prose.
+
+Do not proceed merely because a scene's plot can be written. A scene is ready to draft only when the routed world and continuity inputs needed to embody that plot are resolved.
 
