@@ -47,22 +47,25 @@ Consequential creative choices remain collaborative. Do not silently invent majo
 
 The first initialization of **The Neon Sign** on 2026-09-19 was an AI-up: it incorrectly imported the separate Jim/Claire story. Jim caught the cross-story contamination. These rebuilt records supersede that initialization.
 
-## Recovered chapter/approval audit — 2026-09-19
+## Chapter approval correction — 2026-09-19
 
-- Chapter One — **Settled Science**: generated; no explicit prose approval/revision recovered.
-- Chapter Two — **You Have 47 Unread Messages**: generated; premise/continuity revisions approved, including pronoun choice; explicit final prose approval not recovered.
-- Chapter Three — **Terms and Conditions Apply**: generated; explicitly approved by Jim as “perfect”; exact approved prose not yet recovered into GitHub.
-- Chapter Four — **Remedial Lesbianism**: generated; concept approved; explicit exact-prose approval not recovered.
-- Chapter Five — **Powder Rooms and Purse Theory**: generated; bathroom initiation, lipstick flirting, purse theory, and purse ceremony were revised/approved; exact final prose not yet recovered into GitHub.
-- Chapter Six — **St. Claire Pharmacy**: explicitly approved and exact approved prose persisted.
+Jim clarified that the earlier chapters were created before the current approval/persistence process was being followed. **All Chapters One through Six are author-approved.** The absence of an explicit approval marker in recovered conversation evidence for some earlier chapters was a workflow artifact, not a lack of approval.
 
-Do not fabricate missing chapter manuscripts from summaries. Recover exact prose before creating approved artifacts for Chapters One through Five.
+Approved chapters:
+- Chapter One — **Settled Science**
+- Chapter Two — **You Have 47 Unread Messages**
+- Chapter Three — **Terms and Conditions Apply**
+- Chapter Four — **Remedial Lesbianism**
+- Chapter Five — **Powder Rooms and Purse Theory**
+- Chapter Six — **St. Claire Pharmacy**
+
+Chapters One through Five still need their exact previously generated prose recovered before approved manuscript files are created. Their **approval status is not open** and must not be re-litigated based on the old informal process.
 
 ## Open / not yet established
 
 - Exact POV and tense in the repository record.
 - Chloe's Indigenous nation.
 - Exact current canonical pronoun/self-description boundary for Steve after the already-developed pronoun movement.
-- Exact manuscript recovery for Chapters One through Five; titles/numbers are now recovered, but exact approved/final prose remains incomplete as recorded above.
+- Exact manuscript-text recovery for approved Chapters One through Five; their approval status is settled.
 - Sofia's precise role in the current series progression.
 - Exact canonical St. Claire establishment records for Blush/diner/boutique where not already resolved by accepted source.
