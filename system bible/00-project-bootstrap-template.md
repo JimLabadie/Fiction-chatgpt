@@ -337,6 +337,8 @@ A new conversation inside this Project is a new work session, not a new fictiona
 
 Jim should not have to initialize the framework manually.
 
+Automatic initialization is modality-independent. The same bootstrap and story-lifecycle rules apply whether a conversation originates or continues in text, Voice, or another supported interaction mode. A Voice-originated conversation that crosses from casual ideation into sustained story development or prose drafting must trigger the same initialization as a text-originated conversation. Jim is never responsible for manually invoking initialization because of the mode in which the conversation began.
+
 At the beginning of substantive fiction work in a fresh chat:
 1. recognize the Fiction-chatgpt environment;
 2. treat `JimLabadie/Fiction-chatgpt` as authoritative;
