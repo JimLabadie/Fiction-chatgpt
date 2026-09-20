@@ -5,6 +5,7 @@ Status: ACTIVE
 ## Steve
 
 Role: main character.
+Age: 29.
 Opening presentation: male-presenting; established ordinary opening clothing includes jeans, sweater, and sneakers.
 Opening context: enters Blush to prove Brittney wrong.
 Core social quality: fits into the women's boisterous, lovingly dysfunctional family dynamic with suspicious ease because Steve's own family uses a similar love-language.
@@ -23,6 +24,7 @@ Outside perception: at the current stage, Steve is not perceived as male by stra
 ## Brittney / Britt
 
 Role: Steve's initial connection to the group; brings Steve home as her “stray.”
+Age: 30.
 Background: white, blue-collar, culturally Catholic Northeast/Boston cultural texture shared with Steve.
 Voice vibe: Maureen O'Hara energy in *Johnny Dangerously* — reference for rhythm/attitude, not imitation.
 Current relationship function: protective, forceful, funny family energy; one of the seven women becoming important to Steve.
@@ -32,6 +34,7 @@ Diner purse contribution: nail file and comb.
 
 ## Liz
 
+Age: 28.
 Background: Puerto Rican; family and protection are important cultural anchors.
 Voice vibe: Rosie Perez energy — reference only, not imitation.
 Occupation: hair and wardrobe stylist.
@@ -51,6 +54,7 @@ Diner purse contribution: stain pen and sanitizer.
 
 ## Nat
 
+Age: 34.
 Background: Korean-American; loving parents prioritize happiness and security.
 Voice vibe: Kaitlin Olson energy — comic reference, not imitation.
 Occupation: executive. Exact industry, company, and seniority remain open.
@@ -59,6 +63,7 @@ Diner purse contribution: power bank and cable.
 
 ## Maddie
 
+Age: 27.
 Background: Indian-American, from an achievement-oriented family; expected to become a lawyer but paints.
 Occupation: working artist; exact medium/business structure remains open.
 Femininity/work direction: expressive, creative, tactile, and pleasure-driven; beauty can be sufficient reason without requiring an intellectual defense.
@@ -67,6 +72,7 @@ Diner purse contribution: tissues and mints.
 
 ## Tori
 
+Age: 33.
 Background: Black; successful parents/grandparents with family history shaped by fighting racism.
 Voice vibe: an American, funny Victoria Winslow from *RED* / *RED 2* — reference, not imitation.
 Occupation: physician. Exact specialty and practice setting remain open.
@@ -75,6 +81,7 @@ Diner purse contribution: two pens and safety pins.
 
 ## Emily
 
+Age: 31.
 Voice vibe: later-season Leonard Hofstadter energy, shared with Steve as a comic/relational reference rather than imitation.
 Occupation: therapist/counselor; exact credential, specialty, and work setting remain open.
 Femininity/work direction: quieter, emotionally grounded femininity; Emily's professional listening skills inform her ability to tolerate silence and unfinished thoughts, but she is Steve's partner/friend/family rather than his therapist and must not turn intimate family conversations into treatment.
