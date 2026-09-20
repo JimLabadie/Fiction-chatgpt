@@ -6,19 +6,17 @@ A flat lookup of reusable first-name and surname options, organized the same way
 
 ## First Names — by presentation
 
-**Neutral / androgynous-coded:** Rowan, Sage, Avery, Quinn, Riley, Jordan, Phoenix, Emery, Jules, Casey, Taylor, Morgan, Sky, Remy, Ellis
-
 **Femme (realistic, not overly stylized):** Marlo, Simone, Mei-Ling, Cass, Darcy, Selene, Tamsin, Lupe, Greta, Priya, Sasha, Kendra, Beatrix, Daniella, Valerie, Amara
 
-**Butch/masc (realistic, not hyper-masculine — reserved for Trans man-tagged characters per the Name/Presentation Consistency rule in St_Claire_00B):** Jax, Ken, Bren, Elias, Mickie, Frankie, Thorne, Callahan, Brooks, Cruz, Reed
+**Trans masc (realistic, not hyper-masculine; masculine first names are reserved for intentionally established trans-masc characters under the Name/Presentation Consistency rule in St_Claire_00B):** Jax, Ken, Bren, Elias, Mickie, Frankie, Thorne, Callahan, Brooks, Cruz, Reed
 
 ## First Names — by generation (use alongside presentation, not instead of it)
 
 **Queer elders (roughly 50–75):** classic, simple, culturally rooted — Marjorie, Linda, Evelyn, Jodi, Serafina, Brittany
 
-**Middle-aged (roughly 35–55):** multicultural, modern, gendered but flexible — Simone, Mei-Ling, Rowan, Darcy, Cass, Sasha, Kendra, Amara
+**Middle-aged (roughly 35–55):** multicultural, modern, feminine unless an approved trans-masc character is being named — Simone, Mei-Ling, Darcy, Cass, Sasha, Kendra, Amara
 
-**Younger (roughly 18–35):** neutral, chosen, expressive, identity-driven — Sage, Jules, Phoenix, Quinn, Riley, Nova, Elle, Sky
+**Younger (roughly 18–35):** contemporary, chosen-name-aware, and consistent with the approved St. Claire presentation taxonomy — Nova, Elle, Marlo, Simone, Cass, Darcy, Selene, Tamsin, Lupe, Greta, Priya, Sasha, Kendra, Beatrix, Daniella, Valerie, Amara
 
 ## Chosen names (use sparingly — 5–10% of population)
 
