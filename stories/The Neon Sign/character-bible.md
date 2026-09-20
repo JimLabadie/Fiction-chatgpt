@@ -93,7 +93,13 @@ Residency pattern: there is a normal/usual composition at each house that can em
 
 Relationship principle: do not infer pair-bond primacy from who commonly shares a house or bedroom. Some dyads may be especially cozy or have distinctive chemistry, but the household architecture must not collapse the polycule into disguised monogamous pairs.
 
-Development still open: the physical character/location of the two homes, their neighborhoods, their usual nightly compositions, bedroom/private-space organization, and how belongings/beauty wardrobes/workspaces distribute between them.
+Bedroom and wardrobe architecture: **each home has one main communal bedroom physically designed to sleep/support the entire seven-woman polycule together** when everyone wants to share a room. Each home also has several smaller bedrooms sized/configured for roughly **two to three people**, allowing different nightly combinations, sleep needs, schedules, privacy, illness, work hours, intimacy, or simple preference without assigning those rooms to permanent couples.
+
+Each home also has a **very large communal wardrobe/dressing room**. Clothing, shoes, accessories, beauty items, and other ordinary personal necessities are intentionally distributed across both residences. Every woman has things at both homes. The family does not routinely pack an overnight bag to move between its own houses; a woman goes to whichever home she is staying at and dresses from what she has there. This reinforces that both residences are fully home rather than a primary residence plus a place where someone stays over.
+
+Wardrobe distribution does not require duplicate copies of everything. Special, favorite, seasonal, work-specific, newly purchased, or frequently used pieces can migrate naturally between homes as the women do.
+
+Development still open: the physical character/location of the two homes, their neighborhoods, usual nightly compositions, exact number/layout of smaller bedrooms, workspaces, bathroom/dressing-room design, and each home's aesthetic identity.
 
 ## Sofia
 
