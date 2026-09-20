@@ -33,7 +33,7 @@ This is a distinct story. It is not **A Life in Plain Sight** and it is not the 
 - Steve's general mastery pattern is canon: if Steve encounters something relevant that Steve does not know, Steve conquers the knowledge through research, optimization, customization, and strong informed preferences.
 - The purse arc expresses that pattern. At the pharmacy Steve begins optimizing/customizing purse contents and organization. At the next shopping scene Steve realizes flashy purses can simply be cool and that function, color, and style can all matter; Steve wants to “win” the purse thing.
 - Within roughly a week Steve has googled/researched handbags extensively and is capable of making informed, potentially questionably expensive handbag choices based on function, construction, color, style, longevity, and taste.
-- Shoes are an approved future rabbit hole for the same mastery instinct when footwear becomes active; do not prematurely complete that development before the story reaches it.
+- Shoes are now an active mastery domain after Chapter Eight. Steve has begun learning to walk in approximately four-inch heels from Greta; preserve novice skill while allowing the established research/optimization instinct to develop.
 - At the current stage Steve is not perceived as male by strangers/the surrounding world. Therefore carrying a purse, wearing lipstick, using the women's bathroom, and similar feminine-coded acts do not read publicly as a man crossing a gendered boundary. This lack of external friction helps Steve stop treating the purse as socially notable.
 - The earlier bathroom scene remains necessary and should not be erased or made redundant by this clarification.
 
@@ -79,3 +79,18 @@ Chapters One through Five still need their exact previously generated prose reco
 - Exact manuscript-text recovery for approved Chapters One through Five; their approval status is settled.
 - Sofia's precise role in the current series progression.
 - Exact canonical St. Claire establishment records for Blush/diner/boutique where not already resolved by accepted source.
+
+
+## Post–Chapter Eight processing / presentation mini-arc — approved direction 2026-09-19
+
+Chapter Eight creates a genuine processing threshold rather than merely the setup for another fashion acquisition. The next movement should breathe across **several chapters**.
+
+- The remaining **teach Steve how to be a lesbian** material should be discussed and lived rather than compressed into one lesson. Lesbian identity/community/presentation language can emerge through conversation, disagreement, observation, and individual experience.
+- Use this movement as an opportunity for meaningful **one-on-one time** between Steve and individual members of the seven-woman polycule. The women are distinct people with different relationships to femininity, presentation, lesbian culture, attraction, and community; do not turn them into Professor Lesbian speaking with one voice.
+- The serious emotional center is Steve processing what happened in the Chapter Eight mirror: unexpectedly loving the complete presentation, crying happy tears, choosing to remove the tags, walking into public dressed that way, and approaching but not completing the thought **“The woman—”**.
+- Explicitly preserve the distinction among **gender identity, presentation, aesthetic taste, community signaling, and desired social perception**. They can interact without being treated as synonyms.
+- Femme/high-femme presentation is not diagnostic proof that Steve is a woman. The eventual identity recognition must belong to Steve's understanding of self rather than being mathematically inferred from dresses, heels, lipstick, handbags, or lesbian community participation.
+- Other characters may explain what their own presentation means to them, ask Steve how something feels, reflect what Steve has actually said or done, and provide vocabulary. They may not diagnose Steve or announce Steve's identity before Steve owns it.
+- Greta's existing boundary remains a useful model: she can truthfully share what analogous experiences meant for her while refusing to tell Steve what Steve's experience means.
+- Preserve the story's comedy, affection, flirting, ordinary activity, and boisterous family texture around the processing. This is a **mini-arc**, not one prolonged therapy session.
+- Exact chapter count, one-on-one pairings, chapter sequence, locations, and the timing/content of any new identity conclusion remain open for collaborative planning with Jim.
