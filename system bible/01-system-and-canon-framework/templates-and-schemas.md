@@ -73,6 +73,28 @@ Each entry contains identity and role; original/baseline state; current state; c
 
 The baseline is historical and must not be rewritten to conceal development.
 
+## Framework event schema
+
+A **framework event** is a reusable world event whose definition belongs to the shared System Bible while its activation and occurrence are tracked by each story that selects the relevant framework components.
+
+A framework-event definition records, as applicable:
+
+- event name and controlling framework component;
+- prerequisites or applicability conditions;
+- activation condition or trigger;
+- delay/offset or other ordering constraint;
+- reusable event content and required participants;
+- reusable consequences or state transitions;
+- story-local freedoms and intentionally open fields.
+
+Stories do not copy or redefine the framework event. They track the event's story-local state, using states such as **dormant**, **scheduled/due**, **active**, and **completed** where applicable, together with the story-specific activation point, occurrence, consequences, and source.
+
+When a story satisfies a framework event's activation condition, continuity work must surface and track the event. Activation does **not** authorize ChatGPT to hijack narrative pacing or force the event into the next scene. Jim retains control of when and how the activated event is dramatized, subject to established chronology and continuity.
+
+Framework events may be triggered by time, location or institution state, a reveal, knowledge state, relationship state, another event, selected framework components, or other canonically defined conditions. If established reusable material does not fit an existing schema, preserve what the material is and extend the framework deliberately rather than reclassifying, genericizing, or discarding it merely to fit an existing bucket.
+
+**Project Artemis is the reference example:** its reusable definition belongs to the Athena/framework canon; Athena's reveal activates it with a **+1 day** offset; each story records whether that trigger has fired and the event's current story-local state.
+
 ## Timeline schema
 
 Each event contains date/time, location, characters, event, canon effect, and source. The continuity fact register tracks possessions, appearance/grooming, clothing, injury/fatigue, learned information, promises/plans/appointments, and relationship changes. The conflict log contains issue, sources, controlling authority, resolution, and status.
