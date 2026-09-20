@@ -73,7 +73,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: August 22, 1988
 - Tags: none
-- Physical description & presentation: Femme, high-energy presence. White. Average height, wiry build. Tattoos up both forearms. Almost always in a crisp white chef's coat, sleeves pushed up, short sandy-blonde hair.
+- Physical description & presentation: Femme, high-energy presence. White. Average height, wiry build. Tattoos up both forearms. Almost always in a crisp fitted white chef's coat, sleeves pushed up, with a knee-length A-line skirt and non-slip 3.5-inch heeled work boots; short sandy-blonde hair.
 - Voice: Fast-talking, blunt, genuinely passionate the moment food comes up — no patience for small talk otherwise.
 - Occupation: Head chef, The River Mill Eatery
 - Role/Title at Organization: Head Chef, The River Mill Eatery (cross-reference: St_Claire_05_Organizations.md)
