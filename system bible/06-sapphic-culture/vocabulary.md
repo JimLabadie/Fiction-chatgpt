@@ -8,10 +8,10 @@ The entries below preserve wording recovered from Expressions & Language. This i
 - **Egg:** informal trans-community language for someone who has not recognized or acknowledged being trans. It is a metaphor, not a diagnosis others own.
 - **Chosen family:** durable kinship built through care and commitment.
 - **Butch** A person (typically a woman or non-binary individual) with a masculine gender expression, presentation, or identity.
-- **Femme** A person with a feminine gender expression, presentation, or identity.
+- **Femme** A person with a deliberately feminine gender expression, presentation, or identity. Femme is substantively and visibly feminine in the character's own aesthetic; it is not shorthand for generic womanhood, a neutral presentation with one token feminine marker, or merely "not butch."
 - **Soft Butch** A butch individual who incorporates softer, more approachable, or less rigid traditional masculine elements into their style.
 - **Stone Butch** A butch individual who prefers to give pleasure to their partners without receiving or wanting physical touch in return.
-- **High Femme** Someone who embraces an ultra-feminine, glamorous, and hyper-visible aesthetic (often featuring makeup, heels, and dresses).
+- **High Femme** An intensified femme presentation characterized by sustained high-production femininity—greater glamour, polish, coordination, visibility, and/or sensuality according to the individual's aesthetic. High femme is a matter of degree and sustained expression, not exclusive ownership of dresses, skirts, heels, makeup, jewelry, styled hair, or manicures; ordinary femme presentation may use all of those.
 - **Futch** A blend of "femme" and "butch," used to describe someone who falls somewhere in the middle of the butch-femme spectrum.
 - **Stem** A variation of futch; often used (particularly in Black lesbian communities) to describe someone who is stud-femme or somewhere between a stud and a femme.
 - **Stud** A term primarily used within Black and Latinx lesbian communities to describe a strong, masculine-presenting queer woman or non-binary person.
