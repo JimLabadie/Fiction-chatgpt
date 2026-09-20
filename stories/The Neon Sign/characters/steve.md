@@ -1,6 +1,10 @@
-# Steve — Character Record
+# Steve Sullivan — Character Record
 
-Status: ACTIVE — INITIAL POPULATION FROM CURRENT STORY AUTHORITY; RECOVERY INCOMPLETE
+Status: QUARANTINED — AUTHOR-LED RECONSTRUCTION REQUIRED
+
+> **Recovery warning:** The substantive contents below were populated from story records that are now known to contain cross-story contamination. Jim has established that contamination predates at least some downstream chapters/records, so repetition across those sources is not independent validation. Except for facts Jim explicitly re-establishes during reconstruction, the material below is preserved as suspect recovery evidence, not clean Neon Sign character authority. Do not use it to drive prose, continuity, or further characterization until reviewed with Jim.
+>
+> **Disposition:** Preserve the suspect material in place for line-by-line reconstruction rather than silently deleting or redistributing it. Jim's current recollection and explicit decisions control whether each claim is retained, revised, rejected as contamination, or left unresolved.
 
 ## Identity and namespace
 
@@ -14,7 +18,7 @@ Status: ACTIVE — INITIAL POPULATION FROM CURRENT STORY AUTHORITY; RECOVERY INC
 - **Pronouns / scope / chronology:** In approved Chapter Two Steve explicitly authorizes she/her **for that night**, and Chloe verifies “You sure?” Later approved chapters may use he/him. The Chapter Two permission must not be silently expanded into a permanent identity/pronoun declaration. Chapter Eight's unfinished “The woman—” remains unfinished.
 - **Age / birth date:** 29; birth date not yet established.
 - **Story role:** Main character.
-- **Record status / provenance:** Initial migration from current maintained story records. The earlier development conversation is known to have suffered compression/loss and awaits recovery from the requested ChatGPT export.
+- **Record status / provenance:** QUARANTINED. Initial migration drew from story records now known to contain cross-story contamination. Historical sources may assist recovery, but Jim's current recollection and explicit decisions control reconstruction.
 
 ## Baseline / original state
 
@@ -138,15 +142,16 @@ Brittney, Liz, Chloe, Nat, Maddie, Tori, and Emily each require their own direct
 | Femininity is positive, not punishment | Joy, beauty, skill, community, cost, effort, research, and absurdity can coexist; feminine desire is not framed as degradation or a gender-mystery penalty. | Current maintained story record | Established | Character Bible / Series Development |
 | Mastery pattern applies across gender-coded domains | Steve researches and optimizes unfamiliar relevant subjects rather than being permanently novice; purses and footwear are current manifestations. | Current maintained story record | Established | Character Bible / Series Development |
 
-## Open development / possibilities
+## Unresolved character questions
 
-- **Questions requiring recovery:** Full seven-person relationship architecture; Steve's wants/needs/fears/vulnerabilities; mature voice and internal habits; individual perception gaps; any developed future beats lost during earlier persistence.
-- **Deferred decisions:** None currently recorded for canonical name.
-- Other possibilities must be recovered with provenance rather than recreated from memory.
+- **Questions requiring recovery:** Full seven-person relationship architecture; Steve's wants/needs/fears/vulnerabilities; mature voice and internal habits; individual perception gaps; and every substantive claim in this quarantined record that Jim has not yet re-established.
+- **Deferred character decisions:** Not yet established.
+- **Conflicts / disputed claims:** Cross-story contamination affects an unknown portion of this record. Do not resolve by repetition across downstream repository records.
 
 ## Source / recovery notes
 
-- **Controlling story records:** `stories/The Neon Sign/character-bible.md`, `series-development.md`, `current-story-state.md`, accepted chapters and other maintained story records as applicable.
+- **Controlling story record:** This file will become Steve Sullivan's single controlling character authority after author-led reconstruction. It is not currently trusted as clean authority.
+- **Suspect downstream/reference records:** `stories/The Neon Sign/character-bible.md`, `series-development.md`, `current-story-state.md`, timeline/continuity, accepted chapters, and other maintained story records may contain or reproduce contamination and cannot validate one another.
 - **Historical/recovery sources:** Requested ChatGPT export when available.
 - **Known compression or loss risks:** The earlier mature character/polyclule development was compressed in current records; especially the “what each character brings and needs” discussion.
-- **Conflicts requiring resolution:** None currently recorded for canonical name.
+- **Conflicts requiring resolution:** Unknown extent of cross-story contamination throughout the substantive record; resolve claim-by-claim with Jim.
