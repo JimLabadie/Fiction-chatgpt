@@ -16,7 +16,7 @@ Author-approved on 2026-09-14. Create all nine documents when starting a new ser
 |---|---|
 | `README.md` | Overview and document index |
 | `series-bible.md` | Durable premise and scope |
-| `character-bible.md` | Characters, perceptions, relationships, and development |
+| `character-bible.md` | Character index; compact entries only for genuinely minor characters |
 | `world-and-setting.md` | Shared references and series-specific setting |
 | `voice-and-style.md` | House voice and series narration choices |
 | `series-outline.md` | Approved plans and proposed scene choices |
@@ -69,7 +69,7 @@ If a commercial MC has not yet been named, use `[MC_NAME]` in planning and resol
 
 ## Character Bible and substantial character record schema
 
-The Character Bible is the story-level character index and may retain compact entries for genuinely minor characters. A substantial or recurring character whose developed characterization would be compressed by the compact entry uses the maintained [Character Record Template](character-record-template.md). The Character Bible links/indexes that record rather than substituting a lossy summary for it.
+The Character Bible is the story-level character index and may retain compact entries only for genuinely minor characters that do not yet require a substantial record. **Every substantial or recurring character uses the maintained [Character Record Template](character-record-template.md) as that character's single controlling source of truth.** Once that record exists, the Character Bible contains navigation/identity information sufficient to locate it, not a second biography, relationship summary, development history, or arc description.
 
 Character identity is resolved by the compound key **story namespace + canonical full name**. Resolve the active story namespace first. Matching first names, nicknames, aliases, roles, or even full names across different story namespaces never establish shared identity and never authorize cross-story fact import.
 
@@ -80,6 +80,10 @@ Each substantial record preserves identity and role; original/baseline state; cu
 Relationship detail must preserve directional, person-specific understanding rather than collapsing a network into generic labels. For significant relationships, record what each person gives, needs, receives, misunderstands, protects, challenges, or makes possible; the distinct chemistry and tensions; boundaries; development; and why the relationship is not interchangeable with another.
 
 The baseline is historical and must not be rewritten to conceal development. Template fields do not authorize invention: use **Not yet established** where the evidence and Jim have not established an answer. Preserve developed characterization at the resolution at which it was established rather than replacing it with a thinner trait label or summary.
+
+**Character truth and plot planning are separate.** A substantial character record may record actual baseline, current state, occurred development, established characterization, and unresolved character-data questions. Proposed future scenes, expected arc beats, planned changes, possible mentorships/relationships, and other not-yet-occurred developments belong in `series-development.md` and/or `series-outline.md` with provenance and status. They must not be written into the character authority as though they are current facts.
+
+Other story records may project the minimum character information necessary for their own controlling purpose—for example, immediate clothing in `current-story-state.md` or a character's participation in an occurred event in `timeline-and-continuity.md`. Such projections do not become independent character authorities and should not grow into competing characterization. When durable character meaning is needed, reference/update the controlling character record.
 
 ## Framework event schema
 
