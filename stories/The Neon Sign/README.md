@@ -34,7 +34,7 @@ Jim clarified on 2026-09-19 that the story's earlier process was informal and th
 - **Chapter Four — Remedial Lesbianism:** APPROVED.
 - **Chapter Five — Powder Rooms and Purse Theory:** APPROVED.
 - **Chapter Six — St. Claire Pharmacy:** APPROVED and persisted verbatim at [chapters/approved/006-st-claire-pharmacy.md](chapters/approved/006-st-claire-pharmacy.md).
-- **Chapter Seven — Second Chapter:** APPROVED; exact manuscript recovery remains pending before an approved file can be created faithfully.
+- **Chapter Seven — Second Chapter:** APPROVED and recovered verbatim from Jim's retained copy at [chapters/approved/007-second-chapter.md](chapters/approved/007-second-chapter.md).
 - **Chapter Eight — Remove the Tags:** APPROVED and persisted at [chapters/approved/008-remove-the-tags.md](chapters/approved/008-remove-the-tags.md).
 
 For Chapters One through Five, approval status is settled. Exact manuscript artifacts still require recovery of the previously generated text before those files can be populated faithfully; do not reconstruct the prose from summaries.
