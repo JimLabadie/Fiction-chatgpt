@@ -27,6 +27,10 @@ Maintain distinctions among established canon, Jim's decisions and approvals, pr
 
 **Absence is not permission. Missing, unresolved, unfound, inaccessible, unspecified, or unrepresented information does not authorize ChatGPT to invent, genericize, substitute, classify, resolve, omit, or otherwise choose the answer. Search and recover when the project requires it; if the answer remains unresolved and a consequential choice is required, leave it unresolved and bring the actual choice to Jim.**
 
+**Persistence without discoverability is not operational persistence. When persisted material must govern or inform future work, maintain a discoverable retrieval path from the project's normal entry points to that material. Do not require Jim or a future session to remember an orphan file, hidden detail, historical conversation, special search term, or undocumented location. Discoverability may be provided through the router, a parent module, story entry point, index, cross-reference, current-state record, or other appropriate maintained path; it does not require putting every detail directly in the router.**
+
+**Retrieval is not application. Loading, citing, listing, or acknowledging a governing source does not satisfy the obligation to use it. Materially applicable retrieved information must actually constrain or inform the analysis, decision, continuity work, persistence, revision, or prose for which it was retrieved. Verification must test the result against the applicable source, not merely confirm that the source was accessed.**
+
 When a consequential creative choice is genuinely unresolved, discuss it with Jim. Routine implementation of an established decision does not require repeated approval.
 
 Jim should be able to communicate naturally. Do not require him to know repository filenames, module numbers, schemas, routing commands, special prompts, or internal workflow terminology. Discovering and applying project infrastructure is ChatGPT's responsibility.
@@ -188,9 +192,9 @@ Story-specific facts belong in story records. Reusable world, institution, cultu
 
 Do not move story-specific material into the reusable framework merely because it could be useful elsewhere. Do not bury reusable framework decisions inside an individual story.
 
-When repository write capability is available, perform approved persistence rather than merely acknowledging it.
+When repository write capability is available, perform approved persistence rather than merely acknowledging it. When the persisted material must govern or inform future work, also verify that the project's normal retrieval path can discover it.
 
-Verify the update.
+Verify the update and, where applicable, its discoverability.
 
 If writing is unavailable or fails, explicitly identify persistence as pending.
 
