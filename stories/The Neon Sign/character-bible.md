@@ -85,7 +85,15 @@ Diner purse contribution: pain relief and blister bandages.
 Members: Brittney, Liz, Chloe, Nat, Maddie, Tori, Emily.
 Dynamic: a boisterous, lovingly dysfunctional family. They are seven distinct women, not a chorus. Each has her own relationship with Steve and her own style, voice, handbag/presentation, reactions, and developing attraction.
 Femininity principle: the seven collectively expose Steve to a broad swath of lived femininity rather than teaching one correct model. Their careers, homes, money, beauty practices, fashion, and daily constraints should produce distinct but equally authentic ways of being feminine. Steve's task is not to choose the correct woman to emulate, but eventually to discover which elements feel like Steve.
-Household direction: income and living arrangements should be designed together. Nat and Tori are plausible higher-income home hubs because of their careers, but exact cohabitation, ownership, residences, and which home serves as the family's principal gathering place remain open.
+Household structure: the seven are not organized as a series of primary pairs or couple-households. They are a genuinely collective polycule/family with overlapping individual relationships of different textures and degrees of closeness.
+
+Legal/property structure: the seven have a shared LLC that owns **two family homes**. Neither residence is Nat's, Tori's, or any other individual member's home in an ownership or territorial sense; both belong to the collective through the LLC.
+
+Residency pattern: there is a normal/usual composition at each house that can emerge from work, habits, chemistry, possessions, convenience, and routine, but it is not a fixed assignment. Nightly residency fluctuates freely. Any member may sleep, eat, work, keep belongings, host, or simply be at either house without being a guest in another member's home. Both residences are **home** to all seven.
+
+Relationship principle: do not infer pair-bond primacy from who commonly shares a house or bedroom. Some dyads may be especially cozy or have distinctive chemistry, but the household architecture must not collapse the polycule into disguised monogamous pairs.
+
+Development still open: the physical character/location of the two homes, their neighborhoods, their usual nightly compositions, bedroom/private-space organization, and how belongings/beauty wardrobes/workspaces distribute between them.
 
 ## Sofia
 
