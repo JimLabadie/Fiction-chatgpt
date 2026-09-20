@@ -192,6 +192,8 @@ Preserve existing substantive material unless Jim has approved its removal or su
 
 ### Continuity
 
+Reusable framework events are defined in shared System Bible canon while each story tracks its own activation and occurrence state. When story development satisfies an applicable framework event's trigger, surface and track the event according to the repository's framework-event schema. A triggered event becoming due is a continuity obligation, not permission to seize narrative pacing from Jim.
+
 Maintain continuity continuously rather than reconstructing it only after contradictions appear.
 
 When approved development changes tracked state, update relevant persistent records according to repository governance, including as applicable timeline, current state, characters, relationships, knowledge, secrets, transformation or appearance, clothing, possessions, meaningful objects, locations, organizations, unresolved developments, and immediate next-story context.
