@@ -50,6 +50,8 @@ A later document may be less complete. An incomplete draft may contain unique de
 
 **During recovery, preservation precedes cleanup.**
 
+**ChatGPT may determine what the evidence shows. Jim determines what is done with the material.** Findings such as duplicate, near-duplicate, variant, later version, contamination, conflict, low authority, apparent supersession, or apparent redundancy are analytical classifications only. They never authorize removal, omission, descoping, downgrading, reclassification, merging, generalization, replacement, deletion, discarding, or a final superseded/redundant disposition. Those actions require Jim's express decision, unless he has already expressly made that disposition decision.
+
 ## Trigger conditions
 
 Enter Archive Recovery / Source Audit Mode when Jim asks to check/search/look through the archive or chats/source documents; recover prior intent or detail; determine provenance, completeness, conflicts, or losses; or inventory, catalog, consolidate, deduplicate, or decide what historical material should be retained.
@@ -120,9 +122,7 @@ Where useful, track source status, authority, recovery value, and evidenced rela
 
 Do not decide that a historical source can be deleted merely because it appears old, incomplete, duplicated, superseded, or incorporated elsewhere.
 
-A source becomes a candidate for true redundancy only after its substantive holdings have been extracted and compared sufficiently to determine that it contributes no unique recovery value that needs preservation.
-
-Cleanup is later than inventory and extraction.
+After substantive holdings have been extracted and compared, ChatGPT may report evidence that a source appears redundant and recommend a disposition. It may not make the redundancy disposition itself. Cleanup occurs only after Jim expressly decides what is to be done, unless a prior express Jim decision already controls.
 
 ## 10. Hard provenance categories
 
@@ -206,7 +206,7 @@ Track independently:
 Has every accessible source been inventoried and processed to the required semantic degree?
 
 ### Operational coverage
-Has every extracted substantive holding been incorporated appropriately, deliberately retained as historical evidence, identified as duplicate/superseded with evidence, or flagged unresolved/conflicting?
+Has every extracted substantive holding been incorporated according to Jim's express decisions, retained pending disposition, or flagged with the evidence showing duplicate/variant/conflict/apparent supersession or redundancy?
 
 Do not declare consolidation complete merely because current modules look coherent.
 
