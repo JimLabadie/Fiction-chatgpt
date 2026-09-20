@@ -5,8 +5,8 @@ Status: ACTIVE — INITIAL POPULATION FROM CURRENT STORY AUTHORITY; RECOVERY INC
 ## Identity and namespace
 
 - **Story namespace:** The Neon Sign
-- **Canonical full name:** Not yet established — surname required by current governance and must be recovered or established before further established-continuity/prose use.
-- **Character key:** Pending canonical surname; provisional namespace identity is `The Neon Sign :: Steve [surname unresolved]`.
+- **Canonical full name:** Steve Sullivan
+- **Character key:** `The Neon Sign :: Steve Sullivan`
 - **Preferred/common name:** Steve
 - **Nicknames / names used:** Not yet established.
 - **Retrieval aliases / spelling variants:** Steve.
@@ -141,7 +141,7 @@ Brittney, Liz, Chloe, Nat, Maddie, Tori, and Emily each require their own direct
 ## Open development / possibilities
 
 - **Questions requiring recovery:** Full seven-person relationship architecture; Steve's wants/needs/fears/vulnerabilities; mature voice and internal habits; individual perception gaps; any developed future beats lost during earlier persistence.
-- **Deferred decisions:** Canonical surname is unresolved in current record and must be recovered or established.
+- **Deferred decisions:** None currently recorded for canonical name.
 - Other possibilities must be recovered with provenance rather than recreated from memory.
 
 ## Source / recovery notes
@@ -149,4 +149,4 @@ Brittney, Liz, Chloe, Nat, Maddie, Tori, and Emily each require their own direct
 - **Controlling story records:** `stories/The Neon Sign/character-bible.md`, `series-development.md`, `current-story-state.md`, accepted chapters and other maintained story records as applicable.
 - **Historical/recovery sources:** Requested ChatGPT export when available.
 - **Known compression or loss risks:** The earlier mature character/polyclule development was compressed in current records; especially the “what each character brings and needs” discussion.
-- **Conflicts requiring resolution:** Canonical surname absent from current record despite current global surname requirement.
+- **Conflicts requiring resolution:** None currently recorded for canonical name.
