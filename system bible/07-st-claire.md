@@ -30,6 +30,20 @@ The Claude-era `Androgynous` / `Andro` population category is an unaudited gener
 
 Validation preserves deliberately established differences **within the approved taxonomy** and preserves cultural, occupational, aesthetic, and individual distinctions. It does not flatten Femme into one wardrobe or make High Femme, Trans Femme, Trans High Femme, Trans Masc, or Butch interchangeable. **Trans High Femme is a legitimate category in its own right:** a trans woman whose sustained presentation meets the same high-production femininity standard as High Femme. St. Claire may have a higher share of high-femme presentation among trans women than among cis women; do not force equal cis/trans category percentages merely for symmetry.
 
+### St. Claire femme wardrobe baseline
+
+For **Femme, High Femme, Trans Femme, and Trans High Femme** characters, St. Claire uses a deliberately heightened fantasy-feminine wardrobe baseline. This is a setting aesthetic, not a claim about real-world femme presentation.
+
+- **Skirts and dresses are the ordinary lower-body baseline.** Pants, leggings, shorts, and other bifurcated garments are exceptional choices for these presentation categories rather than the automatic answer to comfort, work, weather, age, or practicality.
+- **Heels are ordinary footwear.** Where the character is not subject to a genuine safety, medical, accessibility, or job-specific constraint, a heel rise of roughly **3.5 inches or higher** is the setting baseline. Do not silently default a femme character to flats, sneakers, low boots, or low heels merely because she is working or walking.
+- **Solve the real constraint, not an imagined one.** Female physicians and nurses may wear dresses or skirts where appropriate and use genuinely work-safe footwear, including non-slip heeled boots or other safe feminine options. Do not assume healthcare work requires trousers.
+- **Construction and trades are genuine constraint cases.** A femme or high-femme tradeswoman may need PPE, safety-rated boots, protective clothing, or another job-required compromise. She remains femme and deliberately preserves as much of her aesthetic as the work safely permits; the occupational constraint does not become her off-duty style or an excuse to genericize her.
+- The same logic applies to kitchens, laboratories, emergency work, fabrication, agriculture, and other safety-sensitive jobs: identify the actual hazard or rule, make the minimum necessary compromise, and preserve the character's presentation everywhere the constraint does not reach.
+- **High Femme and Trans High Femme intensify this baseline** through sustained styling, coordination, hair, makeup, nails, silhouette, jewelry/accessories, and individual aesthetic rather than merely by wearing a dress and heels.
+- Existing Claude-era descriptions that rely on generic jeans, trousers, leggings, shorts, sneakers, flats, shapeless casualwear, or low-effort styling for a Femme/High Femme/Trans Femme/Trans High Femme character are **not validated merely because they are populated fields**. Audit and rewrite them against this baseline before scene use.
+
+This baseline does not govern **Butch** or **Trans Masc** presentation.
+
 For scene prose, unresolved consequential character-validation conflicts are blockers under the mandatory source-grounded drafting gate.
 
 ## Maintained detailed references
