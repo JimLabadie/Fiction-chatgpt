@@ -16,13 +16,14 @@ Status: ACTIVE DEVELOPMENT
 | 8 | Saturday | Diner / powder room | Lipstick/powder-room initiation and purse discussion occur. | Steve owns lipstick; no compact yet. |
 | 9 | Saturday | Diner table | Purse “ceremony”: each woman contributes practical items. | Green purse now contains the established donated inventory; Steve embraces purse ownership. |
 | 10 | Saturday | Diner → St. Claire Medical Plaza / St. Claire Pharmacy | **Approved Chapter Six:** group travels normally to the pharmacy; Steve buys a compact, reusable travel bottles, lotion, small pill container, two organizer pouches, a safety-pin case, and other practical items; reorganizes the green purse by function/access; adopts “multiple-purse logic.” | Pharmacy portion completed; Steve's mastery/optimization pattern is now on-page canon. |
-| 11 | Saturday, immediate next | St. Claire Pharmacy → boutique | Planned, not yet completed: purse shopping. | Next handoff; resolve canonical boutique/geography before prose. |
+| 11 | Saturday | St. Claire Pharmacy → Second Chapter, Greenleaf Core | **Approved Chapter Seven:** Steve and the group reach Second Chapter; Steve chooses a structured oxblood/deep-wine handbag based on his own emerging taste. Exact manuscript still requires recovery before persistence. | Purse arc moves from utility into aesthetic self-recognition; Steve asks to be taught. |
+| 12 | Saturday | Second Chapter | **Approved Chapter Eight — Remove the Tags:** the new handbag makes Steve's old outfit feel aesthetically incompatible. Steve develops clothing opinions; Greta explains fitting from her own trans experience and finds Steve an emerald/peacock vintage dress. The group finds black four-inch red-soled designer pumps. Steve sees the complete look, cries because he likes how he looks, orders the tags removed, learns the basics of walking in heels, and leaves the store wearing the new outfit. | Major true-self/high-femme threshold; Steve deliberately chooses a full femme public presentation; Greta becomes a potential future mentor; footwear mastery becomes active. |
 
 ## Current possession register — Steve
 
-Wearing: jeans, sweater, sneakers.
-Presentation: fresh red lipstick.
-Carrying: green purse.
+Wearing: emerald/peacock-toned structured vintage tea-length dress; black approximately four-inch designer pumps with red soles.
+Presentation: fresh red lipstick; intentionally femme full-look presentation chosen by Steve.
+Carrying: structured oxblood/deep-wine quality leather handbag. Jeans, sweater, sneakers, and green purse are packed separately in a Second Chapter shopping bag.
 Personally owned relevant item: lipstick.
 Newly acquired at St. Claire Pharmacy: compact with preferred hinge; reusable travel bottles; hand lotion; small pill container; two zippered organizer pouches; hard case for safety pins; small travel tissues and other approved practical odds and ends.
 Organization state: Steve has reorganized the green purse by access and category; lipstick + compact are together and easy to reach; emergency cash has a designated interior pocket; cable is contained; medical and potentially messy items are grouped.
