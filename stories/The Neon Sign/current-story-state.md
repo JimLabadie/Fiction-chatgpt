@@ -11,7 +11,7 @@ Current location: Greenleaf Core, immediately outside **Second Chapter**.
 Present characters: Steve, Brittney, Liz, Chloe, Nat, Maddie, Tori, Emily.
 Second Chapter staff just left behind in the store: Billie Sandoval, Constance Parker, Greta Lindstrom.
 
-Chapter Seven — **Second Chapter** is author-approved, but its exact manuscript still requires recovery before an approved manuscript file can be created faithfully. Chapter Eight — **Remove the Tags** is author-approved and persisted at `chapters/approved/008-remove-the-tags.md`.
+Chapter Seven — **Second Chapter** is author-approved and persisted at `chapters/approved/007-second-chapter.md`. Chapter Eight — **Remove the Tags** is author-approved and persisted at `chapters/approved/008-remove-the-tags.md`.
 
 ## Steve — immediate physical state
 
@@ -84,4 +84,4 @@ The next chapter must begin from that physical and emotional state rather than r
 
 Steve's handbag and footwear mastery rabbit holes are now active on-page rather than merely future plans. Future research/optimization should grow from these experiences.
 
-Chapter Seven manuscript recovery remains a repository task, but its approval status is settled and must not be re-litigated.
+Chapter Seven manuscript recovery is complete. Remaining manuscript-recovery work is limited to approved Chapters One through Five.
