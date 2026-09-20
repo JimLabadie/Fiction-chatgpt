@@ -74,7 +74,6 @@ Chapters One through Five still need their exact previously generated prose reco
 ## Open / not yet established
 
 - Exact POV and tense in the repository record.
-- Chloe's Indigenous nation.
 - Exact current canonical pronoun/self-description boundary for Steve after the already-developed pronoun movement.
 - Exact manuscript-text recovery for approved Chapters One through Five; their approval status is settled.
 - Sofia's precise role in the current series progression.
@@ -134,6 +133,7 @@ The polycule is **not** organized as a set of primary pairs. Individual relation
 - Neither home belongs socially or territorially to Nat, Tori, or any other individual merely because one member earns more, contributed more, or sleeps there more often. Both homes are collective family property.
 - There may be a recognizable **normal composition** at each home because of work schedules, habits, chemistry, convenience, possessions, and preferred spaces, but those are patterns rather than assignments.
 - Nightly residency fluctuates. Members move between the two homes freely and ordinarily; nobody is a guest in the other residence.
+- **Nightly logistics are intentionally simple and social.** The family uses its existing group chat to decide where people are sleeping as plans develop. There is no formal rotation, assignment chart, or household scheduling system: someone asks where people are landing, preferences and practical needs get tossed into the chat, and they decide.
 - Both houses are simply **home**. Language and scene framing should avoid accidentally turning them into “Nat's house,” “Tori's house,” or couple territories.
 - Household proximity must not be treated as proof of pair-bond primacy. Especially cozy dyads can exist within the larger relationship network without becoming hidden monogamous units.
 - The two-home structure gives the family enough physical space for different moods, workspaces, wardrobes, routines, privacy, and gathering patterns while preserving one family identity.
@@ -156,4 +156,4 @@ The polycule is **not** organized as a set of primary pairs. Individual relation
 - The seven may share their own practices, clothes, knowledge, and enthusiasm, but Steve's preferences must continue to emerge through Steve's own response. The houses expand the available vocabulary; they do not supply the identity answer.
 - Exact home designs/neighborhoods, usual compositions, number/layout of smaller rooms, workspaces, bathrooms/dressing areas, and the fuller expression of each home's aesthetic identity remain open for continued development.
 
-Careers, approximate finances, home character, work needs, beauty/fashion practices, and ordinary movement between the two residences should now be developed against this collective two-home model.
+Career specifics, extended-family detail, finances beyond what a scene requires, and similar character-world detail should be established and recorded **as the story needs them**, rather than exhaustively prebuilt. Retrieve existing canon first; when a scene genuinely requires a new detail, develop it with Jim and persist the decision then.
