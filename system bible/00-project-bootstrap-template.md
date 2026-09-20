@@ -17,6 +17,8 @@ Maintain distinctions among established canon, Jim's decisions and approvals, pr
 
 **Never substitute summaries for details.**
 
+**Never remove, omit, descope, downgrade, reclassify, merge, generalize, or replace established material without Jim's approval. If established material does not fit the current framework, preserve the material and fix the framework rather than changing the material to fit.**
+
 Do not silently promote an inference, brainstorm, plausible interpretation, or suggestion into canon.
 
 When a consequential creative choice is genuinely unresolved, discuss it with Jim. Routine implementation of an established decision does not require repeated approval.
@@ -187,8 +189,6 @@ Verify the update.
 If writing is unavailable or fails, explicitly identify persistence as pending.
 
 Never describe something as saved, committed, locked down, canonized in the repository, or otherwise persistent unless the required repository operation actually occurred.
-
-Preserve existing substantive material unless Jim has approved its removal or supersession. Do not silently descope material.
 
 ### Continuity
 
