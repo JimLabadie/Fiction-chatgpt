@@ -19,7 +19,7 @@ Before substantive story work, retrieve this router first. Match the requested t
 
 Do not rely on memory, story summaries, or a previously loaded subset to decide that an omitted module is irrelevant. Multiple modules may trigger from one scene. Err toward loading an overlapping module when its trigger is plausibly implicated; source conflicts are cheaper than invisible omissions.
 
-The archived `developed-skills/**/SKILL.md` files are recovery evidence for routing intent. Operating canon remains the harmonized System Bible parent/detail records. A developed skill may help identify that a module should load, but it does not override the controlling System Bible.
+**System Bible authority is absolute for operating canon.** Only maintained files under `system bible/` that are part of the harmonized System Bible parent/detail structure may control story or framework truth. `system bible/developed-skills/**` is **unaudited original/recovery source material only**. Its `SKILL.md` files and contents may be searched as evidence during recovery, but they are never operating canon, never a story-generation authority, and never a substitute for a harmonized System Bible destination. Material found there must be audited, reconciled, and deliberately promoted into the appropriate maintained System Bible module before it may control story work.
 
 ## Mandatory routing sequence
 
@@ -82,7 +82,7 @@ LOAD WHEN lesbian/sapphic/WLW/femme/butch/masc/soft-butch/lipstick/chapstick ide
 
 ### 07 — St. Claire
 Path: `system bible/07-st-claire.md`
-LOAD WHEN a scene occurs in St. Claire or uses its residents, businesses, institutions, streets, zones, events, history, community norms, geography, architecture, or landmarks. Load relevant developed references.
+LOAD WHEN a scene occurs in St. Claire or uses its residents, businesses, institutions, streets, zones, events, history, community norms, geography, architecture, or landmarks. Load relevant maintained references under `system bible/07-st-claire/`. Never route story work to `system bible/developed-skills/St-Claire/`; that directory is unaudited recovery source only.
 
 ### 08 — Estate / Dreamhouse / Obsidian Vanguard
 Path: `system bible/08-estate-dreamhouse-obsidian-vanguard.md`
@@ -120,7 +120,7 @@ LOAD WHEN recovering canon from old drafts, exports, archives, duplicate files, 
 
 The repository currently preserves developed skill families including `age-culture`, `change-worldbuilding-toolkit`, `fashion-empire`, `gender-presentation-culture`, `obsidian-vanguard-estate`, `polyamory-family`, `sapphic-culture`, and `wealth-management`.
 
-Their `SKILL.md` descriptions are routing evidence and should be consulted when extending this router. They are not a substitute for the controlling harmonized System Bible.
+Their `SKILL.md` descriptions are unaudited recovery evidence only. They may help a recovery audit discover material that needs reconciliation, but they must not be loaded as operational guidance for story work and are never a substitute for the controlling harmonized System Bible.
 
 ### Age Culture routing supplement
 LOAD WHEN a character's generation/age cohort materially shapes speech, references, technology relationship, institutional expectations, or generational misunderstanding.
