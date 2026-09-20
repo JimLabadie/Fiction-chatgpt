@@ -20,7 +20,15 @@ Validation must check the character against the controlling System Bible modules
 
 A populated inherited field is not proof that the field is valid. If a Claude-generated, bulk-generated, developed-skill, recovered, or otherwise unaudited detail conflicts with controlling System Bible guidance, is internally inconsistent, or appears to be arbitrary generation rather than an authored/approved choice, do not rationalize the discrepancy into canon. Mark it for reconciliation and use only validated System Bible material.
 
-Validation does not mean forcing everyone toward one presentation or archetype. Preserve deliberately established femme, high-femme, butch, masc, androgynous, cultural, occupational, and individual distinctions. The purpose is to distinguish authored characterization from unaudited generation artifacts.
+### St. Claire presentation taxonomy
+
+St. Claire's author-approved presentation categories are **High Femme, Femme, Trans Femme, Trans Masc, and Butch. No other presentation categories exist in the shared-world baseline.**
+
+This is a deliberate aesthetic rule for St. Claire, not a claim about real-world sapphic or gender presentation. General culture-reference modules may accurately document presentations that exist outside St. Claire without making those presentations part of this setting.
+
+The Claude-era `Androgynous` / `Andro` population category is an unaudited generation artifact and is not canon. **Replace inherited Androgynous/Andro assignments with Femme by default during audit.** Do not preserve the artifact by rationalizing an individual character into androgyny. Use another approved St. Claire category only where deliberate author-established character evidence requires it.
+
+Validation preserves deliberately established differences **within the approved taxonomy** and preserves cultural, occupational, aesthetic, and individual distinctions. It does not flatten Femme into one wardrobe or make High Femme, Trans Femme, Trans Masc, or Butch interchangeable.
 
 For scene prose, unresolved consequential character-validation conflicts are blockers under the mandatory source-grounded drafting gate.
 
