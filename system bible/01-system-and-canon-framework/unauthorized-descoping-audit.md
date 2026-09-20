@@ -68,7 +68,7 @@ The audit did not find a scope error in keeping these out of the fixed reusable 
 
 The archived chat is a controlling recovery and decision source, not incidental commentary. Direct Jim statements and corrections control. Assistant proposals become controlling only when Jim explicitly accepts them. No source may be downgraded, generalized, omitted, or assigned optional/story-local status merely because the export process finds its placement inconvenient.
 
-When a developed component is incomplete, persist the known approved state and track the missing fields. Do not place the whole component in purgatory. When scope or contradiction genuinely remains unclear, present the exact conflict to Jim before deciding.
+When a developed component is incomplete, persist the known approved state and track the missing fields. Do not place the whole component in purgatory. When scope or contradiction genuinely remains unclear, present the exact conflict to Jim. ChatGPT may determine what the evidence shows, but Jim determines the material's disposition unless he has already expressly decided it.
 
 ## Required continuation
 
