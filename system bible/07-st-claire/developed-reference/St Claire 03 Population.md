@@ -1534,7 +1534,7 @@ Empty.
 - Status: active
 - Birthdate: April 12, 2000
 - Tags: none
-- Physical description & presentation: Femme. White. Average height, still has a student's restless energy, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, still has a student's restless energy, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow, a fitted midi dress with a softly flared skirt and 4-inch pumps.
 - Voice: eager, talks fast when excited about botany
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1834,7 +1834,7 @@ Empty.
 - Status: active
 - Birthdate: July 23, 1986
 - Tags: none
-- Physical description & presentation: Femme. White. Average height, coffee-stained apron more often than not, short dark hair, deliberately styled.
+- Physical description & presentation: Femme. White. Average height, coffee-stained apron more often than not, short dark hair, deliberately styled, a silk blouse with a sweeping A-line midi skirt and 3.5-inch heeled boots.
 - Voice: practical, dry humor, genuinely enjoys the worker-owned model
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1879,7 +1879,7 @@ Empty.
 - Status: active
 - Birthdate: April 14, 1990
 - Tags: none
-- Physical description & presentation: High Femme. White. Average height, practical clothes suited to fieldwork or fixing things, an short hair styled with deliberate shape.
+- Physical description & presentation: High Femme. White. Average height, practical clothes suited to fieldwork or fixing things, an short hair styled with deliberate shape, a silk blouse with a sweeping A-line midi skirt and 3.5-inch heeled boots.
 - Voice: steady, capable, doesn't say much until asked directly
 - Occupation: Structural/civil engineer
 - Role/Title at Organization: independent consultant, not tied to a single firm
@@ -2209,7 +2209,7 @@ Empty.
 - Status: active
 - Birthdate: June 8, 1994
 - Tags: none
-- Physical description & presentation: High Femme. White. Average height, quick hands, apron perpetually a little singed, short dark hair, deliberately styled.
+- Physical description & presentation: High Femme. White. Average height, quick hands, apron perpetually a little singed, short dark hair, deliberately styled, a fitted midi dress with a softly flared skirt and 4-inch pumps.
 - Voice: fast, focused during service, easygoing once the kitchen clears
 - Occupation: Sous chef/line cook, The River Mill Eatery
 - Role/Title at Organization: Sous Chef, The River Mill Eatery (cross-reference: St_Claire_05_Organizations.md)
@@ -2269,7 +2269,7 @@ Empty.
 - Status: active
 - Birthdate: February 22, 1990
 - Tags: none
-- Physical description & presentation: Femme. Latine. Average height, steel-toe boots, always has a heavy-duty tablet in hand, short dark hair, deliberately styled.
+- Physical description & presentation: Femme. Latine. Average height, steel-toe boots, always has a heavy-duty tablet in hand, short dark hair, deliberately styled, a fitted midi dress with a softly flared skirt and 4-inch pumps.
 - Voice: technical, exacting about load calculations, warm outside of work talk
 - Occupation: Structural and civil engineer, sole practice
 - Role/Title at Organization: Engineer, independent practice (no Organization record — solo practitioner)
@@ -2344,7 +2344,7 @@ Empty.
 - Status: active
 - Birthdate: March 25, 1994
 - Tags: none
-- Physical description & presentation: Femme. Latine. Average height, manifold gauges clipped to a work belt, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Latine. Average height, manifold gauges clipped to a work belt, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow, a fitted work blouse and knee-length skirt for non-hazard duties, with job-rated protective clothing and safety boots when hands-on work requires them.
 - Voice: technical, genuinely enthusiastic about efficient systems
 - Occupation: HVAC & Mechanical Systems, St. Claire Builders & Co.
 - Role/Title at Organization: HVAC Technician, St. Claire Builders & Co. (cross-reference: St_Claire_05_Organizations.md)
@@ -2749,7 +2749,7 @@ Empty.
 - Status: active
 - Birthdate: June 21, 1993
 - Tags: none
-- Physical description & presentation: Femme. White. Average height, practical clothes suited to running between meetings, an short hair styled with deliberate shape.
+- Physical description & presentation: Femme. White. Average height, practical clothes suited to running between meetings, an short hair styled with deliberate shape, a jewel-toned wrap dress with a defined waist and 3.75-inch heeled ankle boots.
 - Voice: quick, curious, still a little junior-reporter eager
 - Occupation: Staff, The Daily Record
 - Role/Title at Organization: Staff Writer, The Daily Record (cross-reference: St_Claire_05_Organizations.md)
@@ -3199,7 +3199,7 @@ Empty.
 - Status: active
 - Birthdate: December 5, 1995
 - Tags: none
-- Physical description & presentation: High Femme. Latine. Average height, apron dusted with flour or produce depending on the shift, short dark hair, deliberately styled.
+- Physical description & presentation: High Femme. Latine. Average height, apron dusted with flour or produce depending on the shift, short dark hair, deliberately styled, a silk blouse with a sweeping A-line midi skirt and 3.5-inch heeled boots.
 - Voice: easygoing, quick with regulars
 - Occupation: Cashier/stock, Corner Market
 - Role/Title at Organization: Staff, Corner Market (cross-reference: St_Claire_05_Organizations.md)
@@ -4759,7 +4759,7 @@ Empty.
 - Status: active
 - Birthdate: March 15, 1989
 - Tags: none
-- Physical description & presentation: Femme. White. Average height, an short hair styled with deliberate shape, close-cropped gray hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, an short hair styled with deliberate shape, close-cropped gray hair, a soft flannel, sleeves rolled to the elbow, a feminine knit top with a pleated midi skirt and 3.75-inch block heels.
 - Voice: friendly, good with first-timers
 - Occupation: Staff, Vintage & Vine
 - Role/Title at Organization: Staff, Vintage & Vine (cross-reference: St_Claire_05_Organizations.md)
@@ -4954,7 +4954,7 @@ Empty.
 - Status: active
 - Birthdate: October 28, 1972
 - Tags: none
-- Physical description & presentation: Femme. South Asian. Average height, short dark hair, polished and feminine, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. South Asian. Average height, short dark hair, polished and feminine, a soft flannel, sleeves rolled to the elbow, a feminine knit top with a pleated midi skirt and 3.75-inch block heels.
 - Voice: upbeat, quick with a joke
 - Occupation: Manager, The Bolt & Bobbin Textile Incubator
 - Role/Title at Organization: Manager, The Bolt & Bobbin Textile Incubator (cross-reference: St_Claire_05_Organizations.md)
@@ -5299,7 +5299,7 @@ Empty.
 - Status: active
 - Birthdate: April 25, 1998
 - Tags: none
-- Physical description & presentation: Femme. Latina. Average height, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Latina. Average height, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow, a silk blouse with a sweeping A-line midi skirt and 3.5-inch heeled boots.
 - Voice: encouraging, genuinely good at teaching others
 - Occupation: Staff, The Moving Line Dance Studio
 - Role/Title at Organization: Staff, The Moving Line Dance Studio (cross-reference: St_Claire_05_Organizations.md)
@@ -5525,7 +5525,7 @@ Empty.
 - Status: active
 - Birthdate: November 3, 1994
 - Tags: none
-- Physical description & presentation: Femme. White. Average height, always seems to be in the middle of reading something, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, always seems to be in the middle of reading something, short dark hair, deliberately styled, a soft flannel, sleeves rolled to the elbow, a feminine knit top with a pleated midi skirt and 3.75-inch block heels.
 - Voice: quiet, genuinely reverent about the material she lives alongside
 - Occupation: Live-in caretaker, Odessa Calloway's Keeping House
 - Role/Title at Organization: Live-in Caretaker, Odessa Calloway's Keeping House (cross-reference: St_Claire_05_Organizations.md)
@@ -5646,7 +5646,7 @@ Empty.
 - Status: active
 - Birthdate: April 10, 1982
 - Tags: none
-- Physical description & presentation: High Femme. White. Average height, endlessly patient with homework meltdowns, an short hair styled with deliberate shape.
+- Physical description & presentation: High Femme. White. Average height, endlessly patient with homework meltdowns, an short hair styled with deliberate shape, a jewel-toned wrap dress with a defined waist and 3.75-inch heeled ankle boots.
 - Voice: calm, encouraging
 - Occupation: Director, The Afternoon Program
 - Role/Title at Organization: Director, The Afternoon Program (cross-reference: St_Claire_05_Organizations.md)
@@ -6546,7 +6546,7 @@ A deliberately distinct, minimal schema from the adult Character template above 
 - Status: active
 - Birthdate: January 3, 1991
 - Tags: none
-- Physical description & presentation: Femme. Latina. Average height, deliberately feminine night-shift presence.
+- Physical description & presentation: Femme. Latina. Average height, deliberately feminine night-shift presence, a feminine work dress outside the hazard zone, changing into required PPE and safety footwear only for the tasks that demand it.
 - Voice: quiet, focused, prefers the overnight hours
 - Occupation: Furnace Operator (night shift), Harriet Osei – St. Claire Reclamation Works
 - Role/Title at Organization: Furnace Operator, Harriet Osei – St. Claire Reclamation Works (cross-reference: St_Claire_05_Organizations.md)
@@ -6681,7 +6681,7 @@ A deliberately distinct, minimal schema from the adult Character template above 
 - Status: active
 - Birthdate: June 9, 1989
 - Tags: none
-- Physical description & presentation: High Femme. Black. Average height, dirt-under-the-nails and unmistakably feminine, always mid-task.
+- Physical description & presentation: High Femme. Black. Average height, dirt-under-the-nails and unmistakably feminine, always mid-task, a fitted work blouse and knee-length skirt for non-hazard duties, with job-rated protective clothing and safety boots when hands-on work requires them.
 - Voice: warm, direct, genuinely enjoys strangers more than most vendors bother to
 - Occupation: Flower vendor, Saturday farmers market at Greenleaf Stage
 - Role/Title at Organization: Vendor, St. Claire Farm Collective's market stall rotation (cross-reference: St_Claire_05_Organizations.md)
