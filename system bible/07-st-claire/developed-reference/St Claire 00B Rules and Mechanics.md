@@ -38,7 +38,11 @@ Organic, not policy-driven — St. Claire doesn't have a hiring rule. Like real 
 
 ## Demographic Ratios — checked against every new population batch
 
-**Presentation:** ~48% femme / ~30% androgynous / ~21% butch / ~1% other.
+**Presentation:** St. Claire uses only the following presentation categories: **high femme, femme, trans femme, trans masc, and butch.** Other presentation categories are not part of St. Claire's shared-world population model.
+
+**Recovery correction:** the inherited ~48% femme / ~30% androgynous / ~21% butch / ~1% other ratio was an unaudited Claude-era generation artifact, not an author-approved demographic rule. It must not be used. Existing records tagged `androgynous`, `andro`, `other`, or with another presentation category outside the approved five are invalid inherited presentation data and must be corrected during population audit. **For the specific Claude-era androgynous bucket, the default repair is Femme**, because that bucket was generated as an unwanted substitute for the intended feminine population. Do not preserve the artifact by inventing a nuanced reason for an individual to remain androgynous. A different approved category may replace it only when that character already has deliberate author-established evidence for that category.
+
+**Identity and presentation are not interchangeable:** `trans femme` and `trans masc` preserve the author's approved St. Claire taxonomy, but a character's transgender status must still be tracked separately wherever the data model distinguishes identity from presentation. Do not infer cis/trans status merely from Femme, High Femme, or Butch.
 
 **Ethnicity:** matched to real US Census baseline — ~53% white, 17% Latina/Latine/Latino, 14% Black, 6% East Asian, 4% South Asian, ~2% Middle Eastern, <1% each Southeast Asian and Native/Indigenous.
 
@@ -54,7 +58,7 @@ Organic, not policy-driven — St. Claire doesn't have a hiring rule. Like real 
 
 **Trans dating realities — real, sourced grounding, worth codifying given trans representation's real prevalence in stories set here (~11% of the population per the ratio above).** Transgender women specifically report more difficulty finding romantic partners than other transgender/nonbinary people (Fuller & Riggs, 2021; Riggs et al., 2015). Roughly 70% of transgender/nonbinary people report difficulty finding a partner because of their gender identity or expression (Full Article, dating goals/relationship structures study, 2024). Across a mixed-orientation sample, 87.5% indicated they would not consider dating a trans person at all; among heterosexual respondents specifically, only 3% would (Blair & Hoskin, 2019). Of trans women who do date, 63% report experiencing fetishization rather than genuine interest, the highest rate among any gender group studied. **The story implication, not just the statistic:** a partner who reacts to a trans woman's disclosure with genuine, unhedged acceptance — no hesitation, no fetishizing curiosity, treating her as simply, fully real — represents a real, statistically rare outcome, not a narrative nicety. A trans character recognizing this and moving with more confidence or urgency than caution alone would predict is psychologically accurate given how rare a clean good outcome actually is, not narrative convenience overriding realism.
 
-**How this actually works in practice:** any time a new batch of characters gets built — staffing a new business, populating a new residential building, whatever the reason — the batch should be checked against all ratios above before being finalized. A batch of 5-10 people will naturally have some variance and that's fine; the check matters at the aggregate population level, where drift compounds silently if nobody's watching for it.
+**How this actually works in practice:** any time a new batch of characters gets built — staffing a new business, populating a new residential building, whatever the reason — validate each character against the approved St. Claire presentation taxonomy and check the genuinely established demographic rules above before finalizing. Do not manufacture presentation percentages merely to make a batch or aggregate population hit an inherited quota.
 
 ---
 
