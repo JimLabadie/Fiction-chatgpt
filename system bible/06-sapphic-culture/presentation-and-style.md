@@ -6,9 +6,31 @@ Butch–andro–femme is a continuum, not a binary, and most people don't sit at
 
 ## Femme Presentation
 
+**Femme is a substantive feminine presentation, not a residual category between androgynous and high femme.** A femme character should read as intentionally feminine through concrete choices appropriate to that individual, her culture, age, class, occupation, subculture, taste, and situation. Do not render `Femme` as Generic Woman™, as merely "not butch," or as a woman in neutral clothing with one token feminine marker.
+
+Femme presentation may use dresses, skirts, tailored trousers or jeans, heels, flats or boots, styled hair, makeup, manicures, jewelry, handbags, fragrance, lingerie, color, silhouette, fabric, and other feminine-coded choices. **None of those elements is reserved for high femme.** Pants are one possible garment, not the default practical uniform for femme characters; dresses, skirts, and heels remain ordinary available choices unless that particular character's taste or a real situational constraint says otherwise.
+
+Write the individual rather than a checklist. Two femmes can share the same presentation category while having visibly different aesthetics: vintage, romantic, polished professional, glamorous, playful, minimalist, punk, preppy, sensual, retro, streetwear, or something culturally and personally specific. The category establishes deliberate femininity; the character's taste establishes how she expresses it.
+
+Occupation and practicality modify the expression rather than silently erasing it. A femme mechanic, surgeon, chef, farmer, retail worker, or firefighter does not become less femme because her work imposes safety or functional constraints. Resolve the actual constraint specifically—safe footwear, tied-back hair, protected nails, washable fabrics, required PPE—then let the rest of her presentation remain hers. Do not use "practical" as an automatic synonym for pants, flat shoes, no makeup, no jewelry, or generic presentation.
+
+Personality and presentation intensity are separate axes. A shy, reserved, severe, funny, scholarly, blue-collar, or physically active femme remains femme. Do not mute feminine presentation merely to communicate personality.
+
+### Femme versus High Femme
+
+**High femme is an intensified expression within femme presentation, not the point at which a character finally becomes visibly feminine.** Ordinary femme should already be legibly, intentionally feminine. High femme turns up production value, glamour, polish, coordination, visibility, and/or sensuality according to the individual's aesthetic.
+
+The distinction is therefore one of **degree, commitment, and aesthetic intensity**, not a rule that femme wears pants while high femme gets dresses, or that femme gets flats while high femme gets heels. Both may wear dresses, skirts, heels, makeup, jewelry, styled hair, and manicures. High femme makes the total presentation more consistently unmistakable and produced.
+
+Do not mechanically upgrade a femme character to high femme because she is dressed up for an event, and do not downgrade a high-femme character because one situation imposes practical constraints. Consider the person's sustained presentation pattern and self-expression.
+
 ### High Femme
 
-**Femme, written concretely:** "femme" as a shorthand ("nails, makeup, girly clothes") undersells how much production value high femme actually carries at its bold end — it's not merely present, it's confident and unmistakable, closer to "screams it" than "wears a dress." A character written as high femme should hit real specifics, not adjectives: hair fully styled (not left "natural" or air-dried), full makeup with a defined point of view (a sharp wing, a bold lip color, real contour — not "a little mascara"), nails manicured and visible as a maintained thing, a fitted/body-conscious silhouette rather than a loose or shapeless one, real jewelry (substantial, not "delicate" or "minimal" by default), and heels as the default rather than an occasional choice. A measured or reserved personality doesn't mute this — it executes it with precision and control rather than volume, but the presentation itself stays bold; toning down the actual markers (softer makeup, quieter jewelry, lower heels) to signal a quieter personality collapses femme intensity into personality intensity, which are two different axes. Practical-constraint exceptions (a chef's kitchen-safe nails, a surgeon's plain hands) are about the job, not the person's presentation level, and should be written as a specific, acknowledged trade-off rather than a quiet downgrade.
+At the bold end, high femme is confident and unmistakable—closer to "screams it" than merely "wears a dress." Render it with real specifics rather than adjectives alone: fully styled hair; makeup with a defined point of view (for example a sharp wing, bold lip, deliberate contour, or another equally intentional aesthetic); visibly maintained nails where circumstances allow; a deliberate fitted, shaped, structured, flowing, or otherwise strongly feminine silhouette rather than accidental shapelessness; meaningful or substantial jewelry/accessories appropriate to her taste; and heels as a common/default choice when the situation permits rather than an exceptional costume event.
+
+High femme does **not** require every marker simultaneously, one universal beauty standard, body-conscious clothing in every outfit, maximalism, wealth, whiteness, youth, able-bodiedness, or discomfort for its own sake. The point is sustained, deliberate, high-production femininity expressed through the specific character.
+
+A measured or reserved personality does not mute high-femme presentation; it may execute it with precision and control rather than volume. Likewise, occupational or physical constraints are specific trade-offs, not a quiet downgrade of presentation identity.
 
 ## Presentation and aesthetic references
 
