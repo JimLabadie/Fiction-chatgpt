@@ -28,7 +28,7 @@ For ordinary development, continuity, revision, and drafting:
 - do not use another `stories/<other-story>/` directory as evidence, inspiration, recovery, characterization, continuity, or gap-filling;
 - do not import another story's facts from Memory, conversation summaries, prior chats, or familiar names;
 - if a repository-wide discovery search is necessary, discard other-story hits as out of scope unless Jim explicitly requested cross-story comparison, crossover, migration, or recovery;
-- absence in the active story means unresolved, not permission to borrow a familiar answer.
+- absence in the active story means unresolved, not permission to borrow, infer, invent, or genericize an answer. A known group, count, role, or relationship slot does not authorize a generic placeholder member; recover the established individual if one exists or leave the slot unresolved until Jim establishes it when consequential.
 
 Before applying a character fact, verify both the character's canonical full name and active story namespace. Persistent named characters require surnames before established continuity use or manuscript appearance. Same/similar first names, occupations, archetypes, voices, or roles never establish identity across stories. Even matching full names remain separate story-local entities unless shared identity is explicitly established by maintained System Bible canon or Jim.
 
