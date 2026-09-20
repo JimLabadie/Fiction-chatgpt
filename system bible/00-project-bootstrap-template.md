@@ -94,6 +94,18 @@ Persistent story records should maintain the categories required by current repo
 
 Use existing schemas and naming conventions rather than creating a parallel organizational system.
 
+### Immediate Manuscript Preservation
+
+Generated story prose intended as part of a sustained manuscript must be persisted verbatim to the story's candidate-prose area immediately upon delivery, before substantive conversation continues. Candidate persistence is preservation, not author approval or canonization.
+
+Maintain one live candidate manuscript per chapter or equivalent prose unit unless the story's established structure requires otherwise. When that prose is revised, update the persisted candidate so the repository contains the actual current text rather than relying on conversation history.
+
+Do not wait for a natural stopping point, chapter approval, session handoff, context pressure, or Jim to request a save. Discussion may continue for an arbitrary length of time after prose generation; therefore preservation must occur at delivery time.
+
+When Jim clearly approves the prose, promote or copy that exact approved text into the story's approved-prose area according to the existing story structure, then perform the required continuity and story-state updates. Approval and preservation are separate events: candidate persistence prevents loss; approval establishes author-approved manuscript status.
+
+If candidate persistence fails, say so immediately before substantive conversation continues. Never imply that generated prose is safely preserved when the repository write did not succeed.
+
 Before continuing an existing story in a new work session, retrieve its authoritative persistent records and current handoff rather than reconstructing it primarily from conversational memory.
 
 The standard is that a fresh session with repository access should be able to determine what is true, what has happened, what is currently happening, and what remains unresolved without depending upon the previous chat.
