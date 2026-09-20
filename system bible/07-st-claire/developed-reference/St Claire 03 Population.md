@@ -73,7 +73,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: August 22, 1988
 - Tags: none
-- Physical description & presentation: Andro-leaning, high-energy presence. White. Average height, wiry build. Tattoos up both forearms. Almost always in a crisp white chef's coat, sleeves pushed up, short sandy-blonde hair.
+- Physical description & presentation: Femme, high-energy presence. White. Average height, wiry build. Tattoos up both forearms. Almost always in a crisp white chef's coat, sleeves pushed up, short sandy-blonde hair.
 - Voice: Fast-talking, blunt, genuinely passionate the moment food comes up — no patience for small talk otherwise.
 - Occupation: Head chef, The River Mill Eatery
 - Role/Title at Organization: Head Chef, The River Mill Eatery (cross-reference: St_Claire_05_Organizations.md)
@@ -103,7 +103,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: October 19, 1985
 - Tags: none
-- Physical description & presentation: Andro. East Asian. Average height, lean and quick-moving. Forearms often lightly burned from the flat-top, short, neat dark hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. East Asian. Average height, lean and quick-moving. Forearms often lightly burned from the flat-top, short, neat dark hair, practical trousers and a canvas jacket.
 - Voice: quick-witted
 - Occupation: Short-order cook, The Sunrise Counter
 - Role/Title at Organization: Short-order cook, The Sunrise Counter (cross-reference: St_Claire_05_Organizations.md)
@@ -238,7 +238,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: April 17, 1999
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, always a little dirt-smudged from the flower buckets, close-cropped gray hair, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, always a little dirt-smudged from the flower buckets, close-cropped gray hair, an oversized blazer over a plain tee.
 - Voice: earnest, talks easily about plants, quieter about most else
 - Occupation: Botany student; storefront florals, Root & Rind
 - Role/Title at Organization: Floral arrangement staff, Root & Rind (cross-reference: St_Claire_05_Organizations.md)
@@ -313,7 +313,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: September 5, 2000
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, still has a student's energy about them, chin-length wavy dark hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Latine. Average height, still has a student's energy about them, chin-length wavy dark hair, a soft flannel, sleeves rolled to the elbow.
 - Voice: eager, a little rambling when excited, genuinely kind
 - Occupation: Nutrition student; recipe-sharing coordinator, Cornerstone Kitchen
 - Role/Title at Organization: Recipe-sharing coordinator, Cornerstone Kitchen (cross-reference: St_Claire_05_Organizations.md)
@@ -343,7 +343,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: July 3, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. Japanese American. Average height, precise movements behind the bar, a chin-length black bob, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Japanese American. Average height, precise movements behind the bar, a chin-length black bob, a plain tee and well-worn jeans.
 - Voice: intimidating precision behind the bar, informal big-sister energy off it
 - Occupation: Lead bartender, Blush
 - Role/Title at Organization: Lead Bartender, Blush (cross-reference: St_Claire_05_Organizations.md)
@@ -388,7 +388,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: May 6, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, ink-stained hands, various small paint spatters that never quite wash out, shoulder-length hair often in a low ponytail.
+- Physical description & presentation: Femme. White. Average height, ink-stained hands, various small paint spatters that never quite wash out, shoulder-length hair often in a low ponytail.
 - Voice: enthusiastic, tangential, will talk your ear off about zines if you let them
 - Occupation: Multimedia sculptor, The Velvet Palette
 - Role/Title at Organization: Multimedia sculptor, The Velvet Palette (cross-reference: St_Claire_05_Organizations.md)
@@ -433,7 +433,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: September 30, 1986
 - Tags: none
-- Physical description & presentation: Androgynous. White (French). Average height, usually in dark practical clothing for working the rig, a chin-length brown bob.
+- Physical description & presentation: Femme. White (French). Average height, usually in dark practical clothing for working the rig, a chin-length brown bob.
 - Voice: technical, precise, doesn't waste words during a tech run
 - Occupation: Lighting designer and stage manager, The Little Stage
 - Role/Title at Organization: Lighting Designer/Stage Manager, The Little Stage (cross-reference: St_Claire_05_Organizations.md)
@@ -448,7 +448,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: April 9, 1995
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, all-black clothing, a soft afro, kept short.
+- Physical description & presentation: Femme. Black. Average height, all-black clothing, a soft afro, kept short.
 - Voice: sharp, argumentative in a productive way — pushes every production toward honesty
 - Occupation: Dramaturg, The Little Stage
 - Role/Title at Organization: Dramaturg, The Little Stage (cross-reference: St_Claire_05_Organizations.md)
@@ -478,7 +478,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: July 21, 1997
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, usually smells faintly of espresso and film reel, an easy, unstyled crop, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, usually smells faintly of espresso and film reel, an easy, unstyled crop, a simple crewneck sweater and jeans.
 - Voice: enthusiastic film-nerd energy, softens fast once you show real interest
 - Occupation: Projectionist-barista, Starlight Cinema
 - Role/Title at Organization: Projectionist, Starlight Cinema (cross-reference: St_Claire_05_Organizations.md)
@@ -523,7 +523,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: August 12, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. Chinese American. Average height, often has headphones around the neck even off shift, short, neat dark hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. Chinese American. Average height, often has headphones around the neck even off shift, short, neat dark hair, practical trousers and a canvas jacket.
 - Voice: soft-spoken, lights up specifically when talking about a good mix
 - Occupation: Sound designer, Shift & Spin
 - Role/Title at Organization: Sound Designer, Shift & Spin (cross-reference: St_Claire_05_Organizations.md)
@@ -538,7 +538,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: May 25, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, vintage band tees, tortoiseshell sunglasses pushed up into her hair.
+- Physical description & presentation: Femme. White. Average height, vintage band tees, tortoiseshell sunglasses pushed up into her hair.
 - Voice: dry wit, encyclopedic music knowledge worn casually
 - Occupation: Crate-digger specialist, Shift & Spin
 - Role/Title at Organization: Sales staff, Shift & Spin (cross-reference: St_Claire_05_Organizations.md)
@@ -568,7 +568,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: October 8, 1998
 - Tags: Trans non-binary
-- Physical description & presentation: Trans non-binary. Androgynous. White. Average height, often has a book in hand between customers, short sandy-blonde hair, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Trans non-binary. Femme. White. Average height, often has a book in hand between customers, short sandy-blonde hair, a loose button-down and straight-leg trousers.
 - Voice: quiet
 - Occupation: Barista, The Bindery; gender studies graduate student
 - Role/Title at Organization: Barista, The Bindery (cross-reference: St_Claire_05_Organizations.md)
@@ -613,7 +613,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: June 3, 1977
 - Tags: none
-- Physical description & presentation: Androgynous. Chinese American. Average height, ink-stained forearms, reading glasses pushed up on their head, short, neat dark hair.
+- Physical description & presentation: Femme. Chinese American. Average height, ink-stained forearms, reading glasses pushed up on their head, short, neat dark hair.
 - Voice: patient teacher's cadence, slows down for beginners without condescension
 - Occupation: Screen-printing technician, Ink & Anchor
 - Role/Title at Organization: Screen-printing technician, Ink & Anchor (cross-reference: St_Claire_05_Organizations.md)
@@ -628,7 +628,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: September 16, 1992
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, ink-stained knuckles, protest buttons covering the apron, shoulder-length hair often in a low ponytail.
+- Physical description & presentation: Femme. White. Average height, ink-stained knuckles, protest buttons covering the apron, shoulder-length hair often in a low ponytail.
 - Voice: fast, wired, especially close to a deadline
 - Occupation: Industrial press operator, Ink & Anchor
 - Role/Title at Organization: Press operator, Ink & Anchor (cross-reference: St_Claire_05_Organizations.md)
@@ -658,7 +658,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: March 27, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, usually has headphones draped around the neck, short dark hair, no fuss, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, usually has headphones draped around the neck, short dark hair, no fuss, a plain tee and well-worn jeans.
 - Voice: technical but warm, explains audio gear like he's genuinely excited to share it
 - Occupation: Freelance radio producer, audio studio manager, The Open Page
 - Role/Title at Organization: Studio Manager, The Open Page (cross-reference: St_Claire_05_Organizations.md)
@@ -688,7 +688,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: May 14, 1988
 - Tags: Trans non-binary
-- Physical description & presentation: Trans non-binary. Androgynous. Korean American. Average height, usually in an apron with a pen tucked behind one ear, short, neat dark hair.
+- Physical description & presentation: Trans non-binary. Femme. Korean American. Average height, usually in an apron with a pen tucked behind one ear, short, neat dark hair.
 - Voice: practical, easy laugh, genuinely enjoys both the espresso and the spreadsheets
 - Occupation: Worker-owner, The Daily Grind
 - Role/Title at Organization: Worker-Owner, The Daily Grind (cross-reference: St_Claire_05_Organizations.md)
@@ -733,7 +733,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: November 9, 1980
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, equally at home in a blazer or work boots, an easy, unstyled crop.
+- Physical description & presentation: Femme. White. Average height, equally at home in a blazer or work boots, an easy, unstyled crop.
 - Voice: confident, moves fast between technical and business talk without missing a beat
 - Occupation: Owner, Thread & Timber; tech entrepreneur
 - Role/Title at Organization: Owner, Thread & Timber (cross-reference: St_Claire_05_Organizations.md)
@@ -808,7 +808,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: March 9, 1965
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, linen tunic, weathered hands, short sandy-blonde hair, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, linen tunic, weathered hands, short sandy-blonde hair, an oversized blazer over a plain tee.
 - Voice: quiet expertise
 - Occupation: Traditional herbalism practitioner, The Apothecary at 4th
 - Role/Title at Organization: Herbalist, The Apothecary at 4th (cross-reference: St_Claire_05_Organizations.md)
@@ -913,7 +913,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: September 12, 1984
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, usually has a deck of cards or dice in a pocket, shoulder-length hair often in a low ponytail, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, usually has a deck of cards or dice in a pocket, shoulder-length hair often in a low ponytail, a soft flannel, sleeves rolled to the elbow.
 - Voice: enthusiastic, genuinely delighted talking strategy with anyone who'll engage
 - Occupation: Owner, The Nook
 - Role/Title at Organization: Owner, The Nook (cross-reference: St_Claire_05_Organizations.md)
@@ -943,7 +943,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: October 17, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, fantasy-campaign hoodie, RPG manuals in tow, short dark hair, no fuss, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Average height, fantasy-campaign hoodie, RPG manuals in tow, short dark hair, no fuss, practical trousers and a canvas jacket.
 - Voice: theatrical when running a session, quieter outside of it
 - Occupation: Dungeon Master, The Nook (weekly campaign nights)
 - Role/Title at Organization: Staff/DM, The Nook (cross-reference: St_Claire_05_Organizations.md)
@@ -973,7 +973,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: July 4, 1997
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, still has vet-tech-student energy, short dark hair, no fuss, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Latine. Average height, still has vet-tech-student energy, short dark hair, no fuss, a plain tee and well-worn jeans.
 - Voice: earnest, precise about animal care, a little shy with people
 - Occupation: Vet tech student, pet nutritionist, Little Paws
 - Role/Title at Organization: Staff, Little Paws (cross-reference: St_Claire_05_Organizations.md)
@@ -1003,7 +1003,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: June 6, 1970
 - Tags: Founding Mother — the parish/spiritual transition
-- Physical description & presentation: Androgynous. Black. Average height, linen robe, serene presence, short natural curls, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. Black. Average height, linen robe, serene presence, short natural curls, a loose button-down and straight-leg trousers.
 - Voice: serene
 - Occupation: Secular chaplain, Sanctuary
 - Role/Title at Organization: Chaplain, Sanctuary (cross-reference: St_Claire_05_Organizations.md)
@@ -1018,7 +1018,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: September 9, 1998
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, calm bearing, a soft afro, kept short, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. Black. Average height, calm bearing, a soft afro, kept short, an oversized blazer over a plain tee.
 - Voice: gentle, attentive to silences, knows exactly when not to speak
 - Occupation: Music therapy student, memorial service support, Sanctuary
 - Role/Title at Organization: Support staff, Sanctuary (cross-reference: St_Claire_05_Organizations.md)
@@ -1108,7 +1108,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: April 30, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, wiry, a septum piercing, dark hair buzzed short on the sides and left longer on top, always in a stained gray mechanic's jumpsuit with the sleeves knotted at the waist by the end of a shift.
+- Physical description & presentation: Femme. White. Average height, wiry, a septum piercing, dark hair buzzed short on the sides and left longer on top, always in a stained gray mechanic's jumpsuit with the sleeves knotted at the waist by the end of a shift.
 - Voice: quick, dry, likes to underreact to things on purpose for the joke of it
 - Occupation: Auto mechanic (Occupation lookup list — auto mechanic entry)
 - Role/Title at Organization: Mechanic/Pump Attendant, Iron Horse Garage (cross-reference: St_Claire_05_Organizations.md)
@@ -1138,7 +1138,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: August 6, 1996
 - Tags: none
-- Physical description & presentation: Androgynous. White (Scandinavian). Average height, perpetually a little dog-haired no matter how often she changes scrubs, short white-blonde hair, a plain t-shirt under her scrub top, sleeves pushed to the elbow.
+- Physical description & presentation: Femme. White (Scandinavian). Average height, perpetually a little dog-haired no matter how often she changes scrubs, short white-blonde hair, a plain t-shirt under her scrub top, sleeves pushed to the elbow.
 - Voice: soft with animals, dry and funny with people, a real gear-shift between the two
 - Occupation: Nurse — veterinary technician, adapted from the Occupation lookup list
 - Role/Title at Organization: Veterinary Technician, Riverfront Fringe Veterinary Hospital (cross-reference: St_Claire_05_Organizations.md)
@@ -1198,7 +1198,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: March 3, 1999
 - Tags: none
-- Physical description & presentation: Androgynous. South Asian (Pakistani). Average height, quick and efficient in her movements, short practical hair pushed back with a bandana, an apron permanently damp by mid-shift over a plain t-shirt and jeans.
+- Physical description & presentation: Femme. South Asian (Pakistani). Average height, quick and efficient in her movements, short practical hair pushed back with a bandana, an apron permanently damp by mid-shift over a plain t-shirt and jeans.
 - Voice: brisk, no-nonsense, genuinely doesn't mind the grind of the work
 - Occupation: Server (adapted — dishwasher/busser role)
 - Role/Title at Organization: Dishwasher/Busser, The Sunrise Counter (cross-reference: St_Claire_05_Organizations.md)
@@ -1228,7 +1228,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: February 2, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, always has bike grease somewhere on their hands, an easy, unstyled crop, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, always has bike grease somewhere on their hands, an easy, unstyled crop, a simple crewneck sweater and jeans.
 - Voice: technical, lights up describing a difficult build
 - Occupation: Frame builder, Stride & Spoke
 - Role/Title at Organization: Frame Builder, Stride & Spoke (cross-reference: St_Claire_05_Organizations.md)
@@ -1273,7 +1273,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: December 15, 1995
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, often has pins and thread on their sleeve, close-cropped gray hair, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, often has pins and thread on their sleeve, close-cropped gray hair, a plain tee and well-worn jeans.
 - Voice: precise, gets quietly excited about good stitching
 - Occupation: Textile arts student, sustainable wardrobe builder, Second Chapter
 - Role/Title at Organization: Staff, Second Chapter (cross-reference: St_Claire_05_Organizations.md)
@@ -1393,7 +1393,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: November 27, 1988
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, easy smile, close-cropped gray hair, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, easy smile, close-cropped gray hair, a loose button-down and straight-leg trousers.
 - Voice: effortless with people — genuinely likes them, doesn't perform it
 - Occupation: not yet determined (dart tournament organizer at The Brass Ring is a role, not confirmed as full-time employment there)
 - Role/Title at Organization: Dart tournament organizer, The Brass Ring (cross-reference: St_Claire_05_Organizations.md)
@@ -1519,7 +1519,7 @@ Empty.
 - Status: active
 - Birthdate: July 30, 1976
 - Tags: none
-- Physical description & presentation: Androgynous. White. Tall, sun-weathered, calloused hands from real fieldwork, short sandy-blonde hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Tall, sun-weathered, calloused hands from real fieldwork, short sandy-blonde hair, practical trousers and a canvas jacket.
 - Voice: plainspoken, patient, doesn't waste breath on anything but what matters
 - Occupation: Staff, Merchant's Blooms
 - Role/Title at Organization: Staff, Merchant's Blooms (cross-reference: St_Claire_05_Organizations.md)
@@ -1534,7 +1534,7 @@ Empty.
 - Status: active
 - Birthdate: April 12, 2000
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, still has a student's restless energy, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, still has a student's restless energy, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
 - Voice: eager, talks fast when excited about botany
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1624,7 +1624,7 @@ Empty.
 - Status: active
 - Birthdate: June 4, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, usually paint-stained somewhere, shoulder-length hair often in a low ponytail, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, usually paint-stained somewhere, shoulder-length hair often in a low ponytail, a simple crewneck sweater and jeans.
 - Voice: playful, a little chaotic, the fun counterpart to Rory's own chaos
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1714,7 +1714,7 @@ Empty.
 - Status: active
 - Birthdate: January 30, 1977
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, real stage presence even off the decks, a chin-length brown bob, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, real stage presence even off the decks, a chin-length brown bob, an oversized blazer over a plain tee.
 - Voice: confident, a little brash, genuinely funny
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1729,7 +1729,7 @@ Empty.
 - Status: active
 - Birthdate: April 19, 1995
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, usually has headphones somewhere on their person, chin-length wavy dark hair, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Latine. Average height, usually has headphones somewhere on their person, chin-length wavy dark hair, a plain tee and well-worn jeans.
 - Voice: soft-spoken until music comes up, then genuinely animated
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1759,7 +1759,7 @@ Empty.
 - Status: active
 - Birthdate: August 25, 1999
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, quiet academic energy, short sandy-blonde hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, quiet academic energy, short sandy-blonde hair, a soft flannel, sleeves rolled to the elbow.
 - Voice: thoughtful, careful with words, opens up slowly
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1789,7 +1789,7 @@ Empty.
 - Status: active
 - Birthdate: March 11, 1979
 - Tags: Trans non-binary
-- Physical description & presentation: Trans non-binary. Androgynous. Chinese American. Average height, ink-stained like their partner, a chin-length black bob, practical trousers and a canvas jacket.
+- Physical description & presentation: Trans non-binary. Femme. Chinese American. Average height, ink-stained like their partner, a chin-length black bob, practical trousers and a canvas jacket.
 - Voice: steady, technical, teaches with real patience
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1819,7 +1819,7 @@ Empty.
 - Status: active
 - Birthdate: September 29, 1989
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, practical clothing suited to studio work, chin-length wavy dark hair.
+- Physical description & presentation: Femme. Latine. Average height, practical clothing suited to studio work, chin-length wavy dark hair.
 - Voice: calm, technically minded, easy to talk to
 - Occupation: Podcast/studio staff — freelance audio engineer
 - Role/Title at Organization: independent, frequent collaborator on Micah's podcast work at The Open Page without formal employment there
@@ -1834,7 +1834,7 @@ Empty.
 - Status: active
 - Birthdate: July 23, 1986
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, coffee-stained apron more often than not, short dark hair, no fuss.
+- Physical description & presentation: Femme. White. Average height, coffee-stained apron more often than not, short dark hair, no fuss.
 - Voice: practical, dry humor, genuinely enjoys the worker-owned model
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1849,7 +1849,7 @@ Empty.
 - Status: active
 - Birthdate: February 9, 2000
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, still a bit of a student's energy, close-cropped gray hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, still a bit of a student's energy, close-cropped gray hair, a simple crewneck sweater and jeans.
 - Voice: warm, easygoing, good at making strangers feel comfortable
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1864,7 +1864,7 @@ Empty.
 - Status: active
 - Birthdate: November 30, 1982
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, tech-casual style matching Harper's world, a chin-length brown bob, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, tech-casual style matching Harper's world, a chin-length brown bob, a plain tee and well-worn jeans.
 - Voice: sharp, business-minded, softens outside of work talk
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1879,7 +1879,7 @@ Empty.
 - Status: active
 - Birthdate: April 14, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, practical clothes suited to fieldwork or fixing things, an easy, unstyled crop.
+- Physical description & presentation: Femme. White. Average height, practical clothes suited to fieldwork or fixing things, an easy, unstyled crop.
 - Voice: steady, capable, doesn't say much until asked directly
 - Occupation: Structural/civil engineer
 - Role/Title at Organization: independent consultant, not tied to a single firm
@@ -1909,7 +1909,7 @@ Empty.
 - Status: active
 - Birthdate: January 16, 1998
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, still building real-world experience alongside Willow, short dark hair, no fuss, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, still building real-world experience alongside Willow, short dark hair, no fuss, a loose button-down and straight-leg trousers.
 - Voice: earnest, a little tentative, warms up fast
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1939,7 +1939,7 @@ Empty.
 - Status: active
 - Birthdate: October 27, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, athletic build, short sandy-blonde hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, athletic build, short sandy-blonde hair, a soft flannel, sleeves rolled to the elbow.
 - Voice: supportive, upbeat, genuinely likes cheering people on
 - Occupation: Physical therapy
 - Role/Title at Organization: independent practice out of St. Claire Medical Plaza; takes referrals from Drew without being on Iron & Grace's staff
@@ -1954,7 +1954,7 @@ Empty.
 - Status: active
 - Birthdate: March 6, 1985
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, board-game-nerd aesthetic matching Val's own, close-cropped gray hair, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, board-game-nerd aesthetic matching Val's own, close-cropped gray hair, an oversized blazer over a plain tee.
 - Voice: enthusiastic, a little competitive, loves a good strategy debate
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1984,7 +1984,7 @@ Empty.
 - Status: active
 - Birthdate: September 13, 1981
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, dog-hair-covered clothing as a matter of course.
+- Physical description & presentation: Femme. White. Average height, dog-hair-covered clothing as a matter of course.
 - Voice: warm, easygoing, loves animals more than most people and says so
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -1999,7 +1999,7 @@ Empty.
 - Status: active
 - Birthdate: June 28, 1996
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, practical vet-tech-adjacent clothing, short sandy-blonde hair.
+- Physical description & presentation: Femme. White. Average height, practical vet-tech-adjacent clothing, short sandy-blonde hair.
 - Voice: gentle, a little quiet, good with anxious creatures of all kinds
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -2029,7 +2029,7 @@ Empty.
 - Status: active
 - Birthdate: November 5, 1997
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, soft-spoken presence, an easy, unstyled crop, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, soft-spoken presence, an easy, unstyled crop, a plain tee and well-worn jeans.
 - Voice: gentle, musical even in ordinary speech, quiet warmth
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -2074,7 +2074,7 @@ Empty.
 - Status: active
 - Birthdate: July 17, 1987
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, bike-shop-adjacent practical clothing, a chin-length brown bob.
+- Physical description & presentation: Femme. White. Average height, bike-shop-adjacent practical clothing, a chin-length brown bob.
 - Voice: easygoing, technical when it matters, genuinely happy person
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -2089,7 +2089,7 @@ Empty.
 - Status: active
 - Birthdate: April 22, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, grease-stained hands matching Shae's own, close-cropped gray hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Average height, grease-stained hands matching Shae's own, close-cropped gray hair, practical trousers and a canvas jacket.
 - Voice: quiet, technical, opens up around bikes specifically
 - Occupation: General handyman/repair
 - Role/Title at Organization: independent, not on Stride & Spoke's staff; helps informally with shop overflow work
@@ -2119,7 +2119,7 @@ Empty.
 - Status: active
 - Birthdate: May 13, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, textile-adjacent practical style, shoulder-length hair often in a low ponytail, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, textile-adjacent practical style, shoulder-length hair often in a low ponytail, a loose button-down and straight-leg trousers.
 - Voice: quiet, precise, cares deeply about craft
 - Occupation: independent textile artist
 - Role/Title at Organization: independent, not on Second Chapter's staff; sells occasional pieces there on informal consignment
@@ -2209,7 +2209,7 @@ Empty.
 - Status: active
 - Birthdate: June 8, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, quick hands, apron perpetually a little singed, short dark hair, no fuss.
+- Physical description & presentation: Femme. White. Average height, quick hands, apron perpetually a little singed, short dark hair, no fuss.
 - Voice: fast, focused during service, easygoing once the kitchen clears
 - Occupation: Sous chef/line cook, The River Mill Eatery
 - Role/Title at Organization: Sous Chef, The River Mill Eatery (cross-reference: St_Claire_05_Organizations.md)
@@ -2269,7 +2269,7 @@ Empty.
 - Status: active
 - Birthdate: February 22, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, steel-toe boots, always has a heavy-duty tablet in hand, short dark hair, no fuss.
+- Physical description & presentation: Femme. Latine. Average height, steel-toe boots, always has a heavy-duty tablet in hand, short dark hair, no fuss.
 - Voice: technical, exacting about load calculations, warm outside of work talk
 - Occupation: Structural and civil engineer, sole practice
 - Role/Title at Organization: Engineer, independent practice (no Organization record — solo practitioner)
@@ -2344,7 +2344,7 @@ Empty.
 - Status: active
 - Birthdate: March 25, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, manifold gauges clipped to a work belt, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Latine. Average height, manifold gauges clipped to a work belt, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
 - Voice: technical, genuinely enthusiastic about efficient systems
 - Occupation: HVAC & Mechanical Systems, St. Claire Builders & Co.
 - Role/Title at Organization: HVAC Technician, St. Claire Builders & Co. (cross-reference: St_Claire_05_Organizations.md)
@@ -2359,7 +2359,7 @@ Empty.
 - Status: active
 - Birthdate: September 4, 1995
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, dust mask usually pushed up on the forehead, short sandy-blonde hair, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, dust mask usually pushed up on the forehead, short sandy-blonde hair, a plain tee and well-worn jeans.
 - Voice: quiet, precise, takes real pride in clean lines
 - Occupation: Drywall & Interior Finish Carpenter, St. Claire Builders & Co.
 - Role/Title at Organization: Finish Carpenter, St. Claire Builders & Co. (cross-reference: St_Claire_05_Organizations.md)
@@ -2404,7 +2404,7 @@ Empty.
 - Status: active
 - Birthdate: May 16, 1988
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, tailored blazer, a chin-length brown bob.
+- Physical description & presentation: Femme. White. Average height, tailored blazer, a chin-length brown bob.
 - Voice: businesslike but genuine, leads with values not price
 - Occupation: Owner, Hearthside Real Estate & Brokerage
 - Role/Title at Organization: Owner/Broker, Hearthside Real Estate & Brokerage (cross-reference: St_Claire_05_Organizations.md)
@@ -2479,7 +2479,7 @@ Empty.
 - Status: active
 - Birthdate: February 14, 1980
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, kind eyes, usually a little rumpled by the end of a long shift, short dark hair, no fuss, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. Latine. Average height, kind eyes, usually a little rumpled by the end of a long shift, short dark hair, no fuss, practical trousers and a canvas jacket.
 - Voice: unhurried, makes real time for every patient regardless of the schedule
 - Occupation: Gender-affirming care specialist, Amanda Watson – St. Claire Medical Center
 - Role/Title at Organization: Gender-Affirming Care Specialist, Amanda Watson – St. Claire Medical Center (cross-reference: St_Claire_05_Organizations.md)
@@ -2599,7 +2599,7 @@ Empty.
 - Status: active
 - Birthdate: April 12, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, practical, kid-proof clothing, a chin-length brown bob.
+- Physical description & presentation: Femme. White. Average height, practical, kid-proof clothing, a chin-length brown bob.
 - Voice: gentle, endlessly patient, genuinely loves infants and toddlers
 - Occupation: Childcare coordinator, St. Claire Public Academy & Childcare Center
 - Role/Title at Organization: Childcare Coordinator, St. Claire Public Academy & Childcare Center (cross-reference: St_Claire_05_Organizations.md)
@@ -2629,7 +2629,7 @@ Empty.
 - Status: active
 - Birthdate: October 26, 1983
 - Tags: none
-- Physical description & presentation: Androgynous. Italian American. Average height, practical clothes, always has a marker in hand, shoulder-length hair often in a low ponytail.
+- Physical description & presentation: Femme. Italian American. Average height, practical clothes, always has a marker in hand, shoulder-length hair often in a low ponytail.
 - Voice: energetic, makes middle schoolers actually pay attention to math
 - Occupation: Middle school math/science teacher, St. Claire Public Academy & Childcare Center
 - Role/Title at Organization: Middle School Teacher, St. Claire Public Academy & Childcare Center (cross-reference: St_Claire_05_Organizations.md)
@@ -2644,7 +2644,7 @@ Empty.
 - Status: active
 - Birthdate: August 15, 1990
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, easygoing presence, a low, neat fade, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. Black. Average height, easygoing presence, a low, neat fade, a loose button-down and straight-leg trousers.
 - Voice: relatable, remembers what it's like to be that age
 - Occupation: High school teacher (English/humanities), St. Claire Public Academy & Childcare Center
 - Role/Title at Organization: High School Teacher, St. Claire Public Academy & Childcare Center (cross-reference: St_Claire_05_Organizations.md)
@@ -2689,7 +2689,7 @@ Empty.
 - Status: active
 - Birthdate: April 26, 1992
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, always seems to be shelving something, chin-length wavy dark hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. Latine. Average height, always seems to be shelving something, chin-length wavy dark hair, a simple crewneck sweater and jeans.
 - Voice: quiet, genuinely delighted whenever a student asks for a real book recommendation
 - Occupation: Librarian, St. Claire Public Academy & Childcare Center
 - Role/Title at Organization: Librarian, St. Claire Public Academy & Childcare Center (cross-reference: St_Claire_05_Organizations.md)
@@ -2719,7 +2719,7 @@ Empty.
 - Status: active
 - Birthdate: February 27, 1978
 - Tags: Founding Mother — safety net & mutual aid
-- Physical description & presentation: Androgynous. Black. Average height, warm and steady presence, chin-length locs, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. Black. Average height, warm and steady presence, chin-length locs, an oversized blazer over a plain tee.
 - Voice: calm, direct, the voice of someone who's talked a lot of scared kids through their worst nights
 - Occupation: Owner/Director, Marceline Woods – Haven House
 - Role/Title at Organization: Owner/Director, Marceline Woods – Haven House (cross-reference: St_Claire_05_Organizations.md)
@@ -2749,7 +2749,7 @@ Empty.
 - Status: active
 - Birthdate: June 21, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, practical clothes suited to running between meetings, an easy, unstyled crop.
+- Physical description & presentation: Femme. White. Average height, practical clothes suited to running between meetings, an easy, unstyled crop.
 - Voice: quick, curious, still a little junior-reporter eager
 - Occupation: Staff, The Daily Record
 - Role/Title at Organization: Staff Writer, The Daily Record (cross-reference: St_Claire_05_Organizations.md)
@@ -2809,7 +2809,7 @@ Empty.
 - Status: active
 - Birthdate: January 15, 1979
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, paint-spattered overalls as a matter of course, short sandy-blonde hair.
+- Physical description & presentation: Femme. White. Average height, paint-spattered overalls as a matter of course, short sandy-blonde hair.
 - Voice: loud, opinionated, genuinely loves the building she lives in
 - Occupation: Artist; tenant association organizer, The Foundry Lofts
 - Role/Title at Organization: Tenant Association Organizer, The Foundry Lofts (informal — not a formal Organization role)
@@ -2959,7 +2959,7 @@ Empty.
 - Status: active
 - Birthdate: April 8, 1999
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, apron with a permanent coffee stain, a chin-length brown bob.
+- Physical description & presentation: Femme. White. Average height, apron with a permanent coffee stain, a chin-length brown bob.
 - Voice: laid-back, good with the regulars
 - Occupation: Barista, The Daily Grind
 - Role/Title at Organization: Barista, The Daily Grind (cross-reference: St_Claire_05_Organizations.md)
@@ -3019,7 +3019,7 @@ Empty.
 - Status: active
 - Birthdate: October 8, 1977
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, practical presence, shoulder-length hair often in a low ponytail, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Average height, practical presence, shoulder-length hair often in a low ponytail, practical trousers and a canvas jacket.
 - Voice: even-keeled, grounding
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -3109,7 +3109,7 @@ Empty.
 - Status: active
 - Birthdate: July 24, 1981
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, warm clinical presence, chin-length wavy dark hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Latine. Average height, warm clinical presence, chin-length wavy dark hair, a soft flannel, sleeves rolled to the elbow.
 - Voice: gentle, precise
 - Occupation: Gender-Affirming Care Coordinator (private practice, not yet linked to an Organization)
 - Role/Title at Organization: not yet determined
@@ -3139,7 +3139,7 @@ Empty.
 - Status: active
 - Birthdate: October 22, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. East African. Average height, always slightly dirt-streaked, short sandy-blonde hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. East African. Average height, always slightly dirt-streaked, short sandy-blonde hair, a simple crewneck sweater and jeans.
 - Voice: steady, genuinely enjoys the physical work
 - Occupation: Field hand, St. Claire Farm Collective
 - Role/Title at Organization: Field Hand, St. Claire Farm Collective (cross-reference: St_Claire_05_Organizations.md)
@@ -3199,7 +3199,7 @@ Empty.
 - Status: active
 - Birthdate: December 5, 1995
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, apron dusted with flour or produce depending on the shift, short dark hair, no fuss.
+- Physical description & presentation: Femme. Latine. Average height, apron dusted with flour or produce depending on the shift, short dark hair, no fuss.
 - Voice: easygoing, quick with regulars
 - Occupation: Cashier/stock, Corner Market
 - Role/Title at Organization: Staff, Corner Market (cross-reference: St_Claire_05_Organizations.md)
@@ -3229,7 +3229,7 @@ Empty.
 - Status: active
 - Birthdate: May 3, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. White (German). Average height, precise and efficient, close-cropped gray hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White (German). Average height, precise and efficient, close-cropped gray hair, practical trousers and a canvas jacket.
 - Voice: quiet competence, remembers regulars' standing orders
 - Occupation: Staff, The Hillside Larder
 - Role/Title at Organization: Staff, The Hillside Larder (cross-reference: St_Claire_05_Organizations.md)
@@ -3259,7 +3259,7 @@ Empty.
 - Status: active
 - Birthdate: July 2, 1996
 - Tags: none
-- Physical description & presentation: Androgynous. Latine. Average height, apron with real knife-work calluses starting to show, chin-length wavy dark hair.
+- Physical description & presentation: Femme. Latine. Average height, apron with real knife-work calluses starting to show, chin-length wavy dark hair.
 - Voice: eager, still learning the trade from Marisela
 - Occupation: Staff/apprentice butcher, Riverside Provisions
 - Role/Title at Organization: Apprentice, Riverside Provisions (cross-reference: St_Claire_05_Organizations.md)
@@ -3334,7 +3334,7 @@ Empty.
 - Status: active
 - Birthdate: September 2, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. Japanese American. Average height, practical, cold-room-ready clothing, short, neat dark hair.
+- Physical description & presentation: Femme. Japanese American. Average height, practical, cold-room-ready clothing, short, neat dark hair.
 - Voice: matter-of-fact, real expertise about what's actually fresh that day
 - Occupation: Staff, Riverfront Fish Co.
 - Role/Title at Organization: Staff, Riverfront Fish Co. (cross-reference: St_Claire_05_Organizations.md)
@@ -3394,7 +3394,7 @@ Empty.
 - Status: active
 - Birthdate: May 31, 1987
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, practical stockroom clothing, a soft afro, kept short.
+- Physical description & presentation: Femme. Black. Average height, practical stockroom clothing, a soft afro, kept short.
 - Voice: steady, unhurried
 - Occupation: Stock/receiving, St. Claire Supermarket
 - Role/Title at Organization: Stock Clerk, St. Claire Supermarket (cross-reference: St_Claire_05_Organizations.md)
@@ -3499,7 +3499,7 @@ Empty.
 - Status: active
 - Birthdate: November 17, 1988
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, easy warmth, short natural curls, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. Black. Average height, easy warmth, short natural curls, an oversized blazer over a plain tee.
 - Voice: encouraging, genuinely loves music
 - Occupation: Music/Arts teacher, St. Claire Public Academy & Childcare Center
 - Role/Title at Organization: Music/Arts Teacher, St. Claire Public Academy & Childcare Center (cross-reference: St_Claire_05_Organizations.md)
@@ -3559,7 +3559,7 @@ Empty.
 - Status: active
 - Birthdate: May 5, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, real stage presence, a low, neat fade, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Black. Average height, real stage presence, a low, neat fade, a soft flannel, sleeves rolled to the elbow.
 - Voice: confident, warm
 - Occupation: Musician/performer, Shift & Spin (in-store sessions)
 - Role/Title at Organization: Performer (informal, regular booking), Shift & Spin (cross-reference: St_Claire_05_Organizations.md)
@@ -3619,7 +3619,7 @@ Empty.
 - Status: active
 - Birthdate: November 17, 1990
 - Tags: Trans woman
-- Physical description & presentation: Trans woman. Androgynous. Black. Average height, always smells faintly of roasted coffee, chin-length locs, a simple crewneck sweater and jeans.
+- Physical description & presentation: Trans woman. Femme. Black. Average height, always smells faintly of roasted coffee, chin-length locs, a simple crewneck sweater and jeans.
 - Voice: warm, genuinely passionate about the craft
 - Occupation: Owner, Roast & Ember
 - Role/Title at Organization: Owner, Roast & Ember (Organization record not yet created — a coffee roastery, distinct from The Daily Grind's café model)
@@ -3664,7 +3664,7 @@ Empty.
 - Status: active
 - Birthdate: December 3, 1977
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, a low, neat fade, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. Black. Average height, a low, neat fade, practical trousers and a canvas jacket.
 - Voice: precise, takes real pride in a clean room
 - Occupation: Front Desk, The River Bend Motel
 - Role/Title at Organization: Front Desk, The River Bend Motel (cross-reference: St_Claire_05_Organizations.md)
@@ -3679,7 +3679,7 @@ Empty.
 - Status: active
 - Birthdate: February 13, 1973
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, short dark hair, no fuss, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Latina. Average height, short dark hair, no fuss, a plain tee and well-worn jeans.
 - Voice: calm under pressure, real hospitality instinct
 - Occupation: Housekeeping Lead, The River Bend Motel
 - Role/Title at Organization: Housekeeping Lead, The River Bend Motel (cross-reference: St_Claire_05_Organizations.md)
@@ -3754,7 +3754,7 @@ Empty.
 - Status: active
 - Birthdate: November 16, 1988
 - Tags: none
-- Physical description & presentation: Androgynous. East Asian. Average height, a chin-length black bob, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. East Asian. Average height, a chin-length black bob, an oversized blazer over a plain tee.
 - Voice: upbeat, genuinely loves the constant flow of new people
 - Occupation: Maintenance, St. Claire Inn & Suites
 - Role/Title at Organization: Maintenance, St. Claire Inn & Suites (cross-reference: St_Claire_05_Organizations.md)
@@ -3814,7 +3814,7 @@ Empty.
 - Status: active
 - Birthdate: October 18, 1997
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, an easy, unstyled crop, a chin-length brown bob, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, an easy, unstyled crop, a chin-length brown bob, a loose button-down and straight-leg trousers.
 - Voice: friendly, quick with local recommendations
 - Occupation: Concierge, The Harbor House
 - Role/Title at Organization: Concierge, The Harbor House (cross-reference: St_Claire_05_Organizations.md)
@@ -3874,7 +3874,7 @@ Empty.
 - Status: active
 - Birthdate: September 14, 1980
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, shoulder-length hair often in a low ponytail, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Average height, shoulder-length hair often in a low ponytail, practical trousers and a canvas jacket.
 - Voice: friendly, quick with local recommendations
 - Occupation: Concierge Lead, The Riverstone Grand
 - Role/Title at Organization: Concierge Lead, The Riverstone Grand (cross-reference: St_Claire_05_Organizations.md)
@@ -4024,7 +4024,7 @@ Empty.
 - Status: active
 - Birthdate: February 21, 1978
 - Tags: Trans non-binary
-- Physical description & presentation: Trans non-binary. Androgynous. White. Average height, close-cropped gray hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Trans non-binary. Femme. White. Average height, close-cropped gray hair, a simple crewneck sweater and jeans.
 - Voice: quiet competence, handles problems before guests notice them
 - Occupation: AV/Technical Lead, St. Claire Convention Center
 - Role/Title at Organization: AV/Technical Lead, St. Claire Convention Center (cross-reference: St_Claire_05_Organizations.md)
@@ -4084,7 +4084,7 @@ Empty.
 - Status: active
 - Birthdate: September 24, 1993
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, chin-length locs, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Black. Average height, chin-length locs, a plain tee and well-worn jeans.
 - Voice: efficient, remembers guests' names on the second visit
 - Occupation: Teller, St. Claire Community Credit Union
 - Role/Title at Organization: Teller, St. Claire Community Credit Union (cross-reference: St_Claire_05_Organizations.md)
@@ -4099,7 +4099,7 @@ Empty.
 - Status: active
 - Birthdate: February 9, 1995
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, oversized headphones as a matter of course, a soft afro, kept short, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. Black. Average height, oversized headphones as a matter of course, a soft afro, kept short, a loose button-down and straight-leg trousers.
 - Voice: laid-back, night-owl energy, genuinely watchful
 - Occupation: Freelance web designer; night shift host, The Chrysalis Co-Op
 - Role/Title at Organization: Night Shift Host, The Chrysalis Co-Op (cross-reference: St_Claire_05_Organizations.md)
@@ -4114,7 +4114,7 @@ Empty.
 - Status: active
 - Birthdate: June 13, 1984
 - Tags: none
-- Physical description & presentation: Androgynous. White (Scandinavian). Average height, precise, deliberate movements, short dark hair, no fuss, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White (Scandinavian). Average height, precise, deliberate movements, short dark hair, no fuss, practical trousers and a canvas jacket.
 - Voice: quiet, exacting, genuinely proud of tight tolerances
 - Occupation: CNC machinist, The Maker's Crucible
 - Role/Title at Organization: CNC Machinist, The Maker's Crucible (cross-reference: St_Claire_05_Organizations.md)
@@ -4144,7 +4144,7 @@ Empty.
 - Status: active
 - Birthdate: January 11, 1974
 - Tags: none
-- Physical description & presentation: Androgynous. East Asian. Average height, short, neat dark hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. East Asian. Average height, short, neat dark hair, a soft flannel, sleeves rolled to the elbow.
 - Voice: efficient, remembers regulars fast
 - Occupation: Staff, Slice House
 - Role/Title at Organization: Staff, Slice House (cross-reference: St_Claire_05_Organizations.md)
@@ -4204,7 +4204,7 @@ Empty.
 - Status: active
 - Birthdate: January 22, 1978
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, a chin-length brown bob, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, a chin-length brown bob, an oversized blazer over a plain tee.
 - Voice: steady under pressure, real kitchen discipline
 - Occupation: Staff, Bangkok Table
 - Role/Title at Organization: Staff, Bangkok Table (cross-reference: St_Claire_05_Organizations.md)
@@ -4339,7 +4339,7 @@ Empty.
 - Status: active
 - Birthdate: July 3, 1986
 - Tags: Trans non-binary
-- Physical description & presentation: Trans non-binary. Androgynous. Middle Eastern. Average height, short dark waves, a simple crewneck sweater and jeans.
+- Physical description & presentation: Trans non-binary. Femme. Middle Eastern. Average height, short dark waves, a simple crewneck sweater and jeans.
 - Voice: upbeat, quick with a joke
 - Occupation: Owner, Smokehouse on 4th
 - Role/Title at Organization: Owner, Smokehouse on 4th (cross-reference: St_Claire_05_Organizations.md)
@@ -4369,7 +4369,7 @@ Empty.
 - Status: active
 - Birthdate: October 12, 1982
 - Tags: none
-- Physical description & presentation: Androgynous. Middle Eastern. Average height, short dark waves, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Middle Eastern. Average height, short dark waves, a plain tee and well-worn jeans.
 - Voice: upbeat, quick with a joke
 - Occupation: Staff, Smokehouse on 4th
 - Role/Title at Organization: Staff, Smokehouse on 4th (cross-reference: St_Claire_05_Organizations.md)
@@ -4384,7 +4384,7 @@ Empty.
 - Status: active
 - Birthdate: April 14, 1972
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, an easy, unstyled crop, shoulder-length hair often in a low ponytail, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, an easy, unstyled crop, shoulder-length hair often in a low ponytail, a loose button-down and straight-leg trousers.
 - Voice: direct, no-nonsense but fair
 - Occupation: Owner, The Green Table
 - Role/Title at Organization: Owner, The Green Table (cross-reference: St_Claire_05_Organizations.md)
@@ -4519,7 +4519,7 @@ Empty.
 - Status: active
 - Birthdate: January 1, 2000
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, shoulder-length hair often in a low ponytail, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, shoulder-length hair often in a low ponytail, a soft flannel, sleeves rolled to the elbow.
 - Voice: friendly, good with first-timers
 - Occupation: Owner, Corner Sub Shop
 - Role/Title at Organization: Owner, Corner Sub Shop (cross-reference: St_Claire_05_Organizations.md)
@@ -4609,7 +4609,7 @@ Empty.
 - Status: active
 - Birthdate: January 6, 1985
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, close-cropped gray hair, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, close-cropped gray hair, an oversized blazer over a plain tee.
 - Voice: steady under pressure, real kitchen discipline
 - Occupation: Staff, Spice Route
 - Role/Title at Organization: Staff, Spice Route (cross-reference: St_Claire_05_Organizations.md)
@@ -4639,7 +4639,7 @@ Empty.
 - Status: active
 - Birthdate: February 24, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, short sandy-blonde hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, short sandy-blonde hair, a simple crewneck sweater and jeans.
 - Voice: passionate about the craft, happy to talk shop
 - Occupation: Staff, The Tide Table
 - Role/Title at Organization: Staff, The Tide Table (cross-reference: St_Claire_05_Organizations.md)
@@ -4669,7 +4669,7 @@ Empty.
 - Status: active
 - Birthdate: November 24, 1971
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, a soft afro, kept short, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. Black. Average height, a soft afro, kept short, a plain tee and well-worn jeans.
 - Voice: direct, no-nonsense but fair
 - Occupation: Owner, Morning Glory Café
 - Role/Title at Organization: Owner, Morning Glory Café (cross-reference: St_Claire_05_Organizations.md)
@@ -4684,7 +4684,7 @@ Empty.
 - Status: active
 - Birthdate: August 14, 1999
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, chin-length wavy dark hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. Latina. Average height, chin-length wavy dark hair, practical trousers and a canvas jacket.
 - Voice: quiet focus, precise work
 - Occupation: Staff, Morning Glory Café
 - Role/Title at Organization: Staff, Morning Glory Café (cross-reference: St_Claire_05_Organizations.md)
@@ -4744,7 +4744,7 @@ Empty.
 - Status: active
 - Birthdate: October 4, 1976
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, short natural curls, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. Black. Average height, short natural curls, an oversized blazer over a plain tee.
 - Voice: direct, no-nonsense but fair
 - Occupation: Owner, Vintage & Vine
 - Role/Title at Organization: Owner, Vintage & Vine (cross-reference: St_Claire_05_Organizations.md)
@@ -4759,7 +4759,7 @@ Empty.
 - Status: active
 - Birthdate: March 15, 1989
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, an easy, unstyled crop, close-cropped gray hair, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, an easy, unstyled crop, close-cropped gray hair, a soft flannel, sleeves rolled to the elbow.
 - Voice: friendly, good with first-timers
 - Occupation: Staff, Vintage & Vine
 - Role/Title at Organization: Staff, Vintage & Vine (cross-reference: St_Claire_05_Organizations.md)
@@ -4819,7 +4819,7 @@ Empty.
 - Status: active
 - Birthdate: May 31, 1992
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, short dark hair, no fuss, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. Latina. Average height, short dark hair, no fuss, a loose button-down and straight-leg trousers.
 - Voice: passionate about the craft, happy to talk shop
 - Occupation: Owner, Full Count Sports Bar
 - Role/Title at Organization: Owner, Full Count Sports Bar (cross-reference: St_Claire_05_Organizations.md)
@@ -4849,7 +4849,7 @@ Empty.
 - Status: active
 - Birthdate: March 20, 1971
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, chin-length wavy dark hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. Latina. Average height, chin-length wavy dark hair, a simple crewneck sweater and jeans.
 - Voice: friendly, good with first-timers
 - Occupation: Staff, Full Count Sports Bar
 - Role/Title at Organization: Staff, Full Count Sports Bar (cross-reference: St_Claire_05_Organizations.md)
@@ -4864,7 +4864,7 @@ Empty.
 - Status: active
 - Birthdate: August 31, 1980
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, a chin-length brown bob, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, a chin-length brown bob, an oversized blazer over a plain tee.
 - Voice: friendly, good with first-timers
 - Occupation: Owner, The Underground
 - Role/Title at Organization: Owner, The Underground (cross-reference: St_Claire_05_Organizations.md)
@@ -4879,7 +4879,7 @@ Empty.
 - Status: active
 - Birthdate: May 1, 1997
 - Tags: none
-- Physical description & presentation: Androgynous. South Asian. Average height, short dark hair, practical and unfussy, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. South Asian. Average height, short dark hair, practical and unfussy, a plain tee and well-worn jeans.
 - Voice: upbeat, quick with a joke
 - Occupation: Staff, The Underground
 - Role/Title at Organization: Staff, The Underground (cross-reference: St_Claire_05_Organizations.md)
@@ -4954,7 +4954,7 @@ Empty.
 - Status: active
 - Birthdate: October 28, 1972
 - Tags: none
-- Physical description & presentation: Androgynous. South Asian. Average height, short dark hair, practical and unfussy, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. South Asian. Average height, short dark hair, practical and unfussy, a soft flannel, sleeves rolled to the elbow.
 - Voice: upbeat, quick with a joke
 - Occupation: Manager, The Bolt & Bobbin Textile Incubator
 - Role/Title at Organization: Manager, The Bolt & Bobbin Textile Incubator (cross-reference: St_Claire_05_Organizations.md)
@@ -4999,7 +4999,7 @@ Empty.
 - Status: active
 - Birthdate: February 5, 1985
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, a low, neat fade, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. Black. Average height, a low, neat fade, a simple crewneck sweater and jeans.
 - Voice: encouraging, genuinely good at teaching others
 - Occupation: Manager, Commissary Kitchen Collective
 - Role/Title at Organization: Manager, Commissary Kitchen Collective (cross-reference: St_Claire_05_Organizations.md)
@@ -5029,7 +5029,7 @@ Empty.
 - Status: active
 - Birthdate: August 28, 1985
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, close-cropped gray hair, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, close-cropped gray hair, an oversized blazer over a plain tee.
 - Voice: steady under pressure, real discipline
 - Occupation: Owner, Signal Sound Collective
 - Role/Title at Organization: Owner, Signal Sound Collective (cross-reference: St_Claire_05_Organizations.md)
@@ -5089,7 +5089,7 @@ Empty.
 - Status: active
 - Birthdate: January 1, 1973
 - Tags: Trans woman
-- Physical description & presentation: Trans woman. Androgynous. White. Average height, short sandy-blonde hair, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Trans woman. Femme. White. Average height, short sandy-blonde hair, a loose button-down and straight-leg trousers.
 - Voice: quiet focus, precise work
 - Occupation: Manager, Open Studio Artist Collective
 - Role/Title at Organization: Manager, Open Studio Artist Collective (cross-reference: St_Claire_05_Organizations.md)
@@ -5119,7 +5119,7 @@ Empty.
 - Status: active
 - Birthdate: April 13, 1980
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, shoulder-length hair often in a low ponytail, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, shoulder-length hair often in a low ponytail, a plain tee and well-worn jeans.
 - Voice: warm and welcoming, genuine hospitality instinct
 - Occupation: Owner, Fenwick Hardware
 - Role/Title at Organization: Owner, Fenwick Hardware (cross-reference: St_Claire_05_Organizations.md)
@@ -5194,7 +5194,7 @@ Empty.
 - Status: active
 - Birthdate: October 31, 1981
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, an easy, unstyled crop, short sandy-blonde hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Average height, an easy, unstyled crop, short sandy-blonde hair, practical trousers and a canvas jacket.
 - Voice: quiet focus, precise work
 - Occupation: Staff, Second Nature Home & Vintage
 - Role/Title at Organization: Staff, Second Nature Home & Vintage (cross-reference: St_Claire_05_Organizations.md)
@@ -5209,7 +5209,7 @@ Empty.
 - Status: active
 - Birthdate: July 28, 1989
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, close-cropped gray hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, close-cropped gray hair, a simple crewneck sweater and jeans.
 - Voice: quiet focus, precise work
 - Occupation: Owner, Ember & Ore Jewelry
 - Role/Title at Organization: Owner, Ember & Ore Jewelry (cross-reference: St_Claire_05_Organizations.md)
@@ -5269,7 +5269,7 @@ Empty.
 - Status: active
 - Birthdate: July 11, 1996
 - Tags: none
-- Physical description & presentation: Androgynous. South Asian. Average height, short dark hair, practical and unfussy, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. South Asian. Average height, short dark hair, practical and unfussy, an oversized blazer over a plain tee.
 - Voice: direct, no-nonsense but fair
 - Occupation: Owner, The Moving Line Dance Studio
 - Role/Title at Organization: Owner, The Moving Line Dance Studio (cross-reference: St_Claire_05_Organizations.md)
@@ -5299,7 +5299,7 @@ Empty.
 - Status: active
 - Birthdate: April 25, 1998
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. Latina. Average height, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
 - Voice: encouraging, genuinely good at teaching others
 - Occupation: Staff, The Moving Line Dance Studio
 - Role/Title at Organization: Staff, The Moving Line Dance Studio (cross-reference: St_Claire_05_Organizations.md)
@@ -5314,7 +5314,7 @@ Empty.
 - Status: active
 - Birthdate: August 3, 2000
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, short dark hair, no fuss, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. Latina. Average height, short dark hair, no fuss, a loose button-down and straight-leg trousers.
 - Voice: direct, no-nonsense but fair
 - Occupation: Owner, Aperture Photography Studio
 - Role/Title at Organization: Owner, Aperture Photography Studio (cross-reference: St_Claire_05_Organizations.md)
@@ -5419,7 +5419,7 @@ Empty.
 - Status: active
 - Birthdate: January 16, 1996
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, chin-length wavy dark hair, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. Latina. Average height, chin-length wavy dark hair, practical trousers and a canvas jacket.
 - Voice: efficient, remembers regulars fast
 - Occupation: Manager, St. Claire Mediation Center
 - Role/Title at Organization: Manager, St. Claire Mediation Center (cross-reference: St_Claire_05_Organizations.md)
@@ -5464,7 +5464,7 @@ Empty.
 - Status: active
 - Birthdate: June 24, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, a chin-length brown bob, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, a chin-length brown bob, an oversized blazer over a plain tee.
 - Voice: efficient, remembers regulars fast
 - Occupation: Manager, St. Claire Disability Resource Center
 - Role/Title at Organization: Manager, St. Claire Disability Resource Center (cross-reference: St_Claire_05_Organizations.md)
@@ -5525,7 +5525,7 @@ Empty.
 - Status: active
 - Birthdate: November 3, 1994
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, always seems to be in the middle of reading something, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Femme. White. Average height, always seems to be in the middle of reading something, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
 - Voice: quiet, genuinely reverent about the material she lives alongside
 - Occupation: Live-in caretaker, Odessa Calloway's Keeping House
 - Role/Title at Organization: Live-in Caretaker, Odessa Calloway's Keeping House (cross-reference: St_Claire_05_Organizations.md)
@@ -5571,7 +5571,7 @@ Empty.
 - Status: active
 - Birthdate: September 23, 1988
 - Tags: none
-- Physical description & presentation: Androgynous. Turkish. Average height, easygoing bartending presence, short dark waves, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. Turkish. Average height, easygoing bartending presence, short dark waves, a simple crewneck sweater and jeans.
 - Voice: relaxed, good listener
 - Occupation: Bartender, The Back Porch
 - Role/Title at Organization: Bartender, The Back Porch (cross-reference: St_Claire_05_Organizations.md)
@@ -5646,7 +5646,7 @@ Empty.
 - Status: active
 - Birthdate: April 10, 1982
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, endlessly patient with homework meltdowns, an easy, unstyled crop.
+- Physical description & presentation: Femme. White. Average height, endlessly patient with homework meltdowns, an easy, unstyled crop.
 - Voice: calm, encouraging
 - Occupation: Director, The Afternoon Program
 - Role/Title at Organization: Director, The Afternoon Program (cross-reference: St_Claire_05_Organizations.md)
@@ -5736,7 +5736,7 @@ Empty.
 - Status: active
 - Birthdate: January 1, 1975
 - Tags: none
-- Physical description & presentation: Androgynous. South Asian. Average height, short dark hair, practical and unfussy, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. South Asian. Average height, short dark hair, practical and unfussy, a plain tee and well-worn jeans.
 - Voice: friendly, remembers every family's kids by name
 - Occupation: Staff, The Story Nook
 - Role/Title at Organization: Staff, The Story Nook (cross-reference: St_Claire_05_Organizations.md)
@@ -5766,7 +5766,7 @@ Empty.
 - Status: active
 - Birthdate: November 19, 1992
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, shoulder-length hair often in a low ponytail, an oversized blazer over a plain tee.
+- Physical description & presentation: Femme. White. Average height, shoulder-length hair often in a low ponytail, an oversized blazer over a plain tee.
 - Voice: patient, endlessly encouraging
 - Occupation: Stylist, Little Snips
 - Role/Title at Organization: Stylist, Little Snips (cross-reference: St_Claire_05_Organizations.md)
@@ -5811,7 +5811,7 @@ Empty.
 - Status: active
 - Birthdate: March 13, 1992
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, an easy, unstyled crop, a chin-length brown bob, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, an easy, unstyled crop, a chin-length brown bob, a loose button-down and straight-leg trousers.
 - Voice: friendly, remembers every family's kids by name
 - Occupation: Staff, Wonderland Play Space
 - Role/Title at Organization: Staff, Wonderland Play Space (cross-reference: St_Claire_05_Organizations.md)
@@ -5916,7 +5916,7 @@ Empty.
 - Status: active
 - Birthdate: September 5, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, short dark hair, no fuss, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. Latina. Average height, short dark hair, no fuss, practical trousers and a canvas jacket.
 - Voice: friendly, remembers every family's kids by name
 - Occupation: Front Desk, Little Leaps Gymnastics & Dance
 - Role/Title at Organization: Front Desk, Little Leaps Gymnastics & Dance (cross-reference: St_Claire_05_Organizations.md)
@@ -5946,7 +5946,7 @@ Empty.
 - Status: active
 - Birthdate: September 17, 1987
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, close-cropped gray hair, a plain tee and well-worn jeans.
+- Physical description & presentation: Femme. White. Average height, close-cropped gray hair, a plain tee and well-worn jeans.
 - Voice: gentle, precise
 - Occupation: Instructor, Spark Science Center
 - Role/Title at Organization: Instructor, Spark Science Center (cross-reference: St_Claire_05_Organizations.md)
@@ -6036,7 +6036,7 @@ Empty.
 - Status: active
 - Birthdate: December 19, 1988
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, short sandy-blonde hair, a simple crewneck sweater and jeans.
+- Physical description & presentation: Femme. White. Average height, short sandy-blonde hair, a simple crewneck sweater and jeans.
 - Voice: upbeat, quick to build trust with new families
 - Occupation: Staff, Celebration Station
 - Role/Title at Organization: Staff, Celebration Station (cross-reference: St_Claire_05_Organizations.md)
@@ -6066,7 +6066,7 @@ Empty.
 - Status: active
 - Birthdate: February 3, 1973
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, shoulder-length hair often in a low ponytail, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Femme. White. Average height, shoulder-length hair often in a low ponytail, a loose button-down and straight-leg trousers.
 - Voice: gentle, precise
 - Occupation: Member Liaison, The Village Childcare Co-op
 - Role/Title at Organization: Member Liaison, The Village Childcare Co-op (cross-reference: St_Claire_05_Organizations.md)
@@ -6096,7 +6096,7 @@ Empty.
 - Status: active
 - Birthdate: March 2, 1977
 - Tags: none
-- Physical description & presentation: Androgynous. White. Average height, an easy, unstyled crop, shoulder-length hair often in a low ponytail, practical trousers and a canvas jacket.
+- Physical description & presentation: Femme. White. Average height, an easy, unstyled crop, shoulder-length hair often in a low ponytail, practical trousers and a canvas jacket.
 - Voice: steady, the kind of adult kids actually listen to
 - Occupation: Staff, Second Stitches Kids
 - Role/Title at Organization: Staff, Second Stitches Kids (cross-reference: St_Claire_05_Organizations.md)
@@ -6546,7 +6546,7 @@ A deliberately distinct, minimal schema from the adult Character template above 
 - Status: active
 - Birthdate: January 3, 1991
 - Tags: none
-- Physical description & presentation: Androgynous. Latina. Average height, practical night-shift presence.
+- Physical description & presentation: Femme. Latina. Average height, practical night-shift presence.
 - Voice: quiet, focused, prefers the overnight hours
 - Occupation: Furnace Operator (night shift), Harriet Osei – St. Claire Reclamation Works
 - Role/Title at Organization: Furnace Operator, Harriet Osei – St. Claire Reclamation Works (cross-reference: St_Claire_05_Organizations.md)
@@ -6606,7 +6606,7 @@ A deliberately distinct, minimal schema from the adult Character template above 
 - Status: active
 - Birthdate: August 4, 1987
 - Tags: none
-- Physical description & presentation: Androgynous. South Asian. Average height, precise, regulatory mindset.
+- Physical description & presentation: Femme. South Asian. Average height, precise, regulatory mindset.
 - Voice: careful, thorough, takes real pride in a clean compliance record
 - Occupation: Environmental Compliance Officer, Harriet Osei – St. Claire Reclamation Works
 - Role/Title at Organization: Environmental Compliance Officer, Harriet Osei – St. Claire Reclamation Works (cross-reference: St_Claire_05_Organizations.md)
@@ -6651,7 +6651,7 @@ A deliberately distinct, minimal schema from the adult Character template above 
 - Status: active
 - Birthdate: March 13, 1986
 - Tags: none
-- Physical description & presentation: Androgynous. Black. Average height, precise, numbers-focused presence.
+- Physical description & presentation: Femme. Black. Average height, precise, numbers-focused presence.
 - Voice: calm under pressure, genuinely good at reading fluctuating markets
 - Occupation: Energy Resource Manager, Harriet Osei – St. Claire Reclamation Works
 - Role/Title at Organization: Energy Resource Manager, Harriet Osei – St. Claire Reclamation Works (cross-reference: St_Claire_05_Organizations.md)
