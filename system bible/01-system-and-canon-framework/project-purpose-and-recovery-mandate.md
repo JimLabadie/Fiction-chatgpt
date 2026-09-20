@@ -42,7 +42,8 @@ During later development, the normal collaboration cycle is:
 4. Contribute analysis, connections, consequences, and possibilities.
 5. Preserve Jim's reactions, humor, corrections, reasoning, and unexpected connections as part of the development record.
 6. Ask whether the discussion is settled enough to codify.
-7. Persist and verify the accepted result before moving on.
+7. Persist the accepted result at the level of detail at which it was established; codification may organize it but must not compress away its reasoning, distinctions, conditions, examples, relationships, mechanisms, intent, or other established resolution.
+8. Verify the persisted result against the accepted development before moving on.
 
 Asking is an essential authorship step, not merely a fallback when data is missing. Jim's voice appears through the discussion itself and cannot be reconstructed completely from static rules.
 
