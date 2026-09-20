@@ -88,7 +88,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: April 2, 1958
 - Tags: Founding Mother — commerce
-- Physical description & presentation: Butch-leaning, weathered. White. Average height, sturdy build. Gray hair cropped short. Decades of early mornings visible in her hands and face, a worn leather jacket, sleeves pushed up.
+- Physical description & presentation: Butch, weathered. White. Average height, sturdy build. Gray hair cropped short. Decades of early mornings visible in her hands and face, a worn leather jacket, sleeves pushed up.
 - Voice: booming laugh that carries to the parking lot; calls everyone "honey" without exception
 - Occupation: Owner, The Sunrise Counter
 - Role/Title at Organization: Owner, The Sunrise Counter (cross-reference: St_Claire_05_Organizations.md)
@@ -178,7 +178,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: January 11, 1965
 - Tags: none
-- Physical description & presentation: Butch-leaning, impeccably dressed. Latina. Average height, silver-black hair slicked back. Always in a dark, well-tailored suit on the floor.
+- Physical description & presentation: Butch, impeccably dressed. Latina. Average height, silver-black hair slicked back. Always in a dark, well-tailored suit on the floor.
 - Voice: old-world elegance, absolute discretion
 - Occupation: Owner, Amour Noir
 - Role/Title at Organization: Owner, Amour Noir (cross-reference: St_Claire_05_Organizations.md)
@@ -253,7 +253,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: November 2, 1980
 - Tags: none
-- Physical description & presentation: Butch-leaning. White. Sturdy build. Flannel and overalls, dirt under fingernails at the register, short auburn hair.
+- Physical description & presentation: Butch. White. Sturdy build. Flannel and overalls, dirt under fingernails at the register, short auburn hair.
 - Voice: dry, practical, no wasted words
 - Occupation: Organic agriculture sourcing, Root & Rind
 - Role/Title at Organization: Sourcing staff, Root & Rind (cross-reference: St_Claire_05_Organizations.md)
@@ -553,7 +553,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: July 19, 1963
 - Tags: none
-- Physical description & presentation: Butch-leaning. White. Average height, reading glasses on a chain, cardigans year-round, a silver crew cut.
+- Physical description & presentation: Butch. White. Average height, reading glasses on a chain, cardigans year-round, a silver crew cut.
 - Voice: measured, precise — the voice of someone who's read everything twice
 - Occupation: Owner, The Bindery
 - Role/Title at Organization: Owner, The Bindery (cross-reference: St_Claire_05_Organizations.md)
@@ -1078,7 +1078,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: November 20, 1950
 - Tags: none
-- Physical description & presentation: Butch-leaning. White (Dutch). Average height, knitted cardigan, a graying buzz cut.
+- Physical description & presentation: Butch. White (Dutch). Average height, knitted cardigan, a graying buzz cut.
 - Voice: unhurried storyteller's cadence, remembers dates and names with real precision
 - Occupation: Oral historian, elder activist, The Hearth Room
 - Role/Title at Organization: Oral Historian, The Hearth Room (cross-reference: St_Claire_05_Organizations.md)
@@ -1333,7 +1333,7 @@ Children get a deliberately different, minimal template — not the adult presen
 - Status: active
 - Birthdate: May 30, 1955
 - Tags: none
-- Physical description & presentation: Butch-leaning elder. Latina. Average height, straw hat, overalls, sun-weathered hands, short dark hair, slicked back.
+- Physical description & presentation: Butch elder. Latina. Average height, straw hat, overalls, sun-weathered hands, short dark hair, slicked back.
 - Voice: warm, unhurried, the voice of an elder who's earned the right to take her time saying something
 - Occupation: Elder gardener, Sage & Soil
 - Role/Title at Organization: Elder gardener, Sage & Soil (cross-reference: St_Claire_05_Organizations.md)
@@ -2779,7 +2779,7 @@ Empty.
 - Status: active
 - Birthdate: March 12, 1968
 - Tags: Founding Mother — legal aid & justice
-- Physical description & presentation: Butch-leaning. Latina. Average height, sharp blazers softened by well-worn boots, short dark hair, slicked back.
+- Physical description & presentation: Butch. Latina. Average height, sharp blazers softened by well-worn boots, short dark hair, slicked back.
 - Voice: measured, precise, the voice of someone who's argued a lot of cases nobody else would take
 - Occupation: Founder, Constance Ibarra – St. Claire Legal Aid Society
 - Role/Title at Organization: Founder/Director, Constance Ibarra – St. Claire Legal Aid Society (Organization record not yet created)
@@ -2869,7 +2869,7 @@ Empty.
 - Status: active
 - Birthdate: September 18, 1981
 - Tags: none
-- Physical description & presentation: Non-binary AMAB. White. Average height, wire-rim glasses, close-cropped gray hair.
+- Physical description & presentation: Non-binary AMAB. Femme. White. Average height, wire-rim glasses, close-cropped gray hair.
 - Voice: translates fluently between investment-speak and community values
 - Occupation: Director, The Nexus Incubator
 - Role/Title at Organization: Director, The Nexus Incubator (cross-reference: St_Claire_05_Organizations.md)
@@ -2899,7 +2899,7 @@ Empty.
 - Status: active
 - Birthdate: January 10, 1992
 - Tags: none
-- Physical description & presentation: Transmasculine non-binary. Latine. Average height, grease-smudged, safety goggles pushed up on the forehead between uses, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
+- Physical description & presentation: Transmasculine non-binary. Trans Masc. Latine. Average height, grease-smudged, safety goggles pushed up on the forehead between uses, short dark hair, no fuss, a soft flannel, sleeves rolled to the elbow.
 - Voice: patient, genuinely enjoys teaching without a trace of condescension
 - Occupation: Lead technician, The Maker's Crucible
 - Role/Title at Organization: Lead Technician, The Maker's Crucible (cross-reference: St_Claire_05_Organizations.md)
@@ -2914,7 +2914,7 @@ Empty.
 - Status: active
 - Birthdate: July 21, 1986
 - Tags: none
-- Physical description & presentation: Non-binary. White. Average height, practical, unpretentious style, short dark hair, no fuss, a loose button-down and straight-leg trousers.
+- Physical description & presentation: Non-binary. Femme. White. Average height, practical, unpretentious style, short dark hair, no fuss, a loose button-down and straight-leg trousers.
 - Voice: warm, genuinely proud of the artisans she represents
 - Occupation: Manager, Mosaic Goods
 - Role/Title at Organization: Manager, Mosaic Goods (cross-reference: St_Claire_05_Organizations.md)
@@ -3079,7 +3079,7 @@ Empty.
 - Status: active
 - Birthdate: June 4, 1990
 - Tags: none
-- Physical description & presentation: Transmasculine. Latine. Average height, easygoing presence, short dark hair, no fuss, an oversized blazer over a plain tee.
+- Physical description & presentation: Transmasculine. Trans Masc. Latine. Average height, easygoing presence, short dark hair, no fuss, an oversized blazer over a plain tee.
 - Voice: relaxed, warm
 - Occupation: not yet determined
 - Role/Title at Organization: not yet determined
@@ -3424,7 +3424,7 @@ Empty.
 - Status: active
 - Birthdate: November 25, 1965
 - Tags: none
-- Physical description & presentation: Butch-leaning. Armenian. Average height, warm, weathered presence, short dark hair, cropped neat, practical cargo pants and a henley.
+- Physical description & presentation: Butch. Armenian. Average height, warm, weathered presence, short dark hair, cropped neat, practical cargo pants and a henley.
 - Voice: warm, proud of her heritage foods
 - Occupation: Owner, Petrosyan's Market
 - Role/Title at Organization: Owner, Petrosyan's Market (cross-reference: St_Claire_05_Organizations.md)
@@ -3574,7 +3574,7 @@ Empty.
 - Status: active
 - Birthdate: September 22, 1975
 - Tags: none
-- Physical description & presentation: Butch-leaning. Black. Average height, sharp, precise presence, a close-cropped fade with a sharp line, a denim jacket covered in old pins.
+- Physical description & presentation: Butch. Black. Average height, sharp, precise presence, a close-cropped fade with a sharp line, a denim jacket covered in old pins.
 - Voice: measured, genuinely good with numbers
 - Occupation: Accountant/CPA, owner
 - Role/Title at Organization: Owner, Hale Accounting (Organization record not yet created)
