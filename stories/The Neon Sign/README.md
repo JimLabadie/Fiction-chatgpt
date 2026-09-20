@@ -12,13 +12,17 @@ This series is distinct from **A Life in Plain Sight** and from the separate Jim
 | Document | Purpose |
 |---|---|
 | [series-bible.md](series-bible.md) | Durable premise and scope |
-| [character-bible.md](character-bible.md) | Characters and relationships |
+| [character-bible.md](character-bible.md) | Character index and recovery status; substantial character truth lives in linked `characters/` records |
 | [world-and-setting.md](world-and-setting.md) | Shared references and series-specific setting |
 | [voice-and-style.md](voice-and-style.md) | House voice and series narration choices |
 | [series-outline.md](series-outline.md) | Approved plans and proposed scene choices |
 | [timeline-and-continuity.md](timeline-and-continuity.md) | Accepted events and continuity |
 | [current-story-state.md](current-story-state.md) | Exact handoff |
 | [series-development.md](series-development.md) | Decisions, reasoning, proposals, and open questions |
+
+## Character recovery warning
+
+The story's character records are currently under author-led recovery after Jim identified cross-story contamination that may predate multiple downstream records and chapters. Do not treat repetition among the Character Bible, detailed records, timeline, current-story-state, series-development, or chapters as independent validation of character claims. The Character Bible is an index; substantial character truth belongs in the linked `characters/` records after Jim re-establishes it.
 
 ## Chapter workflow
 
