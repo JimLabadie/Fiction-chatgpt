@@ -12,6 +12,19 @@ This document does not maintain population/organization/household counts — any
 
 Presentation taxonomy: High Femme / Femme / Trans Femme / Trans Masc / Butch (no inherited presentation quota), ethnicity Census-matched, trans/cis ~11%/89% (22 trans women, largest trans subgroup), relationship status ~54%/28%/12%/8% (couple/single/triad/quad). Every future population batch should be checked against all four before being finalized.
 
+## Presentation-taxonomy correction receipt — September 19, 2026
+
+Author decision: St. Claire uses exactly five presentation categories: **High Femme, Femme, Trans Femme, Trans Masc, and Butch.** The Claude-era Androgynous/Andro category and its 48/30/21 presentation quota are rejected generation artifacts, not canon.
+
+Population cleanup completed against `St Claire 03 Population.md`:
+- 124 `Androgynous` assignments, 1 `Andro` assignment, and 1 `Andro-leaning` assignment were converted to **Femme**.
+- 9 inherited `Butch-leaning` variants were normalized to **Butch**.
+- records carrying non-binary or transmasculine identity wording were preserved as identity information while receiving an approved St. Claire presentation category; identity and presentation must not be conflated.
+- the inherited androgynous name-generation pool has been removed; the intentional rule against randomly assigning traditionally masculine names to women remains in force.
+- aggregate presentation quotas based on the rejected Claude taxonomy are retired. Future characters are validated against the approved taxonomy rather than generated to hit that quota.
+
+**Important remaining character-data audit:** replacing the invalid category does not automatically validate every inherited physical-description/outfit sentence attached to those records. Claude-era stock styling remains subject to the normal St. Claire character-initialization validation against the System Bible's Femme/High Femme guidance before scene use. Do not treat an inherited outfit description as authoritative merely because its presentation label has now been corrected.
+
 ## Genuinely unresolved issues, prioritized
 
 0A. **St. Claire's Women's Co-op — major foundational canon, now substantially codified across Concept.md and Rules & Mechanics, still NOT cross-checked against the rest of the document set.** Full structure now written in: dual charter (special district for permitting/land-use/utilities, fraternal benefit society — Knights of Columbus's real legal category — for membership/mutual-aid), land ownership vested entirely in the Co-op, Marxist-feminist membership-not-property foundations, monthly standing meeting plus Genesis Day confirmation of a now-formally-chartered Council and President, the traditionalist/progressive internal political axis tied to the existing Womb Network essentialism debate, membership closed to adult cis men with exactly two narrow exceptions (raised-here sons reaching 18, or the rare voluntary-transformation mechanic for a sufficiently devoted husband), the full unified membership process (application → Council approval → associate membership → induction/training/ritual → full membership), wedding terminology replacing commitment-ceremony language now that the Co-op holds real internal marriage authority (tribal-sovereignty-grounded, internal-only, not externally recognized), and the structural consequence that any member — regardless of her own identity — cannot build a conventional marriage with a man inside St. Claire outside those same two exceptions.
