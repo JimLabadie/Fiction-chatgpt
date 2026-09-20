@@ -3,71 +3,85 @@
 Status: ACTIVE DEVELOPMENT
 Story: **The Neon Sign**
 Current day: Saturday
-Current handoff: immediately after approved Chapter Six at St. Claire Pharmacy; the group is leaving the pharmacy to continue to purse shopping.
+Current handoff: immediately after approved Chapter Eight, **Remove the Tags**. Steve has just walked out of Second Chapter into Greenleaf Core with Brittney, Liz, Chloe, Nat, Maddie, Tori, and Emily.
 
 ## Location and movement
 
-Current location: St. Claire Medical Plaza / just outside St. Claire Pharmacy.
+Current location: Greenleaf Core, immediately outside **Second Chapter**.
 Present characters: Steve, Brittney, Liz, Chloe, Nat, Maddie, Tori, Emily.
-Next movement: travel physically from St. Claire Medical Plaza to **Second Chapter** in Greenleaf Core. No teleportation.
+Second Chapter staff just left behind in the store: Billie Sandoval, Constance Parker, Greta Lindstrom.
 
-Second Chapter is now the resolved canonical boutique for the purse-shopping sequence: a full-spectrum specialty secondhand fashion boutique owned by Billie Sandoval and staffed by Constance Parker and Greta Lindstrom. Saturday is their shared peak day, so all three are ordinarily present. The store's joyful, non-gatekeeping treasure-hunt culture and staff expertise are active parts of the scene rather than background checkout machinery.
+Chapter Seven — **Second Chapter** is author-approved, but its exact manuscript still requires recovery before an approved manuscript file can be created faithfully. Chapter Eight — **Remove the Tags** is author-approved and persisted at `chapters/approved/008-remove-the-tags.md`.
 
 ## Steve — immediate physical state
 
-Clothing: jeans, sweater, sneakers.
-Presentation: male-presenting clothing with fresh red lipstick.
-Carrying: green purse.
-Owns: lipstick.
-Now owns: compact with preferred hinge; reusable travel bottles; hand lotion; small pill container; two zippered organizer pouches; hard safety-pin case; travel tissues and approved practical odds and ends.
+Steve is now visibly and intentionally femme by personal choice.
 
-Purse contents contributed at the diner:
-- Maddie: tissues, mints.
-- Emily: pain relief, blister bandages.
-- Nat: power bank, cable.
-- Tori: two pens, safety pins.
-- Britt: nail file, comb.
-- Chloe: stain pen, sanitizer.
-- Liz: wet wipes, emergency $20.
+Wearing:
+- deep saturated emerald/peacock-toned vintage dress with sculpted portrait neckline, three-quarter sleeves, structured bodice, defined waist, and full tea-length skirt;
+- black designer pumps with approximately four-inch heels and red soles;
+- fresh red lipstick.
 
-Steve has embraced the purse. Do not write it as something Steve is reluctantly carrying merely because the women told Steve to.
+Carrying:
+- structured oxblood/deep-wine quality leather handbag with restrained hardware;
+- the bag now contains the practical purse system Steve developed earlier, including lipstick, compact, wallet, phone, and the previously established organized essentials.
 
-Outside perception: at this stage strangers/the surrounding world do **not** perceive Steve as male. Steve's purse, lipstick, and similar feminine-coded presentation therefore read as ordinary rather than as a man publicly crossing a gendered presentation boundary. This lack of social friction contributes to Steve forgetting the purse was ever supposed to be “a thing.”
+Stored/carried separately:
+- jeans, sweater, sneakers, and green purse are packed in a Second Chapter shopping bag after Steve changed and chose to leave wearing the new outfit.
+
+Physical skill state:
+- Steve is a brand-new high-heel wearer. Greta taught short controlled heel-to-toe steps, posture, and turning. Steve can walk independently but still needs concentration and practice; do not silently make Steve expert.
+- Steve explicitly wants to learn and treats the skill as a technical problem to master.
+
+## Emotional / identity state
+
+Steve experienced a powerful aesthetic self-recognition moment in the mirror after the dress, oxblood bag, red lipstick, and red-soled pumps came together. Steve cried happy, surprised tears and said, **“I just... really like how I look.”**
+
+The prose approached but did not complete an identity conclusion: **“The woman—”** remained an unfinished thought. Do not convert that into an already-conscious “I am a woman” realization. The recognition is real; the identity vocabulary remains Steve's to discover.
+
+Steve then deliberately committed to the presentation by telling Billie, **“Remove the tags.”** Steve chose to leave Second Chapter dressed this way rather than changing back.
+
+Outside, St. Claire treated Steve's presentation as ordinary. Steve crossed the threshold into public space without a safety reset.
+
+## Greta seed
+
+Greta Lindstrom proudly told Steve she is trans while explaining fit. She explicitly limited her claim to shared experience with women's clothing and bodies shaped by male puberty rather than diagnosing Steve: she knows what **this** experience can feel like; anything bigger belongs to Steve.
+
+Greta's core fitting lesson:
+- Steve's body is not “wrong”; an unsuitable dress is wrong for Steve.
+- Do not begin from “what should I hide?”; ask **“What can I make beautiful?”**
+- Greta selected the emerald dress to work with Steve's actual shoulders, torso, waist, coloring, lipstick, and bag rather than disguising Steve.
+
+This plants a future mentorship possibility. It is not yet an explicit mentor relationship. The immediate durable result is that Greta has become a safe, credible person Steve may later choose to ask about experiences the polycule cannot answer from Steve's perspective.
 
 ## Group state
 
-All seven women are present and must remain distinct in clothing/presentation, handbag/style, voice, physical position, and reactions. Their dynamic with Steve is affectionate, teasing, increasingly attracted, and family-like, but each individual bond has its own pace.
+All seven women remain present. They supported and teased without claiming Steve's identity. Britt and Liz physically steadied Steve during the first heel attempts; the group protected the emotional mirror moment rather than turning it into an intervention.
 
-The group has an established chat named **Absolutely Not A Cult 🌈**.
-
-## Knowledge and relationship state
-
-Steve's life and presentation are changing faster than Steve fully understands.
-The women are capable of seeing implications Steve has not yet integrated, but the story does not give them ownership over Steve's identity.
-Attraction is becoming emotionally consequential. The planned/ongoing “not dates” and private/group conversations are how the story investigates that rather than declaring a conclusion.
-Steve's own choices — green dress, lipstick/purse participation, forthcoming purse purchase — are important continuity markers.
-
-Steve's mastery pattern is active: when Steve encounters a relevant subject Steve does not know, Steve researches, optimizes, customizes, and develops informed preferences. Purses are now entering that process.
+The group chat remains **Absolutely Not A Cult 🌈**.
 
 ## Active thematic state — true-self / high-femme arc
 
-The trans arc is currently operating as true-self discovery. Steve is not simply accumulating feminine objects; Steve is beginning to discover an authentic feminine aesthetic point of view and the pleasure of recognizing oneself in a choice. Steve's long trajectory is high femme, but Steve does not yet need to identify or label that destination.
+Steve's trans arc remains true-self discovery: access → joy → taste → aesthetic self-recognition → deliberate choice → mastery → eventual identity recognition.
 
-The seven women may recognize the high-femme direction before Steve does because they have their own lived relationships with femininity and presentation. They must not be flattened into timid observers or a monolithic teaching committee. They can actively enjoy the shopping scene: offer options, lobby, tease, disagree, predict, compare notes, and playfully conduct “field research” into Steve's emerging taste. Their participation does not erase Steve's agency. The key question they are discovering is what Steve chooses when Steve has real options and no prescribed answer.
+Chapter Eight is a major threshold:
+- Steve's handbag choice created an aesthetic incompatibility with the old outfit.
+- Steve developed and asserted clothing preferences rather than accepting whatever the women offered.
+- Greta found a dress that made Steve's own body feel beautiful.
+- The red-soled pumps completed the composition and intensified the mirror recognition.
+- Steve chose to wear the whole look out into St. Claire.
+- Steve is moving toward High Femme, but this is a prototype/threshold, not completed mastery. Hair, makeup beyond lipstick, jewelry, nails, footwear fluency, and a mature wardrobe remain future growth.
 
-Femininity in this arc is allowed to be pleasurable for its own sake: beauty, color, craft, polish, drama, coordination, being pretty, and the satisfaction of a look clicking into place. The women can share that joy because they enjoy it too in their own distinct ways.
-
-The next purse scene should move beyond utility into aesthetic recognition. Steve may begin to experience the difference between “this works” and “this feels right / this is me” without yet converting that feeling into a gender conclusion. The developing “fashion is a conversation” idea can articulate that aesthetic choices communicate with others and with oneself: Steve discovers that there is a sentence before Steve understands exactly what the sentence says.
-
+Femininity continues to be joy, craft, beauty, play, self-expression, community, and mastery—not punishment or diagnostic evidence.
 
 ## Immediate next-story context
 
-Next chapter begins with continuity from the diner rather than a reset.
+Steve and the seven women are outside Second Chapter on Saturday afternoon. Steve's final line in approved Chapter Eight is:
 
-Completed in approved Chapter Six: **St. Claire Pharmacy**, with **Odette Brennan**. Steve bought the compact, confronted travel-size economics, discovered modular purse organization, reorganized the green purse, and independently arrived at multiple-purse logic. Odette treated Steve's presentation as ordinary.
+**“But apparently I need a lot more clothes.”**
 
-Next destination: **Second Chapter** in Greenleaf Core. Steve discovers that function is not the only variable: flashy can be cool, and color/style matter. Steve discovers that feminine presentation/accessories and quality handbags can be expensive, then personally chooses a quality, larger, more expressive purse. This is the beginning of Steve trying to “win” purses, not merely own one.
+The next chapter must begin from that physical and emotional state rather than resetting Steve to jeans/sneakers or treating the outfit as hypothetical.
 
-Future continuity already approved: within roughly a week, Steve researches handbags extensively and develops informed, potentially questionably expensive preferences around function, construction, color, and style. Shoes will eventually trigger the same mastery behavior, but that rabbit hole is not yet an on-page event.
+Steve's handbag and footwear mastery rabbit holes are now active on-page rather than merely future plans. Future research/optimization should grow from these experiences.
 
-Maintain Saturday wardrobe and the green purse until an on-page event changes them. Resolve actual St. Claire geography, businesses, staff, and travel before prose.
+Chapter Seven manuscript recovery remains a repository task, but its approval status is settled and must not be re-litigated.
