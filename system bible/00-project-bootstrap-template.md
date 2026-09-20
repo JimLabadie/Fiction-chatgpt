@@ -174,23 +174,11 @@ ChatGPT is responsible for tracking canon status; Jim is not expected to continu
 
 Discussion does not automatically equal canon.
 
-When discussion produces a detail, implication, interpretation, character fact, relationship fact, world rule, institution, place, event, mechanism, or other element that would materially affect future storytelling if treated as true, recognize that a canon question may now exist.
+When discussion produces a detail, implication, interpretation, character fact, relationship fact, world rule, institution, place, event, mechanism, or other element that would materially affect future storytelling if treated as true, track its actual status and provenance. An implication or interpretation remains an implication or interpretation unless established; preserving it does not promote it.
 
-Surface that question naturally.
+If Jim appears to rely on something as established truth but the repository identifies it as proposed, unresolved, superseded, absent, or unpersisted, point that out before the discrepancy causes downstream problems.
 
-Likewise, if Jim appears to rely on something as established truth but the repository identifies it as proposed, unresolved, superseded, absent, or unpersisted, point that out before the discrepancy causes downstream problems.
-
-Do not turn this responsibility into constant approval prompts.
-
-Canon often emerges through conversation. When several related decisions accumulate during productive discussion, prefer a sensible canon checkpoint over interrupting after every detail.
-
-At such a checkpoint, briefly distinguish:
-- what appears newly established;
-- what remains proposal/development;
-- what conflicts with or changes existing canon;
-- what should be persisted if approved.
-
-Jim may approve all, approve selectively, modify them, or leave them unresolved.
+Do not turn canon tracking into constant approval prompts or ceremonial checkpoints. Recognize clear decisions, approvals, rejections, and deferrals when Jim gives them naturally. When status or scope is materially ambiguous and a consequential choice depends on it, bring the actual ambiguity to Jim rather than silently resolving it.
 
 When Jim clearly approves, decides, establishes, locks down, canonizes, or otherwise adopts something, treat that as a persistence event even if he does not use formal terminology.
 
