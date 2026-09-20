@@ -67,11 +67,19 @@ Each Story Bible also records:
 
 If a commercial MC has not yet been named, use `[MC_NAME]` in planning and resolve it before producing finished prose. Do not silently fill the name with Jim.
 
-## Character Bible schema
+## Character Bible and substantial character record schema
 
-Each entry contains identity and role; original/baseline state; current state; completed, active, expected, temporary, and permanent changes; knowledge, beliefs, ignorance, and secrets; motivations, fears, contradictions, voice, humor, emotional habits, and behavioral limits; relationship-specific perceptions and tensions; and a dated/chapter-linked development log.
+The Character Bible is the story-level character index and may retain compact entries for genuinely minor characters. A substantial or recurring character whose developed characterization would be compressed by the compact entry uses the maintained [Character Record Template](character-record-template.md). The Character Bible links/indexes that record rather than substituting a lossy summary for it.
 
-The baseline is historical and must not be rewritten to conceal development.
+Character identity is resolved by the compound key **story namespace + canonical full name**. Resolve the active story namespace first. Matching first names, nicknames, aliases, roles, or even full names across different story namespaces never establish shared identity and never authorize cross-story fact import.
+
+Each character record distinguishes canonical full name, preferred/common name, nicknames/names used, retrieval aliases/spelling variants, and actual former/changed names. Retrieval aliases may include misspellings, voice-transcription variants, or former working labels so Jim can communicate naturally without reproducing canonical spelling; they are search aids only and do not become canonical names or prose spellings.
+
+Each substantial record preserves identity and role; original/baseline state; current state; character engine; wants, needs, fears, vulnerabilities, contradictions, competencies and limitations; voice, humor, emotional habits, behavioral limits and anti-characterization; self-perception and outside perception; knowledge, beliefs, ignorance, and secrets; relationship-specific dynamics; group/family/polycule contribution and need; identity/presentation/embodiment when applicable; a dated/chapter-linked development ledger; characterization decisions with their developed reasoning; unresolved possibilities with provenance/status; and source/recovery notes.
+
+Relationship detail must preserve directional, person-specific understanding rather than collapsing a network into generic labels. For significant relationships, record what each person gives, needs, receives, misunderstands, protects, challenges, or makes possible; the distinct chemistry and tensions; boundaries; development; and why the relationship is not interchangeable with another.
+
+The baseline is historical and must not be rewritten to conceal development. Template fields do not authorize invention: use **Not yet established** where the evidence and Jim have not established an answer. Preserve developed characterization at the resolution at which it was established rather than replacing it with a thinner trait label or summary.
 
 ## Framework event schema
 
