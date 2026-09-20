@@ -137,6 +137,11 @@ The polycule is **not** organized as a set of primary pairs. Individual relation
 - Both houses are simply **home**. Language and scene framing should avoid accidentally turning them into “Nat's house,” “Tori's house,” or couple territories.
 - Household proximity must not be treated as proof of pair-bond primacy. Especially cozy dyads can exist within the larger relationship network without becoming hidden monogamous units.
 - The two-home structure gives the family enough physical space for different moods, workspaces, wardrobes, routines, privacy, and gathering patterns while preserving one family identity.
-- Exact home designs/neighborhoods, usual compositions, bedroom/private-space organization, workspaces, and distribution of clothing/beauty belongings remain open for continued development.
+- **Both homes have a main communal bedroom large enough and deliberately designed for all seven women to sleep together comfortably.** This is a real family bedroom, not an emergency arrangement.
+- **Both homes also have several smaller bedrooms intended for flexible groups of roughly two to three people.** These are not couple-owned rooms. Who sleeps where can change with intimacy, mood, schedules, work hours, sleep needs, illness, privacy, or simple preference.
+- **Both homes have a huge communal closet/wardrobe and dressing space.** Every woman keeps clothing, shoes, accessories, beauty items, and ordinary necessities at both addresses.
+- Moving between the homes ordinarily requires no overnight packing. The women use the wardrobe at whichever house they are staying in. Items can naturally migrate between closets over time, especially favorites, specialty pieces, seasonal clothing, and work-specific garments; the principle is distributed belonging, not mandatory duplication.
+- This wardrobe architecture is part of the family's collective identity and also gives Steve a future concrete encounter with how seven different women inhabit femininity: one shared physical fashion ecosystem containing distinct individual tastes rather than seven isolated closets.
+- Exact home designs/neighborhoods, usual compositions, number/layout of smaller rooms, workspaces, bathrooms/dressing areas, and each home's aesthetic identity remain open for continued development.
 
 Careers, approximate finances, home character, work needs, beauty/fashion practices, and ordinary movement between the two residences should now be developed against this collective two-home model.
