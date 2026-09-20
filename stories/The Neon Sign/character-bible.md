@@ -26,12 +26,16 @@ Role: Steve's initial connection to the group; brings Steve home as her “stray
 Background: white, blue-collar, culturally Catholic Northeast/Boston cultural texture shared with Steve.
 Voice vibe: Maureen O'Hara energy in *Johnny Dangerously* — reference for rhythm/attitude, not imitation.
 Current relationship function: protective, forceful, funny family energy; one of the seven women becoming important to Steve.
+Occupation: sports-related sales. Exact organization/product segment remains open.
+Femininity/work direction: prominent and unselfconscious rather than weaponized; professional credibility and sports fluency do not require Britt to mute femininity.
 Diner purse contribution: nail file and comb.
 
 ## Liz
 
 Background: Puerto Rican; family and protection are important cultural anchors.
 Voice vibe: Rosie Perez energy — reference only, not imitation.
+Occupation: hair and wardrobe stylist.
+Femininity/work direction: beauty and presentation are skilled craft, communication, service, and pleasure; Liz understands how hair, clothing, silhouette, color, accessories, and individual taste work together without treating one presentation as universally correct.
 Diner purse contribution: wet wipes and an emergency $20.
 
 ## Chloe
@@ -39,6 +43,7 @@ Diner purse contribution: wet wipes and an emergency $20.
 Age: 29.
 Presentation: high femme.
 Occupation: project manager.
+Femininity/work direction: polished, organized, systematic high-femme presentation coexists with practical professional competence; femininity is not a contradiction of authority or efficiency.
 Background: Indigenous; nation remains not yet established. A missed filing deadline in her history shaped a strong respect for administrative consequences.
 Voice vibe: Aubrey Plaza energy — dry/deadpan reference, not imitation.
 Early story role: central to the opening around Steve, Brittney, and Blush.
@@ -48,11 +53,15 @@ Diner purse contribution: stain pen and sanitizer.
 
 Background: Korean-American; loving parents prioritize happiness and security.
 Voice vibe: Kaitlin Olson energy — comic reference, not imitation.
+Occupation: executive. Exact industry, company, and seniority remain open.
+Femininity/work direction: authority, ambition, luxury, and unapologetic professional femininity can coexist; Nat is one of the group's likely higher-income members and therefore a plausible household/home hub, with exact residence still open.
 Diner purse contribution: power bank and cable.
 
 ## Maddie
 
 Background: Indian-American, from an achievement-oriented family; expected to become a lawyer but paints.
+Occupation: working artist; exact medium/business structure remains open.
+Femininity/work direction: expressive, creative, tactile, and pleasure-driven; beauty can be sufficient reason without requiring an intellectual defense.
 Voice vibe: Phoebe from *Friends*, full stop as a vibe reference rather than copied dialogue.
 Diner purse contribution: tissues and mints.
 
@@ -60,17 +69,23 @@ Diner purse contribution: tissues and mints.
 
 Background: Black; successful parents/grandparents with family history shaped by fighting racism.
 Voice vibe: an American, funny Victoria Winslow from *RED* / *RED 2* — reference, not imitation.
+Occupation: physician. Exact specialty and practice setting remain open.
+Femininity/work direction: healing and technical competence coexist with femininity; genuine medical safety/practical constraints modify only what they actually require rather than defaulting Tori to masculine or visually neutral presentation. As a physician, Tori is also plausibly affluent and a potential household/home hub; exact residence remains open.
 Diner purse contribution: two pens and safety pins.
 
 ## Emily
 
 Voice vibe: later-season Leonard Hofstadter energy, shared with Steve as a comic/relational reference rather than imitation.
+Occupation: therapist/counselor; exact credential, specialty, and work setting remain open.
+Femininity/work direction: quieter, emotionally grounded femininity; Emily's professional listening skills inform her ability to tolerate silence and unfinished thoughts, but she is Steve's partner/friend/family rather than his therapist and must not turn intimate family conversations into treatment.
 Diner purse contribution: pain relief and blister bandages.
 
 ## The seven-woman polycule
 
 Members: Brittney, Liz, Chloe, Nat, Maddie, Tori, Emily.
 Dynamic: a boisterous, lovingly dysfunctional family. They are seven distinct women, not a chorus. Each has her own relationship with Steve and her own style, voice, handbag/presentation, reactions, and developing attraction.
+Femininity principle: the seven collectively expose Steve to a broad swath of lived femininity rather than teaching one correct model. Their careers, homes, money, beauty practices, fashion, and daily constraints should produce distinct but equally authentic ways of being feminine. Steve's task is not to choose the correct woman to emulate, but eventually to discover which elements feel like Steve.
+Household direction: income and living arrangements should be designed together. Nat and Tori are plausible higher-income home hubs because of their careers, but exact cohabitation, ownership, residences, and which home serves as the family's principal gathering place remain open.
 
 ## Sofia
 
