@@ -40,6 +40,26 @@ Do not substitute ChatGPT Memory, conversation history, conversation summaries, 
 
 Conversation context and Memory may help identify what to search for, but they are not canonical authority over the repository.
 
+### Story Namespace Isolation
+
+Each `stories/<story-name>/` directory is a closed story namespace. When an active story has been resolved, material from any other story directory is inadmissible as evidence, recovery, characterization, continuity, inspiration, gap-filling, or default detail unless Jim explicitly requests a crossover, comparison, migration, or source-recovery operation involving that other story.
+
+The same isolation applies to conversation context, Memory, summaries, prior chats, and familiar character material: information attributable to another story must not be imported merely because a name, archetype, situation, institution, or emotional beat resembles the active story. A missing fact in the active story remains unresolved; familiarity from another story is never permission to fill the gap.
+
+During ordinary story work, repository discovery must be scoped first to the active story directory plus System Bible modules deliberately routed for the task. Repository-wide searches may be used when necessary to locate an unknown resource, but hits inside other `stories/` directories are out of scope and must not be treated as candidate facts for the active story unless the task explicitly calls for cross-story work.
+
+Shared System Bible canon may cross story boundaries only because it is maintained reusable framework authority. Story-specific facts do not become reusable merely because they resemble another story or would fit conveniently.
+
+### Mandatory Character Surnames and Identity Checks
+
+Every persistent named story character must have a canonical surname in that story's records. A new sustained character may be discussed briefly under a first name or working label, but before the character is used as established continuity or appears in manuscript prose, assign or recover the canonical full name and persist it.
+
+Before importing or applying any retrieved character fact, verify the character's full canonical name and active story namespace. Matching first names, roles, archetypes, occupations, voice references, or relationship functions are insufficient evidence that two records describe the same person.
+
+If two stories contain characters with the same full name, they remain separate story-local entities unless the System Bible explicitly defines that person as reusable/shared or Jim explicitly establishes cross-story identity. Full names are an identity/contamination check, not a license to merge stories.
+
+When a story-local character record lacks a surname, treat that as a continuity-data defect to resolve with Jim or recover from authoritative sources rather than borrowing a surname or biography from another story.
+
 Search before assuming absence. Never conclude that a person, business, place, organization, institution, object, rule, cultural practice, relationship, or other world element does not exist merely because Jim did not use its canonical name or because an initial search failed.
 
 Resolve natural-language references using names, aliases, categories, roles, context, related records, structured data, cross-references, and reasonable search variants.
