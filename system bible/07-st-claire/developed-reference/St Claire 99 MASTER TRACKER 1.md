@@ -14,7 +14,7 @@ Presentation taxonomy: High Femme / Femme / Trans Femme / Trans Masc / Butch (no
 
 ## Presentation-taxonomy correction receipt — September 19, 2026
 
-Author decision: St. Claire uses exactly five presentation categories: **High Femme, Femme, Trans Femme, Trans Masc, and Butch.** The Claude-era Androgynous/Andro category and its 48/30/21 presentation quota are rejected generation artifacts, not canon.
+Author decision: St. Claire uses exactly five presentation categories: **High Femme, Femme, Trans Femme, Trans High Femme, Trans Masc, and Butch.** The Claude-era Androgynous/Andro category and its 48/30/21 presentation quota are rejected generation artifacts, not canon.
 
 Population cleanup completed against `St Claire 03 Population.md`:
 - 124 `Androgynous` assignments, 1 `Andro` assignment, and 1 `Andro-leaning` assignment were converted to **Femme**.
@@ -22,6 +22,8 @@ Population cleanup completed against `St Claire 03 Population.md`:
 - records carrying non-binary or transmasculine identity wording were preserved as identity information while receiving an approved St. Claire presentation category; identity and presentation must not be conflated.
 - the inherited androgynous name-generation pool has been removed; the intentional rule against randomly assigning traditionally masculine names to women remains in force.
 - aggregate presentation quotas based on the rejected Claude taxonomy are retired. Future characters are validated against the approved taxonomy rather than generated to hit that quota.
+
+**Taxonomy amendment:** Trans High Femme is explicitly valid and distinct from Trans Femme. High-femme presentation may be proportionally more common among trans women than among cis women; no symmetry quota should be imposed.
 
 **Important remaining character-data audit:** replacing the invalid category does not automatically validate every inherited physical-description/outfit sentence attached to those records. Claude-era stock styling remains subject to the normal St. Claire character-initialization validation against the System Bible's Femme/High Femme guidance before scene use. Do not treat an inherited outfit description as authoritative merely because its presentation label has now been corrected.
 
