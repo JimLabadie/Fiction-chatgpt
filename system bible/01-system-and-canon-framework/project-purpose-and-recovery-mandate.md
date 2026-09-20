@@ -73,7 +73,6 @@ For each component:
 4. Separate Jim's direct statements from assistant proposals.
 5. Recover assistant contributions that Jim explicitly accepted, including acceptance expressed in an adjacent short reply.
 6. Reconstruct the component at the fullest state the evidence supports.
-7. Preserve specificity and reasoning rather than compressing the result into a thin summary.
 8. Localize uncertainty to the exact disputed field or claim.
 9. Ask Jim only when the available record cannot resolve a material contradiction.
 10. Produce the actual persistent component artifact.
