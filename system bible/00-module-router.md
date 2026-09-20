@@ -46,8 +46,8 @@ Before applying a character fact, verify both the character's canonical full nam
 7. For prose, run the hard pre-draft scene gate in `00-mandatory-source-grounded-drafting.md`: resolve the actual place/establishment, environment, present people and staff, schedule where relevant, story-cast physical state, objects/operations, spatial continuity, and scene plan. Retrieval alone does not satisfy this step.
 8. If a matched module creates a conflict, unresolved prerequisite, or unresolved required scene input, stop and report it before silently drafting around it. Do not evade a blocker by leaving the establishment/person/place unnamed, genericizing it, inventing a convenience NPC, or omitting the physical world.
 9. Draft/analyze only after routing **and the applicable hard pre-draft gate** are complete.
-10. Audit the result against the same loaded modules and the resolved scene inputs. For prose, the post-draft source-fidelity gate is mandatory before delivery.
-11. For prose, provide the source receipt required by `00-mandatory-source-grounded-drafting.md`, including this router and all matched modules actually retrieved. A receipt is evidence of retrieval only; it is not evidence that the hard gates passed.
+10. Audit the result against the same loaded modules and the resolved scene inputs. This audit must verify application, not merely retrieval: materially applicable source information must actually constrain or inform the result. For prose, the post-draft source-fidelity gate is mandatory before delivery.
+11. For prose, provide the source receipt required by `00-mandatory-source-grounded-drafting.md`, including this router and all matched modules actually retrieved. A receipt is evidence of retrieval only; it is not evidence that the source was applied or that the hard gates passed.
 
 ## Recovery / source-audit routing
 
@@ -158,4 +158,4 @@ These are routing examples, not story canon.
 
 ## Router maintenance rule
 
-Whenever a reusable System Bible parent module, developed skill family, or governing recovery infrastructure is added, renamed, consolidated, or materially changes scope, update this router in the same work session. A module or catalog that exists but cannot be discovered is operationally broken.
+Whenever a reusable System Bible parent module, developed skill family, or governing recovery infrastructure is added, renamed, consolidated, or materially changes scope, update this router in the same work session. More generally, persisted material that must govern or inform future work must remain discoverable through an appropriate maintained retrieval path from the project's normal entry points. A module, catalog, detail, rule, event, character record, story-state fact, or other governing material that exists but cannot be discovered through that path is operationally broken. Do not solve this by putting every detail directly in the router; maintain the appropriate parent/index/cross-reference chain.
