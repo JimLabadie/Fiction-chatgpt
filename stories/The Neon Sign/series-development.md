@@ -94,3 +94,35 @@ Chapter Eight creates a genuine processing threshold rather than merely the setu
 - Greta's existing boundary remains a useful model: she can truthfully share what analogous experiences meant for her while refusing to tell Steve what Steve's experience means.
 - Preserve the story's comedy, affection, flirting, ordinary activity, and boisterous family texture around the processing. This is a **mini-arc**, not one prolonged therapy session.
 - Exact chapter count, one-on-one pairings, chapter sequence, locations, and the timing/content of any new identity conclusion remain open for collaborative planning with Jim.
+
+
+## Post–Chapter Eight family-intimacy development — approved 2026-09-20
+
+The immediate processing movement should include a serious family conversation that breathes across approximately **two chapters**, with humor used minimally rather than as an escape from sincerity.
+
+- Steve needs the **whole seven-woman family as a unified support structure**, alongside later one-on-one relationships. The polycule itself is an important relationship in the story.
+- After Second Chapter, the group should go somewhere genuinely private and intimate where Steve feels safe enough to try to explain what Steve is feeling. Exact home/location remains open pending household development.
+- Emotional intimacy arrives well before sexual/romantic physical intimacy. Steve trusts these women enough to give them feelings that are unfinished, confusing, and not yet made presentable.
+- The women listen without diagnosing Steve, completing Steve's identity conclusion, or turning the conversation into therapy. They can promise what they actually know: Steve is safe with them, does not need a label immediately, does not have to remain unchanged to keep their love/support, and does not have to figure everything out alone.
+- Steve's new approximately four-inch heels create an embodied trigger. Steve's feet genuinely hurt from novice wear, yet removing the heels produces an unexpectedly stronger emotional pain because the shoes are part of the first complete presentation that produced powerful self-recognition. This does **not** mean heels equal womanhood; it reveals Steve's attachment to the presentation.
+- Tender foot care belongs inside the family conversation. After any genuine injury concern is resolved, a couple of the women may take one foot each and use lotion/foot cream while the conversation continues. This is Steve's first significant experience of physically intimate care from the group: affectionate, vulnerable, nonsexual, and without demand.
+- Tori's established physician career makes her capable of checking whether Steve has actually injured Steve's feet; after that, the foot rub is affection rather than medical treatment.
+- Emily's therapist/counselor career may inform her comfort with silence and unfinished thoughts, but she must remain Steve's loved one rather than acting as Steve's therapist.
+- A key emotional possibility is Steve recognizing that the feet feel physically better without the heels while Steve feels emotionally worse, eventually trying to articulate some version of not wanting to lose the person/presentation seen in the mirror. Exact dialogue remains for drafting/development.
+- The family does not tell Steve whether to put the heels back on. The choice remains Steve's.
+- Later one-on-one conversations grow naturally from this collective act of trust rather than functioning as seven counseling sessions. Steve trusted the family first; individual women can later share experiences, answer questions, or reveal themselves in response.
+- The broad mini-arc should move through family sanctuary, ordinary life and individual conversations/remaining lesbian-community learning, growing vocabulary about self/presentation, and later family convergence when Steve has more language. Do not turn this into a straight-line diagnostic march toward a trans declaration.
+
+### Established career / femininity anchors
+
+The seven should give Steve a broad swath of lived femininity. Careers are not trivia or symbolic assignments; they affect schedules, income, homes, beauty routines, clothing, constraints, and the ways each woman actually inhabits femininity.
+
+- **Brittney:** sports-related sales; prominent, unselfconscious femininity coexisting with sports fluency and sales competence. Exact sports-sales segment remains open.
+- **Liz:** hair and wardrobe stylist; beauty/presentation as skilled craft, communication, service, and pleasure.
+- **Chloe:** project manager; polished/systematic high-femme competence.
+- **Nat:** executive; authority, ambition, luxury, and professional femininity. Exact industry/seniority open.
+- **Maddie:** working artist; expressive/creative/tactile femininity and beauty as pleasure. Exact medium/business structure open.
+- **Tori:** physician; healing/technical competence with femininity adapted only where genuine medical constraints require it. Exact specialty/practice open.
+- **Emily:** therapist/counselor; quieter emotionally grounded femininity and comfort with listening/silence. Exact credential/specialty/work setting open.
+
+Nat and Tori's likely higher incomes make them natural candidates for larger household/home hubs. This is a development direction, **not yet a settled residence map**. Careers, approximate financial position, cohabitation, home character, and personal beauty/fashion habits should be developed as an integrated system before selecting the exact sanctuary location for the two-chapter family conversation.
