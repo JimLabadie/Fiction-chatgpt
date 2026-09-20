@@ -5,7 +5,7 @@
 Status: ACTIVE EVIDENCE LEDGER
 Authority: EVIDENCE NOT DIRECT CANON
 
-This module proves what was said, accepted, rejected, copied, or superseded. It never overwrites current canon automatically.
+This module records evidence of what was said, accepted, rejected, copied, or described as superseded. It never overwrites current canon automatically. ChatGPT may determine what the evidence shows; Jim determines what is done with the material unless he has already expressly decided its disposition.
 
 ## Archive principle
 
