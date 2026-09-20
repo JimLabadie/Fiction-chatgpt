@@ -49,6 +49,17 @@ Steve's own choices — green dress, lipstick/purse participation, forthcoming p
 
 Steve's mastery pattern is active: when Steve encounters a relevant subject Steve does not know, Steve researches, optimizes, customizes, and develops informed preferences. Purses are now entering that process.
 
+## Active thematic state — true-self / high-femme arc
+
+The trans arc is currently operating as true-self discovery. Steve is not simply accumulating feminine objects; Steve is beginning to discover an authentic feminine aesthetic point of view and the pleasure of recognizing oneself in a choice. Steve's long trajectory is high femme, but Steve does not yet need to identify or label that destination.
+
+The seven women may recognize the high-femme direction before Steve does because they have their own lived relationships with femininity and presentation. They must not be flattened into timid observers or a monolithic teaching committee. They can actively enjoy the shopping scene: offer options, lobby, tease, disagree, predict, compare notes, and playfully conduct “field research” into Steve's emerging taste. Their participation does not erase Steve's agency. The key question they are discovering is what Steve chooses when Steve has real options and no prescribed answer.
+
+Femininity in this arc is allowed to be pleasurable for its own sake: beauty, color, craft, polish, drama, coordination, being pretty, and the satisfaction of a look clicking into place. The women can share that joy because they enjoy it too in their own distinct ways.
+
+The next purse scene should move beyond utility into aesthetic recognition. Steve may begin to experience the difference between “this works” and “this feels right / this is me” without yet converting that feeling into a gender conclusion. The developing “fashion is a conversation” idea can articulate that aesthetic choices communicate with others and with oneself: Steve discovers that there is a sentence before Steve understands exactly what the sentence says.
+
+
 ## Immediate next-story context
 
 Next chapter begins with continuity from the diner rather than a reset.
