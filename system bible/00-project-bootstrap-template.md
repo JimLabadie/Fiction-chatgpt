@@ -106,6 +106,18 @@ When Jim clearly approves the prose, promote or copy that exact approved text in
 
 If candidate persistence fails, say so immediately before substantive conversation continues. Never imply that generated prose is safely preserved when the repository write did not succeed.
 
+### Response Boundaries Are Not Story Boundaries
+
+A response boundary, token/output limit, tool interruption, context limit, or other delivery constraint is never by itself a valid chapter, scene, or prose-unit ending.
+
+When Jim requests a complete chapter, scene, continuation, or other sustained prose unit, continue until the requested narrative unit reaches an intentional story ending or Jim asks to stop. Do not convert an arbitrary response cutoff into a dramatic ending, silently declare the prose complete, or wait for Jim to say “keep going” when the requested unit is plainly unfinished.
+
+If the requested prose cannot be delivered safely or practically in one response, persist the exact completed portion immediately as the live candidate, clearly treat it as incomplete, and continue the same prose unit in the next available response. Each continuation must append to or update the same live candidate manuscript so that the durable repository always contains the complete generated text to date.
+
+Before treating a chapter or scene as complete, distinguish an intentional narrative ending from an accidental stopping point. Completion requires narrative resolution appropriate to the requested unit, not merely exhaustion of the current response.
+
+This continuation rule does not authorize invention past an unresolved consequential creative decision or a mandatory drafting-gate blocker. In those cases, preserve the completed candidate text and identify the actual blocker rather than manufacturing an ending.
+
 Before continuing an existing story in a new work session, retrieve its authoritative persistent records and current handoff rather than reconstructing it primarily from conversational memory.
 
 The standard is that a fresh session with repository access should be able to determine what is true, what has happened, what is currently happening, and what remains unresolved without depending upon the previous chat.
