@@ -1,24 +1,34 @@
 # The District of St Claire
 
-Status: ROUTER — OPERATIONAL MATERIAL MOVED TO DEVELOPED SKILL
-Authority: SHARED-WORLD ROUTING ENTRY
+Status: ACTIVE SHARED-WORLD ROUTING ENTRY
+Authority: SYSTEM BIBLE
 
-## Operational source
+## Authority
 
-The complete operational St. Claire module lives at [`developed-skills/St-Claire/`](developed-skills/St-Claire/). Begin with [`developed-skills/St-Claire/SKILL.md`](developed-skills/St-Claire/SKILL.md).
+The maintained System Bible is the sole operating source of truth for St. Claire.
 
-Do **not** treat the legacy partial snapshot below, its former `Required recovery` list, or the older `07-st-claire/developed-reference/` copies as evidence that material is still missing until the developed skill has been checked.
+- Maintained St. Claire canon and references belong under `system bible/07-st-claire/` and this parent module.
+- `system bible/developed-skills/St-Claire/` is unaudited original/recovery source material only. It is **not canon**, must not be used directly as story-generation authority, and must not override this module or maintained `07-st-claire/` references.
+- Historical compendia, Claude-generated records, developed skills, obsolete documents, and other source artifacts are evidence to audit. A populated field in those sources is not automatically an established fact.
+- Material from recovery sources becomes operating canon only after it has been audited, reconciled against applicable System Bible modules, deliberately promoted into the maintained St. Claire System Bible, and verified.
 
-Within the developed skill:
+## Character initialization validation
 
-- [`St Claire 00 Concept.md`](developed-skills/St-Claire/St%20Claire%2000%20Concept.md) is the source of truth for lore.
-- [`St Claire 00B Rules and Mechanics.md`](developed-skills/St-Claire/St%20Claire%2000B%20Rules%20and%20Mechanics.md) is the source of truth for mechanics and generative checks.
-- The numbered Population, Households, Organizations, Places, Founding Pioneers, History, and related files hold structured established facts.
-- `St Claire 99 MASTER TRACKER.md` holds unresolved development items and does not override settled Concept or Mechanics.
+Whenever a St. Claire character is initialized for development, continuity work, or scene use, validate the character's applicable record before relying on descriptive or behavioral fields.
 
-For story generation, especially prompts involving gender identity, trans/egg status, membership, pull/inverse-pull behavior, belonging, exceptions, or voluntary transformation, consult the developed skill's `SKILL.md` and `00B Rules and Mechanics` **before generating prose**.
+Validation must check the character against the controlling System Bible modules materially implicated by that character, including as applicable presentation/identity, sapphic culture, gender-presentation culture, race/ethnicity/nationality/religion/class, age/generation, occupation, relationships/household, and story-local continuity.
 
-## Legacy partial snapshot — retained for provenance, not operational routing
+A populated inherited field is not proof that the field is valid. If a Claude-generated, bulk-generated, developed-skill, recovered, or otherwise unaudited detail conflicts with controlling System Bible guidance, is internally inconsistent, or appears to be arbitrary generation rather than an authored/approved choice, do not rationalize the discrepancy into canon. Mark it for reconciliation and use only validated System Bible material.
+
+Validation does not mean forcing everyone toward one presentation or archetype. Preserve deliberately established femme, high-femme, butch, masc, androgynous, cultural, occupational, and individual distinctions. The purpose is to distinguish authored characterization from unaudited generation artifacts.
+
+For scene prose, unresolved consequential character-validation conflicts are blockers under the mandatory source-grounded drafting gate.
+
+## Maintained detailed references
+
+Use the maintained references under `system bible/07-st-claire/` for St. Claire-specific detail. If required material exists only in an unaudited recovery source, treat that as a recovery/reconciliation task rather than silently using it as canon.
+
+## Legacy partial snapshot — retained for provenance, not operating canon
 
 The material below is preserved because it records an earlier recovery state. It must not override or substitute for the developed skill.
 
@@ -59,8 +69,8 @@ Mutual aid is everyday culture rather than exceptional charity. Butch-femme dyna
 
 ### Historical recovery note
 
-This snapshot formerly carried a `Required recovery not represented in this snapshot` list. That list described the incompleteness of **this snapshot**, not necessarily the current repository. The developed skill now contains later recovered/developed material and must be checked before any item is described as missing.
+This snapshot formerly carried a `Required recovery not represented in this snapshot` list. That list described the incompleteness of **this snapshot**, not necessarily the current repository. Unaudited recovery sources may contain later material, but they must be audited and promoted into the maintained System Bible before controlling story work.
 
 ### Variants and sources
 
-This legacy snapshot previously treated `St Claire Master Lore Compendium v3.md` as controlling where clear. The developed skill now provides its own explicit authority rules: Concept controls lore, Rules & Mechanics controls mechanics, and promoted structured data controls its established facts. Preserve older copies for provenance; do not silently let them override the developed skill.
+This legacy snapshot previously treated `St Claire Master Lore Compendium v3.md` as controlling where clear. Preserve older copies and developed-skill material for provenance and recovery. They do not control operating canon; only audited material deliberately promoted into the maintained System Bible may do so.
