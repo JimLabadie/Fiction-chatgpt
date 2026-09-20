@@ -5,7 +5,7 @@ Scope: STORY-LOCAL SUBSTANTIAL / RECURRING CHARACTERS
 
 ## Purpose
 
-Use this record when a character has enough established characterization that a compact Character Bible entry would lose meaningful detail. The Character Bible remains the story-level index and may contain compact entries for minor characters; substantial character records preserve developed characterization at the resolution at which it was established.
+Use this record as the **single controlling character authority** for every substantial or recurring story-local character. The Character Bible remains the story-level index and may contain compact entries only for genuinely minor characters that do not yet require a substantial record. Once a substantial character record exists, the Character Bible links/indexes it and does not maintain a second characterization summary.
 
 A template field is not permission to invent an answer. Use **Not yet established** when the repository and author have not established the value.
 
@@ -175,7 +175,7 @@ Keep baseline and development separate.
 | Story point / date | Change or realization | Previous state | New state | Status | Source / reasoning |
 |---|---|---|---|---|---|
 
-Statuses may distinguish completed, active, expected/planned, temporary, permanent, proposed, unresolved, rejected, or superseded as appropriate. Expected/planned material is not an occurred event.
+Record only character changes or realizations that have actually occurred or have been explicitly established as current character state. Status may distinguish completed, active, temporary, permanent, unresolved, rejected, or superseded as appropriate. **Expected/planned/proposed future character changes do not belong in this ledger.** Preserve them in the story's development/ideas record or outline, with provenance and status, until they actually occur or Jim explicitly establishes them as current character truth.
 
 ## Characterization decisions and reasoning
 
@@ -186,16 +186,13 @@ Preserve important developed reasoning so future work does not retain only the c
 
 This is where a thin fact such as “protective” should be expanded when the project established how that protectiveness works, what triggers it, where it helps, where it becomes excessive, and how other characters interact with it.
 
-## Open development / possibilities
+## Unresolved character questions
 
-Preserve possibilities without canonizing them.
+This section tracks missing or disputed **character information**, not future plot planning. Creative possibilities, proposed future developments, possible scenes, expected arc beats, and rejected alternatives belong in the story development/ideas record or outline so the character authority cannot silently turn plans into facts.
 
-- **Jim-originated unresolved ideas:** 
-- **ChatGPT proposals:** 
-- **Jointly developed possibilities:** 
 - **Questions requiring recovery:** 
-- **Deferred decisions:** 
-- **Rejected/superseded possibilities worth retaining:** 
+- **Deferred character decisions:** 
+- **Conflicts / disputed claims:** 
 
 ## Source / recovery notes
 
@@ -217,3 +214,5 @@ Preserve possibilities without canonizing them.
 8. The Character Bible should link/index substantial character records rather than duplicating and later compressing them.
 9. Resolve story namespace first. Cross-story name matches are never permission to merge or import facts.
 10. Nicknames and retrieval aliases support natural conversation and discovery; only established names belong in canon/prose.
+11. This record is the single controlling home for substantial-character truth. Other story records may project only the minimum character state needed for their own purpose and should reference this record rather than maintain competing characterization.
+12. Future plot plans, proposed arc beats, expected changes, possible scenes, and other not-yet-occurred developments do not belong in the controlling character record. Preserve them in development/ideas or outline records with explicit status.
