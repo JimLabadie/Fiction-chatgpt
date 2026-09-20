@@ -2,6 +2,20 @@
 
 Status: ACTIVE
 
+## Detailed character records
+
+Substantial/recurring characters use the maintained full-fidelity character record template. The Character Bible remains the story-level index and compact overview; detailed records preserve characterization and reasoning without lossy compression.
+
+- [Steve](characters/steve.md) — initial population complete from current maintained story records; historical recovery remains pending.
+- Brittney / Britt — detailed record pending initial population.
+- Liz — detailed record pending initial population.
+- Chloe — detailed record pending initial population.
+- Nat — detailed record pending initial population.
+- Maddie — detailed record pending initial population.
+- Tori — detailed record pending initial population.
+- Emily — detailed record pending initial population.
+
+
 ## Steve
 
 Role: main character.
