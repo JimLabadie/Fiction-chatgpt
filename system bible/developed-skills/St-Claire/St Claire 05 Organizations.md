@@ -464,14 +464,18 @@ The record of every named business, nonprofit, and social/civic organization. "O
 
 **Second Chapter**
 - Type: business
-- Category: Fashion & aesthetics (Master Category List, once formally added) / Retail & commercial — resale & vintage boutique
+- Category: Fashion & aesthetics (Master Category List, once formally added) / Retail & commercial — specialty secondhand fashion boutique
 - Locations: one — Greenleaf Core, Downtown/Commercial Spine zone (cross-reference: St_Claire_06_Places.md)
+- Capacity: mid-size specialty retail storefront with enough floor depth for full-spectrum fashion browsing rather than a clothing-only rack shop
 - Owner/leadership: Billie Sandoval
-- Staffing structure: Owner — Billie Sandoval; Staff — Constance Parker; Staff — Greta Lindstrom
-- Price tier / accessibility: broadly accessible, resale pricing
-- Community role: circular fashion — real sustainability practice, not just branding
-- History: not yet determined
-- One real, specific detail: racks organized by era and color in a system that rewards browsing
+- Staffing structure: Owner — Billie Sandoval (Tues–Sat, 10:00 AM–6:00 PM); Staff / sustainable wardrobe & construction specialist — Constance Parker (Wed–Sun, 11:00 AM–7:00 PM); Staff / mid-century apparel and styling specialist — Greta Lindstrom (Thurs–Mon, 11:00 AM–7:00 PM). Saturdays are the shared peak day, with all three normally present.
+- Price tier / accessibility: broad secondhand range — genuinely inexpensive finds through collectible/designer pieces whose resale prices can still be substantial; expertise is not reserved for expensive customers
+- Community role: circular fashion as real sustainability practice, not branding; also one of St. Claire's major everyday fashion-learning spaces. The staff treat experimentation as normal, help customers develop their own taste rather than prescribing an identity or uniform, and openly share the pleasure, craft, history, and play of presentation.
+- Operating hours: 10:00 AM–7:00 PM daily
+- Merchandise: full-spectrum specialty secondhand fashion — clothing across femme, butch, and androgynous traditions; handbags; shoes; jewelry; scarves; belts; accessories; vintage and recent designer pieces; ordinary everyday finds; unusual one-offs and consignment arrivals. Inventory changes constantly, so discovery and comparison are part of the shop's ordinary rhythm.
+- History: Billie opened Second Chapter within two years of arriving in St. Claire, initially funded partly by her own closet; over time it became a deep specialty resale shop shaped by the district's unusually fashion-literate and femme-rich customer base.
+- One real, specific detail: racks are organized by era and color in a system that rewards browsing, while handbags, shoes, jewelry, and accessories spill into coordinated displays and cases throughout the same visual logic; customers are expected to pick things up, try them against themselves, compare, and play rather than treat the merchandise like museum pieces.
+- Customer experience: joyful, knowledgeable, non-gatekeeping treasure hunt. Billie supplies fashion history and broad styling context; Constance can explain construction, stitching, materials, durability, and why one piece is better made than another; Greta is particularly good at reading what a customer repeatedly notices and finding the piece they did not know they were looking for. Staff may be opinionated and delighted, but the customer's own recognition and taste remain the point.
 - Title exceptions: none
 
 **Sage & Soil**
