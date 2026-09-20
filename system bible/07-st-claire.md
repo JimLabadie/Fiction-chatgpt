@@ -22,13 +22,13 @@ A populated inherited field is not proof that the field is valid. If a Claude-ge
 
 ### St. Claire presentation taxonomy
 
-St. Claire's author-approved presentation categories are **High Femme, Femme, Trans Femme, Trans Masc, and Butch. No other presentation categories exist in the shared-world baseline.**
+St. Claire's author-approved presentation categories are **High Femme, Femme, Trans Femme, Trans High Femme, Trans Masc, and Butch. No other presentation categories exist in the shared-world baseline.**
 
 This is a deliberate aesthetic rule for St. Claire, not a claim about real-world sapphic or gender presentation. General culture-reference modules may accurately document presentations that exist outside St. Claire without making those presentations part of this setting.
 
 The Claude-era `Androgynous` / `Andro` population category is an unaudited generation artifact and is not canon. **Replace inherited Androgynous/Andro assignments with Femme by default during audit.** Do not preserve the artifact by rationalizing an individual character into androgyny. Use another approved St. Claire category only where deliberate author-established character evidence requires it.
 
-Validation preserves deliberately established differences **within the approved taxonomy** and preserves cultural, occupational, aesthetic, and individual distinctions. It does not flatten Femme into one wardrobe or make High Femme, Trans Femme, Trans Masc, or Butch interchangeable.
+Validation preserves deliberately established differences **within the approved taxonomy** and preserves cultural, occupational, aesthetic, and individual distinctions. It does not flatten Femme into one wardrobe or make High Femme, Trans Femme, Trans High Femme, Trans Masc, or Butch interchangeable. **Trans High Femme is a legitimate category in its own right:** a trans woman whose sustained presentation meets the same high-production femininity standard as High Femme. St. Claire may have a higher share of high-femme presentation among trans women than among cis women; do not force equal cis/trans category percentages merely for symmetry.
 
 For scene prose, unresolved consequential character-validation conflicts are blockers under the mandatory source-grounded drafting gate.
 
