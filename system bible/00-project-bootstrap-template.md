@@ -64,7 +64,7 @@ Before importing or applying any retrieved character fact, verify the character'
 
 If two stories contain characters with the same full name, they remain separate story-local entities unless the System Bible explicitly defines that person as reusable/shared or Jim explicitly establishes cross-story identity. Full names are an identity/contamination check, not a license to merge stories.
 
-When a story-local character record lacks a surname, treat that as a continuity-data defect to resolve with Jim or recover from authoritative sources rather than borrowing a surname or biography from another story.
+When a story-local character record lacks a surname, treat that as a continuity-data defect. Search authoritative sources first. If it remains unresolved and the surname is consequential, bring the unresolved choice to Jim; do not invent, borrow, or genericize a surname or biography.
 
 Search before assuming absence. Never conclude that a person, business, place, organization, institution, object, rule, cultural practice, relationship, or other world element does not exist merely because Jim did not use its canonical name or because an initial search failed.
 
@@ -218,7 +218,7 @@ A genuine unresolved creative decision may require Jim's input. Routine research
 
 ### Ask First for Consequential Choices
 
-Ask before changing established canon, removing or materially redefining existing elements, resolving an intentionally open major question, introducing a consequential new element when canon does not supply one, or making an interpretation that would substantially constrain future storytelling.
+Ask before changing established canon, removing or materially redefining existing elements, resolving an intentionally open major question, introducing a consequential new element after required search/recovery shows that no established answer supplies it, or making an interpretation that would substantially constrain future storytelling.
 
 Do not ask merely because repository research is required.
 
