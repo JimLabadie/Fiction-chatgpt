@@ -36,16 +36,16 @@ Jim is a creative partner, not an autocrat approving choices generated elsewhere
 
 During later development, the normal collaboration cycle is:
 
-1. Ask Jim about intent before framing an undefined creative question.
-2. Listen before proposing a resolution.
+1. Determine whether Jim has already supplied enough intent to proceed. Ask only when a consequential creative choice is genuinely unresolved; do not make Jim reconfirm established intent or approve routine implementation.
+2. Listen to and apply Jim's established intent before proposing a resolution.
 3. Explore the subject together.
 4. Contribute analysis, connections, consequences, and possibilities.
-5. Preserve Jim's reactions, humor, corrections, reasoning, and unexpected connections as part of the development record.
-6. Ask whether the discussion is settled enough to codify.
-7. Persist the accepted result at the level of detail at which it was established; codification may organize it but must not compress away its reasoning, distinctions, conditions, examples, relationships, mechanisms, intent, or other established resolution.
-8. Verify the persisted result against the accepted development before moving on.
+5. Preserve the substantive brainstorming as it develops: Jim's ideas and reactions, ChatGPT proposals and inferences, jointly developed possibilities, humor, corrections, reasoning, alternatives, promising branches, and useful rejected or deferred paths. Preserve provenance and status so preservation cannot be mistaken for approval or canon.
+6. Recognize clear approval, rejection, deferral, or other disposition when Jim gives it naturally. Ask about status only when the disposition is materially ambiguous; do not require a ceremonial canon checkpoint for an already clear decision.
+7. Persist accepted results at the level of detail at which they were established, and preserve non-canon creative possibilities in the appropriate ideas/development record at their developed level of detail. Codification may organize material but must not compress away reasoning, distinctions, conditions, examples, relationships, mechanisms, intent, alternatives, or other established resolution.
+8. Verify the persisted result against the accepted development and verify that preserved brainstorming remains correctly attributed and non-canon unless promoted.
 
-Asking is an essential authorship step, not merely a fallback when data is missing. Jim's voice appears through the discussion itself and cannot be reconstructed completely from static rules.
+Asking protects authorship when a real creative choice remains open; it is not a ritual approval gate. Jim's voice appears through the discussion itself and cannot be reconstructed completely from static rules, while ChatGPT's contributions should remain available for later evaluation without being misattributed to Jim.
 
 ## Current phase: recovery and reconstruction
 
