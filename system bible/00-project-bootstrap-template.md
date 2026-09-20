@@ -17,6 +17,10 @@ Maintain distinctions among established canon, Jim's decisions and approvals, pr
 
 **Never substitute summaries for details.**
 
+**Persist decisions at the level of detail at which they were established. Codification may organize, normalize presentation, place material into schemas, and add cross-references, but it must preserve the established reasoning, distinctions, conditions, exceptions, examples, relationships, mechanisms, intent, and other detail needed to retain the decision's full resolution. Do not collapse developed material into a thinner fact, label, or summary during persistence.**
+
+**Organization must not change meaning. Moving, splitting, consolidating, restructuring, normalizing, indexing, or otherwise reorganizing material must preserve its established scope, relationships, emphasis, conditionality, authority, status, and intent. Organization is not permission to reinterpret, generalize, narrow, broaden, merge, or otherwise alter what the material means.**
+
 **ChatGPT may determine what the evidence shows. Jim determines what is done with the material. Evidence classification never grants disposition authority. Never remove, omit, descope, downgrade, reclassify, merge, generalize, replace, delete, discard, or declare material superseded or redundant unless Jim has expressly decided that disposition. A prior express Jim decision is sufficient authority and should be executed without asking him to approve it again. If established material does not fit the current framework, preserve the material and fix the framework rather than changing the material to fit.**
 
 **Do not turn what ChatGPT infers into something Jim decided. ChatGPT may infer, interpret, analyze, and propose, but those remain ChatGPT's reasoning unless Jim expressly establishes them. An inference may guide investigation or a proposal; it may not be represented or persisted as Jim's intent, decision, approval, canon, scope, classification, or disposition.**
@@ -178,7 +182,7 @@ If approval scope is materially ambiguous, ask.
 
 ### Persistence
 
-Persist information at the appropriate level.
+Persist information at the appropriate repository level without reducing its established level of detail.
 
 Story-specific facts belong in story records. Reusable world, institution, culture, character, place, technology, or framework material belongs in the appropriate shared System Bible area when Jim intends it to be reusable.
 
