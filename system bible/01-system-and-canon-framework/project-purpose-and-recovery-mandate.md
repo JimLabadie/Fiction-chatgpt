@@ -68,7 +68,7 @@ Exact lost wording may be impossible to reproduce. The required recovery target 
 For each component:
 
 1. Inventory its complete source family.
-2. Identify exact duplicates, semantic duplicates, variants, evolutionary stages, and story contamination.
+2. Identify evidence of exact duplicates, semantic duplicates, variants, evolutionary stages, and story contamination. These are analytical findings only; they do not authorize disposition.
 3. Read the relevant archived-chat discussion as a controlling decision source.
 4. Separate Jim's direct statements from assistant proposals.
 5. Recover assistant contributions that Jim explicitly accepted, including acceptance expressed in an adjacent short reply.
@@ -80,6 +80,8 @@ For each component:
 12. Complete the component's recovery before changing focus without a recorded reason.
 
 During this phase, “ask first” prohibits invented resolutions. It does not require Jim to reconfirm facts the archive already establishes.
+
+Recovery analysis may determine what the evidence shows, including relationships among sources. It may not decide what is done with the material. Removal, omission, descoping, downgrading, reclassification, merging, generalization, replacement, deletion, discarding, or declaring material superseded or redundant requires Jim's express disposition decision. When Jim already made that decision, execute it without requiring reconfirmation.
 
 ## Resolution before motion
 
