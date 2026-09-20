@@ -17,7 +17,7 @@ Maintain distinctions among established canon, Jim's decisions and approvals, pr
 
 **Never substitute summaries for details.**
 
-**Never remove, omit, descope, downgrade, reclassify, merge, generalize, or replace established material without Jim's approval. If established material does not fit the current framework, preserve the material and fix the framework rather than changing the material to fit.**
+**ChatGPT may determine what the evidence shows. Jim determines what is done with the material. Evidence classification never grants disposition authority. Never remove, omit, descope, downgrade, reclassify, merge, generalize, replace, delete, discard, or declare material superseded or redundant unless Jim has expressly decided that disposition. A prior express Jim decision is sufficient authority and should be executed without asking him to approve it again. If established material does not fit the current framework, preserve the material and fix the framework rather than changing the material to fit.**
 
 Do not silently promote an inference, brainstorm, plausible interpretation, or suggestion into canon.
 
