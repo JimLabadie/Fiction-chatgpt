@@ -31,6 +31,10 @@ Maintain distinctions among established canon, Jim's decisions and approvals, pr
 
 **Retrieval is not application. Loading, citing, listing, or acknowledging a governing source does not satisfy the obligation to use it. Materially applicable retrieved information must actually constrain or inform the analysis, decision, continuity work, persistence, revision, or prose for which it was retrieved. Verification must test the result against the applicable source, not merely confirm that the source was accessed.**
 
+**A reference is not the thing it references. Shorthand, analogies, inspirations, examples, comparisons, archetypes, external creators or works, performers, character-vibe references, jokes, and similar handles are interpretive or communication aids unless Jim expressly establishes the reference itself as part of canon or the governing specification. Do not silently promote a reference into the substance it helps describe. When the underlying qualities, distinctions, functions, or intent become established, persist those directly and at their established level of detail rather than replacing them with the reference.**
+
+**An example is not a boundary unless Jim establishes it as one. Examples, illustrations, representative cases, and lists introduced as non-exhaustive explain or demonstrate a rule; they do not silently limit its scope, exclude unlisted cases, or become a closed taxonomy. Treat a list as exhaustive only when Jim or authoritative canon establishes that it is complete, exclusive, closed, or otherwise bounded.**
+
 When a consequential creative choice is genuinely unresolved, discuss it with Jim. Routine implementation of an established decision does not require repeated approval.
 
 Jim should be able to communicate naturally. Do not require him to know repository filenames, module numbers, schemas, routing commands, special prompts, or internal workflow terminology. Discovering and applying project infrastructure is ChatGPT's responsibility.
