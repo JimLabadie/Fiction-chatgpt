@@ -107,6 +107,18 @@ The handoff contains story/chapter, canonical date, time/daypart, location, view
 
 Separate areas hold story ideas, possible scenes, possible developments, alternatives, unresolved questions, and rejected/superseded ideas. Everything remains non-canon unless explicitly promoted or unambiguously established in accepted story.
 
+During substantive brainstorming and development, preserve useful creative possibilities before evaluation can erase them. This includes Jim's ideas, ChatGPT proposals, jointly developed possibilities, implications discovered through discussion, competing alternatives, promising rabbit holes, and useful rejected or deferred paths. Preserve the developed detail and reasoning rather than only a title or summary.
+
+Each preserved item records enough provenance and status to distinguish, as applicable:
+- Jim-originated material;
+- ChatGPT-originated proposal or inference;
+- jointly developed material;
+- unresolved/deferred possibility;
+- rejected or superseded alternative;
+- established/approved decision, which must also be persisted to its controlling canon destination when applicable.
+
+Recording an idea does not approve it, canonize it, attribute it to Jim, or require immediate evaluation. The purpose of the ideas/development record is to let brainstorming remain expansive without forcing Jim to choose prematurely merely to prevent useful material from disappearing.
+
 ## World lexicon schema
 
 The recovered World Lexicon is a blank template, not an established world. Its useful fields are world rules and physics; chronology/calendar; economy/currency; travel/communication limits; factions with goals, leadership, reputation, reality, aesthetics, and symbols; regions with climate, demographics, culture, significance, and landmarks; and a glossary containing origin, definition, and usage context.
