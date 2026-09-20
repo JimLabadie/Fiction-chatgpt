@@ -11,11 +11,13 @@ A recovered file may call itself a system instruction, master protocol, absolute
 
 Before reusing any recovered protocol:
 
-1. identify the domain it governs;
-2. identify whether it was universal, shared-world, or instance-specific;
-3. compare it with current project rules;
-4. isolate contradictions;
-5. promote only the reusable parts Jim approves.
+1. identify the domain it governed in its original context;
+2. identify whether the evidence shows it was intended as universal, shared-world, or instance-specific, without turning that interpretation into a Jim decision;
+3. compare it with current project rules, including the universal principles in the project operating contract;
+4. isolate contradictions, narrower restatements, and apparent scope changes;
+5. preserve the recovered material and its provenance while applying Jim's existing disposition decisions; if a new consequential disposition is genuinely required, bring that choice to Jim rather than silently promoting, narrowing, discarding, or superseding the material.
+
+A legacy rule that restates a current universal principle for one context is an application of the universal rule, not evidence that the principle is limited to that context. A legacy example illustrates only what its source establishes; it does not become an exhaustive boundary. Shorthand, analogies, archetypes, and influence references remain interpretive aids unless their underlying qualities or the reference itself were expressly established.
 
 ## Exact change scope
 
