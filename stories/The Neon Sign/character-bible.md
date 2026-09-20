@@ -6,7 +6,7 @@ Status: ACTIVE
 
 Substantial/recurring characters use the maintained full-fidelity character record template. The Character Bible remains the story-level index and compact overview; detailed records preserve characterization and reasoning without lossy compression.
 
-- [Steve](characters/steve.md) — initial population complete from current maintained story records; historical recovery remains pending.
+- [Steve Sullivan](characters/steve.md) — canonical story-local character key: `The Neon Sign :: Steve Sullivan`; initial population complete from current maintained story records; historical recovery remains pending.
 - Brittney / Britt — detailed record pending initial population.
 - Liz — detailed record pending initial population.
 - Chloe — detailed record pending initial population.
@@ -16,7 +16,7 @@ Substantial/recurring characters use the maintained full-fidelity character reco
 - Emily — detailed record pending initial population.
 
 
-## Steve
+## Steve Sullivan
 
 Role: main character.
 Age: 29.
