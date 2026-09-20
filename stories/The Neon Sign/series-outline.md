@@ -6,7 +6,7 @@ This outline separates established development from future/proposed progression.
 
 ## Chapter One — Settled Science
 
-Established title: **Settled Science**. **APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
+Established title: **Settled Science**. **APPROVED.** Manuscript: `chapters/approved/001-settled-science.md`.
 
 Opening development centers on Steve, Brittney, Chloe, and Blush. Steve enters Blush to prove Brittney wrong. Steve meets the seven-woman group — Brittney, Liz, Chloe, Nat, Maddie, Tori, and Emily — and Britt eventually brings her “stray” home.
 
@@ -46,19 +46,19 @@ Steve owns the lipstick. Steve does **not** yet own a compact. Steve embraces th
 
 ## Chapter Two — You Have 47 Unread Messages
 
-**APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
+**APPROVED.** Manuscript: `chapters/approved/002-you-have-47-unread-messages.md`.
 
 ## Chapter Three — Terms and Conditions Apply
 
-**APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
+**APPROVED.** Manuscript: `chapters/approved/003-terms-and-conditions-apply.md`.
 
 ## Chapter Four — Remedial Lesbianism
 
-**APPROVED.** Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
+**APPROVED.** Manuscript: `chapters/approved/004-remedial-lesbianism.md`.
 
 ## Chapter Five — Powder Rooms and Purse Theory
 
-**APPROVED.** Bathroom initiation, lipstick flirting, purse theory, and purse-ceremony development are established. Exact previously generated prose still requires recovery before the approved manuscript file can be populated faithfully.
+**APPROVED.** Purse theory and the purse-ceremony scene are in the recovered text; its opening follows Steve out of the powder room. Manuscript: `chapters/approved/005-powder-rooms-and-purse-theory.md`. The supplied text begins `# Purse Theory`; preserve that source heading.
 
 ## Chapter Six — St. Claire Pharmacy
 

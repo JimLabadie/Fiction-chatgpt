@@ -27,7 +27,7 @@ The developing attraction is not reduced to a single group decision. Individual 
 
 ## Gender and presentation arc
 
-Steve begins male-presenting. Feminine presentation develops through Steve's own participation and choices rather than partner-imposed forced feminization. Established progression includes Steve independently choosing a green dress, later accepting/allowing feminine pronoun movement, wearing fresh red lipstick, carrying and embracing a green purse, and deciding a better purse is worth shopping for.
+Steve begins male-presenting. Feminine presentation develops through Steve's own participation and choices rather than partner-imposed forced feminization. In Chapter One Steve voluntarily chooses the emerald dress after an initial no. In Chapter Two Steve independently chooses to keep wearing the green dress, accepts the heels and purse Britt brings, and explicitly authorizes she/her **for that night**. The no-pockets problem leads to the green purse. Later Steve wears fresh red lipstick, embraces the purse, and decides a better purse is worth shopping for. The Chapter Two pronoun request is scoped to that night; do not extend it into a permanent identity conclusion.
 
 Do not treat every Steve trait as a gender clue. In particular, the deliberately “anti-male” moments on individual not-dates are Steve's personality and values, not evidence of gender.
 

@@ -84,4 +84,4 @@ The next chapter must begin from that physical and emotional state rather than r
 
 Steve's handbag and footwear mastery rabbit holes are now active on-page rather than merely future plans. Future research/optimization should grow from these experiences.
 
-Chapter Seven manuscript recovery is complete. Remaining manuscript-recovery work is limited to approved Chapters One through Five.
+Approved Chapters One through Eight are now persisted in `chapters/approved/`. Jim supplied and approved the exact recovered texts for Chapters One through Five on 2026-09-20; those five files were restored verbatim. Earlier manuscript-recovery gap language is closed for Chapters One through Five. The current narrative handoff remains immediately after Chapter Eight.

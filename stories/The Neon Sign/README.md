@@ -28,13 +28,13 @@ Candidate prose belongs in `chapters/candidate/`; author-approved prose moves to
 
 Jim clarified on 2026-09-19 that the story's earlier process was informal and that **all prior generated chapters are author-approved**. Lack of a formal approval marker in the old workflow is not evidence of non-approval.
 
-- **Chapter One — Settled Science:** APPROVED.
-- **Chapter Two — You Have 47 Unread Messages:** APPROVED.
-- **Chapter Three — Terms and Conditions Apply:** APPROVED.
-- **Chapter Four — Remedial Lesbianism:** APPROVED.
-- **Chapter Five — Powder Rooms and Purse Theory:** APPROVED.
+- **Chapter One — Settled Science:** APPROVED; [manuscript](chapters/approved/001-settled-science.md).
+- **Chapter Two — You Have 47 Unread Messages:** APPROVED; [manuscript](chapters/approved/002-you-have-47-unread-messages.md).
+- **Chapter Three — Terms and Conditions Apply:** APPROVED; [manuscript](chapters/approved/003-terms-and-conditions-apply.md).
+- **Chapter Four — Remedial Lesbianism:** APPROVED; [manuscript](chapters/approved/004-remedial-lesbianism.md).
+- **Chapter Five — Powder Rooms and Purse Theory:** APPROVED; [manuscript](chapters/approved/005-powder-rooms-and-purse-theory.md).
 - **Chapter Six — St. Claire Pharmacy:** APPROVED and persisted verbatim at [chapters/approved/006-st-claire-pharmacy.md](chapters/approved/006-st-claire-pharmacy.md).
 - **Chapter Seven — Second Chapter:** APPROVED and recovered verbatim from Jim's retained copy at [chapters/approved/007-second-chapter.md](chapters/approved/007-second-chapter.md).
 - **Chapter Eight — Remove the Tags:** APPROVED and persisted at [chapters/approved/008-remove-the-tags.md](chapters/approved/008-remove-the-tags.md).
 
-For Chapters One through Five, approval status is settled. Exact manuscript artifacts still require recovery of the previously generated text before those files can be populated faithfully; do not reconstruct the prose from summaries.
+Jim supplied the recovered Chapter One through Five text and explicitly confirmed on 2026-09-20 that these were the final versions previously posted in chat. The five supplied files are restored byte-for-byte in `chapters/approved/`. Their internal headings are preserved as supplied, even where they differ from the established outline titles.

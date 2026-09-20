@@ -69,13 +69,12 @@ Approved chapters:
 - Chapter Five — **Powder Rooms and Purse Theory**
 - Chapter Six — **St. Claire Pharmacy**
 
-Chapters One through Five still need their exact previously generated prose recovered before approved manuscript files are created. Their **approval status is not open** and must not be re-litigated based on the old informal process.
+On 2026-09-20 Jim supplied the recovered Chapter One through Five texts and explicitly confirmed that all five were the final versions previously posted in chat. They are now preserved verbatim in `chapters/approved/001-*.md` through `005-*.md`. Their **approval status is settled**. The supplied Chapter Two text starts with a group-chat exchange rather than a chapter heading; the supplied Chapter Five text begins `# Purse Theory`, after the powder-room scene. These source boundaries and headings were preserved rather than reconstructed or rewritten.
 
 ## Open / not yet established
 
 - Exact POV and tense in the repository record.
-- Exact current canonical pronoun/self-description boundary for Steve after the already-developed pronoun movement.
-- Exact manuscript-text recovery for approved Chapters One through Five; their approval status is settled.
+- Steve explicitly authorizes she/her for that night in Chapter Two. Later usage and self-description must follow the approved prose at the relevant point rather than be treated as a completed identity conclusion.
 - Sofia's precise role in the current series progression.
 - Exact canonical St. Claire establishment records for Blush/diner/boutique where not already resolved by accepted source.
 
