@@ -10,7 +10,7 @@ This document does not maintain population/organization/household counts — any
 
 ## Demographic ratios — formal governing rules (full detail in St_Claire_00B_Rules_and_Mechanics.md)
 
-Presentation ~48%/30%/21% (femme/androgynous/butch), ethnicity Census-matched, trans/cis ~11%/89% (22 trans women, largest trans subgroup), relationship status ~54%/28%/12%/8% (couple/single/triad/quad). Every future population batch should be checked against all four before being finalized.
+Presentation taxonomy: High Femme / Femme / Trans Femme / Trans Masc / Butch (no inherited presentation quota), ethnicity Census-matched, trans/cis ~11%/89% (22 trans women, largest trans subgroup), relationship status ~54%/28%/12%/8% (couple/single/triad/quad). Every future population batch should be checked against all four before being finalized.
 
 ## Genuinely unresolved issues, prioritized
 
@@ -46,8 +46,8 @@ Presentation ~48%/30%/21% (femme/androgynous/butch), ethnicity Census-matched, t
    - Ethnicity: Black overrepresented (20.4% vs. 14% target, ~46% over), East Asian severely underrepresented (1.1% vs. 6% target, ~82% under), 14.2% unclassifiable by automated check and needing manual review
    - Arrival story: 80% of records incomplete (372 of 465)
    - Notable milestones: 83% of records incomplete (386 of 465)
-   - Presentation ratio (48/30/21 femme/androgynous/butch): verified clean, on target
-   - Presentation-pairing diversity (the explicit claim that butch/femme, femme/femme, butch/butch, and androgynous combinations should all be real and represented): verified clean, no combination dominates
+   - Presentation taxonomy: Claude-era androgynous assignments converted to Femme; inherited 48/30/21 quota rejected
+   - Presentation-pairing diversity: inherited androgynous-combination check retired with the rejected Claude-era presentation taxonomy
 
    *Households.md:*
    - Household-with-children rate: claimed "55% of eligible households" in this Tracker's own prior entry, but never codified as a governing ratio in Rules & Mechanics the way the other six are, and the 55% figure has never been re-verified against the correct denominator (a crude full-household check returned 12.7%, but that's not measuring the same base — "eligible households" was never formally defined, so this is unverified, not confirmed wrong)
