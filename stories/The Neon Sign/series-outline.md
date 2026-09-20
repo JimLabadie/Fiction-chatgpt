@@ -66,13 +66,33 @@ Steve owns the lipstick. Steve does **not** yet own a compact. Steve embraces th
 
 Approved manuscript: `chapters/approved/006-st-claire-pharmacy.md`.
 
-## Immediate next progression — established plan, not yet completed event
+## Chapter Seven — Second Chapter
 
-1. Continue physically from St. Claire Pharmacy to the appropriate canonical boutique; preserve Saturday wardrobe, green purse, and newly organized contents.
-2. Steve discovers that function is only one axis: a flashy purse can also simply be **cool**. Color and style become legitimate selection criteria alongside utility.
-3. Steve discovers that femininity/presentation upkeep and quality handbags are expensive.
-4. Steve chooses and purchases a quality, larger, more personally expressive purse. The choice is Steve's and marks the point where Steve starts trying to “win” the purse thing.
-5. Within roughly a week, Steve's normal mastery instinct produces extensive handbag research and informed, potentially questionably expensive opinions/choices.
+**APPROVED.** Steve and the seven women reach Second Chapter. Steve develops a concrete handbag vocabulary, chooses the structured oxblood/deep-wine bag because it is genuinely his taste, and learns Liz's framing that **fashion is a conversation**. The mirror produces the first clear aesthetic recognition beat: **There. There he was.**
+
+Approved manuscript: `chapters/approved/007-second-chapter.md`.
+
+## Chapter Eight — Remove the Tags
+
+**APPROVED.** The oxblood bag exposes the mismatch with Steve's old outfit. Through repeated fittings Steve asserts his own clothing preferences. Greta explains that Steve's body is not wrong, shares that she is trans without diagnosing Steve, and teaches the fitting question **“What can I make beautiful?”** Steve chooses the emerald/peacock dress, black approximately four-inch red-soled pumps, and the complete presentation. The mirror produces happy tears and the unfinished identity thought **“The woman—”** without completing an identity conclusion. Steve says **“Remove the tags,”** learns the beginnings of heel walking, and leaves Second Chapter wearing the look.
+
+Approved manuscript: `chapters/approved/008-remove-the-tags.md`.
+
+## Next movement — processing / presentation mini-arc
+
+The story now needs several chapters of breathing room rather than immediately stacking another makeover or shopping escalation onto Chapter Eight.
+
+Established development direction:
+- Continue physically and emotionally from Steve's post–Second Chapter state.
+- Let the remaining **“teach Steve how to be a lesbian”** lessons become conversations and lived one-on-one experiences rather than a single instructional dump.
+- Use individual time with members of the seven-woman polycule so their different voices, relationships to femininity, lesbian identity, presentation, attraction, and community can emerge distinctly rather than as a chorus.
+- Develop the distinction among **identity, presentation, taste, social signaling, community language, and how Steve wants to be seen**. These may overlap but are not interchangeable.
+- Give Steve room to process the mirror experience: the happiness, tears, choice to remove the tags, reluctance to change back, and the unfinished **“The woman—”** thought.
+- Nobody diagnoses Steve, completes Steve's identity conclusion, or treats feminine presentation as proof of gender. Greta's Chapter Eight boundary remains the model: people may share their own experience and help Steve find language, but the meaning belongs to Steve.
+- Preserve humor and ordinary life around the serious processing. The arc should breathe across several chapters rather than becoming one therapy-style conversation.
+- One-on-one chapters/scenes can deepen Steve's independent relationships with the women while the larger polycule remains a boisterous family context.
+
+Exact chapter count, pairings, sequence, locations, and the point at which Steve reaches any new identity conclusion remain collaborative development decisions rather than silently fixed outline events.
 
 ## Longer relationship progression
 
