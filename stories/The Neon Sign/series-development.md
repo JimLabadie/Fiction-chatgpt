@@ -125,4 +125,18 @@ The seven should give Steve a broad swath of lived femininity. Careers are not t
 - **Tori:** physician; healing/technical competence with femininity adapted only where genuine medical constraints require it. Exact specialty/practice open.
 - **Emily:** therapist/counselor; quieter emotionally grounded femininity and comfort with listening/silence. Exact credential/specialty/work setting open.
 
-Nat and Tori's likely higher incomes make them natural candidates for larger household/home hubs. This is a development direction, **not yet a settled residence map**. Careers, approximate financial position, cohabitation, home character, and personal beauty/fashion habits should be developed as an integrated system before selecting the exact sanctuary location for the two-chapter family conversation.
+### Collective household / property structure — approved 2026-09-20
+
+The polycule is **not** organized as a set of primary pairs. Individual relationships can have different kinds and degrees of closeness, but the family structure is genuinely collective rather than three disguised monogamous couples plus a seventh member.
+
+- The seven have a shared legal LLC.
+- The LLC owns **two family homes**.
+- Neither home belongs socially or territorially to Nat, Tori, or any other individual merely because one member earns more, contributed more, or sleeps there more often. Both homes are collective family property.
+- There may be a recognizable **normal composition** at each home because of work schedules, habits, chemistry, convenience, possessions, and preferred spaces, but those are patterns rather than assignments.
+- Nightly residency fluctuates. Members move between the two homes freely and ordinarily; nobody is a guest in the other residence.
+- Both houses are simply **home**. Language and scene framing should avoid accidentally turning them into “Nat's house,” “Tori's house,” or couple territories.
+- Household proximity must not be treated as proof of pair-bond primacy. Especially cozy dyads can exist within the larger relationship network without becoming hidden monogamous units.
+- The two-home structure gives the family enough physical space for different moods, workspaces, wardrobes, routines, privacy, and gathering patterns while preserving one family identity.
+- Exact home designs/neighborhoods, usual compositions, bedroom/private-space organization, workspaces, and distribution of clothing/beauty belongings remain open for continued development.
+
+Careers, approximate finances, home character, work needs, beauty/fashion practices, and ordinary movement between the two residences should now be developed against this collective two-home model.
