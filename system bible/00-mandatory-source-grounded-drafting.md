@@ -96,6 +96,8 @@ Specifically prohibited workarounds include:
 
 Stop at the blocker, report the exact unresolved input, and resolve it through authoritative search or Jim's consequential creative decision before prose. **A blank is not a safe substitute for an invention.**
 
+These prohibitions are applications of the project-wide rules **Do not turn what ChatGPT infers into something Jim decided** and **Absence is not permission**. They apply to every unresolved story or world element, not only the examples listed above. A known count, category, role, relationship slot, group membership, or structural need does not establish the missing individual's identity, traits, history, presentation, voice, relationships, or other specifics. Do not manufacture a generic placeholder person to complete a known group or cast; recover the established individual if one exists, or leave the slot unresolved until Jim establishes it when the choice is consequential.
+
 ### Planning is mandatory process
 
 For substantial prose, planning is a required process stage, not optional brainstorming. The plan need not be shown to Jim unless collaboration or a consequential creative choice calls for discussion, but it must exist before drafting and must integrate both:
