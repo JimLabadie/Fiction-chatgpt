@@ -127,7 +127,7 @@ The record of physical locations — buildings, public spaces, and sites — ind
 **Greenleaf Core** (shared multi-tenant Place — the civic/commercial heart around Greenleaf Stage)
 - Zone: Downtown/Commercial Spine
 - Type: commercial storefront row, civic-adjacent
-- Physical description: coffee shops, a printshop, and a community garden give the Core constant low-grade daily foot traffic
+- Physical description: coffee shops, a printshop, and a community garden give the Core constant low-grade daily foot traffic. Second Chapter occupies a mid-size ground-floor storefront whose deep browsing floor is visually organized by era and color; clothing racks flow into handbag, shoe, jewelry, scarf, belt, and accessory displays, with mirrors and open try-on space integrated throughout so handling, comparison, and discovery feel ordinary rather than precious.
 - History: the district's civic heart, organized around Greenleaf Stage
 - Units: multi-tenant. Ground-floor commercial: L'Aura, Amour Noir, Root & Rind, Blush, The Velvet Palette, The Little Stage, Shift & Spin, The Nook, Second Chapter, The Delicatessen, The Inkwell & Ledger, Hearthside Real Estate & Brokerage, Ferris Family & Estate Law, Constance Ibarra – St. Claire Legal Aid Society, St. Claire Inn & Suites, St. Claire Convention Center, St. Claire Community Credit Union, Marion Castellano's St. Claire Beacon (all cross-referenced in St_Claire_05_Organizations.md). Upper floors: 50 residential units (expanded).
 
