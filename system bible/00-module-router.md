@@ -19,6 +19,20 @@ Before substantive story work, retrieve this router first. Match the requested t
 
 Do not rely on memory, story summaries, or a previously loaded subset to decide that an omitted module is irrelevant. Multiple modules may trigger from one scene. Err toward loading an overlapping module when its trigger is plausibly implicated; source conflicts are cheaper than invisible omissions.
 
+## Active-story namespace firewall
+
+Before story-local retrieval or search, resolve the active story. Treat its `stories/<story-name>/` directory as a closed namespace.
+
+For ordinary development, continuity, revision, and drafting:
+- search/retrieve the active story directory and deliberately routed System Bible material;
+- do not use another `stories/<other-story>/` directory as evidence, inspiration, recovery, characterization, continuity, or gap-filling;
+- do not import another story's facts from Memory, conversation summaries, prior chats, or familiar names;
+- if a repository-wide discovery search is necessary, discard other-story hits as out of scope unless Jim explicitly requested cross-story comparison, crossover, migration, or recovery;
+- absence in the active story means unresolved, not permission to borrow a familiar answer.
+
+Before applying a character fact, verify both the character's canonical full name and active story namespace. Persistent named characters require surnames before established continuity use or manuscript appearance. Same/similar first names, occupations, archetypes, voices, or roles never establish identity across stories. Even matching full names remain separate story-local entities unless shared identity is explicitly established by maintained System Bible canon or Jim.
+
+
 **System Bible authority is absolute for operating canon.** Only maintained files under `system bible/` that are part of the harmonized System Bible parent/detail structure may control story or framework truth. `system bible/developed-skills/**` is **unaudited original/recovery source material only**. Its `SKILL.md` files and contents may be searched as evidence during recovery, but they are never operating canon, never a story-generation authority, and never a substitute for a harmonized System Bible destination. Material found there must be audited, reconciled, and deliberately promoted into the appropriate maintained System Bible module before it may control story work.
 
 ## Mandatory routing sequence
