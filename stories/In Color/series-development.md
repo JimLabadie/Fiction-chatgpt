@@ -56,8 +56,8 @@ Examples developed in chat include:
 The above captures established decisions and developed material from the active conversation at initialization. Pre-initialization generated prose is candidate material, not automatically approved manuscript canon.
 
 ## Unresolved consequential choices
-- Emily's surname.
-- Claire's surname.
+- Emily Alvarez is the established canonical full name.
+- Claire Dupont is the established canonical full name.
 - Exact contemporary city/region and home.
 - Exact occupation/workplace and workday cast.
 - Formal POV/tense choice for manuscript.
