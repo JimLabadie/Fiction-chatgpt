@@ -29,3 +29,8 @@ Do not decide in advance exactly when Emily emerges, what Jim/Emily ultimately l
 
 ## Humor boundary
 The characters may laugh at themselves, failed performances, overcompensation, awkwardness, fashion, bad ideas, and each other affectionately. Jim/Emily's femininity or identity is not itself the punchline.
+
+## Full-fidelity prose rule
+Story prose is never compressed, summarized, abbreviated, or reduced because Jim's instruction arrived through voice, because the requested beat sounds small, or because the interaction is conversational. Spoken and typed story direction receive the same full-length, fully rendered prose treatment. A requested beat is expanded through scene action, physical continuity, setting, interiority, dialogue, pacing, transitions, and consequence at the level the story supports.
+
+Summaries, teasers, continuity records, and handoff records are additional artifacts only. They never replace, stand in for, or authorize thinning the underlying prose or developed creative material. Preserve established detail at full fidelity.
