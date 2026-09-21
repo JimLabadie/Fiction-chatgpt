@@ -8,7 +8,7 @@ Location: Emily and Claire's home; exact city and home details **not yet establi
 Viewpoint: **Not yet formally established.**
 
 ## Present characters
-### Emily — surname not yet established
+### Emily Alvarez
 - Newly chosen name: Emily.
 - Emotionally exhilarated, vulnerable, joyful, and increasingly playful/confident.
 - Has recognized the woman in the mirror as herself.
@@ -17,7 +17,7 @@ Viewpoint: **Not yet formally established.**
 - Current presentation includes very long princess-style extensions, feminine makeup including rose-toned lipstick, styled brows, medium-long almond acrylic nails, heels, earrings/accessories, fragrance, and a feminine outfit from the day's shopping.
 - Has discovered that Claire's visible attraction to her new presentation is both reassuring and fun to provoke.
 
-### Claire — surname not yet established
+### Claire Dupont
 - Deeply in love with Emily and strongly attracted to her.
 - Delighted, emotionally moved, teasing, and at the current handoff “practically feral” in the affectionate romantic-comedy sense.
 - Has repeatedly affirmed that Emily did not need to become prettier or more feminine to deserve Claire; Claire already loved her.
