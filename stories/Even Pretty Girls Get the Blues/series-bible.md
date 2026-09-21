@@ -36,6 +36,15 @@ Kate is a new character created for this story.
 
 Still open: Kate's age, exact management field/employer, home neighborhood/city context, further appearance details, and prior relationship history.
 
+## Jim and Kate — opening physical baseline
+
+- Jim Caldwell and Kate Rivera are both in their mid-thirties.
+- Jim is 5 feet 6 inches tall and 105 pounds.
+- Jim looks notably feminine despite presenting as male and is often misgendered.
+- Kate is more masculine-looking in her underlying physical features while presenting very femme.
+- Both Jim and Kate are overcompensating in their presentation in opposite directions: Jim against how feminine he naturally looks, Kate through an emphatically femme presentation against her more masculine-looking features.
+- Both are dressed corporate casual for the Friday-night opening. Exact individual garments are not yet established and should not be silently invented as canon.
+
 ## Opening scene seed
 
 The opening scene begins at **Blush at 8:00 PM on a Friday night**. Jim arrives as plain old Jim. Kate is there as a regular. Kate sees him and, through behavior and interaction rather than supernatural certainty, notices the woman Emily Caldwell hiding there. The desired register is fun and flirty with genuine tenderness underneath.
