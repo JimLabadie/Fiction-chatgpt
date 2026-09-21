@@ -130,3 +130,35 @@ Kate understands the mechanism through observation rather than diagnosis. The cr
 Kate does **not** know what that means for Jim's eventual identity and must not decide it for him. Her live question becomes whether this surprisingly comfortable futch space is an end state Jim might genuinely inhabit or a transitional gate that gives him enough safety to discover the deeper femme ache he has not yet allowed himself to follow. Both remain possible from Kate's perspective. Her role is to notice that he is more at ease, enjoy him there, and leave him ownership of what the ease eventually means.
 
 This creates deliberate dramatic irony: Jim can celebrate his apparent victory at being a guy at exactly the moment Kate realizes he may finally have found a context in which he no longer has to work so hard at being one. The comedy should coexist with tenderness rather than turning Jim's misunderstanding into ridicule.
+
+
+### Jim actively explores the futch/butch social vocabulary
+Jim's futch gateway should become active curiosity rather than something that merely happens to him. Because the characters carry pieces of Jim's own lived/emotional logic, Jim begins **noticing the futch/butch world around him** once Chapter Three gives him a vocabulary for seeing it. He pays attention to clothes, combinations, manner, confidence, stores, and the ordinary ways sapphic women inhabit those aesthetics. He begins deliberately borrowing pieces that feel good and experimenting with them.
+
+The key social discovery is that other people in St. Claire do not experience Jim's new presentation as an astonishing contradiction requiring explanation. Where Jim expects a gender puzzle, many people simply read a lesbian/futch presentation—or, more accurately in the setting's everyday social rhythm, they read **Tuesday**. Their lack of alarm is part of the mechanism that relaxes him. Jim is experiencing the presentation as a daring experiment and possible victory at being a guy; much of the surrounding community experiences him as an entirely legible person moving through a familiar sapphic presentation vocabulary.
+
+This should develop through ordinary behavior rather than a lecture. Jim can start checking out second-hand stores, noticing flannel, boots, jackets, accessories, cuts, and combinations he previously would have filtered out or categorized as belonging to somebody else. He can become genuinely enthusiastic about finding what works. This is not a joke wardrobe imposed on him and not a temporary costume that must later be rejected when Emily becomes more femme. Some of these discoveries may remain part of him because he authentically likes them.
+
+A future second-hand-store outing with Kate is an especially strong **not-date** opportunity: transparently date-shaped behavior that both continue to deny is dating. Unlike the fundraiser pop-up, this can be Jim choosing to go back into that world on purpose, with Kate present because of course she somehow ends up there with him while both insist there is no romantic significance whatsoever.
+
+### Diner number exchange after Chapter Three
+The dinner immediately following Chapter Three should include the absurd realization that, despite the cigar, intimate disclosures, walking together, competitive thrift outing, clothes-buying, flirting, and now dinner, **Jim and Kate still do not have each other's phone numbers**.
+
+Use this as a concentrated not-date beat rather than a solemn relationship milestone. One of them finally reaches the obvious conclusion: essentially, *shut up and give me your number*. Both then need a ridiculous non-romantic justification because admitting “I want to be able to reach you” is far too date-like.
+
+The winning excuse is **medical emergency**:
+- “Give me your number.”
+- objection/teasing because this is supposedly not a date;
+- “I need to be able to reach you in case of…”
+- desperate search for a respectable explanation;
+- “…medical emergency.”
+- Both know perfectly well this is nonsense and accept it anyway.
+
+The number exchange materially advances their relationship while preserving the running denial. Afterward they can text for equally indefensible “non-date” reasons, creating a natural mechanism for arranging later second-hand-store excursions and other outings while maintaining the joke.
+
+### Kate's attraction to Jim's futch presentation
+Kate's observation is not purely analytical. As Jim relaxes into futch/butch-coded elements, Kate also notices the embarrassingly simple romantic fact that **Jim looks abso-fucking-lutely adorable and hot**.
+
+This attraction matters because Kate is not merely studying Jim's identity development from a safe intellectual distance. She likes the person in front of her. The flannel, boots, carabiner, softer unguarded body language, mischievous confidence, and small frame can combine into a look Kate finds genuinely compelling. Jim's increasing ease makes him more attractive because more of him is physically present instead of hidden behind defensive performance.
+
+Kate can therefore hold several thoughts simultaneously without collapsing them into a diagnosis: Jim is hot like this; Jim is happier/less defended like this; other people are reading him with less friction; Jim thinks he has discovered a better way to be a guy; Kate can see the deeper femme ache when it flashes through; and Kate still does not know whether futch is a lasting home, one authentic region of Jim, or the transitional gate through which Emily will eventually become more visible. None of that uncertainty prevents Kate from looking at Jim and thinking, with considerably less philosophical sophistication: *Oh, fuck. He's adorable.*
