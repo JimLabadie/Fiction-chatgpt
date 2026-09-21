@@ -14,7 +14,7 @@ Authority note: Audited and promoted from `developed-reference` by Jim on 2026-0
 - **Price tier / accessibility:** Upper-tier nightlife; Blush has a door policy and a VIP floor.
 - **Community role:** Not yet established.
 - **History:** Not yet fully established.
-- **Operating hours:** Unresolved pending author disposition.
+- **Operating hours:** Thursday–Sunday, 7:00 PM–2:00 AM.
 - **Capacity:** Unresolved in recovered material.
 
 ## Character and staffing baseline
@@ -26,7 +26,13 @@ The following recovered roles are promoted as canon:
 - **Kendra Hughes — VIP Floor Manager.** A decade in nightlife; polished enough for the VIP room, with a velvet blazer as an established visual detail. She is the person who decides where guests sit.
 - **Clara Bennett — Door/security.** Clara is Sable Ronan's partner.
 
-Exact work schedules remain unresolved pending author disposition. A story scene must not assume that every named staff member is present simultaneously.
+Typical recurring staffing:
+- **Sable Ronan:** owner/floor presence; typically present Friday and Saturday peak nights, with Thursday/Sunday presence as business needs require rather than a fixed door-to-close shift.
+- **Jules Taka:** lead bartender; Thursday–Sunday evening/night service, with primary responsibility for the main bar.
+- **Kendra Hughes:** VIP floor manager; Thursday–Sunday evening/night service, concentrated on the VIP floor and peak periods.
+- **Clara Bennett:** principal door/security presence; Thursday–Sunday evening/night service at the door.
+
+Blush also uses ordinary unnamed operational staffing slots as needed for a functioning upscale nightclub (for example additional bar, floor, and security coverage). Those slots do not create new persistent named characters. A story scene must not assume that every named recurring staff member is present simultaneously; use the day, time, role, and these typical schedules to resolve who is actually relevant.
 
 ## Atmosphere
 
@@ -48,13 +54,9 @@ The following non-conflicting recovered relationship facts are accepted:
 - Sable Ronan and Clara Bennett are partnered.
 - Jules Taka and Samira Khan are partnered.
 
-### Kendra Hughes conflict — unresolved
+### Kendra Hughes household
 
-Recovery sources conflict:
-- the older Master Lore Compendium labels Kendra **single**;
-- the more structured Household record places **Kendra Hughes, Manon Lefevre, and Selene Dupond in a committed triad**, with Iris (age 1) in the household.
-
-Neither version is silently selected here. Jim's disposition is required. Until resolved, Blush scenes may use Kendra's professional role but must not assert her relationship status.
+Kendra Hughes is in a **committed triad with Manon Lefevre and Selene Dupond**. Their household includes **Iris, age 1**. This structured household record is the canonical relationship state. The older Master Lore Compendium descriptor identifying Kendra as **single** is stale and superseded.
 
 ## Drafting use
 
