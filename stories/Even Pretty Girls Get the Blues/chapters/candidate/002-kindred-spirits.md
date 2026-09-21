@@ -1,662 +1,856 @@
 # Chapter Two — Kindred Spirits
 
-Kate's grin lingered after Jim asked about her heels.
+Kate let Jim wait.
 
-She let him wait for the answer.
+He had asked a perfectly reasonable question. A simple question. A question with a numerical answer.
 
-It was not, Jim decided, a particularly charitable thing to do.
+How high were her heels?
 
-He had already survived the federal-highway-system incident, being caught studying a stranger's shoes, an unsolicited but alarmingly accurate assessment of his defensive smiling habits, and Kate Rivera looking directly at him and saying he was pretty as though she were commenting on the weather.
+Kate Rivera responded by crossing one leg over the other with the leisurely precision of a woman who had discovered that another human being was fascinated by her shoes and intended to enjoy every second of it.
 
-There ought to have been some kind of statute of limitations on embarrassment.
+Jim watched the movement.
 
-Kate apparently disagreed.
+Then realized he was watching the movement.
 
-She shifted on the stool, crossed one leg over the other again, and extended her foot just enough that Jim could see the shoe without having to pretend he wasn't looking at it.
+Then looked at her face.
 
-"Four and a half."
+Kate was smiling.
 
-Jim looked at the heel.
+“Don’t.”
 
-Then at Kate.
+“I haven’t said anything.”
 
-"That's ridiculous."
+“You’re about to.”
 
-"You asked."
+“I’m answering your question.”
 
-"I didn't say I disapproved."
+“You have been answering my question for approximately ten seconds.”
 
-Kate's mouth twitched.
-
-"No," she said. "I noticed."
-
-Jim looked down at his drink.
-
-That had become a recurring problem around Kate. Every time he thought he had found a safe place to put his attention, she noticed where he'd put it.
-
-The bass rolled beneath them through the concrete floor, steady enough now that Jim had stopped consciously hearing it. Around them, Blush was filling by degrees. Conversations overlapped. Someone laughed too loudly near the far end of the bar. Jules moved through bottles and glasses with the efficient indifference of a woman who had seen every possible version of Friday-night flirting and had no intention of being impressed by this one.
-
-Jim rubbed his thumb through the condensation on his glass.
-
-Kate watched him do it.
-
-He caught her watching.
-
-"What?"
-
-"Nothing."
-
-"You've already established that when you say nothing, it means something."
-
-"You're learning."
-
-"That's ominous."
-
-Kate smiled and took a drink.
-
-Jim tried to let the silence sit.
-
-He lasted longer than he had with the hair.
-
-Not much longer.
-
-"Can I ask you something?"
-
-Kate lowered her glass.
-
-There was something in his voice that changed her expression before he said anything else. The teasing didn't disappear exactly. It moved aside.
-
-"Yeah."
-
-Jim stared at the wet ring beneath his glass.
-
-"This is going to sound stupid."
-
-"Probably."
-
-He looked up.
-
-Kate gave him an innocent expression.
-
-"You couldn't give me five seconds?"
-
-"I could. I chose not to."
-
-He laughed despite himself.
-
-It helped.
-
-That might have been why she'd done it.
+“Four and a half.”
 
 Jim looked down again.
 
-"I don't mean..." He stopped and started over. "I'm not asking what this is."
+The shoe was elegant rather than outrageous, which somehow made four and a half inches seem more outrageous. Kate wore the height as though the laws of balance had been negotiated privately and she had received an exemption.
 
-Kate stayed quiet.
+He looked back at her.
 
-"I'm not asking if this is going somewhere. Or what you're looking for. Or if you're looking for anything. We met..." He glanced at the time on his phone and seemed almost offended by it. "Apparently not very long ago."
+“That’s ridiculous.”
 
-"Time flies when you're insulting a woman's hair."
+“You asked.”
 
-"Are you going to keep that forever?"
+“I didn’t say I disapproved.”
 
-"Absolutely."
+Kate’s smile changed.
 
-"Great."
+“No,” she said. “I noticed.”
 
-"But I'm listening."
+Jim looked into his drink.
 
-Jim nodded.
+This had become a problem.
 
-He rubbed his thumb once more through the condensation, then made himself stop.
+Kate noticed things.
 
-"I guess I just want to make sure I'm not misunderstanding you."
+Not in the exhausting way people sometimes noticed Jim. There was no double take followed by a frantic internal recalculation. No searching his face for the answer to a question he had not volunteered to take.
 
-Kate's brows drew together slightly.
+Kate noticed what he did.
 
-"Misunderstanding what?"
+Where his eyes went.
 
-"This."
+When he smiled.
 
-He made a small gesture between them and immediately looked annoyed with himself because *this* was not a useful noun.
+When he stopped himself from smiling.
 
-Kate rescued him.
+When he was about to say something and changed it before it reached his mouth.
 
-"My flirting?"
+Apparently she also noticed his interest in women’s shoes.
 
-Jim's ears went pink.
+Fantastic.
 
-"Okay. Yes. That."
+The bass had deepened beneath them as Blush filled. It traveled through the concrete floor and up the legs of the stools. The room had grown warmer. Conversation layered over conversation now, and Jules moved behind the main bar with the terrifying economy of someone who could probably make six drinks, settle an argument, and identify a bad date without interrupting her train of thought.
 
-"Jim."
+Jim traced one finger through the condensation on his glass.
 
-"I know."
+Kate watched him.
 
-"I have not been subtle."
+He looked up.
 
-"I know."
+“What?”
 
-"I called you pretty."
+“Nothing.”
 
-"I was there."
+“You’ve already established that ‘nothing’ means something.”
 
-"I told you I liked you."
+“You’re learning.”
 
-"I remember."
+“That feels threatening.”
 
-"Good. I was worried the shock had caused memory loss."
+“It should.”
 
-He laughed again, but it didn't entirely release the tension this time.
+Jim smiled despite himself.
 
-Kate saw that.
-
-She put her glass down.
-
-"What are you really asking?"
-
-Jim's gaze moved around Blush for a moment as if the answer might be written somewhere in the neon.
-
-When he spoke again, his voice was quieter.
-
-"I hope I'm not just having a nice conversation with a nice person at a bar."
-
-Kate didn't answer immediately.
-
-Jim hurried on.
-
-"Not because you owe me anything. I don't mean that. And I'm not asking for commitment or—Jesus, that would be insane."
-
-"It would be a little efficient."
-
-"Kate."
-
-"Sorry."
-
-She wasn't, but she was gentle about it.
-
-Jim took a breath.
-
-"I just..." His mouth tightened, frustrated by his own inability to say something simple simply. "I hope there's more here than two people who happened to sit near each other and got along for an hour."
-
-There.
-
-He'd said it.
-
-And now he looked as though he wanted the bar to open beneath him.
-
-Kate studied him.
-
-Not the way strangers sometimes studied Jim after realizing the person they'd called *ma'am* had answered in a man's voice.
-
-Not searching for the correct category.
-
-Just looking at him.
-
-Jim made himself stay still.
-
-Finally Kate said, "Okay."
-
-His stomach dropped.
-
-It was ridiculous how much damage one neutral word could do.
+This time he left it there.
 
 Kate saw that too.
 
-"Oh, sweet Jesus. No. That was not a bad okay."
+She did not comment.
 
-"There's a good okay?"
+That was almost worse.
 
-"There is now."
+Jim took a drink.
 
-Jim gave her a dubious look.
+He had walked into Blush prepared for a very specific kind of discomfort. He knew that discomfort. He had procedures for it.
 
-Kate turned toward him more fully.
+This was different.
 
-"Jim, I'm sitting here because I want to be sitting here."
+Kate liked him.
 
-He didn't move.
+At least she seemed to.
 
-"I'm flirting with you because I want to flirt with you. I keep asking questions because I want to know the answers. I keep noticing things because..." She paused, and for the first time since they'd met, Kate looked almost self-conscious. "Well. Because apparently I notice you."
+That should have been easier than being misgendered by a stranger.
 
-Something warm moved through Jim's chest.
+It was not.
 
-Kate continued before he could retreat from it.
+“Can I ask you something?”
 
-"I don't know what this becomes. I'm not going to sell you a future after one drink. But no, you're not just some pleasant stranger helping me kill time until Blush gets crowded."
+Kate’s expression changed before he got another word out.
 
-Jim's shoulders lowered by a fraction.
+The mischief did not disappear. It simply moved aside.
 
-Kate's expression softened.
+“Yeah.”
 
-"And since you apparently need this in writing—"
+Jim looked at the wet ring beneath his glass.
 
-"I did not ask for documentation."
+“This is going to sound stupid.”
 
-"You're very corporate. I assumed there would be forms."
+“Probably.”
 
-"Naturally."
-
-"Possibly a notarized affidavit."
-
-"Now you're being ridiculous."
-
-"Now?"
-
-Jim smiled.
-
-Kate caught it.
-
-This time she didn't call attention to it.
-
-She just said, "What I see, I like."
-
-The smile disappeared anyway.
-
-Not because Jim was hiding it.
-
-Because the words landed somewhere deeper.
-
-Kate didn't rush to soften them.
-
-"I like your face," she said. "I like that you're funny when you're nervous. I like that you walked in here ready to defend yourself from a room that hadn't attacked you yet. I like that you notice things. I like that you are apparently conducting a private census of every heel in the building."
-
-"I am not."
-
-"You absolutely are."
-
-"That's slander."
-
-"And I like that you're sitting there pretending this conversation isn't making you happy."
-
-Jim looked at her.
-
-"That's a lot."
-
-"Too much?"
-
-He considered it.
-
-"No."
-
-"Good."
-
-"Just..."
-
-He searched for the word.
-
-"Unexpected."
-
-Kate nodded.
-
-"I can work with unexpected."
-
-For a few seconds they simply looked at each other.
-
-The moment could have become unbearably earnest.
-
-Kate Rivera, perhaps sensing danger, saved them both.
-
-"So."
-
-Jim narrowed his eyes.
-
-That *so* had criminal intent.
-
-"What?"
-
-"What did you think of them?"
-
-"Of what?"
-
-"The shoes."
-
-Jim stared.
-
-Kate's face was perfectly composed.
-
-"The ones you were checking out."
-
-"I was not checking her out."
-
-"I said the shoes."
-
-"You phrased it maliciously."
-
-"I phrased it accurately."
-
-Jim groaned.
-
-Kate leaned toward him, delighted.
-
-"Come on. You've been pretending to be a footwear critic all night. Give me the review."
-
-"I am not a footwear critic."
-
-"Structural integrity?"
-
-Jim put his face in one hand.
-
-"Aesthetic significance?"
-
-"Please stop."
-
-"Appropriateness for local load-bearing codes?"
-
-That did it.
-
-Jim laughed into his palm.
-
-Kate laughed with him, pleased with herself in a way that should have been irritating and somehow wasn't.
-
-When Jim finally looked up, his face was red.
-
-"They were nice."
-
-Kate waited.
-
-Jim knew that look already.
-
-"What?"
-
-"That's your expert opinion?"
-
-"I'm not an expert."
-
-"You tracked them across the room."
-
-"I noticed them."
-
-"Mm-hm."
-
-Jim sighed.
-
-"They were elegant."
-
-Kate's teasing eased.
-
-He glanced toward the place where the woman had disappeared into the crowd.
-
-"Not just high. The shape was..." He moved one hand, trying to describe something he did not have vocabulary for. "Balanced, I guess. They changed the way she walked, but they worked with what she was wearing. They weren't just stuck on at the bottom."
-
-Kate looked at him with renewed interest.
-
-Jim noticed.
-
-"What?"
-
-"Nothing."
-
-"Kate."
-
-"I like listening to you talk about them."
-
-"Why?"
-
-"Because you stop defending yourself."
-
-That shut him up.
+He looked up.
 
 Kate took a sip.
 
-Jim looked down at her shoes again, but this time he did not snap his gaze away when she caught him.
+“You couldn’t give me five seconds?”
 
-Kate followed his attention.
+“I could.”
 
-"You know, shoes are part of my vocabulary."
+“But?”
 
-Jim looked back up.
+“I chose not to.”
 
-"Your vocabulary."
+He laughed.
 
-"Yeah."
+The knot in his chest loosened just enough to let him continue.
 
-"That's an extremely manager way to say you like shoes."
+“I’m not asking what this is.”
 
-Kate smiled.
+Kate stayed quiet.
 
-"I do like them."
+“I mean, I’m not asking if this is going somewhere. Or what you’re looking for. Or whether you’re looking for anything. We met—”
 
-"I had gathered."
+He checked his phone and frowned.
 
-"But that's not what I mean."
+Kate leaned slightly closer.
 
-She uncrossed her legs and rested both feet on the floor.
+“What?”
 
-For a moment she seemed to consider how much of herself she actually wanted to hand to a man she'd met less than an hour ago.
+“Apparently not very long ago.”
 
-Then she shrugged slightly.
+“Time flies when you’re insulting a woman’s hair.”
 
-Maybe she had decided the same thing Jim had.
+“Oh, are we keeping that forever?”
 
-What the hell.
+“Until death.”
 
-"People read me," she said.
+“Excellent.”
 
-Jim's expression changed.
+“But I’m listening.”
 
-Kate touched her jaw lightly.
+Jim set his phone facedown on the bar.
 
-"They see this. My face. My build. Sometimes my voice. Whatever catches them first. And they make decisions."
+“I guess I want to make sure I’m not misunderstanding you.”
 
-Jim didn't interrupt.
+Kate’s brows drew together.
 
-"Not everybody. Not all the time. And I'm not walking around devastated because some stranger has an opinion about my cheekbones." She smiled faintly. "I happen to like my cheekbones."
+“Misunderstanding what?”
 
-"They're good cheekbones."
+“This.”
 
-Kate's eyebrows lifted.
+He made a small motion between them and immediately regretted it.
 
-Jim immediately regretted speaking.
+*This.*
 
-She grinned.
+Brilliant.
 
-"Thank you."
+Kate rescued him.
 
-"You're welcome."
+“My flirting?”
 
-"But I learned a long time ago that if people were going to read me before I got a word in, I could either spend my life being angry about it or I could become very fluent in what I wanted to say back."
+His ears warmed.
 
-Jim's eyes drifted to her hair.
+“Okay. Yes. That.”
 
-Kate caught him.
+“Jim.”
 
-"Exactly."
+“I know.”
 
-"The interstate system."
+“I have not been subtle.”
 
-"The interstate system."
+“I know.”
 
-He smiled.
+“I called you pretty.”
 
-Kate lifted one foot slightly.
+“I was present.”
 
-"The shoes. The hair. Makeup. Clothes. All of it. Some of it is just because I like pretty things. I'm not going to pretend every heel is a political manifesto."
+“I told you I liked you.”
 
-"That would make shoe shopping exhausting."
+“I remember.”
 
-"You have no idea."
+“Good. I was worried the shock might have caused memory loss.”
 
-"But some of it?"
+He laughed, but the laugh did not carry the tension away.
 
-Kate nodded.
+Kate put her glass down.
 
-"Some of it says I decide."
+“What are you really asking?”
 
-Jim went still.
+Jim looked past her for a moment.
 
-Kate's voice remained easy, but the joke had left it.
+A woman moved through the crowd near the bar. Jim’s attention dropped automatically to her shoes, then immediately returned to Kate.
 
-"I decide what I emphasize. I decide what femininity looks like on me. I decide what makes me feel beautiful. Somebody can look at me and decide whatever the hell they want, but they don't get to be the only voice in the conversation."
+Kate saw that.
 
-Jim looked at her shoes again.
+Of course she did.
 
-This time differently.
+Jim sighed.
 
-"That's why you said vocabulary."
+“I hope I’m not just having a nice conversation with a nice person at a bar.”
 
-"Yeah."
+Kate did not answer immediately.
 
-He nodded slowly.
+That silence terrified him enough that he rushed to fill it.
 
-"I think I understand that."
+“Not because you owe me anything. That sounded awful. I don’t mean that. And I’m not asking for commitment or a second date or—Jesus, we haven’t had a first date. That would be insane.”
 
-"I thought you might."
+“It would be efficient.”
+
+“Kate.”
+
+“Sorry.”
+
+She was not remotely sorry.
+
+Jim took a breath.
+
+“I just…”
+
+He hated this.
+
+Not the feeling.
+
+The saying.
+
+The feeling had been unexpectedly easy.
+
+Saying it meant handing it to somebody else.
+
+“I hope there’s more here than two people who happened to sit near each other and got along for an hour.”
+
+There.
+
+Jim stared at his drink.
+
+Kate stared at Jim.
+
+“Okay.”
+
+His stomach dropped.
+
+Kate’s eyes widened.
+
+“Oh, sweet Jesus. No. That was not a bad okay.”
+
+“There are categories?”
+
+“There are now.”
+
+“Convenient.”
+
+“Jim.”
+
+He looked at her.
+
+Kate turned on her stool until she faced him more fully.
+
+“I am sitting here because I want to sit here.”
+
+He stayed very still.
+
+“I’m flirting with you because I want to flirt with you. I keep asking you questions because I want to know the answers.”
+
+She paused.
+
+For the first time since he had met her, Kate looked almost uncertain.
+
+Not much.
+
+A hairline crack in the polish.
+
+“And apparently I keep noticing you because I notice you.”
+
+Jim’s mouth opened.
+
+Nothing came out.
+
+Kate continued.
+
+“I don’t know what this becomes. I’m not going to sell you a future after one drink.”
+
+“Good.”
+
+“But no. You are not some pleasant stranger helping me kill time until Blush gets crowded.”
+
+His shoulders lowered.
+
+Kate saw that happen too.
+
+She smiled.
+
+“And since you apparently need documentation—”
+
+“I did not ask for documentation.”
+
+“You’re very corporate. I assumed forms.”
+
+“Obviously.”
+
+“Possibly a notarized affidavit.”
+
+“Now you’re being ridiculous.”
+
+“Now?”
+
+Jim smiled.
+
+Kate let that one live too.
+
+Then she said, “What I see, I like.”
+
+The smile disappeared.
+
+Not because Jim suppressed it.
+
+Because the words hit harder than he had expected.
+
+Kate did not rescue him from them.
+
+“I like your face,” she said. “I like that you’re funny when you’re nervous. I like that you came in here prepared to defend yourself from a room that had not actually attacked you yet.”
+
+“That sounds less flattering when you say it that way.”
+
+“I’m not finished.”
+
+“Oh good.”
+
+“I like that you notice things. I like that you are apparently conducting an independent survey of every heel in the building.”
+
+“I am not.”
+
+“You absolutely are.”
+
+“That is slander.”
+
+“And I like that you keep getting happy and then looking surprised about it.”
 
 Jim looked at her.
 
-There was no trap in her expression.
+“That’s a lot.”
 
-That almost made it harder.
+“Too much?”
 
-He turned his glass between his hands.
+He thought about it.
 
-"I don't think about clothes like that."
+“No.”
+
+Kate nodded once.
+
+“Good.”
+
+“Just unexpected.”
+
+“I can work with unexpected.”
+
+The moment hung there.
+
+Warm.
+
+Dangerously sincere.
+
+Kate, apparently deciding they had both suffered enough, glanced toward the crowd.
+
+“So.”
+
+Jim narrowed his eyes.
+
+That *so* had intent.
+
+“What?”
+
+“What did you think of them?”
+
+“Of what?”
+
+“The shoes.”
+
+“I was not checking her out.”
+
+“I said the shoes.”
+
+“You phrased it maliciously.”
+
+“I phrased it beautifully.”
+
+Jim rubbed a hand over his face.
+
+Kate leaned toward him.
+
+“Come on. You’ve been running an unauthorized footwear review since you got here.”
+
+“I have not.”
+
+“Structural integrity?”
+
+“Stop.”
+
+“Aesthetic significance?”
+
+“Kate.”
+
+“Compliance with municipal load-bearing codes?”
+
+Jim laughed into his hand.
+
+Kate looked delighted with herself.
+
+When he finally lowered his hand, she was waiting.
+
+“They were nice.”
+
+Her face fell.
+
+“That’s it?”
+
+“What do you want from me?”
+
+“You tracked them across the room.”
+
+“I noticed them.”
+
+“Mm-hm.”
+
+Jim looked in the direction the woman had gone.
+
+“They were elegant.”
 
 Kate waited.
 
-"At least..." He frowned. "Maybe I do. Just the other direction."
+He knew that look already.
 
-She said nothing.
+He sighed.
 
-Jim glanced at himself, at the corporate-casual clothes he'd chosen precisely because they were supposed to be unremarkable.
+“It wasn’t just the height.”
 
-"I spend a lot of time trying not to give people anything to misread."
+The teasing eased from Kate’s face.
 
-Kate's face softened.
+“The shape worked. The heel wasn’t…” He moved his fingers in the air, trying to construct something he did not have the language to describe. “It wasn’t just attached to the bottom of a shoe to make it high. The whole thing worked together.”
 
-Jim gave a small, humorless laugh.
+Kate watched him.
 
-"Which is apparently going extremely well."
+“And they changed the way she walked.”
 
-"I'm not sure you're qualified to judge the success of the program."
+Jim nodded.
 
-"You're the one who called me pretty."
+“But with the dress, it made sense. Like the shoe was part of the line instead of something stuck underneath it.”
 
-"I stand by my assessment."
+Kate’s eyebrows rose.
 
-He shook his head, but he was smiling.
+Jim noticed.
 
-Kate let him.
+“What?”
 
-Then the mischief returned to her eyes.
+“Nothing.”
 
-Jim saw it happen.
+“Kate.”
 
-"Oh no."
+“I like listening to you talk about them.”
 
-"What?"
+“Why?”
 
-"You have a face."
+“Because you forget to defend yourself.”
 
-"I have several."
+Jim went quiet.
 
-"That one means you're about to make my evening more complicated."
+Kate took a drink.
 
-"Have you ever worn heels?"
+He looked down at her shoes again.
 
-Jim stopped.
+This time he did not immediately look away.
 
-Kate's expression changed almost immediately.
+Kate followed his gaze.
 
-Not because he had answered.
+“Shoes are part of my vocabulary.”
 
-Because he hadn't.
+Jim looked up.
 
-The question had landed somewhere she hadn't expected.
+“Your vocabulary.”
 
-Jim looked down.
+“Yeah.”
 
-His fingers tightened slightly around the glass.
+“That is the most manager way anybody has ever said ‘I like shoes.’”
 
-Kate could have filled the silence.
+Kate laughed.
 
-She didn't.
+“I do like shoes.”
 
-Finally Jim said, "No."
+“I had gathered.”
 
-Then, after another second, "Not really."
+“And clothes. Makeup. Hair.”
 
-Kate heard the correction.
+“The federal highway system.”
 
-She did not chase it.
+“The federal highway system.”
 
-Jim swallowed.
+Jim smiled.
 
-"I've wondered."
+“But that’s not all I mean.”
 
-The admission was so quiet it nearly disappeared beneath the music.
+She uncrossed her legs and rested both feet on the floor.
 
-Kate nodded.
+For a second she seemed to consider him.
 
-"Okay."
+Not whether he deserved an answer.
 
-Jim looked up, wary.
+How much of the answer she wanted to give.
 
-"Okay?"
+“People read me too.”
 
-"Yeah."
+Jim’s expression changed.
 
-"That's it?"
+Kate touched two fingers lightly to the line of her jaw.
+
+“My face. My build. Sometimes my voice. Whatever catches them first. They decide what it means.”
+
+Jim said nothing.
+
+“I’m not devastated because somebody has an opinion about my cheekbones. I happen to like my cheekbones.”
+
+“They’re good cheekbones.”
+
+The words escaped before Jim could stop them.
+
+Kate’s eyebrows rose.
+
+Jim closed his eyes.
+
+“Goddammit.”
+
+“Thank you.”
+
+“You’re welcome.”
+
+“And I learned a long time ago that if people were going to decide what I looked like before I got a word in, I could spend my whole life being angry about it…”
+
+She touched her hair.
+
+Jim looked at it.
 
 Kate smiled.
 
-"Curiosity counts."
+“…or I could answer.”
 
-He let out a breath.
+“The interstate system.”
 
-Kate watched his shoulders loosen.
+“The interstate system.”
 
-Then her own expression shifted.
+Her heel lifted slightly from the floor.
 
-"Damn."
+“The shoes. The hair. Makeup. Clothes. All of it.”
 
-"What?"
+She looked down at herself, then back at Jim.
 
-"I pushed."
+“Some of it is because I just fucking love pretty things.”
 
-Jim frowned.
+Jim laughed.
 
-"No, you asked."
+“I was going to say, this seems like a lot of effort for spite.”
 
-"Still."
+“Oh, no. Spite is a bonus.”
 
-"You didn't do anything wrong."
+“That makes more sense.”
 
-"I know." Kate considered him. "But I got curious and stepped on something tender."
+“I love being femme.”
 
-Jim started to deny it.
+There was no hesitation in it.
+
+No confession.
+
+Just fact.
+
+Kate smiled.
+
+“I love the whole ridiculous production. I like getting dressed. I like the shoes. I like the hair even when it takes forever. I like walking into a room looking exactly the way I meant to look.”
+
+Jim watched her.
+
+“But there’s also a little bit of…” Kate tilted her head. “Fuck you.”
+
+He laughed.
+
+“Elegant.”
+
+“I contain multitudes.”
+
+“Apparently one of them is a dockworker.”
+
+“You haven’t earned that information yet.”
+
+Jim blinked.
+
+Kate smiled into her drink.
+
+He had the distinct feeling he had just been warned about something.
+
+“Anyway,” she said, “some of it says *I decide*.”
+
+Jim stopped smiling.
+
+Kate saw the words reach him.
+
+“I decide what I emphasize. I decide what femininity looks like on me. I decide what makes me feel beautiful. People can think whatever the hell they want, but they don’t get to be the only voice in the conversation.”
+
+Jim looked down at himself.
+
+His clothes had been chosen for almost the opposite reason.
+
+Nothing remarkable.
+
+Nothing soft.
+
+Nothing anybody could seize upon as evidence.
+
+He had spent years trying to remove vocabulary.
+
+Kate had built one.
+
+“I think I understand that,” he said.
+
+“I thought you might.”
+
+Jim ran his thumb along the edge of his glass.
+
+“I don’t think about clothes that way.”
+
+Kate waited.
+
+“At least…”
+
+He looked down at himself again.
+
+“Maybe I do.”
+
+Her expression stayed open.
+
+“Just backwards.”
+
+“How?”
+
+Jim exhaled.
+
+“I spend a lot of time trying not to give people anything to misread.”
+
+Kate’s eyes moved over him now, but carefully.
+
+Not assessing.
+
+Seeing the choices.
+
+The ordinary shirt. The ordinary pants. The shoulders that had squared themselves so many times the movement had become nearly automatic.
+
+Jim noticed her noticing.
+
+He gave a small laugh.
+
+“Which is obviously going extremely well.”
+
+Kate smiled.
+
+“I’m not sure you’re an impartial evaluator.”
+
+“You called me pretty.”
+
+“I stand by my findings.”
+
+“Your findings?”
+
+“I have documentation.”
+
+“Of course you do.”
+
+They smiled at each other.
+
+Then Kate’s eyes changed.
+
+Jim saw the idea arrive.
+
+“No.”
+
+“I haven’t said anything.”
+
+“You have an idea.”
+
+“I always have ideas.”
+
+“That is not reassuring.”
+
+Kate leaned one elbow against the bar.
+
+“Have you ever worn heels?”
+
+Jim stopped.
+
+The question was not loud.
+
+It was not even especially dramatic.
+
+His body reacted before his mind found an answer.
+
+His fingers tightened around his glass.
+
+His shoulders came up.
+
+His eyes dropped.
+
+Kate’s teasing vanished.
+
+Jim knew she had seen all of it.
+
+He hated that.
+
+And, confusingly, did not hate it at all.
+
+“No.”
+
+Kate waited.
+
+Jim swallowed.
+
+“Not really.”
+
+There.
+
+That was worse.
+
+Because *not really* was not *no*, and Kate was smart enough to know the difference.
+
+She did not pounce.
+
+She did not ask when.
+
+She did not ask whose.
+
+She did not ask how it felt.
+
+Jim stared at the bar.
+
+“I’ve wondered.”
+
+The words nearly disappeared under the music.
+
+Kate nodded.
+
+“Okay.”
+
+Jim looked up.
+
+“Okay?”
+
+“Yeah.”
+
+“That’s it?”
+
+“That’s it.”
+
+He searched her face.
+
+“Curiosity counts,” she said.
+
+Something in his chest loosened.
+
+Not because she had given him permission.
+
+That would have annoyed him.
+
+Because she had not demanded a conclusion.
+
+Jim breathed out.
+
+Kate watched him.
+
+Then she winced.
+
+“Damn.”
+
+“What?”
+
+“I pushed.”
+
+“No, you asked.”
+
+“I know.”
+
+“You didn’t do anything wrong.”
+
+“I know that too.”
+
+“Then what?”
+
+Kate looked at him for a moment.
+
+“I got curious and stepped on something tender.”
+
+Jim immediately shook his head.
+
+“It’s not—”
 
 Kate raised one finger.
 
-"Don't manage my reaction for me, mister."
+“Do not manage my reaction for me, mister.”
 
-He closed his mouth.
+His mouth closed.
 
-"Thank you."
+“Thank you.”
 
 Jim rolled his eyes.
 
 Kate looked toward the bar.
 
-Then a slow, dangerous smile spread across her face.
+Then her expression changed.
 
-Jim recognized it immediately.
+Jim had known her for less than an hour and already recognized that expression as a threat.
 
-"What are you doing?"
+“Oh no.”
 
-"Balancing the scales."
+“What?”
 
-"I don't like the sound of that."
+“You have a face.”
 
-"You shouldn't."
+“I have several.”
 
-She caught Jules's attention.
+“That one is dangerous.”
 
-Jim watched with growing suspicion.
+Kate caught Jules’s attention.
 
-Kate said something to her.
+She said something Jim could not hear over the music.
 
-Jules looked at Kate.
+Jules looked at her.
 
 Then at Jim.
 
@@ -668,185 +862,335 @@ Kate nodded solemnly.
 
 Jules disappeared.
 
-Jim stared at Kate.
+Jim stared at her.
 
-"What did you just do?"
+“What did you just do?”
 
-"You'll see."
+“Nothing.”
 
-"I hate surprises."
+“We have covered this word.”
 
-"No, you hate not being prepared."
+“You’ll see.”
 
-"That is an extremely meaningful distinction."
+“I hate surprises.”
 
-"I know."
+“No. You hate not being prepared.”
 
-Jules returned.
+“That is an extremely meaningful distinction.”
 
-What she set down in front of Kate made Jim stare.
+“I know.”
 
-"A cigar?"
+Jules returned a moment later.
 
-Kate picked it up between two fingers.
+She placed a cigar in front of Kate.
 
-"A cigar."
+Jim stared at it.
 
-Jim looked at Jules.
+Then at Jules.
 
-Jules had already moved away with the unmistakable air of a woman who had no intention of accepting liability.
+Jules had already moved away with the unmistakable air of a woman who wanted no legal, moral, or spiritual responsibility for what happened next.
 
-Jim looked back at Kate.
+Jim looked at Kate.
 
-"Why?"
+“A cigar.”
 
-Kate examined the cigar as if it had personally offended her.
+Kate picked it up.
 
-"You know what? I pushed your boundary. So I'm going to push one of mine."
+“A cigar.”
 
-"By developing emphysema?"
+“Why do you have a cigar?”
 
-"Don't ruin this."
+“I don’t yet.”
 
-"I'm trying to understand the plan."
+“It is in your hand.”
 
-"There is no plan."
+“Temporarily.”
 
-"That is not reassuring."
+Jim looked at the cigar again.
 
-Kate held up the cigar.
+“Should I be concerned?”
 
-"Sometimes I'm misread."
+“Yes.”
 
-Jim's humor faded.
+“Excellent.”
 
-Kate shrugged.
+Kate turned it between her fingers.
 
-"And sometimes I work very hard to answer that. Hair, heels, lipstick, the whole vocabulary."
+“You know what I just realized?”
 
-She rolled the cigar between her fingers.
+“That cigars are disgusting?”
 
-"And sometimes?"
+“We haven’t even lit it.”
 
-Her smile came back.
+“I’m getting ahead.”
 
-"Sometimes I say screw 'em."
+“I pushed you toward something outside your usual vocabulary.”
+
+Jim’s humor faded.
+
+Kate looked down at herself.
+
+At the shoes.
+
+At the polish.
+
+At the hair spilling over her shoulder.
+
+“For somebody who gives a very good speech about deciding for herself, I spend an awful lot of time answering people.”
+
+Jim frowned.
+
+“I thought you said you like all this.”
+
+“I do.”
+
+“Then what’s the problem?”
+
+Kate looked at him.
+
+And smiled.
+
+That question pleased her.
+
+“Maybe there isn’t one.”
+
+Jim waited.
+
+“I love this,” she said, touching her hair. “I love being femme. None of that was bullshit.”
+
+“I didn’t think it was.”
+
+“But sometimes…”
+
+She rolled the cigar between two fingers.
+
+“Sometimes maybe I should be allowed to stop answering.”
+
+Jim understood before she finished.
+
+Not all of it.
+
+Enough.
+
+Kate’s smile widened.
+
+“So screw ’em.”
+
+“Screw who?”
+
+“Everybody.”
+
+“That seems broad.”
+
+“I’m feeling ambitious.”
 
 Jim looked at the cigar.
+
+“What exactly are you proposing?”
+
+Kate held it up.
+
+“Something guyish.”
+
+Jim stared at her.
+
+“That’s your plan?”
+
+“It’s the beginning of a plan.”
+
+“You bought a cigar.”
+
+“I acquired a cigar.”
+
+“That distinction concerns me.”
+
+Kate slipped off the stool.
+
+“Come on.”
+
+“Where?”
+
+“Outside.”
+
+Jim looked at her shoes.
+
+Then at the cigar.
 
 Then at her.
 
-Kate's eyes gleamed.
+“You’re serious.”
 
-"Okay, sweet cheeks."
+“Tragically.”
 
-Jim's head jerked back.
+“You don’t know how to smoke that.”
 
-"Absolutely not."
+Kate looked offended.
 
-Kate broke.
+“Of course I do.”
 
-She laughed so suddenly she had to put the cigar down.
+Jim waited.
 
-"Oh my God. No. You're right. That was horrible."
+Kate held his gaze.
 
-"Sweet cheeks?"
+“Conceptually.”
 
-"I panicked."
+He laughed.
 
-"You panicked into a 1940s dockworker?"
+“Conceptually?”
 
-"I was trying to be guyish."
+“Fire goes on one end.”
 
-"You failed."
+“Oh good. We’re practically experts.”
 
-"Spectacularly."
+“Exactly.”
 
-Jim was laughing now.
+They collected their drinks only long enough to finish what remained, and Kate led him toward the entrance with the cigar held between two fingers as if confidence could substitute for training.
 
-Kate wiped beneath one eye.
+Clara glanced at them as they came through.
 
-"Fine. New plan."
+Her eyes dropped to the cigar.
 
-"There was an old plan?"
+Then rose to Kate.
 
-"Shut up."
+Kate lifted her chin.
 
-She picked up the cigar again and pointed it at him.
+Clara looked at Jim.
 
-"We are going to do something extremely masculine."
+Jim spread his hands.
 
-Jim looked at the cigar.
+“I have no control over this.”
 
-"We're going to light that?"
+Clara’s mouth twitched.
 
-"Yes."
+The door closed behind them.
 
-"We're going to smoke it?"
+Outside, the purple neon washed Kate’s hair and Jim’s shoulders in color. The bass became a muffled pulse through the wall instead of something living in his bones.
 
-"Yes."
+Kate looked at the cigar.
 
-"Do you know how?"
+Jim looked at Kate.
 
-Kate hesitated.
+“So.”
 
-Jim stared.
+“So.”
 
-"Kate."
+“How does this work?”
 
-"Conceptually."
+Kate stared at him.
 
-"Conceptually?"
+“You’re the guy.”
 
-"Fire goes on one end."
+Jim stared back.
 
-"Excellent. We're practically experts."
+Something passed between them.
 
-She leaned closer.
+Not yet recognition.
 
-"And then we're going to sit here, smoke our cigar, and say screw the world and all of its labels."
+Mostly offense.
 
-Jim's smile softened.
+“What the hell does that mean?”
 
-There it was again.
+Kate burst out laughing.
 
-The silliness opening a door the serious conversation had only approached.
+“I don’t know.”
 
-He looked at Kate.
+“You bought the cigar.”
 
-At the impossible hair.
+“Acquired.”
 
-At the polished femininity she'd built because she loved it and because it spoke for her.
+“You acquired the cigar.”
 
-At the cigar in her hand, absurd against everything she'd just explained and somehow perfectly consistent with it.
+“Yes.”
 
-"Okay," he said.
+“You announced we were doing something guyish.”
 
-Kate blinked.
+“Yes.”
 
-"Okay?"
+“And now your plan is to outsource the technical portion to the nearest available man?”
 
-"Screw the world."
+Kate put one hand on her hip.
 
-Her grin returned.
+“When you say it like that, it sounds sexist.”
 
-"Screw the world."
+“It was sexist before I said it.”
 
-The cigar was a catastrophe.
+“Fine. We learn together.”
 
-Neither of them knew what they were doing.
+“How?”
 
-This became evident almost immediately.
+Kate looked at the cigar again.
 
-Kate tried first.
+“Fire?”
 
-She made an elaborate production of it, because having committed to the bit, Kate Rivera apparently believed dignity required total commitment.
+Jim rubbed both hands over his face.
 
-Jim watched her draw on the cigar.
+“This is going to go extremely well.”
 
-For approximately two seconds, she looked magnificent.
+It did not.
 
-Then her eyes widened.
+The first problem was that Kate had no idea what she was doing.
+
+The second problem was that Jim had no idea what she was doing either.
+
+Between them, they possessed one cigar, two phones they refused to use on principle, and enough confidence to create a minor public-health incident.
+
+Eventually they got it lit.
+
+Kate insisted on going first.
+
+She squared her shoulders.
+
+Jim watched.
+
+“What are you doing?”
+
+“Being masculine.”
+
+“You look constipated.”
+
+Kate’s head snapped toward him.
+
+Jim covered his mouth.
+
+“Oh, fuck you.”
+
+“You asked.”
+
+“I absolutely did not.”
+
+Kate rearranged herself.
+
+She widened her stance.
+
+Lowered her chin.
+
+Put the cigar near her mouth.
+
+Jim’s eyes narrowed.
+
+“What?”
+
+“Nothing.”
+
+“Jim.”
+
+“I think you’re doing an impression of a man.”
+
+“I am a woman trying to smoke a cigar. What else would I be doing?”
+
+“I don’t know, but whatever this is, it’s very community theater.”
+
+Kate glared at him.
+
+Then she put the cigar to her lips and drew.
+
+For two seconds she looked magnificent.
+
+Three, perhaps.
+
+Long enough for Jim to think she might actually pull this off.
+
+Then Kate’s eyes widened.
 
 She coughed.
 
@@ -854,37 +1198,35 @@ Once.
 
 Twice.
 
-Then violently enough that Jim grabbed her drink and shoved it toward her.
-
-Kate waved him away while coughing harder.
+The third cough folded her almost in half.
 
 Jim lost it.
 
-He laughed so hard he nearly slid off the stool.
+He laughed so hard he had to grab the wall.
 
-Kate glared at him through watering eyes.
+Kate waved one hand at him while coughing.
 
-"You—"
+“You—”
 
-She coughed again.
+Another cough.
 
-Jim was useless now.
+Jim was useless.
 
-"Very masculine," he managed.
+“Very masculine,” he managed.
 
 Kate flipped him off.
 
-That made it worse.
+That made him laugh harder.
 
-"Oh, screw you."
+“Oh, screw you.”
 
-"I thought it was screw the world."
+“I thought it was screw the world.”
 
-"You are currently representing the world."
+“You are currently representing the world.”
 
-She finally recovered enough to breathe.
+She finally got enough air to stand upright.
 
-Her eyes were wet. Her immaculate composure had cracked. A strand of that absurdly magnificent hair had fallen across her face.
+Her eyes watered. Her careful composure had cracked. One enormous sweep of hair had fallen forward over her shoulder.
 
 Jim was still laughing.
 
@@ -892,441 +1234,1385 @@ Kate looked at him.
 
 Then at the cigar.
 
-Then she smiled.
+Her eyes narrowed.
 
-"Your turn."
+“Your turn.”
 
 Jim stopped laughing.
 
-"No."
+“No.”
 
-"Oh yes."
+“Oh yes.”
 
-"I've learned from your sacrifice."
+“I learned from your sacrifice.”
 
-"Kindred spirits share experiences."
+“You learned nothing.”
 
-"We have known each other for an hour. You cannot invoke kindred-spirit law."
+“I learned not to do that.”
 
-"I just did."
+Kate held out the cigar.
 
-"That's not a thing."
+“Coward.”
 
-"It is at Blush."
+Jim looked at it.
 
-"Jules!"
+Then at her.
 
-Jules glanced over.
+“Oh, now masculinity is peer pressure?”
 
-Jim pointed at Kate.
+“Apparently.”
 
-"Is kindred-spirit law a thing?"
+“That feels historically accurate.”
 
-Jules looked at the cigar.
+“Take the cigar, Caldwell.”
 
-She looked at Kate's watering eyes.
+He took the cigar.
 
-Then at Jim.
+Kate immediately folded her arms.
 
-"Tonight it is."
+Jim examined it.
 
-Kate slapped the bar in triumph.
+He tried to remember every movie he had ever seen involving a man and a cigar.
 
-Jim stared at Jules in betrayal.
+This produced surprisingly little actionable information.
 
-"You people are terrible."
+Kate watched his face.
 
-Jules moved on.
+“You don’t know either.”
 
-Kate handed him the cigar.
+“Shut up.”
 
-Jim took it.
+Her smile widened.
 
-He examined it.
+“Oh my God.”
 
-"This is disgusting."
+“Kate.”
 
-"You haven't even tried it."
+“You don’t.”
 
-"I watched you."
+“I know enough.”
 
-"Don't be a coward."
+“You just rotated it like you were looking for instructions.”
 
-Jim looked at her.
+“There could be a label.”
 
-Kate's grin was pure provocation.
+“There is no label.”
 
-"Oh, now we're doing masculinity as peer pressure?"
+“Then that is a manufacturing defect.”
 
-"Apparently."
+Kate was laughing now.
 
-"Excellent. Very healthy."
+Jim put the cigar to his mouth.
 
-"Smoke the cigar, Jim."
+He tried to look casual.
 
-He did.
+He tried to look like a man smoking a cigar.
 
-For approximately one second, Jim Caldwell looked like a man in an old photograph trying very hard to project gravitas.
+The thought itself made him adjust his shoulders.
 
-Then he inhaled wrong.
+He lowered his chin.
 
-His entire body rejected the concept.
+He did something with his free hand that felt vaguely authoritative.
 
-He coughed so hard he folded forward.
+Kate stopped laughing.
 
-Kate screamed with laughter.
+Not because Jim looked good.
+
+Because he looked familiar.
+
+Jim drew on the cigar.
+
+Immediately inhaled wrong.
+
+His entire body rejected the proposition.
+
+He doubled over coughing.
+
+Kate screamed.
 
 Not laughed.
 
 Screamed.
 
-Jim tried to tell her to go to hell and could not get enough air to form the sentence.
+She caught his shoulder with one hand while the other clutched her stomach.
 
-Kate had one hand on his back now, which would have been tender if she weren't nearly collapsing against him.
+“Oh my God.”
 
-"Oh my God," she gasped. "Your face."
+Jim tried to answer.
 
-Jim finally managed a breath.
+Nothing happened except another cough.
 
-"I hate you."
+“Your face.”
 
-"No, you don't."
+“I hate you.”
 
-"I deeply reconsider you."
+“No, you don’t.”
 
-"That's not English."
+“I am reconsidering you at a very deep level.”
 
-"Neither is this cigar."
+“That’s not English.”
 
-They passed it back and forth anyway.
+“Neither is this cigar.”
 
-Not because it became good.
+He handed it back.
+
+Kate took it.
+
+They stared at each other.
+
+Then at the cigar.
+
+Then both started laughing again.
+
+It should have ended there.
 
 It did not.
 
-It remained horrendous.
+Failure turned the entire enterprise into a challenge.
 
-Every attempt ended in coughing.
+Kate tried again.
 
-Every cough produced more laughter.
+She attempted what she called a masculine slouch.
 
-Kate tried to show Jim how to hold it and then realized she had no idea how one was supposed to hold a cigar either.
+Jim told her she looked like she was waiting for a bus.
 
-Jim tried an exaggerated gangster pose.
+She straightened.
 
-Kate informed him he looked like somebody's aunt playing a gangster in community theater.
+She lowered her voice.
 
-Jim retaliated by tucking one hand against his chest and delicately holding the cigar away from himself.
-
-"Better?"
-
-Kate stared.
-
-"Disturbingly."
-
-He raised his eyebrows.
-
-"Maybe this is my look."
-
-"Darling, if that's your look, we need to discuss accessories."
-
-Jim nearly choked again, this time without even smoking.
-
-Kate took the cigar from him and attempted a broad-shouldered masculine slouch.
-
-Her hair spilled over one shoulder in a glossy curtain.
-
-Jim looked at her.
-
-Kate lowered her voice.
-
-"Hey."
+“Hey.”
 
 Jim covered his mouth.
 
-"Don't."
+“Don’t.”
 
-"Come here often?"
+Kate leaned one shoulder against the wall.
 
-"Stop."
+“Come here often?”
 
-"You like sports?"
+“Stop.”
 
-"Kate."
+“You like sports?”
 
-"I own a wrench."
+“Kate.”
 
-Jim collapsed against the bar.
+“I own a wrench.”
 
-Kate couldn't hold the pose.
+Jim bent forward laughing.
 
-They were both laughing again.
+Kate lost the voice halfway through her own laughter.
 
-Something had changed.
+Her hair fell into her face.
 
-The gender of the joke had become something they could pick up and put down between them.
+She shoved it back and tried again.
 
-Kate could make herself broad and swaggering for three seconds and then dissolve into a woman with impossible hair wiping tears from her eyes.
+“Okay. Your turn.”
 
-Jim could hold the cigar delicately, exaggerate softness, let his wrist bend, let his expression change, and nothing terrible happened.
+“My turn for what?”
 
-Nobody corrected him.
+“Be a guy.”
 
-Nobody demanded an explanation.
+Jim stared at her.
 
-Kate simply played back.
+“I am a guy.”
 
-More masculine.
+Kate blinked.
 
-More feminine.
+Jim blinked back.
 
-Back again.
+The sentence sat there between them.
 
-Badly.
+Then Kate gestured with the cigar.
 
-Deliberately.
+“Fine. Be guyish.”
 
-Laughing the entire time.
+“What does that mean?”
 
-For Jim, the strange thing wasn't that it felt forbidden.
+“I don’t know. Do something.”
 
-It was that it felt easy.
+“That is not an instruction.”
 
-That frightened him more.
+“Swagger.”
 
-Not enough to stop.
+Jim’s face changed.
 
-Kate eventually surrendered and crushed the cigar out with enormous ceremony.
+“No.”
 
-"There."
+Kate laughed.
 
-Jim coughed once more.
+“Come on.”
 
-"Did we win?"
+“I do not swagger.”
 
-"No."
+“I know.”
 
-"Good."
+He narrowed his eyes.
 
-"We were defeated by tobacco."
+“What is that supposed to mean?”
 
-"Humiliated."
+“Nothing.”
 
-"Destroyed."
+“There it is again.”
 
-Jim lifted his glass.
+Kate held up the cigar.
 
-"To masculinity."
+“Fine. Show me how a man holds this.”
 
-Kate lifted hers.
+Jim looked at it.
 
-"May it recover from what we just did to it."
+“How the hell would I know?”
 
-They clinked glasses.
+Kate opened her mouth.
 
-Jim drank.
+Nothing came out.
 
-Kate did too.
+Jim took the cigar from her.
 
-Then the laughter faded.
+“What?”
 
-Not abruptly.
+She stared at him.
 
-It simply spent itself.
+“What?”
 
-They sat closer than they had before.
+“Nothing.”
 
-At some point during the cigar disaster, one stool of distance had become none. Jim wasn't sure who had moved.
+“Kate.”
 
-Kate's shoulder touched his.
+Her mouth twitched.
 
-Neither corrected it.
+“Show me.”
 
-The club had grown louder around them. Blush was no longer deciding what kind of Friday it wanted to be. It had committed.
+“I just told you I don’t know.”
 
-Kate looked toward the crowd for a while.
+“No, no. I want to see.”
 
-Then she said, "You know what?"
+“See what?”
 
-Jim glanced at her.
+“Just—” She waved a hand. “Do your normal guy thing.”
 
-"That phrase has not gone well for me tonight."
+Jim looked genuinely offended now.
 
-She smiled.
+“My normal guy thing?”
 
-"No cigar this time."
+“Yes.”
 
-"Thank God."
+“What normal guy thing?”
+
+Kate started laughing.
+
+Jim stared at her.
+
+“Oh, this is funny?”
+
+“A little.”
+
+“Why?”
+
+“Because I don’t know what mine is either.”
+
+“That was established fifteen minutes ago.”
+
+“No, I know.”
+
+She was still laughing, but something else had entered it.
+
+Recognition.
 
 Kate looked at him.
 
 Really looked.
 
-The laughter remained in her face, but something quieter had joined it.
+Jim was holding the cigar delicately away from his body because the smoke annoyed him. His wrist had bent without him noticing. His shoulders, which had been squared a moment ago when he tried to look like a man smoking a cigar, had relaxed.
 
-"I think we're kindred spirits."
+He looked comfortable now.
 
-Jim blinked.
+Kate’s laughter softened.
 
-"You were joking about that five minutes ago."
+Jim saw the change.
 
-"I know."
+“What?”
 
-"And now?"
+“Do the shoulders again.”
 
-"Now I'm not."
+“What shoulders?”
 
-He didn't answer.
+“The thing you did before you smoked it.”
 
-Kate turned her glass slowly between her hands.
+“I didn’t do anything.”
 
-"I don't mean we're the same."
+“You absolutely did.”
 
-Jim listened.
+Jim frowned.
 
-"I don't even know what your path is."
+Kate demonstrated.
 
-His body tightened slightly.
+She pulled her shoulders back, stiffened her spine, lowered her chin.
 
-Kate noticed.
+It was exaggerated.
 
-"That's not me asking."
+Barely.
 
-He relaxed again.
+Jim’s face went blank.
 
-"I don't know mine either, half the time," she continued. "I know who I am. Mostly. But that doesn't mean I know where everything goes."
+Kate stopped.
 
-She looked down at her shoes.
+“Oh.”
 
-Then at Jim.
+“What?”
 
-"We're different. Maybe we're on completely different paths. Maybe we end up in completely different places."
+She looked at him.
 
-Jim's expression softened.
+Then at herself.
 
-"But?"
+Then she tried the posture again.
+
+It felt ridiculous.
+
+Not painful.
+
+Not wrong in any profound way.
+
+Just constructed.
+
+Like putting on somebody else’s coat and discovering the sleeves were the wrong length.
+
+She let her shoulders drop.
+
+Jim was watching her now.
+
+“What?”
+
+Kate shook her head.
+
+“No. I just…”
+
+She started laughing again.
+
+Jim’s eyes narrowed.
+
+“Why are you laughing at me?”
+
+“I’m not.”
+
+“You are very clearly laughing.”
+
+“I’m laughing at us.”
+
+“That is not better.”
+
+“It is from here.”
+
+Kate took the cigar from him and tried the broad stance again.
+
+Jim immediately laughed.
+
+“There. That.”
+
+“What?”
+
+“That’s what I mean.”
+
+“You look ridiculous.”
+
+“I know.”
+
+She grinned.
+
+Then pointed the cigar at him.
+
+“So do you.”
+
+Jim’s mouth fell open.
+
+“I do not.”
+
+“Jim.”
+
+“I am literally a man.”
+
+“I know.”
+
+“Then how can I be bad at being one?”
+
+Kate’s grin faded.
+
+Not completely.
+
+Enough.
+
+“I don’t think you’re bad at being a man.”
+
+Jim went still.
+
+Kate looked for the words.
+
+“You’re bad at…”
+
+She gestured between her stance, the cigar, his shoulders, the whole ridiculous exercise.
+
+“This.”
+
+“Smoking?”
+
+“No. Well, yes. Catastrophically.”
+
+“Thank you.”
+
+“You’re welcome.”
+
+She leaned back against the wall.
+
+“I mean the performance.”
+
+Jim said nothing.
+
+Kate looked down at the cigar.
+
+“I thought I could just do something guyish.”
+
+“You did.”
+
+“I nearly coughed up a lung.”
+
+“That can happen to men.”
+
+“Thank you, professor.”
+
+Jim smiled.
+
+Kate did too.
+
+Then she looked at him again.
+
+“I thought I’d know what to do.”
+
+“Why?”
+
+She started to answer.
+
+Stopped.
+
+“Exactly.”
+
+Jim frowned.
+
+Kate lifted the cigar.
+
+“I picked this up and suddenly I was inventing a man from television.”
+
+Jim laughed.
+
+“You own a wrench.”
+
+“I panicked.”
+
+“Sweet cheeks.”
+
+“Do not.”
+
+He grinned.
+
+Kate pointed at his shoulders.
+
+“And you did the same thing.”
+
+“I did not invent a man from television.”
+
+“You absolutely did. You went all…” She stiffened herself again and lowered her voice. “‘I have opinions about interest rates.’”
+
+“I do have opinions about interest rates.”
+
+“That makes it worse.”
+
+Jim laughed.
+
+Kate watched him.
+
+There.
+
+Soft again.
+
+Easy.
+
+Then he caught her watching, and some part of the posture started to return.
+
+Kate’s amusement disappeared.
+
+“Jim.”
+
+“What?”
+
+“Don’t.”
+
+He froze.
+
+“What?”
+
+“That.”
+
+“What am I doing?”
+
+She almost said it.
+
+*You’re putting him back on.*
+
+But that was too much.
+
+Too certain.
+
+Too close to telling him what his own skin meant.
+
+So Kate shook her head.
+
+“Nothing.”
+
+Jim stared.
+
+“That one was actually something.”
+
+“Yeah.”
+
+“Are you going to tell me?”
+
+Kate looked at the cigar.
+
+Then at him.
+
+“Maybe when I know what I mean.”
+
+That answer surprised him.
+
+It surprised her too.
+
+Jim leaned beside her against the wall.
+
+For a while they passed the cigar back and forth.
+
+They did not improve.
+
+This was important.
+
+Kate attempted a second draw and coughed into her elbow.
+
+Jim tried to advise her not to inhale and then immediately demonstrated that he had no idea what he was talking about.
+
+Kate accused him of mansplaining cigars without possessing cigar knowledge.
+
+Jim argued that this might be the first genuinely masculine thing either of them had accomplished.
+
+Kate laughed hard enough to nearly drop the cigar.
+
+At some point she tried the swagger again.
+
+Jim tried it after her.
+
+His was worse.
+
+Kate put one hand against the wall to keep herself upright.
+
+“You walk like you’re trying not to spill soup.”
+
+“What does that even mean?”
+
+“I don’t know, but look at you.”
+
+“I hate you.”
+
+“No, you don’t.”
+
+Jim attempted a broader step.
+
+It became immediately obvious that he was thinking about both feet.
+
+Kate made a strangled sound.
+
+“Oh my God.”
+
+“What?”
+
+“You’re concentrating.”
+
+“So are you!”
+
+“I know!”
+
+That was what broke her.
+
+Kate doubled over laughing.
+
+Jim lasted another two seconds before he joined her.
+
+They stood under the purple neon, passing a terrible cigar between them and failing to perform masculinity with enough conviction to fool each other for three consecutive seconds.
+
+Kate’s stomach hurt.
+
+Her eyes watered.
+
+And underneath the laughter, something was rearranging itself.
+
+She had understood Jim before.
+
+At least she had thought she did.
+
+She knew what it was like to have strangers read a face and make decisions. She knew what it was like to become conscious of posture, clothes, voice, silhouette. She knew the stubborn pleasure of answering somebody else’s assumptions with a choice of her own.
+
+But Kate had answered by running toward something she loved.
+
+The heels had become easy.
+
+Not physically easy—four and a half inches remained four and a half inches—but hers.
+
+The hair was hers.
+
+The makeup was hers.
+
+The deliberate femininity that had once contained a little defiance had become fluent enough that she no longer had to translate it before speaking.
+
+This?
+
+This was not fluent.
+
+This was shoulders and stance and cigar and stupid voice and *I own a wrench*.
+
+This was thinking about where to put her hands.
+
+This was choosing a gesture because she thought it looked right and immediately feeling herself doing it.
+
+This was work.
+
+Kate looked at Jim.
+
+He had stopped trying.
+
+That was the thing.
+
+He stood beside her with one ankle crossed casually in front of the other, the cigar held away from his body, his shoulders loose. His face was still pink from laughing.
+
+He looked nothing like the little performance he had assembled when she told him to be guyish.
+
+Kate felt the realization arrive.
+
+Not a conclusion.
+
+Not an answer.
+
+Just recognition.
+
+“Oh,” she said.
+
+Jim looked over.
+
+“What?”
 
 Kate smiled.
 
-"But what the hell?"
+“Nothing.”
 
-He laughed quietly.
+He groaned.
 
-"What the hell?"
+“You are the worst.”
 
-"I like you."
+“No, this one is good.”
 
-Jim looked down.
+“That does not reassure me.”
 
-Kate nudged his shoulder.
+Kate bumped her shoulder against his.
 
-"No. Don't hide now."
+“You know what I think?”
 
-He looked back at her.
+“Historically, that question has been dangerous.”
 
-"I like you," she repeated. "And I think you understand something about me that most people don't. Maybe because you have your own version of it. Maybe not. We don't have to solve that tonight."
+“I think we’re both terrible at this.”
 
-Jim swallowed.
+Jim looked at the cigar.
 
-Kate's voice went softer.
+“Smoking?”
 
-"But I think we could take some of the journey together."
+“Masculinity.”
 
-The words settled between them.
+His head turned.
 
-No promise.
+Kate immediately held up a hand.
 
-No map.
+“I did not say you’re not a man.”
 
-No demand that either of them become something for the other.
+Jim stayed quiet.
 
-Just an invitation.
+“I’m not telling you what you are.”
 
-Jim looked at her for a long moment.
+“Okay.”
 
-"You really mean that."
+“I mean this.” She gestured at herself. “The swagger. The voice. The cigar. Whatever stupid collection of things we both apparently thought we were supposed to do when somebody said ‘be guyish.’”
 
-"Yeah."
+Jim’s mouth twitched.
 
-"Even after the cigar?"
+“You own a wrench.”
 
-Kate considered.
-
-"That was a significant setback."
-
-He smiled.
-
-"But yes."
-
-Jim's eyes dropped briefly.
-
-Then came back.
-
-"Okay."
-
-Kate's mouth curved.
-
-"Good okay?"
+“Fuck off.”
 
 He laughed.
 
-"Good okay."
+Kate smiled.
 
-They sat there another minute.
+Then she looked at him more carefully.
 
-Maybe two.
+“You’re not much better at it than I am.”
 
-Neither seemed interested in measuring it.
+Jim’s smile faded.
 
-Eventually Kate glanced toward the entrance.
+Not hurt.
 
-"Want to walk?"
+Thinking.
+
+“I’ve had more practice.”
+
+Kate felt something in that sentence.
+
+She kept her voice light.
+
+“Apparently not enough.”
+
+He snorted.
+
+Then looked away.
+
+Kate let the silence happen.
+
+Jim watched someone cross the street farther down the block.
+
+Finally he said, “I don’t think about it.”
+
+Kate waited.
+
+Jim frowned.
+
+“That’s not true.”
+
+Still she waited.
+
+“I don’t think about it as thinking about it.”
+
+Kate understood that sentence perfectly.
+
+Jim looked at his own shoulders.
+
+He rolled them once.
+
+“I know I do that.”
+
+“The shoulders?”
+
+“Sometimes.”
+
+“Why?”
+
+He gave her a look.
+
+Kate nodded.
+
+“Right. Stupid question.”
+
+“No.”
+
+Jim looked toward the purple light reflected faintly in the glass beside them.
+
+“I just know how people read me.”
+
+Kate’s face softened.
+
+“And you answer.”
+
+Jim glanced at her.
+
+The words were hers from earlier.
+
+“Yeah.”
+
+Kate looked down at her shoes.
+
+“I answer too.”
+
+“I know.”
+
+“No.” She smiled faintly. “I mean, I really know now.”
+
+Jim watched her.
+
+Kate lifted the cigar.
+
+“This is exhausting.”
+
+He laughed.
+
+“Yes.”
+
+“I had to think about my feet.”
+
+“Yes.”
+
+“And my shoulders.”
+
+“Yes.”
+
+“And my voice.”
+
+“Yes.”
+
+“I said I own a wrench.”
+
+Jim broke.
+
+Kate laughed with him.
+
+When they recovered, she shook her head.
+
+“I’m serious.”
+
+“I know.”
+
+“I’m good at my answer.”
 
 Jim looked at her.
 
-"Where?"
+Kate touched her hair.
 
-"Outside."
+“I’ve been doing it forever. And I love it. That matters.”
 
-"That's not a destination."
+“Yeah.”
 
-"It's a start."
+“But I forgot what it feels like when the answer isn’t automatic yet.”
 
-He considered the crowd, the noise, the bar, Kate beside him.
+Jim’s expression changed.
 
-Then nodded.
+Kate continued.
 
-"Yeah."
+“And I think I forgot that maybe yours isn’t automatic either.”
 
-They slid off their stools.
+Jim looked down.
 
-Jim automatically checked for his phone and wallet.
+Kate did not fill the silence.
 
-Kate gathered herself with the particular choreography required when a woman possessed more hair than some small mammals possessed body mass.
+She had no idea what the statement meant beyond itself.
+
+She was not going to decide for him.
+
+After a moment Jim said, “Sometimes it is.”
+
+Kate nodded.
+
+“Okay.”
+
+“Sometimes it isn’t.”
+
+“Okay.”
+
+He looked at her.
+
+“That’s all?”
+
+“That’s all.”
+
+Jim smiled.
+
+Kate smiled back.
+
+Then he pointed at the cigar.
+
+“You’re holding it wrong.”
+
+Her eyes widened.
+
+“You have no idea how to hold it.”
+
+“I know.”
+
+“Then how am I holding it wrong?”
+
+“I wanted to see what it felt like to say that confidently.”
+
+Kate stared at him.
+
+Then shoved him.
+
+He laughed so hard he nearly dropped the cigar.
+
+“Asshole.”
+
+“That felt masculine.”
+
+“It did not.”
+
+“It felt a little masculine.”
+
+“It felt managerial.”
+
+“That’s worse.”
+
+They gave the cigar one final attempt.
+
+It punished them both.
+
+Kate coughed.
+
+Jim coughed because Kate handed it to him while he was still laughing.
+
+Then they stood there wheezing under the neon like two people who had lost a fight with a decorative log.
+
+Kate held the cigar away from them.
+
+“I think we have learned enough.”
+
+Jim wiped beneath one eye.
+
+“Did we learn anything?”
+
+“Yes.”
+
+“What?”
+
+Kate looked at the cigar.
+
+“Tobacco hates us.”
+
+“That seems supported by the evidence.”
+
+“And masculinity is harder than it looks.”
+
+Jim glanced at her.
+
+Kate glanced back.
+
+A smile passed between them.
+
+“Speak for yourself,” he said.
+
+“You walked like you were carrying soup.”
+
+“That was one time.”
+
+“It was thirty seconds ago.”
+
+“History is written by the victors.”
+
+“We both lost.”
+
+“Then nobody can contradict me.”
+
+Kate laughed.
+
+She looked at the cigar again.
+
+Then toward the door.
+
+“We should probably stop poisoning ourselves.”
+
+“That is the first responsible thing you’ve said tonight.”
+
+“Don’t get used to it.”
+
+They went back inside.
+
+Jules looked up as they returned.
+
+Her eyes moved from Kate’s watery eyes to Jim’s flushed face.
+
+Then to the cigar.
+
+Kate set it down with solemn dignity.
+
+Jules looked at it.
+
+Kate said, “We have defeated masculinity.”
+
+Jules looked at Jim.
+
+Jim shook his head.
+
+“It was a draw at best.”
+
+Jules took the cigar away.
+
+No ceremony.
+
+No sympathy.
+
+Kate watched it go.
+
+“That feels disrespectful.”
+
+“It tried to kill us.”
+
+“It taught us things.”
+
+“It tasted like a burning chair.”
+
+Kate turned.
+
+“You don’t know what a burning chair tastes like.”
+
+Jim slid back onto his stool.
+
+“I have new information.”
+
+Kate sat beside him.
+
+Closer this time.
+
+Neither of them appeared to notice the missing space between the stools until their shoulders touched.
+
+Neither moved.
+
+The club had become fully Friday while they were outside. Blush no longer felt like a room waiting to become crowded. It was crowded. The bass was heavier, the bar busier, the air warmer.
+
+Jim looked around.
+
+Then at Kate.
+
+Kate was staring at her shoes.
+
+That was new.
+
+“What?”
+
+She looked up.
+
+“Nothing.”
+
+Jim groaned.
+
+“Retire the word.”
+
+Kate smiled.
+
+Then she looked at him.
+
+“I think we’re kindred spirits.”
+
+Jim blinked.
+
+“You invoked kindred-spirit law outside while trying to kill me.”
+
+“That was provisional.”
+
+“Ah.”
+
+“This is official.”
+
+“Do I get documentation?”
+
+“Obviously.”
+
+“Notarized?”
+
+“Don’t push it.”
+
+Jim smiled.
+
+Kate turned slightly toward him.
+
+“I don’t mean we’re the same.”
+
+He listened.
+
+“I don’t know what your path is.”
+
+Something in Jim tightened.
+
+Kate saw it.
+
+“That is not me asking.”
+
+He relaxed.
+
+“And I’m starting to suspect I don’t know every corner of mine either.”
+
+Jim’s eyebrows rose.
+
+Kate looked down at herself.
+
+“I know who I am.”
+
+There was no uncertainty there.
+
+“I know I’m a woman. I know I love being femme. I know I love these shoes even though they are going to become a human-rights violation in about three hours.”
+
+Jim laughed.
+
+“But maybe I’ve been so busy making sure nobody else gets to define me that I forgot I’m allowed to stop arguing sometimes.”
+
+Jim looked at her.
+
+Kate’s voice softened.
+
+“I don’t have to prove anything to you.”
+
+“No.”
+
+“And you don’t have to prove anything to me.”
+
+His expression changed.
+
+Kate let the words sit.
+
+Then she smiled.
+
+“Which is lucky, because apparently neither of us can prove we know how to be a guy.”
+
+Jim groaned.
+
+“There it is.”
+
+“I was getting too sincere.”
+
+“You panicked.”
+
+“I panicked.”
+
+“You panicked into a 1940s dockworker earlier.”
+
+“Sweet cheeks was one mistake.”
+
+Jim stared at her.
+
+Kate froze.
+
+“Oh no.”
+
+He smiled slowly.
+
+“No, no. We’re keeping that forever.”
+
+“Absolutely not.”
+
+“Until death.”
+
+“I hate you.”
+
+“No, you don’t.”
+
+Kate tried not to smile.
+
+Failed.
+
+Jim noticed.
+
+This time he was the one who let her get caught.
+
+Kate shook her head.
+
+“Anyway.”
+
+“Please continue, sweet cheeks.”
+
+“I will leave.”
+
+“No, you won’t.”
+
+Her eyes narrowed.
+
+Jim smiled innocently.
+
+Kate looked at him for another second and laughed.
+
+“Fine.”
+
+She rested her forearms on the bar.
+
+“We’re different. Maybe we’re on completely different paths. Maybe we end up in completely different places.”
+
+Jim’s humor quieted.
+
+“But?”
+
+Kate shrugged.
+
+“But what the hell?”
+
+He laughed softly.
+
+“What the hell.”
+
+“I like you.”
+
+Jim looked down.
+
+Kate nudged his shoulder with hers.
+
+“No.”
+
+He looked back up.
+
+“Don’t hide now.”
+
+“I’m not.”
+
+“You were considering it.”
+
+“Maybe.”
+
+“I like you,” Kate said again. “And I think you understand something about me that most people don’t.”
+
+Jim swallowed.
+
+“I think I’m starting to.”
+
+“Me too.”
+
+That landed differently.
+
+Jim looked at her.
+
+Kate held his gaze.
+
+“We don’t have to solve anything tonight.”
+
+“Good.”
+
+“We don’t have to be headed to the same place.”
+
+“Good.”
+
+“We don’t even have to know where we’re headed.”
+
+“That one I can definitely do.”
+
+Kate smiled.
+
+“But maybe we could take some of the journey together.”
+
+The words settled between them.
+
+No map.
+
+No promise.
+
+No diagnosis.
+
+No demand that Jim become anything for Kate, or Kate become anything for Jim.
+
+Just two people who had met at a bar and, somehow, within the space of a single drink and one catastrophic cigar, had found a place where neither one had to be particularly convincing.
+
+Jim looked at her for a long moment.
+
+“You really mean that.”
+
+“Yeah.”
+
+“Even after the cigar?”
+
+Kate considered.
+
+“That was a significant setback.”
+
+He laughed.
+
+“But yes.”
+
+Jim’s eyes dropped.
+
+Then came back.
+
+“Okay.”
+
+Kate’s mouth curved.
+
+“Good okay?”
+
+“Good okay.”
+
+They stayed there for another minute.
+
+Maybe two.
+
+Neither checked.
+
+Eventually Kate glanced toward the entrance.
+
+“Want to walk?”
+
+Jim looked at her.
+
+“Where?”
+
+“Outside.”
+
+“We were just outside.”
+
+“Yes.”
+
+“That’s not a destination.”
+
+“It’s a start.”
+
+Jim considered the crowd.
+
+The noise.
+
+Kate.
+
+“Yeah.”
+
+They slid from their stools.
+
+Jim checked automatically for his phone and wallet.
+
+Kate gathered her hair with both hands, pulled the extraordinary mass of it free from where it had caught against the back of the stool, and let it fall again.
 
 Jim watched.
 
-She caught him.
+Kate caught him.
 
-"Not a word about federal infrastructure."
+“Not a word about federal infrastructure.”
 
-"I wasn't going to say anything."
+“I wasn’t going to say anything.”
 
-"You were thinking it."
+“You were thinking it.”
 
-"Thought crimes aren't admissible."
+“Thought crimes aren’t admissible.”
 
-"Manager. I know policy."
+“I’m a manager. I know policy.”
 
-"That's not how law works."
+“That is not how law works.”
 
-"Keep moving, Caldwell."
+“Keep moving, Caldwell.”
 
 They made their way toward the door.
 
-Clara was still working the entrance when they stepped outside, though the flow of arrivals had thickened considerably.
+Clara was still there, the stream of arrivals thicker now.
 
-The night air hit Jim's face and felt clean after the cigar.
+She glanced at Kate.
+
+Then Jim.
+
+Then toward the bar.
+
+“No cigar?”
+
+Kate put one hand over her heart.
+
+“Gone.”
+
+Jim nodded gravely.
+
+“We lost a good man tonight.”
+
+Clara looked at them both.
+
+“It was a cigar.”
+
+“You didn’t know him,” Kate said.
+
+Clara opened the door.
+
+“Good night, Kate.”
+
+“That felt dismissive.”
+
+“Keep moving.”
+
+Jim laughed as they stepped outside.
+
+The cooler air hit his face.
 
 He inhaled.
 
@@ -1334,245 +2620,257 @@ Then coughed.
 
 Kate immediately started laughing.
 
-"Oh, shut up."
+“Oh, shut up.”
 
-"I didn't say anything."
+“I didn’t say anything.”
 
-"You didn't have to."
+“You didn’t have to.”
 
 They walked.
 
 Not toward anything in particular.
 
-Just away from the door and the bass and the little cloud of terrible judgment they'd created at the bar.
+Just away from the door, away from the muffled bass, away from the remains of the worst cigar either of them had ever smoked.
 
-For a while they said nothing.
+For a while neither spoke.
 
-Jim found that he liked the silence.
+Jim discovered he liked the silence.
 
-It didn't feel like conversation had failed.
+It did not feel like conversation had failed.
 
-It felt like they had stopped needing to prove it was happening.
+It felt like they had stopped needing to prove one was happening.
 
-Kate walked beside him, close enough that their arms occasionally brushed.
+Kate walked close enough that their arms occasionally brushed.
 
-"I don't usually do this," Jim said.
+“I don’t usually do this,” Jim said.
 
-Kate glanced over.
+Kate glanced at him.
 
-"Smoke cigars badly?"
+“Smoke cigars badly?”
 
-"That too."
+“That too.”
 
-"What, then?"
+“What, then?”
 
 He thought.
 
-"Walk off with someone I just met."
+“Walk off with somebody I just met.”
 
-"Technically you walked out. I merely happen to be going the same direction."
+“Technically you walked out. I merely happen to be traveling in the same direction.”
 
-"Ah."
+“Important distinction.”
 
-"Important distinction."
-
-"Of course."
+“Very.”
 
 Jim smiled.
 
-Then he added, "I don't usually talk like this either."
+Then said, “I don’t usually talk like this either.”
 
-Kate's expression softened.
+Kate’s expression softened.
 
-"Like what?"
+“Like what?”
 
-"Without editing everything before I say it."
+“Without editing everything before I say it.”
 
-She looked ahead again.
+“How’s that going?”
 
-"How's that going?"
+“Terrifying.”
 
-"Terrifying."
-
-"Good."
+“Good.”
 
 He laughed.
 
-"You really are a manager."
+“You really are a manager.”
 
-"Occupational damage."
+“Occupational damage.”
 
-A few more steps.
+They walked a few more steps.
 
-Then Jim stopped.
+Jim stopped.
 
-Kate took another pace before noticing and turned back.
+Kate took one more before she noticed.
 
-"What?"
+She turned.
 
-Jim's face had gone grave.
+“What?”
 
-"Oh no."
+Jim’s expression had become grave.
 
-"What?"
+“Oh no.”
 
-"The cigar."
+“What?”
+
+“The cigar.”
 
 Kate stared at him.
 
-"We left it."
+“We left it.”
 
 For one beat, neither spoke.
 
 Then Kate put a hand over her heart.
 
-"Oh no."
+“Oh no.”
 
-Jim nodded solemnly.
+“Our cigar.”
 
-"Our cigar."
+“Alone.”
 
-"Alone."
+“Abandoned.”
 
-"Abandoned."
+“Confused.”
 
-"Confused."
+Jim’s mouth twitched.
 
-Jim's mouth twitched.
+Kate looked back toward Blush as though contemplating a rescue.
 
-Kate looked back toward Blush as though contemplating a rescue mission.
-
-"We didn't even give it a name."
+“We didn’t even give it a name.”
 
 Jim broke.
 
-He laughed, bending slightly at the waist.
+He bent slightly at the waist laughing.
 
-"It was trying to kill us."
+“It was trying to kill us.”
 
-Kate nodded with great dignity.
+“A noble sacrifice.”
 
-"A noble sacrifice."
+“It tasted like a burning chair.”
 
-"It tasted like a burning chair."
+“You still don’t know what a burning chair tastes like.”
 
-"You don't know what a burning chair tastes like."
-
-"I have new information."
+“I have new information.”
 
 Kate laughed.
 
 Jim straightened.
 
-"We should go back."
+“We should go back.”
 
-Kate's eyes widened.
+Kate’s eyes widened.
 
-"For the cigar?"
+“For the cigar?”
 
-"No! God, no."
+“No. God, no.”
 
-"Then why?"
+“Then why?”
 
-"I don't know. Closure?"
+“I don’t know. Closure?”
 
 Kate considered.
 
-"No."
+“No.”
 
-"No?"
+“No?”
 
-"We leave it."
+“We leave it.”
 
 Jim nodded slowly.
 
-"Like a monument."
+“Like a monument.”
 
-"To what?"
+“To what?”
 
-"Poor judgment."
+“Poor judgment.”
 
-"Gender."
+“Gender.”
 
-"Tobacco."
+“Tobacco.”
 
-"Friday."
+“Friday.”
 
-"Meeting strangers."
+“Meeting strangers.”
 
 Kate smiled.
 
-"Meeting one particular stranger."
+“Meeting one particular stranger.”
 
 Jim looked at her.
 
-The joke softened but didn't disappear.
+The joke softened.
 
-"Yeah," he said.
+It did not disappear.
 
-"That too."
+“Yeah,” he said.
 
-Kate stepped closer.
+“That too.”
 
-Not enough to turn the moment into something it wasn't.
+Kate stepped a little closer.
+
+Not enough to turn the moment into something it was not.
 
 Enough that Jim noticed.
 
-"Still glad you came in?"
+“Still glad you came in?”
 
-He looked back toward Blush.
+He looked back.
 
 Purple neon burned above the entrance.
 
-Clara was checking someone else's ID now.
+Clara was checking somebody else’s ID.
 
-Somewhere inside, Jules was probably disposing of the remains of their brief and disastrous experiment in masculinity.
+Inside, Jules was probably disposing of their cigar with considerably less reverence than its historical significance deserved.
 
-Jim thought about standing outside less than two hours earlier, counting eleven seconds and preparing himself for the familiar work of being seen incorrectly.
+Jim thought about standing outside earlier that night.
 
-Then he looked at Kate.
+Eleven seconds.
 
-Her impossible hair.
+He had counted them.
 
-Her excellent shoes.
+He had been preparing himself for the familiar work of being seen incorrectly.
 
-Her strong face.
+Now he looked at Kate.
 
-Her ridiculous smile.
+The impossible hair.
 
-"Yeah," he said.
+The excellent shoes.
 
-This time there was nothing hesitant in it.
+The strong face.
 
-"I'm really glad I came in."
+The woman who had built a whole fluent language out of refusing to let the world have the final word.
+
+The woman who, for ten spectacularly incompetent minutes, had put that language down, tried another one, failed horribly, and laughed.
+
+The woman who had looked at his own clumsy performance and—somehow—had not made him feel exposed.
+
+Jim realized he wanted to know what else happened when he stopped trying so hard to get the answer right.
+
+He did not know what that meant.
+
+For once, he did not immediately correct the thought.
+
+“Yeah,” he said.
+
+There was nothing hesitant in it.
+
+“I’m really glad I came in.”
 
 Kate smiled.
 
-"Good."
+“Good.”
 
 They started walking again.
 
-After three steps Jim glanced at her.
+After three steps, Jim glanced at her.
 
-"You called me sweet cheeks."
+“Sweet cheeks.”
 
 Kate groaned.
 
-"No."
+“No.”
 
-"You did."
+“You said it.”
 
-"That was the cigar speaking."
+“That was the cigar speaking.”
 
-"You hadn't smoked it yet."
+“You hadn’t smoked it yet.”
 
-"The cigar has powers you don't understand."
+“The cigar had powers you don’t understand.”
 
-"I will remember it forever."
+“I will remember it forever.”
 
-"I will deny it under oath."
+“I will deny it under oath.”
 
-"You suggested notarization earlier. I feel we can arrange something."
+“You offered notarization earlier. I feel we can arrange something.”
 
 Kate shoved his shoulder.
 
