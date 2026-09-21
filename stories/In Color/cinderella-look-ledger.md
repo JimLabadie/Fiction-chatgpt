@@ -1,6 +1,6 @@
 # Cinderella — Twinsie Museum-Couture Look Ledger
 
-Status: ACTIVE DEVELOPMENT / MAIN LOOK LOCKED; ENTRANCE LAYER REMAINS OPEN
+Status: COMPLETE / FULL LOOK LOCKED
 Date established: 2026-09-20
 
 ## Governing intent
@@ -66,11 +66,12 @@ These numbers are Cinderella's fictional agreed-value insurance ledger: **best-g
 | Schiaparelli/Hermès claw gloves | $0.100M | $0.100M | $0.200M |
 | Charles James Four-Leaf Clover gown | $1.500M | $1.500M | $3.000M |
 | Cartier c.1930 diamond evening bag | $0.250M | $0.250M | $0.500M |
-| **ESTIMATED LOCKED LOOK TOTAL** | **$53.165M** | **$53.165M** | **$106.330M** |
+| Balenciaga American Beauty red velvet evening coat | $0.500M | $0.500M | $1.000M |
+| **ESTIMATED LOCKED LOOK TOTAL** | **$53.665M** | **$53.665M** | **$107.330M** |
 
 Lunessa lingerie, stockings, baseline salon work and minor foundation costs remain locked but are excluded from the rounded museum-insurance total because they are immaterial beside the major objects.
 
-**Current ridiculous number: approximately $106.33 MILLION for Emily + Kate before the entrance layer.**
+**Current ridiculous number: approximately $107.33 MILLION for Emily + Kate, including the locked entrance layer.**
 
 ## Explicitly superseded / returned to museum case
 - Generic Cartier Belle Époque diamond tiara — superseded by Fabergé/Leuchtenberg.
@@ -91,18 +92,19 @@ Lunessa lingerie, stockings, baseline salon work and minor foundation costs rema
 - Additional conventional brooches: withheld to preserve the Lalique corsage ornament.
 - Contemporary novelty/crystal minaudières and Hermès bags: rejected for the primary look in favor of the Cartier Art Deco evening bag.
 
-## OPEN — final reveal mechanic only
-- **Entrance layer:** museum-grade cape, opera coat, evening cloak, or equivalent removable outer layer.
-- Purpose: conceal Clover Leaf for the entrance and create a deliberate reveal.
-- This is the only unresolved exterior category. It must earn its place without crushing James's skirt architecture, damaging the jewelry, or becoming more visually important than the reveal beneath it.
+## LOCKED — entrance / reveal layer
+- **Cristóbal Balenciaga American Beauty red velvet evening coat, Fall/Winter 1950–51 ×2 under Twinsie Law.**
+- Saturated red velvet, immense sculptural sleeves and courtly volume provide the missing color story while concealing the monochrome Clover Leaf gowns for the entrance.
+- Reveal mechanic: Emily and Kate arrive in matching red Balenciaga; attendants remove the coats to expose the black/ivory/white Charles James geometry and full jewelry composition beneath.
+- Cinderella fantasy agreed-value placeholder: **$500K each / $1.0M twinsie subtotal**, explicitly speculative for fictional wearable museum duplicates.
 
 ## Valuation discipline
 Published auction results and retail prices are anchors. Museum-held or unique pieces cannot be given honest current market prices. Cinderella nevertheless maintains a fictional **agreed-value insurance ledger** because Emily explicitly wants the ridiculous number. Such values must always be labeled speculative rather than presented as professional appraisals.
 
 ## Current visual state
-Emily and Kate match from the foundation outward: baseline hair/makeup, Lunessa lingerie, seamed stockings, Moon Star Shoes, Fabergé tiaras, Winston diamond Cluster earrings, VCA diamond Zip necklaces, Lalique Dragonfly-Woman corsage ornaments, David Webb Diamond Zebra bracelets, Buccellati Lace cuffs, Cartier 28.3ct-reference rings over Schiaparelli/Hermès claw gloves, Charles James Four-Leaf Clover gowns, and Cartier c.1930 diamond evening bags.
+Emily and Kate match from the foundation outward: baseline hair/makeup, Lunessa lingerie, seamed stockings, Moon Star Shoes, Fabergé tiaras, Winston diamond Cluster earrings, VCA diamond Zip necklaces, Lalique Dragonfly-Woman corsage ornaments, David Webb Diamond Zebra bracelets, Buccellati Lace cuffs, Cartier 28.3ct-reference rings over Schiaparelli/Hermès claw gloves, Charles James Four-Leaf Clover gowns, Cartier c.1930 diamond evening bags, and Balenciaga American Beauty red velvet evening coats.
 
-Only the entrance/reveal layer remains unresolved.
+The full Cinderella look is locked, including the entrance/reveal layer.
 
 ## Running tone / record
 The project is knowingly extravagant and comic. The shorthand is **restrained maximalism**. Restraint means rejecting another priceless object when it would make the composition worse, not because it costs too much.
