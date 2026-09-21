@@ -38,7 +38,7 @@ Still open: Kate's age, exact management field/employer, home neighborhood/city 
 
 ## Opening scene seed
 
-The opening scene begins at **Blush**. Jim arrives as plain old Jim. Kate is there as a regular. Kate sees him and, through behavior and interaction rather than supernatural certainty, notices the woman Emily Caldwell hiding there. The desired register is fun and flirty with genuine tenderness underneath.
+The opening scene begins at **Blush at 8:00 PM on a Friday night**. Jim arrives as plain old Jim. Kate is there as a regular. Kate sees him and, through behavior and interaction rather than supernatural certainty, notices the woman Emily Caldwell hiding there. The desired register is fun and flirty with genuine tenderness underneath.
 
 Kate is not working the bar and must not be drafted as Blush staff. Canonical Blush staffing and establishment detail must be resolved separately from St. Claire authority before prose.
 
