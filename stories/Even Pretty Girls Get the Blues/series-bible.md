@@ -24,14 +24,17 @@ The story is intended to be light, warm, funny, flirtatious, sapphic, and emotio
 
 Kate is a new character created for this story.
 
+- Her full name is **Kate Rivera**.
+- She is Central American.
 - She is a strong woman and a manager.
 - Her presentation is femme in a polished, corporate way.
+- She has extraordinarily long, thick, Rapunzel-like hair: a conspicuous feminine signature rather than a subtle background feature.
 - She is a regular at Blush, not an employee there.
 - She is not a resident of St. Claire; she comes into the district and Blush from outside.
 - Beneath the capable professional surface, she is lonely and a little tired of the usual dating/social routine.
 - Her attraction to Jim/Emily should grow from finding something genuinely different and interesting rather than from treating Jim as a project.
 
-Still open: Kate's surname, age, exact management field/employer, home neighborhood/city context, detailed appearance, and prior relationship history.
+Still open: Kate's age, exact management field/employer, home neighborhood/city context, further appearance details, and prior relationship history.
 
 ## Opening scene seed
 
@@ -41,4 +44,4 @@ Kate is not working the bar and must not be drafted as Blush staff. Canonical Bl
 
 ## Open development
 
-Kate's surname and other open character details must be established before manuscript use where required by project governance. Her relationship trajectory with Jim/Emily remains developmental rather than predetermined beyond the opening attraction/recognition premise.
+Kate Rivera's remaining open character details should be established as they become materially necessary under project governance. Her relationship trajectory with Jim/Emily remains developmental rather than predetermined beyond the opening attraction/recognition premise.
