@@ -35,18 +35,27 @@ These seven are persistent reusable St. Claire characters, not story-local inven
 
 ## Staffing audit
 
-The recovered named roster is **not sufficient by itself** to operate a 26-seat, reservations-based, high-touch full-service restaurant. It covers leadership, two core cooks, wine, reservations, and two primary dining-room service roles, but omits ordinary operational work that still has to happen: dishwashing, prep/utility work, bussing/running/resetting, and coverage/relief.
+**Current status: FAILED / incomplete infrastructure.**
 
-Amour Noir therefore canonically uses ordinary operational staffing slots in addition to the seven named recurring people:
-- **Kitchen:** Head Chef + Sous Chef, with prep/utility and dishwasher coverage appropriate to service volume.
-- **Dining room:** Headwaiter + server, with busser/runner/reset support appropriate to the booked room.
-- **Wine:** Sommelier coverage during service as reservations and wine service require.
-- **Front desk:** Reservations Director/host function, with owner support as appropriate.
-- **Relief/coverage:** ordinary additional service or kitchen coverage when bookings, days off, illness, or workload require it.
+The seven promoted named people do **not** constitute adequate infrastructure staffing for a 26-seat, reservations-based, high-touch full-service restaurant. The recovered St. Claire staffing rule explicitly forbids “fixing” a failed restaurant by leaving missing work as unnamed operational slots: when a real staffing requirement is missing, the missing role must be filled by a real, complete St. Claire character.
 
-These operational slots are deliberately unnamed until a story or framework need requires a persistent person. They are not staffing gaps and do not imply that every named employee works every service.
+Current named coverage:
+- Owner/floor leadership — Dominique “Dom” Cruz
+- Head Chef — Renata Alves
+- Sous Chef — Colette Fournier
+- Sommelier — Iris Thorne
+- Headwaiter — Simone Laurent
+- Server — Pilar Zamora
+- Reservations/front table — Selene Dupond
 
-For a scene requiring a specific waitress/server beyond Pilar, either use Pilar when schedule and continuity support it or deliberately establish a new persistent staff character rather than silently generating one.
+Confirmed infrastructure gaps:
+- **Dishwashing/utility coverage:** missing named person.
+- **Bussing/running/reset coverage:** missing named person.
+- **Server coverage:** one server plus the headwaiter is marginal for a 26-seat high-touch room under the recovered 1-per-12–16-seat fine-dining guideline and provides poor resilience for days off/illness. Additional named dining-room coverage is required.
+- **Kitchen resilience/prep coverage:** Head Chef + Sous Chef can cover core cook headcount at this scale, but a named utility/prep/dish function is required so those chefs are not silently doing every omitted BOH task.
+- **Relief/schedule resilience:** must be represented by real people rather than fictional “coverage” slots when the infrastructure is completed.
+
+Until those people are built and canonized, Amour Noir is a canonical establishment with an explicitly unresolved staffing defect. Do not claim it is fully staffed or scene-ready.
 
 ## Drafting use
 
