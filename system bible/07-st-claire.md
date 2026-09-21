@@ -96,3 +96,9 @@ This snapshot formerly carried a `Required recovery not represented in this snap
 ### Variants and sources
 
 This legacy snapshot previously treated `St Claire Master Lore Compendium v3.md` as controlling where clear. Preserve older copies and developed-skill material for provenance and recovery. They do not control operating canon; only audited material deliberately promoted into the maintained System Bible may do so.
+
+
+## Maintained establishment records
+
+- [Blush](07-st-claire/blush.md) — reusable Greenleaf Core nightclub; maintained venue/staffing authority.
+
