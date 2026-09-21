@@ -20,10 +20,25 @@ The story is intended to be light, warm, funny, flirtatious, sapphic, and emotio
 - The emotional goal is integration and wholeness rather than treating Jim and Emily as competing people.
 - This story is separate from **The Neon Sign**, **A Life in Plain Sight**, and the separate Jim/Claire story.
 
+## Kate — established development
+
+Kate is a new character created for this story.
+
+- She is a strong woman and a manager.
+- Her presentation is femme in a polished, corporate way.
+- She is a regular at Blush, not an employee there.
+- She is not a resident of St. Claire; she comes into the district and Blush from outside.
+- Beneath the capable professional surface, she is lonely and a little tired of the usual dating/social routine.
+- Her attraction to Jim/Emily should grow from finding something genuinely different and interesting rather than from treating Jim as a project.
+
+Still open: Kate's surname, age, exact management field/employer, home neighborhood/city context, detailed appearance, and prior relationship history.
+
 ## Opening scene seed
 
-The opening scene begins at **Blush**. Jim arrives as plain old Jim. Kate sees him and, through behavior and interaction rather than supernatural certainty, notices the woman Emily Caldwell hiding there. The desired register is fun and flirty with genuine tenderness underneath.
+The opening scene begins at **Blush**. Jim arrives as plain old Jim. Kate is there as a regular. Kate sees him and, through behavior and interaction rather than supernatural certainty, notices the woman Emily Caldwell hiding there. The desired register is fun and flirty with genuine tenderness underneath.
+
+Kate is not working the bar and must not be drafted as Blush staff. Canonical Blush staffing and establishment detail must be resolved separately from St. Claire authority before prose.
 
 ## Open development
 
-Kate's canonical full name, role at Blush, physical presentation, history, and relationship trajectory with Jim/Emily are not yet established and must not be invented as canon without development.
+Kate's surname and other open character details must be established before manuscript use where required by project governance. Her relationship trajectory with Jim/Emily remains developmental rather than predetermined beyond the opening attraction/recognition premise.
