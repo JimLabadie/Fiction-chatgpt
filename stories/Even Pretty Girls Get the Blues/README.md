@@ -29,3 +29,7 @@ Every approved chapter should also receive:
 
 ## Approval register
 - Chapter 1 — **Friday at Eight** — APPROVED. Approved prose: `chapters/approved/001-friday-at-eight.md`.
+
+
+## Approved Chapter Three
+- `chapters/approved/003-worth-the-risk.md` — **Worth the Risk** — approved by Jim; exact candidate promoted verbatim.
