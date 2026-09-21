@@ -30,3 +30,13 @@ The active conversation has developed a likely continuation involving mutual rea
 
 ## Resume rule
 Continue organically from the approved ending. Do not force the developed beats to occur if the live scene naturally develops differently, and do not predetermine Jim/Emily's identity timing or the final relationship outcome.
+
+
+## Approved Chapter Three end state
+- **Worth the Risk** is approved.
+- Still Friday night. Jim and Kate leave the community medical-fundraiser thrift pop-up and continue together to find dinner, while emphatically insisting they are not dating.
+- Jim deliberately turns the night into playful lesbian-stereotype competition and proves unexpectedly good at the thrift challenge; Kate is mock-offended and increasingly attracted to his joyful absurdity.
+- Kate buys the dress Jim chose for her. Jim buys the flannel, carabiner, and flamingo lamp; Kate buys him the boots.
+- Kate privately notices Jim's brief, unguarded attraction to a gorgeous pair of heels and thinks, *there she is again*, without announcing, diagnosing, confronting, or defining him.
+- Jim's capacity to manufacture joy from loneliness is now visible to Kate as something she receives from him, not merely something she analyzes.
+- Their flirtation has become openly date-shaped while both continue the running insistence that they are not dating.
