@@ -45,9 +45,9 @@ Emily and Kate build the look from the foundation outward. The aesthetic is **re
 - Cinderella fantasy agreed-value placeholder: **$1.5M each / $3.0M twinsie subtotal**, explicitly speculative for fictional duplicated wearable versions of a museum-level James masterwork.
 
 ## LOCKED — evening bag
-- **Cartier c.1930 Art Deco black-satin evening bag with detachable pavé- and baguette-cut diamond platinum Cartier clip ×2 under Twinsie Law.**
-- The black satin echoes Clover Leaf's black velvet; platinum and geometric diamonds answer the Cartier ring and Winston earrings without competing with Lalique.
-- The detachable Cartier clip is a feature, not an excuse to add another separate jewel.
+- **Cartier c.1930 Art Deco diamond-and-black-silk evening bag ×2 under Twinsie Law.**
+- Exact visual reference is the newly selected Cartier bag: black silk body with a geometric diamond-set precious-metal frame/clasp; this supersedes the earlier later-bag-with-detachable-Cartier-clip reference.
+- The black silk echoes Clover Leaf's black velvet; the restrained geometric diamond frame answers the Cartier ring and Winston earrings without competing with Lalique.
 - Cinderella fantasy agreed-value estimate: **$250K each / $500K twinsie subtotal**, speculative pending closer comps.
 
 ## PRICELESS / RIDICULOUS NUMBER LEDGER
@@ -90,7 +90,8 @@ Lunessa lingerie, stockings, baseline salon work and minor foundation costs rema
 - Additional body jewelry: no current candidate improves the composition.
 - Additional rings: withheld to preserve the Cartier ring's impact.
 - Additional conventional brooches: withheld to preserve the Lalique corsage ornament.
-- Contemporary novelty/crystal minaudières and Hermès bags: rejected for the primary look in favor of the Cartier Art Deco evening bag.
+- Contemporary novelty/crystal minaudières and Hermès bags: rejected for the primary look in favor of the Cartier Art Deco diamond-and-black-silk evening bag.
+- Earlier Cartier c.1930 black-satin/later-bag reference with detachable Cartier diamond clip: superseded by the newly selected integral Cartier Art Deco diamond-and-black-silk evening bag.
 
 ## LOCKED — entrance / reveal layer
 - **Cristóbal Balenciaga American Beauty red velvet evening coat, Fall/Winter 1950–51 ×2 under Twinsie Law.**
@@ -102,7 +103,7 @@ Lunessa lingerie, stockings, baseline salon work and minor foundation costs rema
 Published auction results and retail prices are anchors. Museum-held or unique pieces cannot be given honest current market prices. Cinderella nevertheless maintains a fictional **agreed-value insurance ledger** because Emily explicitly wants the ridiculous number. Such values must always be labeled speculative rather than presented as professional appraisals.
 
 ## Current visual state
-Emily and Kate match from the foundation outward: baseline hair/makeup, Lunessa lingerie, seamed stockings, Moon Star Shoes, Fabergé tiaras, Winston diamond Cluster earrings, VCA diamond Zip necklaces, Lalique Dragonfly-Woman corsage ornaments, David Webb Diamond Zebra bracelets, Buccellati Lace cuffs, Cartier 28.3ct-reference rings over Schiaparelli/Hermès claw gloves, Charles James Four-Leaf Clover gowns, Cartier c.1930 diamond evening bags, and Balenciaga American Beauty red velvet evening coats.
+Emily and Kate match from the foundation outward: baseline hair/makeup, Lunessa lingerie, seamed stockings, Moon Star Shoes, Fabergé tiaras, Winston diamond Cluster earrings, VCA diamond Zip necklaces, Lalique Dragonfly-Woman corsage ornaments, David Webb Diamond Zebra bracelets, Buccellati Lace cuffs, Cartier 28.3ct-reference rings over Schiaparelli/Hermès claw gloves, Charles James Four-Leaf Clover gowns, Cartier c.1930 Art Deco diamond-and-black-silk evening bags, and Balenciaga American Beauty red velvet evening coats.
 
 The full Cinderella look is locked, including the entrance/reveal layer.
 
