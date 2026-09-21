@@ -176,3 +176,15 @@ Kate's reaction should be close in spirit to: **God damn it, I did not just see 
 The beat also complicates Jim's belief that he is “conquering being a guy.” In the futch social context he feels safer, so behavior he would previously have monitored as too soft or too emotionally exposed can emerge without correction. Kate can notice that Jim does something he himself might later classify as profoundly un-guy-like **without noticing that he did it**. That unconsciousness matters more than the gender stereotype itself.
 
 Place the phone-number/“medical emergency” exchange after this beat or where it can benefit from its emotional residue. Kate has just watched Jim make a stranger's night better and is therefore even more irritated by how badly she wants a way to reach him again. Her abrupt **shut up and give me your number** can partly be the comic defensive reaction to realizing she is in considerably more trouble than she was before dinner.
+
+
+### Future secondhand-store not-date: discover a shared traditionally feminine passion
+During the later secondhand-store not-date, Jim and Kate should discover a **shared taste/passion in something Jim genuinely loves but has never understood as traditionally feminine-coded**. This should not be inserted merely as another clue or gender test. Jim already enjoys it and has real opinions, knowledge, enthusiasm, or aesthetic instincts around it; what changes is the context. Kate recognizes the interest as part of a traditionally feminine cultural/aesthetic vocabulary that Jim has never categorized that way.
+
+Kate loves the same thing. The discovery therefore creates connection before it creates self-consciousness: for a while they simply light up together, compare tastes, argue details, notice quality, tell stories, or become mutually overexcited. Jim gets to experience a feminine-coded interest first as **shared pleasure with Kate**, not as evidence against his masculinity.
+
+The reveal of its conventional feminine coding should be light and organic, ideally arriving only after Jim has already exposed how passionate he is. Kate may be delighted by the mismatch between Jim's “I am conquering being a guy” narrative and the effortless enthusiasm he has just displayed, but she must not weaponize it or turn it into diagnosis. Jim can be genuinely surprised—possibly skeptical or comically betrayed by the information—without being shamed.
+
+This shared passion should become relationship material beyond the single scene: something they can notice for each other, text about, hunt for, debate, or eventually give each other. It should reveal compatibility, not merely advance the gender arc.
+
+**Exact shared interest remains intentionally unresolved until the scene is developed.** Choose it from something that can plausibly appear in a secondhand store, support specific taste and sustained conversation, and feel authentically enjoyable to both Jim and Kate. Do not settle the object/category merely to complete the outline; the discovery should be strong enough to carry actual scene play.
