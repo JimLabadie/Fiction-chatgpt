@@ -2,7 +2,7 @@
 
 Status: ACTIVE DEVELOPMENT
 
-## Emily — surname not yet established
+## Emily Alvarez
 Story namespace: In Color.
 Earlier name/presentation: Jim.
 Relationship: Claire's romantic partner; by the current story state Emily joyfully identifies herself as Claire's girlfriend.
@@ -26,12 +26,12 @@ Exact current garment, jewelry, cosmetic product, and accessory specifications b
 
 ### Identity
 Chosen current name: Emily.
-Surname: **Not yet established.**
+Surname: **Alvarez**
 Final gender label: **Not yet established.**
 Pronoun policy beyond the current narration's use of she/her for Emily: **Not yet separately codified.**
 Long-term transition choices: **Not yet established.**
 
-## Claire — surname not yet established
+## Claire Dupont
 Story namespace: In Color.
 Relationship: Emily's girlfriend.
 
@@ -45,7 +45,7 @@ Relationship: Emily's girlfriend.
 - Uses affectionate teasing including “princess,” “my girl,” and jokes about Emily becoming high-maintenance.
 - Makes clear Emily does not need to become beautiful enough to deserve her; Claire already chose and loved her.
 
-Surname: **Not yet established.**
+Surname: **Alvarez**
 
 ## Additional recurring characters
 Not yet established.
