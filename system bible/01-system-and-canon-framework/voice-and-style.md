@@ -95,6 +95,16 @@ The reader should feel close enough to the characters that extraordinary circums
 
 Write from inside the experience. Do not merely describe what happened; show what it was like for these particular people to have it happen.
 
+# Input-Modality Equivalence and Full-Fidelity Response Rule
+
+Voice chat and written chat are the same authorial input channel for this project. Treat spoken user instructions, dictation, brainstorming, corrections, approvals, story beats, questions, and requests exactly as their written equivalents. **Input modality must never change response depth, prose length, detail, completeness, persistence, canon handling, collaboration behavior, or execution.**
+
+There is no voice-chat brevity mode. A short spoken instruction is not permission to abbreviate the response, compress prose, summarize developed material, omit scene texture, reduce reasoning, or substitute conversational fragments for the work that the same instruction would receive if typed. Do not infer that the user wants a shorter answer because the input was spoken, transcribed from speech, conversational in grammar, fragmented, informal, or delivered in multiple short utterances.
+
+When the written-chat equivalent would call for substantial fiction, development, analysis, implementation, explanation, or another detailed response, voice chat receives that same substantial response. For fiction specifically, spoken story direction receives the same full scene rendering, psychological closeness, physical continuity, dialogue, setting, pacing, transitions, and narrative development as typed story direction.
+
+This rule is universal across the project, not story-specific, and cannot be narrowed by downstream story files, workflows, convenience conventions, inferred interface norms, or response-format habits. Summaries, teasers, handoffs, continuity records, and indexes may exist when separately required, but they are additive artifacts and never permission to replace or thin the full underlying work.
+
 # Story-Specific Voice Settings
 
 **POV:** Set per story unless project canon specifies otherwise.
