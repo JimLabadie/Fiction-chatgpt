@@ -33,3 +33,14 @@ Location: Blush, Greenleaf Core, St. Claire.
 ## Next canonical moment
 Begins immediately after Chapter One unless Jim establishes a time jump.
 \n\n## Approved Chapter Two — Kindred Spirits\n- Same Friday night, continuing directly from Chapter One.\n- Jim and Kate confirm that their mutual interest is genuine.\n- Kate explains her femme presentation as both authentic pleasure and a deliberate answer to being read by others.\n- Jim admits curiosity about heels without resolving what that curiosity means.\n- Kate obtains a cigar and takes Jim outside; both are spectacularly bad at the deliberately guyish performance and smoking it.\n- Kate recognizes that conventional masculinity feels constructed and effortful for both of them; she does not use that recognition to dictate Jim's identity.\n- Kate realizes her own femme fluency can be something she loves without needing to function constantly as an answer to the world.\n- They call themselves kindred spirits and agree they can take some of the journey together without needing the same path or destination.\n- They return briefly inside, abandon the cigar, then leave Blush together for an aimless walk.\n- End state: outside Blush, walking together; mutual attraction, trust, and playful intimacy have deepened.\n
+
+## Approved Chapter Three — Worth the Risk
+- Same Friday night, directly after Chapter Two's walk from Blush.
+- Jim asks Kate whether she considers herself a lesbian; Kate says yes.
+- Jim proposes that they choose a lesbian stereotype and deliberately own it; Kate warns that he may accidentally become a lesbian, and Jim answers, “Worth the risk.”
+- They encounter a temporary community thrift pop-up fundraiser helping a community member with medical-related expenses; the pop-up is a one-night story event, not a persistent St. Claire establishment.
+- Jim and Kate turn thrifting into a competitive, flirt-heavy stereotype challenge while repeatedly insisting the outing is not a date.
+- Jim finds Kate a dress she genuinely likes and buys; Kate builds Jim a flannel/boots/carabiner stereotype look and becomes mock-offended that he is unexpectedly good at it.
+- Kate privately sees Jim become briefly unguarded over a gorgeous pair of heels, thinks *there she is again*, and deliberately does not turn the observation into an identity declaration or conversation.
+- Jim buys the flamingo lamp; Kate carries it despite hating it.
+- End state: they leave the pop-up together and go looking for dinner, still insisting they are not dating.
