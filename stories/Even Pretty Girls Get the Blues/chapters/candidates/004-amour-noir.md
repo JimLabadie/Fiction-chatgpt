@@ -160,7 +160,7 @@ Kate looked around as though seeing it for the first time.
 
 A woman at the front table looked up.
 
-She had long, wavy auburn hair and the composed, unhurried air of someone who could probably end an argument simply by waiting for everybody else to become embarrassed. Her silk dress made Jim suddenly aware that he was standing in a romantic dinner club with a carabiner clipped to his belt and a pink flamingo lamp peering over Kate’s arm.
+She was a white woman in her early forties, average height, with long, wavy auburn hair and the composed, unhurried air of someone who could probably end an argument simply by waiting for everybody else to become embarrassed. Her silk dress made Jim suddenly aware that he was standing in a romantic dinner club with a carabiner clipped to his belt and a pink flamingo lamp peering over Kate’s arm.
 
 “Good evening,” she said.
 
@@ -396,7 +396,7 @@ Not badly.
 
 Almost the opposite.
 
-She was poised, dark hair secured in a low chignon, her fitted black dress clean and deliberate, her pace unhurried even with a full Friday room moving around her. She looked like someone who knew exactly how long a table needed before interruption.
+She was a Colombian Latina in her mid-thirties, average height, poised, dark hair secured in a low chignon, her fitted black dress clean and deliberate, her pace unhurried even with a full Friday room moving around her. She looked like someone who knew exactly how long a table needed before interruption.
 
 But when she reached them, the smile arrived a fraction after the rest of her.
 
@@ -1196,7 +1196,7 @@ Kate blinked.
 
 They had smoked a cigar badly together.
 
-Walked half the district.
+Walked together through St. Claire.
 
 Bought each other clothes.
 
