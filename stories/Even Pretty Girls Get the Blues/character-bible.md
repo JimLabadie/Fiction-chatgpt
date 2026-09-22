@@ -14,6 +14,7 @@ Developing feminine identity/name: Emily Caldwell.
 - Often misgendered.
 - Opening presentation is corporate casual and deliberately masculine/ordinary; exact garments are not yet established.
 - Jim has learned to brace for other people's gendered readings of him and may anticipate correction or awkwardness before it occurs.
+- Occupation: software engineer; exact employer/company name is intentionally not yet established.
 - At Blush, he notices presentation details such as women's shoes and clothing with close, thoughtful attention.
 - He is capable of quick, dry humor even while nervous.
 - Kate's direct attraction and acceptance visibly disarm him.
@@ -31,7 +32,7 @@ Story namespace: Even Pretty Girls Get the Blues.
 ### Established state
 - Mid-thirties.
 - Central American.
-- Strong woman and a manager; exact field/employer not yet established.
+- Strong woman and a middle manager at a logistics company; exact employer/company name is intentionally not yet established.
 - More masculine-looking in her underlying physical features.
 - Presents very femme in a polished corporate way and is deliberately emphatic about that presentation.
 - Corporate casual at the opening; exact garments are not yet established.
