@@ -92,7 +92,7 @@ LOAD WHEN race, ethnicity, nationality, religion, regional culture, class format
 
 ### 06 — Sapphic Culture
 Path: `system bible/06-sapphic-culture.md`
-LOAD WHEN lesbian/sapphic/WLW/femme/butch/masc/soft-butch/lipstick/chapstick identity or presentation; sapphic spaces/dating/community norms; visual signals; or femme/butch presentation materially matters. Load `system bible/06-sapphic-culture/detailed-reference.md` for specific texture. Pair with gender-presentation material for trans sapphic characters.
+LOAD WHEN lesbian/sapphic/WLW/femme/butch/masc/soft-butch/lipstick/chapstick identity or presentation; sapphic spaces/dating/community norms; visual signals; or femme/butch presentation materially matters. Load the relevant maintained child reference(s) linked from `system bible/06-sapphic-culture.md` for the specific subject matter implicated by the task. Pair with gender-presentation material for trans sapphic characters.
 
 ### 07 — St. Claire
 Path: `system bible/07-st-claire.md`
