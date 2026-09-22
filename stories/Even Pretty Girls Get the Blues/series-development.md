@@ -554,3 +554,10 @@ The home not-date occurs on **Thursday**, the day immediately after Chapter Five
 The physical/romantic endpoint for this home not-date is **not a first kiss**. After the matched flowers, home discovery, Abuelita Sofía's tamales, Kate's grandmother connection, remembered tres leches, and the tomorrow-tamales gesture have accumulated, Jim and Kate end the intimate portion of the evening with a **warm, long hug**. The hug is emotionally full enough that they are **both close to tears / almost crying**, without requiring either character to turn the moment into a formal identity or relationship declaration.
 
 The hug should feel reciprocal and earned: Kate has been deeply touched by being cared for and by the grandmother-memory connection; Jim has been deeply touched because Kate understood what Abuelita's recipe actually carries and because Kate independently arrived with the same vulnerable floral proposition he had already placed on his table. Their bodies can communicate what neither needs to explain yet. Preserve the “not-date” joke and unresolved formal relationship status after the hug; do not manufacture a kiss or further physical escalation.
+
+
+### Jim-approved clarification — Thursday daytime invitation timing
+
+**Status: JIM-APPROVED SCENE PLAN / DRAFTING INPUT.**
+
+The Thursday home-not-date sequence begins during the day immediately after Wednesday's floral retaliation. Jim's food-preference reconnaissance and continued selfie flirting occur through Thursday, and the invitation/dinner develops from that same day's exchange rather than requiring an unestablished multi-day gap. Kate remains unaware of the Colombian/Abuelita direction until she encounters the meal at Jim's home.
