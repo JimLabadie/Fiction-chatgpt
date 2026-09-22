@@ -674,7 +674,7 @@ Displayed.
 
 In the middle of all that quiet, elegant domesticity:
 
-**ASK ME ABOUT MY EX**
+**ASK ME ABOUT MY EXES**
 
 Kate pointed.
 
@@ -1334,7 +1334,7 @@ She looked at the flowers again.
 
 Then at the ridiculous needlepoint visible from the dining room.
 
-**ASK ME ABOUT MY EX**
+**ASK ME ABOUT MY EXES**
 
 She laughed quietly.
 
