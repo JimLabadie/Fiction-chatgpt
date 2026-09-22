@@ -264,3 +264,22 @@ The flower language becomes part of Jim and Kate's ongoing not-date courtship. T
 Their floral messages can vary rather than repeating a single declaration. They may tease, reassure, flirt, challenge, apologize, express affection, or communicate admiration through particular choices and combinations. Importantly, the messages include ways of telling the other **how beautiful they find her/him**. The discovery should work reciprocally: each realizes not only that the other understands the language, but that the other has been reading the messages all along.
 
 This mechanism belongs first to their relationship and compatibility, not to Jim's gender arc. Flowers/plants and interior design add the desired lightly feminine-coded texture to the existing constellation—futch women's clothing Jim rationalizes as androgynous, Kate's attraction to his tomboy/futch presentation, Jim's teenage-girl texting energy, and his deeper femme flashes—without turning any hobby into a diagnostic neon sign. Jim likes these things because he likes them; Kate likes them too; their shared fluency makes them better matched and gives the not-date denial another increasingly indefensible private language.
+
+
+### Jim-established refinement — first floral exchange and Jim's home
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION WITH SPECIFIC FLORAL SPECIES/FORMULAE STILL OPEN.**
+
+**Kate's first floral message to Jim:** the semantic intent is established even though the exact historically/culturally appropriate flowers have not yet been selected. Her arrangement says, in effect, **I see you; you are safe with me**, while also including **something masculine-coded as a deliberate affectionate taunt**. Kate is not diagnosing Jim through flowers. She is telling him that she sees the person he is allowing her to see, that he does not need to defend himself with her, and then mischievously needling his current masculinity-conquest/futch confidence.
+
+**Jim's answering floral message:** again, the semantic intent is established while the exact botanical wording remains open. His answer is essentially **I'm the better lesbian, and I'm going to totally wreck you.** It should read as competitive, flirtatious, ridiculous Jim/Kate courtship language rather than menace: Jim accepts Kate's floral challenge, demonstrates that he understood it, and counters with swagger and romantic/sexual teasing. The exchange is an early step toward each discovering that the other is genuinely fluent in flower language.
+
+Do not invent the exact flowers merely to fill the slot. When the scene is developed, select flowers/plants whose documented symbolic meanings can plausibly carry these messages and preserve any ambiguity or multiple traditions rather than pretending floriography has one universal dictionary.
+
+**Jim's home is now established as an important expression of him.** His place is **sophisticated and elegantly feminine without being blatantly or theatrically feminine**. The overall impression is warm, welcoming, nurturing, beautiful, composed, and cared for. The femininity is atmospheric and aesthetic rather than a room full of obvious gender signals. This should harmonize with Jim's genuine fluency in interior design rather than functioning as a surprise makeover or another diagnostic clue.
+
+The house is also **immaculately kept**—the kind of near-perfect cleanliness and order that can plausibly produce one of two immediate readings: either **this person cares enormously about his home** or **this level of housekeeping is bordering on psychotic**. Preserve the comic extremity without converting it into a mental-health diagnosis. The important physical impression is exceptional care, order, maintenance, cleanliness, and intentionality.
+
+The needlepoint **ASK ME ABOUT MY EX** belongs in Jim's home. Its joke works because it interrupts the sophisticated, warm, elegantly feminine environment with an irreverent piece of domestic craft. It should feel like something Jim genuinely chose and enjoys, not a prop planted by the narration to prove femininity. Its eventual exact placement in the home remains scene-level staging unless Jim establishes it separately.
+
+Together, Jim's interiors, housekeeping, flowers/plants, futch wardrobe, and texting should continue to operate as a **constellation rather than a verdict**. Kate may increasingly recognize a familiar feminine/sapphic texture around Jim while remaining responsible for her own attraction and questions rather than using his home or hobbies to assign him an identity.
