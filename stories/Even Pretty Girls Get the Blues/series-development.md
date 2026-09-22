@@ -465,3 +465,23 @@ The Colombian neighborhood grandmother/older woman is canonically **Sofía Ménd
 The dinner is now locked as an **inherited Colombian tamal-family recipe**, not mole and not a generic internet-derived Colombian dish. Jim learned it through Sofía and still makes it as an act of memory and affection. It is the dish that hits Kate with the sensory force of her own grandmother's cooking.
 
 Jim additionally wants the exact tamal tradition to come from a Colombian region **geographically/culturally near Sofía's own home region**, rather than choosing an arbitrary nationally generic recipe. The precise pairing of Sofía's home region and the neighboring tamal tradition remains to be selected and fact-checked before prose; do not invent that regional relationship.
+
+
+### Jim-established refinement — Abuelita Sofía, Huila/Tolima dinner, and concealed food reconnaissance
+
+**Status: JIM-ESTABLISHED SCENE PLAN.**
+
+Jim approves the proposed naming/story mechanism for **Sofía Méndez**:
+- Sofía is from **Huila**, with the inherited tamal recipe belonging to the closely connected **Huila/Tolima (“Tolima Grande”) culinary tradition**.
+- Jim knew her affectionately as **Abuelita**; **Abuelita Sofía** is available naturally when clarity is needed, but the relationship-name in Jim's memory is principally Abuelita.
+- The regional/family recipe may have moved through the Huila–Tolima cultural borderland; the point is an inherited household recipe with a real regional home, not a pedantic claim of national ownership.
+
+The pre-invitation food questions are specifically **recipe reconnaissance**. Jim asks Kate about ingredients/preferences that matter to the tamal dinner he is already considering. Because the questions are distributed through their flirtatious texting and do not announce “Colombian food,” Kate does **not** infer the Colombian direction or recognize that Jim is reverse-engineering a meal around her answers. When she encounters the dish at his home, the Colombian roots therefore genuinely blindside her even though, in retrospect, Jim had telegraphed the ingredients.
+
+The eventual meal demonstrates both that Jim listened to Kate's answers and that he chose to give her a cherished recipe rather than merely choosing an impressive dish.
+
+### Active scene-planning question — additional courtship food
+
+**Status: JOINTLY DEVELOPING; NOT YET AUTHOR-APPROVED MENU DETAIL.**
+
+Jim wants at least one additional component of the dinner to communicate, through action rather than an explicit declaration: **you are important to me, and I am courting you.** It should complement rather than compete with Abuelita's tamales. The desired signal is deliberate care, forethought, and intimacy: something Jim chose or made specifically because Kate was coming, ideally connected to information he gathered in the food-reconnaissance texts. Avoid turning the meal into an overbuilt tasting menu; the inherited tamal remains the emotional center.
