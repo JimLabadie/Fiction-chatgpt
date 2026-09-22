@@ -715,3 +715,12 @@ The emotional sentences remain exact:
 - Kate: **“What the hell do you do to me?”**
 
 Because the repository's existing flower vocabulary does not contain a verified one-to-one Victorian-flower dictionary encoding for every word of either sentence, do **not** fabricate exact historical meanings. Treat Friday's bouquets as **their increasingly personal extension of the floral language**: the arrangement, continuity with their already-established fluency, and the accompanying recognition carry the complete sentence-level meaning. Exact species may be selected during scene planning for aesthetic/seasonal continuity without pretending an unsupported dictionary translation. If exact historical floriography is desired later, research/verify it before assigning meanings.
+
+
+### Friday secondhand establishment and Mara beat — Jim-approved
+
+Friday's secondhand/home-goods outing uses the reusable St. Claire establishment **My Exes' Abandoned Stuff**, not the clothes-focused thrift experience from the earlier chapter.
+
+Kate is an established regular there and knows core staff member **Mara Singh** best. Mara likes and remembers Kate; their rapport includes mutual recognition of deliberate femme presentation and competence.
+
+When Kate arrives Friday in the deliberately purchased bodycon dress and **Louboutin heels**, Mara's first reaction should carry an unmistakable delighted **“ohhhhhhh, the Loubis”** recognition: not merely a neutral observation that the shoes are new, but the immediate knowing pleasure of a high-femme woman clocking another femme's serious shoe escalation. Mara then looks from the Louboutins to Kate, to Jim, and back to Kate. The beat should communicate that Jim has become evidence before Jim understands the case being made. Kate may insist they are there to shop for furniture/home goods; Mara does not need to accuse or diagnose the relationship. Keep the exchange playful, knowing, and rooted in Mara and Kate's established rapport rather than turning Mara into a narrator of their romance.
