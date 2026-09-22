@@ -431,3 +431,14 @@ For the Colombian dish served to Kate:
 - Exact identity/name of the Colombian woman, Jim's age when she taught him, neighborhood/location, exact dish, and exact connection to Kate's grandmother remain unresolved unless Jim establishes them.
 
 **Current menu direction:** a Colombian tamal remains a strong candidate because it naturally supports inherited household technique and a handed-down recipe, but the exact Colombian dish/regional preparation is not established by this decision alone.
+
+
+### Jim-established recipe teacher identity — Sofía Méndez / Abuelita
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION; REGIONAL ORIGIN STILL TO BE SELECTED.**
+
+The Colombian neighborhood grandmother/older woman who taught Jim the inherited recipe is **Sofía Méndez**. Jim does not ordinarily know or think of her by the formal name **Sofía Méndez**; in his lived memory and relationship with her he knows her by an affectionate grandmother term — currently best represented as **Abuelita** / “little grandma,” with the exact habitual form of address to be finalized consistently when her regional/family context is selected.
+
+Sofía was one of the neighborhood older women who taught Jim to cook and was an important part of his life. Jim still cherishes what she taught him and preserves her recipe. The Colombian dish served to Kate should come from **Sofía's own region or a nearby/closely connected regional food tradition**, so the recipe has a concrete cultural home rather than being generic “Colombian food.”
+
+Do not invent Sofía's Colombian region merely to fill the field. The exact region and therefore the exact regional tamal/dish remain the next scene-planning choice. Once selected, the dish should be checked for regional fit before being locked.
