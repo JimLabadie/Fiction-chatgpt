@@ -30,6 +30,9 @@ The following recovered Amour Noir people are promoted as canon. Their listed id
 - **Simone Laurent — Headwaiter.** Born September 8, 1979. Femme; White. Tall, composed, blonde bob; immaculately dressed for service in a silk blouse, sweeping A-line midi skirt, and 3.5-inch heeled boots. Measured low voice; anticipates needs before they are spoken and makes the room feel private. Partnered with Charlie Esposito.
 - **Pilar Zamora — Server.** Born January 6, 1990. Femme; Latina (Colombian). Average height, dark hair in a low chignon, fitted black dress; poised and deliberately unhurried. Arrived in St. Claire in 2018 after years in high-end front-of-house work, drawn by Amour Noir's pacing philosophy. Single, not seeking. Has never rushed a table even on the busiest reservations night.
 - **Selene Dupond — Reservations Director / wine-curation support.** Born March 25, 1983. Femme; White. Average height, long wavy auburn hair, silk dress as professional presentation; quiet authority at the front table. In a committed triad with Manon Lefevre and Kendra Hughes.
+- **Tamsin Rios — Relief Server.** Born November 18, 1998. Femme; Latina. Experienced restaurant/event-service worker hired after unemployment; quick, bright, socially observant, and unusually strong at retaining table orders. Lives in a single household at Keystone Lofts and Market Hall.
+- **Greta Sorensen — Busser / Runner / Dining-Room Reset.** Born February 9, 2001. Femme; White, Scandinavian-American. Dry, friendly, physically quick, and meticulous about table reset; hired after unemployment. Lives in a single household at Anchor Point.
+- **Cass Bellerose — Utility / Prep / Dish.** Born June 27, 1992. Femme; White, French-Canadian American. Experienced back-of-house restaurant worker; low-key and deadpan, with a strong clean-close habit; hired after unemployment. Lives in a single household at Riverside Terrace.
 - **Marisol Vega — Server.** Born date not yet established. Age 38. Femme; Puerto Rican Latina. About 5'5", curvy, with warm brown eyes, expressive eyebrows, and dark brown hair worn in a polished French twist for service. Her presentation is polished and expensive-looking without flash: fitted service dresses, coordinated jewelry, polished makeup, and St. Claire-baseline heels where service safety permits. Socially confident, observant, and lightly irreverent beneath impeccable professional manners; she notices romantic subtext without intruding on it. An experienced upscale/fine-dining server, she left her previous restaurant after an ownership change pushed aggressive table turns and upselling that made her hate the work. She had been between jobs while deliberately choosing her next workplace; Amour Noir's care-centered, unhurried service philosophy is the first opening that genuinely interested her. She brings mature fine-dining skill but must learn Amour Noir's distinctive rhythm: trust the pacing, stop optimizing guests out the door, and let the room breathe. Single and dating casually; no partner or dependent is established by this record.
 
 These seven are persistent reusable St. Claire characters, not story-local inventions.
@@ -38,7 +41,7 @@ These seven are persistent reusable St. Claire characters, not story-local inven
 
 **Current status: FAILED / incomplete infrastructure.**
 
-The eight named people do **not** constitute adequate infrastructure staffing for a 26-seat, reservations-based, high-touch full-service restaurant. The recovered St. Claire staffing rule explicitly forbids “fixing” a failed restaurant by leaving missing work as unnamed operational slots: when a real staffing requirement is missing, the missing role must be filled by a real, complete St. Claire character.
+The eleven named people now provide the establishment's core sustainable staffing roster for a 26-seat, reservations-based, high-touch full-service restaurant. The recovered St. Claire staffing rule explicitly forbids “fixing” a failed restaurant by leaving missing work as unnamed operational slots: when a real staffing requirement is missing, the missing role must be filled by a real, complete St. Claire character.
 
 Current named coverage:
 - Owner/floor leadership — Dominique “Dom” Cruz
@@ -46,13 +49,13 @@ Current named coverage:
 - Sous Chef — Colette Fournier
 - Sommelier — Iris Thorne
 - Headwaiter — Simone Laurent
-- Servers — Pilar Zamora; Marisol Vega
+- Servers — Pilar Zamora; Marisol Vega; Tamsin Rios
 - Reservations/front table — Selene Dupond
 
 Confirmed infrastructure gaps:
 - **Dishwashing/utility coverage:** missing named person.
 - **Bussing/running/reset coverage:** missing named person.
-- **Server coverage:** Pilar Zamora and Marisol Vega plus the headwaiter can cover a strong peak dining-room service, but the six-day operating week still requires additional relief-capable dining-room coverage for sustainable days off, illness, and recurring peak overlap.
+- **Server coverage:** Pilar Zamora, Marisol Vega, and Tamsin Rios plus headwaiter Simone Laurent provide peak-service and relief-capable dining-room coverage across the six-day operating week.
 - **Kitchen resilience/prep coverage:** Head Chef + Sous Chef can cover core cook headcount at this scale, but a named utility/prep/dish function is required so those chefs are not silently doing every omitted BOH task.
 - **Relief/schedule resilience:** must be represented by real people rather than fictional “coverage” slots when the infrastructure is completed.
 
