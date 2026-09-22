@@ -82,3 +82,21 @@ Begins immediately after Chapter One unless Jim establishes a time jump.
 - Jim directly tells Kate she is beautiful.
 - Their “better lesbian” competition becomes an explicit private joke; Kate reminds him he is not a lesbian, and Jim calls that a “technicality.”
 - End state: Wednesday after Jim's floral retaliation. Their attraction and courtship are increasingly explicit, but no subsequent date/not-date or home visit has yet been assigned a calendar day.
+
+
+## Approved Chapter Six — Thursday
+- Occurs Thursday, immediately after Chapter Five's Wednesday floral retaliation, and spans the day through the end of Jim and Kate's home not-date.
+- Thursday morning Jim continues the established selfie flirtation in an oversized men's white dress shirt, which he treats as successful masculinity while Kate experiences the familiar visual grammar of a beautiful woman in a man's shirt.
+- Through the day Jim conducts deliberately unsubtle food-preference reconnaissance by text while mixing it into their ordinary flirting and selfies. Kate recognizes that he is planning food but does not infer the Colombian direction.
+- Jim invites Kate to his home for 7:00 p.m.; both continue insisting the evening is not a date.
+- Kate independently builds a bouquet of mignonette, clematis, gooseberry, and lesser celandine. Jim already has coriander, crimson polyanthus, anemone, and hawthorn arranged on his table.
+- Their different bouquets independently communicate substantially the same vulnerable proposition: there is more to you than meets the eye; I want to know it; I want to see what comes next. Both recognize the coincidence and its emotional meaning.
+- Kate sees Jim's private home for the first time. It is warm, sophisticated/elegantly feminine, intentionally composed, deeply domestic, and immaculately kept. The `ASK ME ABOUT MY EX` needlepoint from the Chapter Three fundraiser pop-up is framed and displayed.
+- Jim serves Abuelita Sofía Méndez's inherited Colombian tamales, rooted in the Huila/Tolima family tradition. Kate is blindsided by the Colombian connection despite Jim having telegraphed the ingredients all day.
+- The sensory and emotional quality of the tamales evokes Kate's own grandmother strongly enough to bring her close to tears. Jim explains that Sofía Méndez was a Colombian neighborhood grandmother from Huila who taught him to cook; he knew her principally as Abuelita and still preserves her recipe because she and what she taught him remain precious to him.
+- Kate tells Jim the tamales taste like her grandmother's. Jim answers, “Then I got it right.” Kate understands that the meal carries inherited care rather than merely technical cooking skill.
+- Jim serves tres leches because Kate named it as her favorite dessert during his Thursday reconnaissance. His matter-of-fact “of course I remembered” lands as another intimate act of care.
+- At the end of the evening Jim gives Kate tamales specifically to take home for tomorrow. The gesture unintentionally makes the bouquets' “tomorrow” proposition tangible.
+- Kate responds by initiating a long, warm hug. Jim reciprocates fully. Both are close to tears; they do not kiss and do not convert the moment into a formal identity or relationship declaration.
+- They preserve the “still not a date / extremely not” joke at the door. Jim asks Kate to text when she gets home; Kate answers “Of course,” deliberately echoing his language of care.
+- End state: Thursday night. Courtship is unmistakably reciprocal, their desire for a next time has been independently expressed in flowers and domestic action, and their physical intimacy has advanced to a sustained reciprocal hug without a kiss or formal relationship label.
