@@ -606,3 +606,18 @@ At the park, Kate tells Jim about that day and what it meant to her. This is the
 This park sequence should preserve the established reciprocal structure: Thursday Kate was invited into Jim's private domestic history; Friday Kate deliberately lets Jim into a private emotional geography of her own. Jim should receive the story rather than turning it into an identity diagnosis or forcing the ordinary perfect day to become more dramatic than Kate says it was.
 
 The planned picnic can occur in connection with this park visit. Jim has packed his own favorite foods and the proper basket/cloth napkins/tablecloth already established for Friday. Kate's discovery that Jim sewed the picnic linens himself remains part of the scene.
+
+
+### Jim-established Friday counterstrike — Kate dresses for war
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+Before proposing the Friday Lesbian Games rematch, Kate approaches the competition with **cold, deliberate calculation**. She has been repeatedly destabilized by Jim's increasingly confident futch presentation and decides that the “little shit needs to be put in his place.” Her answer is not to imitate Jim's lane but to weaponize her own: **high-impact femme presentation as a playful romantic counterstrike**.
+
+Kate **buys a dress specifically for this Friday not-date**. This purchase is intentional courtship behavior even while both continue the not-date joke. Her planned visual proposition is effectively **waistcoat versus bodycon**: Jim arrives in the devastating futch waistcoat look already under development, while Kate arrives in a deliberately lethal bodycon dress, **Christian Louboutin heels (“Loubis”)**, and lingerie chosen as part of how the outfit makes *her* feel even though **Jim will never see the lingerie during this outing**.
+
+The unseen lingerie matters because Kate's preparation is not only external display for Jim. She is dressing all the way through for herself, for confidence, for the private pleasure of knowing exactly how completely she has assembled the look, and because she is treating the Lesbian Games rematch as affectionate warfare. Do not manufacture an underwear reveal or sexual escalation merely because the lingerie exists.
+
+Kate's intent is explicitly competitive and affectionate: **she is going to war and intends to toast Jim's heart.** The humor comes from her treating this absurd not-date outfit decision with strategic seriousness while being increasingly emotionally compromised by the person she intends to defeat.
+
+The exact dress design/color, exact Louboutin model, lingerie design, hair/makeup/jewelry, and reveal mechanics remain unresolved unless subsequently established. Preserve Kate's established emphatic femme identity; the look should be recognizably *Kate*, intensified for deliberate effect, rather than a generic “sexy dress.”
