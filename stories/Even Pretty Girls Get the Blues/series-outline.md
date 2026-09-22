@@ -25,14 +25,23 @@ Established server **Pilar Zamora** is having a terrible shift/day. Jim notices 
 
 The dinner also pays off the absurd fact that Jim and Kate still do not have each other's phone numbers. The developed excuse for finally exchanging them is **medical emergency**—transparent nonsense accepted because saying “I want to be able to reach you” would be alarmingly date-adjacent.
 
+## Developed next chapter — Friday daytime not-date
+
+Friday after the approved Thursday home not-date, Kate deliberately launches a Lesbian Games rematch and proposes that she and Jim play hooky and go thrifting. Jim agrees on the condition that Kate also take him somewhere that genuinely matters to her. Their shared passion is now established as **interiors/home decorating**, with genuine common ground and vigorous disagreements rather than identical taste.
+
+Jim's Friday presentation is an approved futch waistcoat look: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, and carabiner. A tiny unconscious feminine styling touch remains to be selected. Kate deliberately buys a bodycon dress for the not-date and plans a high-impact femme counterstrike with Louboutin heels and unseen lingerie; exact dress/look details remain under development.
+
+The outing includes the secondhand/thrift store, then Kate's meaningful park and Jim's proper picnic. Kate's park is where she returns to separate from the world and breathe, tied to an earlier outwardly ordinary but personally perfect St. Claire day. Repository development evidence identifies Halloway Park/The Hollow as a strong existing candidate, but that material is not yet promoted story canon and Jim has not yet selected the park.
+
+Jim's picnic is his own favorite-food feast shaped by Sicilian neighborhood grandmother **Nonna Maria Russo**, the heart of his old neighborhood: frittata, pressed sandwiches, marinated vegetables, beautiful fruit, and a lemon-ricotta-cake/crostata-family sweet, packed with joyful abundance. Jim made the cloth napkins and tablecloth. He quietly protects Kate's dress and Louboutin heels at the park without treating her femme presentation as impractical.
+
+Friday's flowers communicate: Jim — **“I think this is a dream, and I'm not sure I want to wake up.”** Kate — **“What the hell do you do to me?”** Exact floral constructions remain unresolved.
+
+The Friday daytime chapter completes the thrift-store and park/picnic experience. **The following chapter begins at Blush.**
+
 ## Developed later chapter-scale directions — boundaries/titles open
 
 ### Active futch exploration
 Jim begins deliberately exploring the futch/butch social and clothing vocabulary he stumbled into during Chapter Three. He believes he may finally have discovered a way to succeed at being a guy. St. Claire's ordinary sapphic context makes the presentation legible rather than alarming, reducing the defensive transition Kate has learned to recognize. Kate notices his increased ease without diagnosing its ultimate meaning and, less philosophically, finds him abso-fucking-lutely adorable and hot.
 
 Futch remains a real possible region of Jim rather than a costume that must later be rejected. The deeper femme ache and long-term **Femme Borg** comic danger remain developed possibilities without predetermining identity timing or destination.
-
-### Later secondhand-store not-date
-The phone numbers create a natural texting mechanism for another transparently date-shaped outing that Jim and Kate insist is not a date. At a secondhand store they discover a shared traditionally feminine-coded passion that Jim already genuinely loves but has never categorized as feminine. Kate loves it too, so they first connect through specific taste, knowledge, argument, enthusiasm, and shared pleasure.
-
-The exact shared passion remains intentionally unresolved. It should support sustained scene play and later relationship material—things they can hunt for, debate, text about, notice for one another, or eventually give each other—rather than serving merely as another gender clue.
