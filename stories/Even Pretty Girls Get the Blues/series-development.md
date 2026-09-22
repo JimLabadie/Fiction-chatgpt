@@ -268,13 +268,13 @@ This mechanism belongs first to their relationship and compatibility, not to Jim
 
 ### Jim-established refinement — first floral exchange and Jim's home
 
-**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION WITH SPECIFIC FLORAL SPECIES/FORMULAE STILL OPEN.**
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION. Floral messages are now scene-level decisions to be resolved during final scene planning, not deferred as premature preplanning.**
 
 **Kate's first floral message to Jim:** the semantic intent is established even though the exact historically/culturally appropriate flowers have not yet been selected. Her arrangement says, in effect, **I see you; you are safe with me**, while also including **something masculine-coded as a deliberate affectionate taunt**. Kate is not diagnosing Jim through flowers. She is telling him that she sees the person he is allowing her to see, that he does not need to defend himself with her, and then mischievously needling his current masculinity-conquest/futch confidence.
 
 **Jim's answering floral message:** again, the semantic intent is established while the exact botanical wording remains open. His answer is essentially **I'm the better lesbian, and I'm going to totally wreck you.** It should read as competitive, flirtatious, ridiculous Jim/Kate courtship language rather than menace: Jim accepts Kate's floral challenge, demonstrates that he understood it, and counters with swagger and romantic/sexual teasing. The exchange is an early step toward each discovering that the other is genuinely fluent in flower language.
 
-Do not invent the exact flowers merely to fill the slot. When the scene is developed, select flowers/plants whose documented symbolic meanings can plausibly carry these messages and preserve any ambiguity or multiple traditions rather than pretending floriography has one universal dictionary.
+**Timing correction:** these floral exchanges belong in the scenes now being finalized, so the specific flowers should be chosen now as part of scene construction rather than deferred under a generic "do not preplan" rule. The established sequence is: **Kate gives the first floral message on the second not-date; Jim answers with the second floral message; the third floral exchange occurs in the Jim-at-home scene.** Exact species/combinations should use a coherent documented floriography vocabulary, with any historically real ambiguity treated as part of the language rather than as a reason not to decide.
 
 **Jim's home is now established as an important expression of him.** His place is **sophisticated and elegantly feminine without being blatantly or theatrically feminine**. The overall impression is warm, welcoming, nurturing, beautiful, composed, and cared for. The femininity is atmospheric and aesthetic rather than a room full of obvious gender signals. This should harmonize with Jim's genuine fluency in interior design rather than functioning as a surprise makeover or another diagnostic clue.
 
