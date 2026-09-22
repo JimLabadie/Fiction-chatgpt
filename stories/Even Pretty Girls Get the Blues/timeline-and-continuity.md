@@ -103,16 +103,16 @@ Begins immediately after Chapter One unless Jim establishes a time jump.
 
 
 ## Developed next sequence — Friday after Chapter Six
-**Status: DEVELOPMENT CONTINUITY; not manuscript canon until drafted/approved.**
-- Friday follows directly after Thursday's approved home not-date.
-- Jim Caldwell: software engineer. Kate Rivera: middle manager at a logistics company. Employer names intentionally unresolved/not currently needed.
-- Kate proposes playing hooky for a Lesbian Games rematch built around thrifting/secondhand shopping.
-- Jim agrees on condition that Kate take him somewhere genuinely meaningful to her.
-- Jim's approved presentation: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, carabiner; one tiny unconscious feminine touch remains unresolved.
-- Kate deliberately buys a bodycon dress for the not-date and plans Louboutin heels plus unseen lingerie as her high-femme counterstrike; exact styling remains unresolved.
-- Thrifting reveals/uses their established shared passion for interiors/home decorating and their vigorous disagreements within it.
-- Kate's meaningful place is a St. Claire park tied to an outwardly ordinary but personally perfect earlier day; she returns there to feel separated from the world and breathe. Halloway Park/The Hollow is recovered development evidence and a candidate, not yet story-selected canon.
-- Jim brings his own favorite picnic shaped by Nonna Maria Russo: frittata, pressed sandwiches, marinated vegetables, beautiful fruit, and a lemon-ricotta-cake/crostata-family sweet, all suitable cold/room-temperature and packed with joyful abundance.
-- Jim's handmade cloth napkins/tablecloth are revealed. He quietly protects Kate's dress and Louboutin heels from the park environment without framing her presentation as impractical.
-- Floral messages: Jim — “I think this is a dream, and I'm not sure I want to wake up.” Kate — “What the hell do you do to me?” Exact flowers unresolved.
-- The Friday daytime chapter completes thrift store plus park/picnic. The following chapter begins at Blush.
+**Status: JIM-APPROVED DEVELOPMENT CONTINUITY; not manuscript canon until drafted/approved.**
+- Friday follows directly after Thursday.
+- Jim Caldwell is a software engineer; Kate Rivera is a middle manager at a logistics company. Employer names intentionally unspecified.
+- Kate proposes playing hooky for a Lesbian Games rematch and secondhand/thrift shopping; Jim requires that she also take him somewhere genuinely meaningful to her.
+- Shared passion: interiors/home decorating, including vigorous disagreements.
+- Jim's Friday presentation: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, carabiner, and a delicate gold chain chosen unconsciously because it makes the outfit look “finished.”
+- Kate's counterstrike: deliberately purchased bodycon dress, Louboutin heels, coordinated unseen lingerie, polished deliberate femme styling.
+- Texting theme pool: interiors/decorating; fabrics/textures; flowers/plants; clothes/presentation/fit; domestic objects/table settings/linens; beauty/aesthetic judgments; small comfort rituals.
+- After the secondhand store Kate takes Jim to **Halloway Park — The Hollow**, selected for story-local use from recovered/developed St. Claire reference evidence. Kate associates it with an outwardly ordinary but personally perfect day and uses it to separate from the world and breathe.
+- Jim brings his favorite picnic shaped by Nonna Maria Russo's Sicilian joyful-abundance tradition: frittata, pressed sandwiches/stuffed rolls, marinated vegetables, beautiful fruit, and lemon-ricotta-cake/crostata-family sweet. Handmade cloth napkins/tablecloth.
+- Jim quietly protects Kate's dress and Louboutin heels from the park environment without framing her femme presentation as impractical.
+- Floral messages are exact at sentence level: Jim — **“I think this is a dream, and I'm not sure I want to wake up.”** Kate — **“What the hell do you do to me?”** Exact species are not falsely assigned unsupported historical dictionary meanings; personal floral language carries the sentence unless later verified research establishes exact mappings.
+- Friday daytime chapter completes secondhand/thrift store plus Halloway Park picnic. **Following chapter begins at Blush.**
