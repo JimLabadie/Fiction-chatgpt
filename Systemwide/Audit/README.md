@@ -99,3 +99,7 @@ No source is treated as claim-reviewed merely because it appears in the catalog.
 ## Completion boundary
 
 The byte/container inventory is complete for the stated baseline. The semantic audit is not complete. A component becomes complete only after its assigned sources are claim-reviewed, version relationships are resolved or left explicitly open, substantive material reaches a real destination, and the published result is fetched back and verified.
+
+## Conversation preservation enforcement audit
+
+[2026-09-21 audit](conversation-preservation-enforcement-audit-2026-09-21.md) distinguishes repository conventions, executable tooling, native recording, lifecycle hooks, and verified trigger configuration. It records the inspected scope, remaining access limits, and a proposed minimal capture mechanism. The recommendation is not installed automation or new operating governance.
