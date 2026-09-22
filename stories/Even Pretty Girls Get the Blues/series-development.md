@@ -561,3 +561,28 @@ The hug should feel reciprocal and earned: Kate has been deeply touched by being
 **Status: JIM-APPROVED SCENE PLAN / DRAFTING INPUT.**
 
 The Thursday home-not-date sequence begins during the day immediately after Wednesday's floral retaliation. Jim's food-preference reconnaissance and continued selfie flirting occur through Thursday, and the invitation/dinner develops from that same day's exchange rather than requiring an unestablished multi-day gap. Kate remains unaware of the Colombian/Abuelita direction until she encounters the meal at Jim's home.
+
+
+## Jim-established Friday rematch direction — post-Thursday play
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION + KATE/CHATGPT OPTIONS FOR REVIEW.**
+
+The next developed sequence occurs on **Friday**, after the approved Thursday home not-date and before Jim and Kate return to Blush. Its purpose is deliberately lighter and sillier after Thursday's emotional intimacy without erasing what Thursday changed.
+
+Jim spends part of Friday texting Kate about increasingly **girly/feminine-coded subjects without recognizing that he is doing so**. The comedy should come from the content and his complete lack of self-consciousness about the category, not from the narration diagnosing his identity.
+
+Kate responds by demanding a **Lesbian Games rematch**. She proposes that they **play hooky from work and go thrifting**, with the explicit competitive claim that this time she will win their ongoing Better Lesbian / stereotype contest.
+
+Jim agrees, but adds a reciprocal condition: **he wants them to go somewhere that means something to Kate as well.** This should land hard for Kate because he is not merely accepting an outing she designed; he wants access to something personally meaningful to her and wants the day to contain her history/interior life too.
+
+The Friday outing is another emphatic **not-date**. During it:
+- the thrifting is knowingly built around lesbian stereotypes and their established competition;
+- Jim and Kate discover that **home decorating/interiors** are genuine common ground;
+- they also discover **vigorous disagreements** within that shared passion, giving them something pleasurable to argue about rather than making compatibility mean identical taste;
+- Jim has secretly packed a picnic made from **his own favorites**, reversing Thursday's meal logic: Thursday was built around learning and feeding Kate's preferences, while Friday lets Kate learn Jim through the things he chooses for himself;
+- the picnic is unmistakably Jim: a **proper picnic basket, real cloth napkins, and a tablecloth** rather than disposable convenience;
+- Kate discovers that Jim **actually made/sewed the picnic linens himself**. The sewing is existing domestic competence and should land as another piece of Jim's private vocabulary rather than a sudden skill invented solely to impress her.
+
+Jim wants Jim's Friday presentation to pull something **devastating from futch wardrobe vocabulary**: a look that is authentically enjoyable for Jim, still supports his current “I have cracked masculinity” interpretation, and hits Kate squarely in her established attraction pattern. Exact outfit remains unresolved pending development.
+
+The exact personally meaningful place Kate chooses, exact girly texting topics, exact thrift finds/interior-design arguments, picnic menu, and exact futch outfit are unresolved and should be developed rather than silently invented.
