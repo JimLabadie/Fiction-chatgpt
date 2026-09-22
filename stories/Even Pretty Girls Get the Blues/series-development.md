@@ -190,6 +190,28 @@ This shared passion should become relationship material beyond the single scene:
 **Exact shared interest remains intentionally unresolved until the scene is developed.** Choose it from something that can plausibly appear in a secondhand store, support specific taste and sustained conversation, and feel authentically enjoyable to both Jim and Kate. Do not settle the object/category merely to complete the outline; the discovery should be strong enough to carry actual scene play.
 
 
+### Approved development: Jim's futch gateway and the Femme Borg trajectory
+
+**Status: APPROVED DEVELOPMENT DIRECTION.** This section preserves the developed mechanism at full resolution; it is not merely a shorthand label and does not predetermine the timing or exact final form of Jim/Emily's self-understanding.
+
+Jim's post-thrift **futch energy becomes an active thing rather than a one-scene costume joke**. The flannel, boots, carabiner, small feminine body, humor, swagger, and genuine enjoyment of the look can all coexist. Jim can look unfairly good in it, enjoy stereotypically butch-coded play, and discover that some of those elements are authentically his. Five minutes later he can go completely soft over beautiful heels. Neither response cancels the other.
+
+The crucial mechanism is social reading. Jim has spent years expecting the look, recalculation, correction, or awkwardness that follows when strangers read his naturally feminine body against his male presentation. In a sapphic/futch context, people have a familiar social vocabulary for the combination. They do not need him to resolve the apparent contradiction for them. They do not treat him as a girl unsuccessfully dressed as a man, demand an explanation, or force the usual gender-defense sequence.
+
+Jim experiences the reduced friction without understanding why and interprets it as success: **he thinks he has finally figured out how to be a guy.** In his own mind, the flannel/boots/carabiner vocabulary is helping him conquer masculinity.
+
+Kate understands something different, observationally rather than diagnostically. She has learned Jim's defensive sequence: he feels dangerously seen; his shoulders rise/tighten; his body changes; the wall comes down; and a more guarded, consciously masculine Jim reports for duty. In the futch social context, Kate sees the trigger occur and then sees the sequence fail to happen. **His shoulders do not rise. The wall never arrives.** Someone reads Jim, Jim waits for the familiar friction, and instead the interaction simply continues.
+
+Kate does **not** convert that observation into “Jim is secretly a woman,” assign him an identity, or confront him with a conclusion. Her live question is more interesting: **is this where he is comfortable, or is this the first doorway he has ever found that does not frighten him enough to slam shut?** She genuinely does not yet know whether futch is an end state, an authentic lasting region of Jim, or a transitional gate.
+
+Futch therefore must never be written as fake Jim that Femme Emily later discards. Jim genuinely enjoys parts of it. It gives him real ease and a social context in which he can stop spending so much energy defending against femininity. That safety is precisely what creates room for the deeper femme ache to become visible as desire rather than threat: the dress, the heels, Kate's hair, presentation details, and other involuntary moments of *want* can surface because Jim is no longer using all his attention to police them.
+
+This is the mechanism behind the comic long-term shorthand **Femme Borg**. It is not an abrupt makeover, coercive assimilation, or predetermined checklist. The joke is gradual accumulation through safety and authentic pleasure: *you may keep the boots*; perhaps eyeliner becomes interesting; perhaps another feminine garment does too; eventually Jim may look around in comic disbelief at how much has accumulated. The underlying emotional movement is that futch is a gateway drug because it changes how Jim is looked at, relieves the defensive tension, and lets femininity become something he can approach rather than something he must immediately repel.
+
+Kate's attraction remains personal as well as perceptive. She can find Jim **abso-fucking-lutely adorable and hot** in the futch presentation while also noticing the flashes of deeper femme longing. She is not studying a project from a safe distance; she likes the person in front of her. Her uncertainty about where the doorway leads does not diminish that attraction.
+
+**Preservation boundary:** “futch chaos goblin,” “Femme Borg,” and similar language are development shorthand for this mechanism, not identity labels Kate is entitled to impose on Jim. Final labels, pronoun progression, transition choices, timing, and the exact endpoint remain story-earned and unresolved.
+
 ### Immediate chapter-scale planning status after Chapter Three
 The developed material now supports more than a single next-scene note and must be preserved as chapter-scale planning without forcing chapter boundaries before the prose earns them.
 
