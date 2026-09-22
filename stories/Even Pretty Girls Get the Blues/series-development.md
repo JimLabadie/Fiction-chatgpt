@@ -543,3 +543,14 @@ Kate's melt is cumulative: Jim's dress-shirt presentation and continued attracti
 Jim must also be allowed to melt. Kate's response to Abuelita's recipe matters profoundly to him because she understands what he is actually giving her. Her recognition that the food carries love validates a cherished part of Jim's history rather than merely praising his cooking. Kate arriving with a bouquet that independently answers his own floral sentence also tells Jim that his desire for a tomorrow is reciprocated. The home not-date therefore should not become one-directional “Jim devastates Kate with competence.” **Both discover that the other has independently been building toward the same emotional proposition: you matter to me; I want to know more of you; I want there to be a next time.**
 
 Neither character needs to convert that realization immediately into a formal relationship declaration. The power of the scene is that the courtship has become unmistakable even while the “not-date” joke remains available to them.
+
+
+### Jim-approved scene resolution — Thursday home not-date endpoint
+
+**Status: JIM-APPROVED SCENE PLAN / DRAFTING INPUT.**
+
+The home not-date occurs on **Thursday**, the day immediately after Chapter Five's Wednesday floral retaliation. The chapter/scene may use the **full Thursday day** rather than jumping directly to the evening: continued texting, selfie flirting, and food-preference reconnaissance can build naturally through the day before Kate arrives at Jim's home.
+
+The physical/romantic endpoint for this home not-date is **not a first kiss**. After the matched flowers, home discovery, Abuelita Sofía's tamales, Kate's grandmother connection, remembered tres leches, and the tomorrow-tamales gesture have accumulated, Jim and Kate end the intimate portion of the evening with a **warm, long hug**. The hug is emotionally full enough that they are **both close to tears / almost crying**, without requiring either character to turn the moment into a formal identity or relationship declaration.
+
+The hug should feel reciprocal and earned: Kate has been deeply touched by being cared for and by the grandmother-memory connection; Jim has been deeply touched because Kate understood what Abuelita's recipe actually carries and because Kate independently arrived with the same vulnerable floral proposition he had already placed on his table. Their bodies can communicate what neither needs to explain yet. Preserve the “not-date” joke and unresolved formal relationship status after the hug; do not manufacture a kiss or further physical escalation.
