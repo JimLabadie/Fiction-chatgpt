@@ -248,3 +248,19 @@ The exact next-chapter construction remains for Jim to decide. Do not infer a ch
 - **Futch remains authentic.** Going all in does not make this a fake stage to be discarded later. Jim genuinely likes the clothes and the ease they give him, even while misunderstanding what his choices communicate and what they may mean to him.
 - **Kate begins questioning her own attraction.** Kate has fallen for Jim enough that she starts seriously wondering why she has fallen for a guy. This question belongs to Kate's own experience of attraction and identity; it is not permission for her to diagnose Jim or announce what Jim is.
 - **Interests are part of the next development conversation.** The previously unresolved shared traditionally feminine-coded passion remains unresolved. Jim has now specifically directed that Kate's questioning and the interests/shared-interest mechanism be considered as the next chapter/arc is developed. Do not choose the interest without Jim.
+
+
+### Jim-established shared interests — interiors and flower language
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+The previously unresolved shared feminine-coded passion is now established as a **pair of compatible interests rather than a single clue**:
+
+1. **Interior design / decorating / vintage housewares.** Jim and Kate both genuinely care about interiors, objects, rooms, composition, and the pleasure of making a space beautiful or interesting. Jim's attraction to the flamingo lamp and ceramic-cat joke can sit naturally inside this broader taste rather than being retroactively treated as gender evidence. This interest should support secondhand-store, flea-market, estate-sale, decorating, texting, arguing-over-objects, noticing-for-each-other, and gift material. Its conventional feminine coding is a secondary recognition, never proof of identity.
+2. **Flowers and plants, with fluency in the language of flowers.** Jim does not merely like flowers or understand that they are pretty. He knows flowers **as a language**: selections, combinations, and traditional/symbolic meanings can communicate things without saying them directly. Kate is fluent too.
+
+The flower language becomes part of Jim and Kate's ongoing not-date courtship. They begin bringing/giving each other flowers while continuing to deny that the gestures are romantic and, initially, each pretends not to know the language well enough for the selection to mean anything. The joke deepens when they discover that **both are actually fluent**. They have therefore not been accidentally choosing meaningful flowers: each has been knowingly telling the other things through the arrangements while maintaining plausible deniability.
+
+Their floral messages can vary rather than repeating a single declaration. They may tease, reassure, flirt, challenge, apologize, express affection, or communicate admiration through particular choices and combinations. Importantly, the messages include ways of telling the other **how beautiful they find her/him**. The discovery should work reciprocally: each realizes not only that the other understands the language, but that the other has been reading the messages all along.
+
+This mechanism belongs first to their relationship and compatibility, not to Jim's gender arc. Flowers/plants and interior design add the desired lightly feminine-coded texture to the existing constellation—futch women's clothing Jim rationalizes as androgynous, Kate's attraction to his tomboy/futch presentation, Jim's teenage-girl texting energy, and his deeper femme flashes—without turning any hobby into a diagnostic neon sign. Jim likes these things because he likes them; Kate likes them too; their shared fluency makes them better matched and gives the not-date denial another increasingly indefensible private language.
