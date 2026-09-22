@@ -45,4 +45,4 @@ Story namespace: Even Pretty Girls Get the Blues.
 - Understands from her own experience what it means for strangers to read physical features before deliberate presentation.
 
 ### Relationship with Jim
-At the end of approved Chapter One, Kate and Jim have just met at Blush. Kate has openly told Jim she likes him and called him pretty while accepting his immediate statement that he is a man without argument. Their mutual interest is developing; no commitment, relationship status, or predetermined outcome is established.
+Through approved Chapter Six, Kate and Jim's courtship is unmistakably reciprocal while both continue the running “not a date” joke. They have exchanged numbers, flirt constantly by text and selfie, share a private floral language, have independently expressed wanting a tomorrow together, and have progressed to a sustained reciprocal hug without kissing or adopting a formal relationship label. Kate's attraction is genuine and increasingly intense; she does not treat Jim as a project or dictate his identity. Friday development continues this courtship through the Lesbian Games rematch, secondhand shopping, and Kate sharing her meaningful park.
