@@ -1419,6 +1419,53 @@ Children get a deliberately different, minimal template — not the adult presen
 - One real, specific trait: not yet determined
 - Connections: partnered with Jamie Sullivan
 
+
+**Tamsin Rios**
+- Status: active
+- Birthdate: November 18, 1998
+- Tags: none
+- Physical description & presentation: Femme. Latina. About 5'6", compact and quick-moving, with dark brown eyes and thick dark hair worn in a high polished ponytail for service. Off duty she favors bright fitted knit dresses, hoop earrings, a small stack of bangles, polished makeup, and heels; at Amour Noir she keeps the same feminine polish within the restaurant's service uniform and safety requirements.
+- Voice: Bright, quick, and conspiratorial; she can make a practical observation sound like the two of you have just discovered a secret together.
+- Occupation: Server
+- Role/Title at Organization: Relief server, Amour Noir
+- Routine/regular haunts: late coffee at The Daily Grind after evening shifts; Greenleaf farmers market near closing time on Saturdays; a long walk through Greenleaf Core on Monday afternoons when Amour Noir is closed.
+- Household: Tamsin Rios (single) Household
+- Arrival story: moved to St. Claire in 2023 after several years of restaurant and event-service work elsewhere; she came for the district's community life rather than for a specific employer.
+- Notable milestones: hired at Amour Noir in 2026 after a period of unemployment.
+- One real, specific trait: she can remember which guest at a table ordered which dish after hearing the order once, but routinely forgets where she put her own coffee.
+- Connections: works under Simone Laurent and alongside Pilar Zamora and Marisol Vega at Amour Noir.
+
+**Greta Sorensen**
+- Status: active
+- Birthdate: February 9, 2001
+- Tags: none
+- Physical description & presentation: Femme. White, Scandinavian-American. About 5'8", broad-shouldered and athletic, with fair skin, gray-green eyes, and strawberry-blonde hair braided into a crown or low plait for work. Her everyday style is deliberately feminine but sturdy: patterned midi dresses, cardigans, simple gold jewelry, defined lashes, and heels when the job does not require restaurant-safe footwear.
+- Voice: Dry, friendly, and economical; the joke usually arrives half a beat after everyone thinks she is being completely serious.
+- Occupation: Server
+- Role/Title at Organization: Busser / runner / dining-room reset, Amour Noir
+- Routine/regular haunts: Hearthside Bakery on weekday mornings; the riverfront path before lunch; community movie nights when her work schedule permits.
+- Household: Greta Sorensen (single) Household
+- Arrival story: born in the wider city and moved into St. Claire in 2024 when an Anchor Point unit became available.
+- Notable milestones: hired at Amour Noir in 2026 after unemployment.
+- One real, specific trait: she resets a table with almost geometric precision and will unconsciously straighten crooked place settings at restaurants where she is a customer.
+- Connections: works most closely with Simone Laurent, Pilar Zamora, Marisol Vega, and Tamsin Rios at Amour Noir.
+
+**Cass Bellerose**
+- Status: active
+- Birthdate: June 27, 1992
+- Tags: none
+- Physical description & presentation: Femme. White, French-Canadian American. About 5'4", sturdy build, with warm fair skin, dark hazel eyes, and nearly black wavy hair usually pinned into a low bun at work. Off duty she likes dark floral wrap dresses, berry lipstick, small silver earrings, and high-heeled ankle boots; kitchen work substitutes genuinely non-slip safe footwear and tied-back hair without otherwise genericizing her presentation.
+- Voice: Low, mellow, and deadpan, with an occasional French-Canadian family expression slipping through when she is tired or amused.
+- Occupation: Chef (head/sous/line)
+- Role/Title at Organization: Utility / prep / dish, Amour Noir
+- Routine/regular haunts: the late counter at The Sunrise Counter on Mondays; Keystone Market Hall for ingredients and gossip; quiet weekday afternoons at Open Page.
+- Household: Cass Bellerose (single) Household
+- Arrival story: arrived in St. Claire in 2021 after several years of back-of-house restaurant work in the wider city; she stayed because the district gave her a social life that did not require explaining herself first.
+- Notable milestones: hired at Amour Noir in 2026 after unemployment.
+- One real, specific trait: she hates leaving a kitchen with one dirty pan in the sink and has been known to wash somebody else's pan simply because its existence offended her.
+- Connections: works directly with Renata Alves and Colette Fournier and coordinates closing utility work with the dining-room team at Amour Noir.
+
+
 ---
 
 ## Index (for duplicate-checking — update as entries are added)
