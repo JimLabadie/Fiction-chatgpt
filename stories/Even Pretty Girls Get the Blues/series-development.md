@@ -634,3 +634,32 @@ The beat is an act of care, not a joke about Kate being overdressed or impractic
 This lands emotionally for Kate because Jim's response to her deliberately weaponized femme presentation is not merely attraction. He pays attention to **what it takes for her to inhabit it comfortably** and cares for the things she chose because they matter to her. The gesture should be understated enough that Jim may regard it as obvious practical courtesy while Kate recognizes the tenderness underneath it.
 
 Kate is **absolutely not going to cry** over this. She is, naturally, therefore in immediate danger of crying. Preserve the comedy as defensive emotional texture rather than using it to cancel the sincerity of the beat.
+
+
+### Jim-established Friday feast — Nonna Maria Russo and the picnic chapter boundary
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+Jim establishes **Nonna Maria Russo**, a **Sicilian grandmother figure** from Jim's neighborhood history. Maria was **the heart of the neighborhood**. Her food tradition and temperament should carry the nuances already developed for the Friday picnic: feeding people as joyful abundance, affectionate insistence, practical domestic competence, and the assumption that people leaving the house for hours obviously require enough food to survive an expedition.
+
+For the Friday picnic, Jim's feast is built around the **Italian/Sicilian-grandmother comfort-food structure already proposed**, with Maria as its emotional source:
+- a properly made **frittata** as a central picnic food;
+- **pressed sandwiches or stuffed rolls**;
+- **marinated vegetables**;
+- **fruit**;
+- a beloved sweet in the **lemon-ricotta-cake / jam-crostata family**;
+- food intentionally suited to being excellent cold or at room temperature and therefore genuinely appropriate to a proper picnic basket.
+
+Preserve the important distinction that the picnic is **Jim's favorites**, not merely a museum display of Maria's recipes. Maria supplies formative recipes, habits, abundance, and food-language; Jim has built his own favorite picnic around what he learned. Some individual choices may be Jim's own. The scene should allow Kate to learn Jim's specific pleasures and preferences, not only admire inherited competence.
+
+Maria's emotional/domestic teaching differs from Abuelita Sofía's without competing with it:
+- Sofía's Thursday meal carries preservation, memory, inheritance, and Jim entrusting Kate with something sacred.
+- Maria's Friday influence carries **joyful abundance, comfort, pleasure, and feeding people because feeding them is happiness**.
+
+The Friday outing should also establish that Jim's domestic vocabulary was shaped by **multiple neighborhood grandmother figures**, without requiring every skill or preference to be assigned to a different grandmother. A possible comic line remains available rather than locked as manuscript dialogue: Kate asks, **“How many grandmothers raised you?”** and Jim answers, **“Define raised.”**
+
+The exact sweet, sandwich/roll fillings, marinated vegetables, fruit selection, drink, and which picnic components are specifically Maria's recipes versus Jim's later additions remain scene-level details unless subsequently established.
+
+**Friday chapter boundary:** Jim and Kate **make it through the thrift-store outing and the park/picnic sequence in this chapter**. The chapter should complete the Friday daytime not-date rather than stopping artificially during the thrift-store or picnic material.
+
+The **next chapter begins at Blush**. Do not fold the Blush return into the Friday daytime chapter merely because it occurs later the same day unless Jim later changes this boundary. The Blush chapter is deliberately reserved as its own next narrative unit.
