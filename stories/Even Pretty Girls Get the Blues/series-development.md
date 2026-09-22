@@ -280,7 +280,7 @@ This mechanism belongs first to their relationship and compatibility, not to Jim
 
 The house is also **immaculately kept**—the kind of near-perfect cleanliness and order that can plausibly produce one of two immediate readings: either **this person cares enormously about his home** or **this level of housekeeping is bordering on psychotic**. Preserve the comic extremity without converting it into a mental-health diagnosis. The important physical impression is exceptional care, order, maintenance, cleanliness, and intentionality.
 
-The needlepoint **ASK ME ABOUT MY EX** belongs in Jim's home. Its joke works because it interrupts the sophisticated, warm, elegantly feminine environment with an irreverent piece of domestic craft. It should feel like something Jim genuinely chose and enjoys, not a prop planted by the narration to prove femininity. Its eventual exact placement in the home remains scene-level staging unless Jim establishes it separately.
+The needlepoint **ASK ME ABOUT MY EXES** belongs in Jim's home. Its joke works because it interrupts the sophisticated, warm, elegantly feminine environment with an irreverent piece of domestic craft. It should feel like something Jim genuinely chose and enjoys, not a prop planted by the narration to prove femininity. Its eventual exact placement in the home remains scene-level staging unless Jim establishes it separately.
 
 Together, Jim's interiors, housekeeping, flowers/plants, futch wardrobe, and texting should continue to operate as a **constellation rather than a verdict**. Kate may increasingly recognize a familiar feminine/sapphic texture around Jim while remaining responsible for her own attraction and questions rather than using his home or hobbies to assign him an identity.
 
@@ -305,7 +305,7 @@ The post-Chapter-Four material must not be raced through as a compressed bridge 
 
 **Status: JIM-ESTABLISHED CONTINUITY / RECOVERED PROVENANCE.**
 
-The needlepoint **ASK ME ABOUT MY EX** was **acquired at the Chapter Three thrift fundraiser pop-up** and later belongs in Jim's home. Its provenance is therefore not unresolved and must not be invented as an estate-sale find or another origin. Preserve the Chapter Three thrift-pop-up origin when the object appears again.
+The needlepoint **ASK ME ABOUT MY EXES** was **acquired at the Chapter Three thrift fundraiser pop-up** and later belongs in Jim's home. Its provenance is therefore not unresolved and must not be invented as an estate-sale find or another origin. Preserve the Chapter Three thrift-pop-up origin when the object appears again.
 
 
 ### Jim-established next not-date direction — Jim cooks for Kate at home
@@ -321,7 +321,7 @@ The point of the home visit is not simply to relocate the courtship. It gives Ka
 - Cooking for Kate should therefore feel like Jim operating in genuine competence and comfort rather than performing a newly discovered role for her.
 - The visit can naturally reveal the already-established qualities of Jim's home: sophisticated/elegantly feminine atmosphere, warmth, welcome, nurture, beauty, intentional composition, and exceptionally meticulous housekeeping.
 - The established third floral exchange remains attached to the Jim-at-home scene unless Jim changes that decision.
-- The **ASK ME ABOUT MY EX** needlepoint in Jim's home retains its established provenance from the Chapter Three thrift fundraiser pop-up.
+- The **ASK ME ABOUT MY EXES** needlepoint in Jim's home retains its established provenance from the Chapter Three thrift fundraiser pop-up.
 - The home/cooking material must continue to function as relationship and character discovery, not as a diagnostic proof of Jim's identity. Kate may notice the larger constellation, but she does not get authority to define him from domesticity, cooking, decor, clothing, flowers, or any combination of them.
 - Exact calendar day, invitation mechanism, meal/menu, arrival/departure beats, romantic/physical escalation, and chapter boundaries remain unresolved unless separately established by Jim.
 
