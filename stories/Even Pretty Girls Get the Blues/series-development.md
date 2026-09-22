@@ -586,3 +586,23 @@ The Friday outing is another emphatic **not-date**. During it:
 Jim wants Jim's Friday presentation to pull something **devastating from futch wardrobe vocabulary**: a look that is authentically enjoyable for Jim, still supports his current “I have cracked masculinity” interpretation, and hits Kate squarely in her established attraction pattern. Exact outfit remains unresolved pending development.
 
 The exact personally meaningful place Kate chooses, exact girly texting topics, exact thrift finds/interior-design arguments, picnic menu, and exact futch outfit are unresolved and should be developed rather than silently invented.
+
+
+### Jim-established Friday flowers and Kate's meaningful park
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+The Friday not-date continues the couple's established floral-language courtship. Both bring/use flowers again, but the messages move away from competitive botanical warfare and toward increasingly vulnerable private admissions.
+
+- **Jim's floral message:** **“I think this is a dream, and I'm not sure I want to wake up.”**
+- **Kate's floral message:** **“What the hell do you do to me?”**
+
+The exact flowers used to construct each sentence remain unresolved until selected from the story's established floriography vocabulary/research. Preserve the intended sentences exactly in emotional meaning; do not substitute a thinner generic romance message.
+
+The personally meaningful place Kate chooses for Jim is a **park**. The park matters because of an earlier moment after Kate came to St. Claire. On the surface, the remembered day was completely ordinary—nothing happened that outsiders would identify as a milestone, spectacle, or life-changing event. For Kate, however, it was a **perfect day**. The ordinariness is part of why the memory matters.
+
+At the park, Kate tells Jim about that day and what it meant to her. This is the place she returns to when she wants to feel **separated from the world for a while and simply breathe**. The park therefore reveals a private restorative part of Kate rather than functioning as generic romantic scenery. Jim asked for somewhere that means something to her; Kate answers by trusting him with a place connected to quiet, ordinary happiness and relief from the pressure of being interpreted by the outside world.
+
+This park sequence should preserve the established reciprocal structure: Thursday Kate was invited into Jim's private domestic history; Friday Kate deliberately lets Jim into a private emotional geography of her own. Jim should receive the story rather than turning it into an identity diagnosis or forcing the ordinary perfect day to become more dramatic than Kate says it was.
+
+The planned picnic can occur in connection with this park visit. Jim has packed his own favorite foods and the proper basket/cloth napkins/tablecloth already established for Friday. Kate's discovery that Jim sewed the picnic linens himself remains part of the scene.
