@@ -360,6 +360,19 @@ This rule deliberately replaces the older practice of checking only server-to-se
 
 **When a real ratio applies and a business fails it,** the fix is the same as any other confirmed error: add the missing role as a real, complete character (full Population record, no thin placeholder), the same rigor as any other new addition — not a note left for later.
 
+## Employment-State Simplification
+
+For St. Claire population and staffing work, employment status is a world-state fact, not a simulation of an NPC's private job-search intentions.
+
+- A working resident records her actual job/employer and, where operationally useful, whether the work is full-time, part-time, or self-employed.
+- A resident who does not currently have a job is simply **unemployed** unless an established non-employment circumstance more accurately describes her situation.
+- Acceptable established non-employment circumstances include **stay-at-home partner/parent/caregiver, student, retired, disabled or otherwise unable to work**, or another specifically established circumstance that genuinely explains why employment is not her current state.
+- Do **not** subdivide ordinary unemployment into `unemployed-seeking`, `unemployed-not-seeking`, `between jobs`, `apprenticeship-seeking`, `part-time and seeking more work`, or similar intention-tracking categories. Those distinctions are unnecessary NPC agency simulation and do not govern staffing eligibility.
+- An unemployed resident may be considered for an appropriate staffing vacancy without first establishing whether she was actively looking for work. If Jim wants a specific character's job-search history, selectiveness, career transition, or reason for unemployment to matter as characterization, that may be established narratively without creating a universal employment-state category.
+- Do not infer unemployment merely from missing employer/schedule data. Unknown or incomplete legacy data remains unresolved until audited.
+
+This rule supersedes the more elaborate employment-intention vocabulary preserved in unaudited recovery sources such as `developed-skills/St-Claire/St Claire 03A Employment State Register.md`. Those sources remain readable recovery evidence, but their seeking/not-seeking/between-jobs distinctions do not control maintained St. Claire population or staffing work.
+
 ## Character Verification in Scenes (not just staffing lookups)
 
 **Failure this rule exists to prevent:** during creative writing, every named character who filled an *employee* role in a scene got correctly checked against Organizations.md staffing lists first — that check was reliable. But two characters who weren't anyone's employee (a bar patron, an outdoor market vendor) got invented on the spot with zero check at all, because the only verification habit that existed was "look up who works here," and neither of them worked anywhere. The gap wasn't carelessness on those two specifically — it was that no check existed for "anyone appearing in a scene who isn't staff."
