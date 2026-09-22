@@ -257,7 +257,69 @@ For full-service dining:
 - **Host/reservations:** may be combined in a genuinely small casual room; reservations-led/high-touch concepts generally require the function to be explicitly covered.
 - **Beverage specialist:** required when the establishment's promised service depends on one (for example a sommelier-led wine program); ordinary beverage service does not automatically require a specialist.
 
-Counter-service, diner, bar/taproom, nightclub, retail, health, civic, trades, and other establishment types require their own functional matrix; do not apply restaurant server ratios merely because customers are present.
+Counter-service, diner, retail, health, civic, trades, and other establishment types require their own functional matrix; do not apply restaurant server ratios merely because customers are present.
+
+#### Bars, lounges, and nightclubs — functional matrix
+
+Bars/nightclubs use the same fixed + variable + sustainable-roster architecture, but their principal variable is **beverage throughput**, not restaurant table service. Capacity is the useful first-pass proxy; actual peak attendance, number of active bar stations, drink complexity, VIP/table service, room layout, entertainment, entrances, and security risk modify it.
+
+**Bartenders — principal variable role**
+- Standard full bar / ordinary lounge planning baseline: about **1 bartender per 50–75 peak guests**.
+- High-volume nightclub service: about **1 bartender per 45–70 peak guests**.
+- Cocktail-heavy / craft-cocktail service: tighten to about **1 per 40–55 peak guests** because drink construction is slower.
+- Beer/wine-dominant service can stretch toward roughly **1 per 75–100 guests** where layout and payment flow support it.
+- Never staff below **1 bartender per open bar/service point**. Multiple physically separate bars create their own minimum coverage even when total attendance would produce a smaller ratio.
+- Staff to the peak rush rather than the night's average attendance. Arrival waves, event breaks, and last-call demand can make average-volume staffing misleading.
+
+These are planning benchmarks, not legal standards. Menu complexity, batching/pre-batching, glassware, payment systems, and bar geometry can materially change throughput.
+
+**Barbacks — support ratio**
+- Busy full-bar/nightclub baseline: about **1 barback per 2–3 bartenders**.
+- A very small/slow bar may combine barback work into the bartender role, but ice, stock, glassware, garnishes, waste, and reset must still be assigned.
+- Once multiple bartenders are working a sustained rush, dedicated barback coverage is normally expected; adding support may solve a logistics bottleneck better than adding another bartender.
+
+**Door / entry**
+- At least **1 real door/ID/capacity-control function per active public entrance** when the concept requires controlled entry.
+- Use **2 at a high-volume primary entrance** when one person cannot simultaneously handle ID verification, admissions/line flow, re-entry, and occupancy control.
+- Door coverage scales primarily with entrances and arrival volume, not with the bartender ratio.
+
+**Security / floor safety**
+- For high-volume nightlife, use roughly **1 floor/security person per 50–75 peak patrons** as the St. Claire planning baseline, then add the required door posts.
+- Multiple rooms, floors, patios, VIP areas, unusually high-energy events, late closing, or difficult sightlines can require dedicated posts beyond the ratio.
+- Closing/dispersal is a real coverage period. Do not let security disappear at last call merely because admissions have stopped.
+- This is a worldbuilding/staffing benchmark, not a statement of universal legal minimums; real licensing requirements vary by jurisdiction.
+
+**Management / accountable floor lead**
+- At least **1 accountable manager/floor lead whenever the venue is open to patrons**.
+- Larger or multi-room/high-volume clubs may require additional floor/area management, but ordinary small bars do not gain extra managers merely from crossing a seat threshold.
+- Owner coverage counts only when that owner is actually established as working the relevant shift.
+
+**Cocktail / bottle / VIP table service**
+- When the venue offers dedicated table or bottle service, plan roughly **1 server per 4–6 active VIP/service tables**.
+- Ordinary standing bar patrons do not create a restaurant-style server requirement.
+- Runners may be separate where volume/layout makes servers repeatedly leaving their section incompatible with the promised service.
+
+**Fixed/conditional functions**
+- **DJ/live entertainment:** required only when the venue's operating concept/night actually promises it; one active performance position does not imply that the same performer works every night.
+- **Sound/lighting/AV:** assign dedicated technical coverage where the venue's production complexity requires active operation/troubleshooting; small/simple systems may be legitimately combined with another established role.
+- **Coat check:** conditional on venue concept, season, and whether the service is actually offered.
+- **Cleaning/reset:** must exist in the staffing model even when performed after patrons leave; it may be a dedicated internal crew or an explicitly established external service if the establishment canon permits contractors.
+- **Glassware/dish/sanitation:** must be assigned somewhere. Barback coverage may legitimately absorb this in smaller operations; large or glassware-heavy venues may require dedicated dish/utility coverage.
+
+**Bar/nightclub shift output**
+A nightlife staffing audit therefore resolves, at minimum:
+1. peak guests / expected active occupancy;
+2. open bar stations and beverage-service complexity;
+3. bartenders from the applicable guest ratio, subject to the one-per-open-station floor;
+4. barbacks from the bartender/support ratio;
+5. active entrances and required door coverage;
+6. floor/security coverage from peak patrons plus layout/event modifiers;
+7. one accountable manager/floor lead;
+8. any table/VIP servers from active service tables;
+9. conditional entertainment, technical, coat-check, cleaning, and utility functions;
+10. sustainable named roster coverage across the venue's actual weekly schedule.
+
+The same distinction used for restaurants applies: **shift requirement is not roster requirement**. A Friday-night club crew may be substantially larger than a weeknight crew, and the persistent roster must contain enough real people to cover those different demand levels, ordinary days off, illness/time off, and recurring weekend peaks without assuming the same handful of people work every open hour forever.
 
 #### Sustainable roster coverage
 
