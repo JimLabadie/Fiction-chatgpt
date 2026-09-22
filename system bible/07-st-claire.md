@@ -104,3 +104,5 @@ This legacy snapshot previously treated `St Claire Master Lore Compendium v3.md`
 - [Amour Noir](07-st-claire/amour-noir.md) — reusable Greenleaf Core romantic dinner club; maintained venue/staffing/character authority.
 - [Halloway Park](07-st-claire/halloway-park.md) — reusable St. Claire park; maintained authority for the approved Halloway Park / The Hollow setting facts.
 
+
+- [My Exes' Abandoned Stuff](07-st-claire/my-exes-abandoned-stuff.md) — reusable St. Claire secondhand/antiques/curiosities establishment; maintained authority for its approved identity, origin, function, and **ASK ME ABOUT MY EXES** slogan.
