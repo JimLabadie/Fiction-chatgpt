@@ -324,3 +324,47 @@ The point of the home visit is not simply to relocate the courtship. It gives Ka
 - The **ASK ME ABOUT MY EX** needlepoint in Jim's home retains its established provenance from the Chapter Three thrift fundraiser pop-up.
 - The home/cooking material must continue to function as relationship and character discovery, not as a diagnostic proof of Jim's identity. Kate may notice the larger constellation, but she does not get authority to define him from domesticity, cooking, decor, clothing, flowers, or any combination of them.
 - Exact calendar day, invitation mechanism, meal/menu, arrival/departure beats, romantic/physical escalation, and chapter boundaries remain unresolved unless separately established by Jim.
+
+
+### Jim-established home not-date refinements — matching flowers, food reconnaissance, and dress-shirt presentation
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+The Jim-at-home cooking not-date now has the following established relationship mechanics and visual beats. Preserve them at scene level rather than reducing them to a summary bridge.
+
+#### Third floral sentence — independently matched messages
+
+The established third floral exchange occurs at the home not-date and is a **matched floral sentence**: Jim and Kate independently communicate the same essential thought through flowers.
+
+The intended sentence is:
+
+> **I think there is more than meets the eye to you, and I want to see what tomorrow looks like.**
+
+- **Jim's version is already arranged on his table** when Kate arrives.
+- **Kate arrives carrying her version as a bouquet.**
+- The emotional payoff is that both of them have independently chosen flowers to say substantially the same thing. This is not another contest to see who can out-escalate the other; it reveals mutual curiosity, hope, and desire for continuation beneath their competitive flower-language game.
+- They are both already established as genuinely fluent in floriography, so the scene does not depend on either character failing to understand the message.
+- Exact flower species/combinations for this sentence remain to be selected from a coherent documented floriography vocabulary unless Jim separately establishes them.
+
+#### Jim's food-preference reconnaissance and invitation
+
+Before Jim invites Kate to dinner, he sends **several not-very-subtle texts probing her food preferences**. The questions should still feel like Jim and Kate's ongoing flirtatious texting rather than a formal dietary questionnaire. Jim is gathering enough information to cook specifically for Kate while trying, not especially successfully, to disguise why he wants the information.
+
+The dinner invitation follows this reconnaissance. The sequence matters: Jim first learns what Kate likes, then invites her over, and the eventual meal demonstrates that he listened.
+
+Jim remains established as a **very good cook** and **quite domestic**. The cooking is genuine existing competence, not a new performance invented for the date/not-date.
+
+#### Continued selfie flirting before the not-date
+
+Jim continues the already-established selfie flirting in the interval before the home not-date. The teenage-girl energy in the photographs does not disappear after Chapter Five; he now has enough confidence to knowingly play to Kate's attraction and enjoy being looked at.
+
+#### Home-not-date presentation — oversized men's dress shirt
+
+When the home not-date arrives, Jim demonstrates the visual adage that there is little sexier than a beautiful woman in an oversized men's dress shirt. The important established beat is the **presentation and energy**:
+
+- Jim wears an **oversized men's dress shirt** for the home not-date.
+- He now has the confidence/energy to **pull the look off**, rather than looking like he is hiding inside borrowed clothing or defensively performing masculinity.
+- The shirt creates a deliberately sexy contrast with the futch/women's-clothing exploration that preceded it: the garment is men's clothing, but the overall visual effect reads to Kate with the familiar charge of a beautiful woman wearing an oversized man's shirt.
+- This visual beat must not be converted into narrator-declared identity proof. Jim's current self-understanding and the story's unresolved identity trajectory remain intact; Kate may experience the attraction and familiar visual grammar without gaining authority to declare what Jim is.
+
+The exact calendar day of the home not-date, exact menu, exact flower species, and physical/romantic endpoint remain unresolved unless Jim establishes them separately.
