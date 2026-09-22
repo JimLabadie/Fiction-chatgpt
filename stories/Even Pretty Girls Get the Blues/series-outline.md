@@ -22,7 +22,7 @@ Kate: deliberately purchased bodycon dress, Louboutin heels, coordinated unseen 
 
 Texting themes before/during setup: interiors/decorating; fabrics/textures; flowers/plants; clothes/presentation/fit; domestic objects/table settings/linens; beauty/aesthetic judgments; comfort rituals. Jim does not recognize the feminine-coded cluster.
 
-After the secondhand store, Kate takes Jim to **Halloway Park — The Hollow**, a location selected from recovered/developed St. Claire evidence for story-local use. It is her place to separate from the world and breathe, associated with an earlier outwardly ordinary but personally perfect day.
+After the secondhand store, Kate takes Jim to **Halloway Park — The Hollow**, a reusable St. Claire location recovered from St. Claire reference material and approved by Jim into maintained St. Claire canon. It is her place to separate from the world and breathe, associated with an earlier outwardly ordinary but personally perfect day.
 
 Jim brings his favorite picnic shaped by Nonna Maria Russo's Sicilian joyful-abundance food tradition: frittata, pressed sandwiches/stuffed rolls, marinated vegetables, beautiful fruit, and lemon-ricotta-cake/crostata-family sweet. Handmade picnic linens. Jim quietly protects Kate's dress/Louboutins at the park; care, not criticism.
 
