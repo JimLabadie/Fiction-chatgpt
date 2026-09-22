@@ -1136,8 +1136,6 @@ A moment later she crossed the room perfectly composed.
 
 She smiled at a table, turned away, and the smile vanished before she'd completed the turn.
 
-When Greta Sorensen passed with a reset, Pilar thanked her and touched her arm briefly, like the contact had steadied something.
-
 Nothing dramatic.
 
 Just a woman having a shit night while being extremely competent in public.
