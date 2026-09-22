@@ -2922,6 +2922,35 @@ Consistent with Household Economics in St_Claire_00_Concept.md: affluence is a h
 - Animals/Pets: a scrappy former stray cat named Marigold
 - Saturday Brunch Rotation: not applicable — works the farmers market every Saturday morning
 
+
+**Tamsin Rios (single) Household**
+- Members: Tamsin Rios
+- Relationship structure: single (dating/open to it)
+- Residence: Keystone Lofts and Market Hall, residential lofts, unit not individually numbered
+- Household economic status: modest to comfortable — single service-industry income, newly employed after unemployment
+- Assets: a used blue Honda Fit with a scuffed rear bumper; primary user Tamsin Rios
+- Animals/Pets: none
+- Saturday Brunch Rotation: Hearthside Bakery, 12:00 PM, Week A (biweekly)
+
+**Greta Sorensen (single) Household**
+- Members: Greta Sorensen
+- Relationship structure: single (dating/open to it)
+- Residence: Anchor Point, unit not individually numbered
+- Household economic status: modest, stable — land-trust protected housing and service-industry income
+- Assets: a well-used cream step-through bicycle with a front basket; primary user Greta Sorensen; no car
+- Animals/Pets: a gray-and-white rescue cat named Fork, primary caretaker Greta Sorensen
+- Saturday Brunch Rotation: The Daily Grind, 10:00 AM, Week B (biweekly)
+
+**Cass Bellerose (single) Household**
+- Members: Cass Bellerose
+- Relationship structure: single (dating/open to it)
+- Residence: Riverside Terrace, unit not individually numbered
+- Household economic status: working-class, stable — single restaurant income
+- Assets: a dark green 2013 Subaru Impreza with a dent in the passenger-side door; primary user Cass Bellerose
+- Animals/Pets: none
+- Saturday Brunch Rotation: The Sunrise Counter, 10:00 AM, Week B (biweekly)
+
+
 ---
 
 ## Index (for duplicate-checking)
