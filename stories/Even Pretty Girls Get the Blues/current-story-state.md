@@ -91,3 +91,17 @@ Current relationship/courtship state:
 - No formal relationship label, identity declaration, or Jim/Emily resolution occurred.
 - The “not-date” joke remains active, but the reciprocal courtship itself is no longer plausibly accidental.
 - End point for continuation: Thursday night after Kate leaves Jim's home carrying the take-home tamales; Jim has asked her to text when she gets home.
+
+
+## Current development handoff — Friday after approved Chapter Six
+- Six chapters are approved; the latest approved manuscript is Chapter Six, **Thursday**.
+- Next developed narrative unit is Friday daytime: Jim and Kate play hooky for a Lesbian Games thrift-store rematch, then visit Kate's meaningful park for Jim's picnic. The chapter completes the daytime thrift + park/picnic experience; the following chapter begins at Blush.
+- Shared interiors/home decorating passion is established; exact thrift finds/arguments remain scene development.
+- Jim's approved Friday outfit: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, carabiner. A tiny unconscious feminine touch remains unresolved pending Jim's selection.
+- Kate buys a bodycon dress specifically for the not-date and pairs the deliberate femme counterstrike with Louboutin heels and unseen lingerie. Exact dress color/design, Louboutin model, hair/makeup/jewelry remain unresolved pending Jim's approval.
+- Jim is a software engineer. Kate is a middle manager at a logistics company. Exact employers are intentionally unspecified and not currently story-important.
+- Picnic source: Nonna Maria Russo, Sicilian neighborhood grandmother and heart of Jim's old neighborhood. Approved feast structure: frittata, pressed sandwiches, marinated vegetables, beautiful fruit, lemon-ricotta-cake/crostata-family sweet; Jim's favorites shaped by Maria's joyful abundance.
+- Jim made the picnic linens. At the park he quietly protects Kate's dress and Louboutin heels without criticizing or diminishing her femme presentation; this nearly makes Kate cry, which she will emphatically deny.
+- Kate's park meaning: an earlier ordinary but perfect St. Claire day; she returns there to separate from the world and breathe. Halloway Park/The Hollow exists in St. Claire developed-reference evidence and is a strong candidate, but has not yet been selected/promoted for this story.
+- Friday flower meanings are fixed; exact flower constructions remain unresolved.
+- Friday texting should involve increasingly feminine-coded themes Jim discusses without recognizing the category; exact themes remain to be selected.
