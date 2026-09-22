@@ -1,4 +1,4 @@
-# Chapter Four — Candidate
+# Chapter Four — So Not a Date
 
 Jim had been hungry for at least an hour.
 
