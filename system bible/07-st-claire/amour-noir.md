@@ -13,7 +13,7 @@ Authority note: Audited and promoted from `developed-reference` by Jim on 2026-0
 - **Owner/leadership:** Dominique "Dom" Cruz
 - **Price tier / accessibility:** Upper-tier; candlelight-and-organic-wine pricing.
 - **Community role:** Designed explicitly for queer courting — first dates, anniversaries, and proposals. Choosing Amour Noir for a supposed “not-date” is therefore culturally and socially incriminating.
-- **Operating hours:** Closed Mondays. Tuesday–Saturday dinner service, 6:00 PM–11:00 PM. Sunday dinner service closes early; exact Sunday opening/closing hours remain to be established.
+- **Operating hours:** Closed Mondays. Tuesday–Saturday dinner service, 6:00 PM–11:00 PM. Sunday dinner service, 6:00 PM–10:00 PM.
 - **Reservations:** Reservations are the normal service model. Walk-in accommodation is possible only at staff discretion when capacity allows; it is not guaranteed.
 - **Seating capacity:** 26.
 - **History:** Not yet determined.
