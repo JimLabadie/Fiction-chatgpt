@@ -44,3 +44,23 @@ Begins immediately after Chapter One unless Jim establishes a time jump.
 - Kate privately sees Jim become briefly unguarded over a gorgeous pair of heels, thinks *there she is again*, and deliberately does not turn the observation into an identity declaration or conversation.
 - Jim buys the flamingo lamp; Kate carries it despite hating it.
 - End state: they leave the pop-up together and go looking for dinner, still insisting they are not dating.
+
+
+## Approved Chapter Four — So Not a Date
+- Same Friday night, directly after Chapter Three.
+- Jim and Kate reach Amour Noir while continuing to insist they are not on a date.
+- Because a Friday cancellation has left a small two-top open, Selene Dupond can accommodate them as walk-ins; this is luck and staff discretion, not guaranteed walk-in access.
+- Selene answers Jim's emphatic not-date disclaimer with “Good luck with your proposal.”
+- The dining room repeatedly reads/accepts Jim without the familiar pause, correction, or demand for explanation. Kate notices that Jim's defensive shoulder/wall response repeatedly fails to appear.
+- Kate explicitly tells Jim his flannel/boots/carabiner presentation is “abso-fucking-lutely adorable” and hot.
+- Pilar Zamora is visibly having a bad night while remaining professionally competent. Jim quietly notices and tells her that their table is the “no-problem table”: delays, forgotten details, or empty water glasses will not matter, and she does not owe them perfection.
+- Jim does not demand Pilar's story or attempt to fix her underlying problem. Pilar visibly relaxes and later jokingly reports her night improving from five percent to seven percent.
+- Kate sees Jim's kindness occur without masculine self-monitoring and privately recognizes the open, funny, soft, mischievous, kind version of him as the real Jim. This remains observation, not identity diagnosis.
+- Jim notices the accumulated lack of social friction and concludes that he has finally figured out how to be a guy / mastered masculinity.
+- Kate privately recognizes a possible futch reading and finds it extremely attractive, while deliberately refusing to dictate whether it is Jim's lasting region, a doorway, or both.
+- After the Pilar interaction, Kate abruptly demands Jim's phone number and invents “medical emergency” as the absurd respectable reason she needs to be able to reach him.
+- Jim and Kate exchange numbers and make the medical-emergency excuse a shared joke.
+- They share dessert while continuing to deny all evidence that the evening resembles a date.
+- Selene sends them out with “Good luck with the medical emergency.”
+- Outside, Jim sends the first text: **MEDICAL EMERGENCY.** The emergency is remembering the ceramic cat from the thrift pop-up. Kate replies **Blocked.** Jim answers **you'd miss me**; Kate replies **Unfortunately.**
+- End state: Jim and Kate continue walking together. Kate carries the flamingo lamp; Jim wears the flannel, boots, and carabiner; they now have each other's phone numbers and an established private texting joke.
