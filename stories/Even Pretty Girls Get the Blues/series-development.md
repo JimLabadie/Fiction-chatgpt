@@ -409,3 +409,25 @@ Jim wants to explore **mole, tamales, or something Colombian** for Jim's home-co
 Strong candidate: **tamal tolimense / Colombian Tolima-style tamales**, a substantial banana-leaf-wrapped preparation that can include seasoned corn masa, rice/peas, potato and mixed meats such as pork and chicken depending on the recipe/tradition. It is labor-intensive enough to demonstrate Jim's genuine domestic/cooking competence and has a warm, cared-for quality suitable for the home not-date.
 
 Other Colombian directions remain available if Jim wants the dinner to feel less like a labor-intensive wrapped centerpiece; no alternate dish is selected yet.
+
+
+### Jim-established dinner emotional mechanism — inherited Colombian recipe
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION; EXACT DISH/REGIONAL RECIPE STILL TO BE FINALIZED.**
+
+The home not-date dinner is intended to be **emotionally devastating for Kate in a tender way** because the food tastes like the cooking she remembers from her grandmother. The impact is not merely technical authenticity or Jim successfully reproducing a recipe from an internet search. Google may help Jim with practical details while preparing for Kate, but the intangible quality that makes the dish land is the care and love already embedded in how he learned to cook.
+
+Jim's cooking history now includes an important childhood/life influence: **neighborhood grandmothers/older women taught him to cook**, and one of those women was **Colombian**. Learning from these women was a meaningful part of Jim's life. He cherishes the experience and the recipes they gave him to this day. This is part of why his domestic competence feels lived-in rather than newly researched or performed for Kate.
+
+For the Colombian dish served to Kate:
+- The recipe Jim uses is **the Colombian woman's actual handed-down recipe as Jim learned and preserved it**, not a generic internet recipe.
+- Jim may use Google as a modern practical aid/check while cooking, but Google is not the source of the dish's heart, technique, or inherited recipe.
+- The food unexpectedly evokes **Kate's grandmother's cooking** strongly enough to touch her deeply.
+- The similarity should not require a contrived claim that two grandmothers had an identical written recipe. The intended recognition is sensory and emotional: the accumulated technique, care, seasoning instincts, texture, aroma, and “made by someone feeding people she loves” quality are what hit Kate.
+- Jim should **share the provenance of the recipe with Kate** rather than keeping it mysterious: a Colombian neighborhood grandmother/older woman taught him, it mattered to him, and he has kept making her recipe because he cherishes both the food and what she gave him.
+- Jim's disclosure is not a brag or a romantic trick. He tells Kate because the recipe and the woman who taught it to him matter to him.
+- Kate's emotional response should be allowed to land fully. This is a moment where Jim accidentally reaches something intimate and familial in her through food before either of them can turn the scene back into a joke.
+- The meal therefore advances the same larger home-not-date discovery: Kate is seeing a deeply domestic, nurturing, memory-preserving part of Jim that existed long before she met him.
+- Exact identity/name of the Colombian woman, Jim's age when she taught him, neighborhood/location, exact dish, and exact connection to Kate's grandmother remain unresolved unless Jim establishes them.
+
+**Current menu direction:** a Colombian tamal remains a strong candidate because it naturally supports inherited household technique and a handed-down recipe, but the exact Colombian dish/regional preparation is not established by this decision alone.
