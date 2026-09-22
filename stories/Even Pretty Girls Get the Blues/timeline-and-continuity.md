@@ -107,6 +107,7 @@ Begins immediately after Chapter One unless Jim establishes a time jump.
 - Friday follows directly after Thursday.
 - Jim Caldwell is a software engineer; Kate Rivera is a middle manager at a logistics company. Employer names intentionally unspecified.
 - Kate proposes playing hooky for a Lesbian Games rematch and secondhand/thrift shopping; Jim requires that she also take him somewhere genuinely meaningful to her.
+- The Friday secondhand/home-goods outing is at the reusable St. Claire establishment **My Exes' Abandoned Stuff**, distinct from the earlier clothes-focused thrift experience. Kate is a regular and knows Mara Singh best. Mara immediately clocks Kate's Louboutin escalation with delighted high-femme recognition — an unmistakable **“ohhhhhhh, the Loubis”** beat — then looks from the shoes to Kate, to Jim, and back to Kate. Jim has become evidence before he understands the case.
 - Shared passion: interiors/home decorating, including vigorous disagreements.
 - Jim's Friday presentation: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, carabiner, and a delicate gold chain chosen unconsciously because it makes the outfit look “finished.”
 - Kate's counterstrike: deliberately purchased bodycon dress, Louboutin heels, coordinated unseen lingerie, polished deliberate femme styling.
