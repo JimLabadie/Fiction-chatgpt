@@ -442,3 +442,26 @@ The Colombian neighborhood grandmother/older woman who taught Jim the inherited 
 Sofía was one of the neighborhood older women who taught Jim to cook and was an important part of his life. Jim still cherishes what she taught him and preserves her recipe. The Colombian dish served to Kate should come from **Sofía's own region or a nearby/closely connected regional food tradition**, so the recipe has a concrete cultural home rather than being generic “Colombian food.”
 
 Do not invent Sofía's Colombian region merely to fill the field. The exact region and therefore the exact regional tamal/dish remain the next scene-planning choice. Once selected, the dish should be checked for regional fit before being locked.
+
+
+### Jim-approved lock — third floral sentence
+
+**Status: JIM-APPROVED SCENE PLAN.**
+
+The previously proposed third floral constructions are now locked for the home not-date.
+
+**Jim's table arrangement:** coriander (“hidden worth”), crimson polyanthus (“the heart's mystery”), anemone / zephyr flower (“expectation”), and hawthorn (“hope”).
+
+**Kate's carried bouquet:** mignonette (“your qualities surpass your charms”), clematis (“mental beauty”), gooseberry (“anticipation”), and lesser celandine (“joys to come”).
+
+They independently arrive at the already-established shared sentence: **I think there is more than meets the eye to you, and I want to see what tomorrow looks like.** Their different botanical vocabularies are intentional: the emotional equivalence is the revelation.
+
+### Jim-approved lock — Sofía Méndez and the inherited tamal direction
+
+**Status: JIM-APPROVED CORE; ONE REGIONAL LINK REQUIRES FINAL AUTHOR SELECTION.**
+
+The Colombian neighborhood grandmother/older woman is canonically **Sofía Méndez**. Jim's lived relationship to her is through an affectionate grandmother address rather than her formal name; **Abuelita** (“little grandma”) is the working culturally natural form, with the exact habitual form (for example, Abuelita or Abuelita Sofía) to be finalized without changing the relationship.
+
+The dinner is now locked as an **inherited Colombian tamal-family recipe**, not mole and not a generic internet-derived Colombian dish. Jim learned it through Sofía and still makes it as an act of memory and affection. It is the dish that hits Kate with the sensory force of her own grandmother's cooking.
+
+Jim additionally wants the exact tamal tradition to come from a Colombian region **geographically/culturally near Sofía's own home region**, rather than choosing an arbitrary nationally generic recipe. The precise pairing of Sofía's home region and the neighboring tamal tradition remains to be selected and fact-checked before prose; do not invent that regional relationship.
