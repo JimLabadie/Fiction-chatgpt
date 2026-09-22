@@ -3,18 +3,18 @@
 Status: ACTIVE HANDOFF
 
 ## Manuscript status
-Four chapters are approved and preserved:
+Six chapters are approved and preserved:
 1. Chapter 1 — **Friday at Eight** — `chapters/approved/001-friday-at-eight.md`
 2. Chapter 2 — **Kindred Spirits** — `chapters/approved/002-kindred-spirits.md`
 3. Chapter 3 — **Worth the Risk** — `chapters/approved/003-worth-the-risk.md`
 4. Chapter 4 — **So Not a Date** — `chapters/approved/004-so-not-a-date.md`
+5. Chapter 5 — **Chapter Five** — `chapters/approved/005-chapter-five.md`
+6. Chapter 6 — **Thursday** — `chapters/approved/006-thursday.md`
 
 ## Current canonical story point
-Still Friday night, directly after Chapter Four.
+Thursday night, at the end of approved Chapter Six.
 
-Jim Caldwell and Kate Rivera have left Amour Noir together after their emphatically-not-a-date dinner and are walking through St. Claire. Kate is still carrying Jim's pink flamingo lamp. They now have each other's phone numbers.
-
-Their mutual attraction, trust, and playful intimacy have deepened substantially. Kate has now directly told Jim that his flannel/boots/carabiner presentation is “abso-fucking-lutely adorable” and hot. Jim has spent much of the evening increasingly relaxed and unguarded.
+Jim Caldwell and Kate Rivera have completed their first home not-date at Jim's home. Their courtship is now unmistakably reciprocal without a formal relationship label or first kiss. They independently composed floral messages expressing the same desire to know more of the other and to have a tomorrow; Kate has experienced Jim's inherited Abuelita Sofía tamales as powerfully reminiscent of her own grandmother; Jim has seen that Kate understands the love carried by the recipe. The evening ended with a long reciprocal hug that brought both close to tears. Kate left with tamales Jim deliberately prepared for her to have tomorrow, and Jim asked her to text when she got home.
 
 ## Chapter Four continuity
 - Jim and Kate reached Amour Noir without a reservation.
@@ -74,3 +74,20 @@ Current relationship/courtship state:
 - Kate has told Jim directly through the floral exchange that he is safe with her. Jim has directly told Kate she is beautiful.
 - Their “better lesbian” argument is now an active private joke.
 - The next date/not-date remains unscheduled. The third floral exchange remains established for the later Jim-at-home scene, whose calendar day also remains unresolved.
+
+
+## Chapter Six approval update
+Chapter Six — **Thursday** — is approved and preserved at `chapters/approved/006-thursday.md`.
+
+Current relationship/courtship state:
+- Thursday follows directly after Wednesday's floral retaliation.
+- Jim continues deliberately flirtatious selfies and the teenage-girl texting energy while still interpreting his increasingly effective presentation as successful masculinity.
+- Kate has now been inside Jim's home and seen the private domestic life that predates her: warm, sophisticated/elegantly feminine, intentionally composed, nurturing, and immaculately kept.
+- Jim and Kate independently constructed different flower arrangements that communicate essentially the same proposition: there is more to you; I want to know it; I want what comes next.
+- Jim shared Abuelita Sofía Méndez and her Huila/Tolima tamal-family recipe with Kate. Kate's response connected the food directly to memories of her own grandmother, and Jim understood that as evidence he had succeeded at carrying forward the kind of love Abuelita taught him.
+- Jim remembered Kate's tres leches preference from his food reconnaissance and made it for her.
+- Jim deliberately prepared tamales for Kate to take home for tomorrow; the gesture unintentionally echoed the flowers' shared “tomorrow” message.
+- Kate initiated a long, warm hug at the end of the evening. Jim reciprocated; both were close to tears. They did not kiss.
+- No formal relationship label, identity declaration, or Jim/Emily resolution occurred.
+- The “not-date” joke remains active, but the reciprocal courtship itself is no longer plausibly accidental.
+- End point for continuation: Thursday night after Kate leaves Jim's home carrying the take-home tamales; Jim has asked her to text when she gets home.
