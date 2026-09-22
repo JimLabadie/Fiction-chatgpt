@@ -693,3 +693,25 @@ Jim approves the developed **Nonna Maria Russo picnic feast** as described: a pr
 **Occupations:** Kate Rivera is a **middle manager at a logistics company**. Jim Caldwell is a **software engineer**. Exact employers/company names are not currently story-important and remain intentionally unspecified; ordinary Friday play-hooky logistics do not require inventing company canon.
 
 **Recovered St. Claire park evidence — DISCUSSION EVIDENCE, NOT PROMOTED CANON:** the maintained St. Claire System Bible says parks/trails/green space are woven through the district and the northern hills support outdoor settings. The repository's developed-reference / unaudited development material contains a substantially developed **Halloway Park**: **The Hollow** has winding Contour Trails and is used as secluded/reflective terrain; Halloway's **Wide Green + Hollow** together operate at Sanctuary Grove scale, combining open lawns, dense tree cover, and water features; smaller Pocket nodes exist near Hearthstone Co-Housing. The same developed material explicitly says St. Claire has no formally named Ribbon Park yet. Under project governance this developed-reference material is evidence to present and discuss, not authority to silently canonize. Halloway Park is therefore the leading recovered candidate for Kate's meaningful park, subject to Jim's decision.
+
+
+### FINAL FRIDAY HANDOFF RESOLUTION — approved before conversation rollover
+
+**Status: JIM-APPROVED DEVELOPMENT DIRECTION.**
+
+- Jim's Friday outfit is locked: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, and carabiner. The tiny unconscious Emily/feminine intrusion is a **small, delicate gold chain at his throat**, chosen by Jim because it simply makes the outfit look “finished”; he does not consciously categorize it as feminine.
+- Kate's femme counterstrike is approved in concept and styling direction: a deliberately purchased bodycon dress, Louboutin heels, fully coordinated lingerie that Jim will not see, polished deliberate hair/makeup/jewelry/fragrance. Exact brand/model minutiae are not required to proceed unless later desired.
+- Kate Rivera is a middle manager at a logistics company; Jim Caldwell is a software engineer. Employer names are intentionally unnecessary at present.
+- The previously described Nonna Maria Russo picnic feast is approved as a whole, not merely a category list: abundant Sicilian/Italian-grandmother comfort-food picnic centered on frittata, pressed sandwiches/stuffed rolls, marinated vegetables, beautiful fruit, and lemon-ricotta cake/crostata-family sweet, with Jim's own preferences/evolution inside Maria's food grammar. Do not reopen menu selection merely because every filling or fruit variety was not separately canonized.
+- St. Claire recovered/developed-reference evidence must be surfaced rather than ignored merely because it is unaudited. **Halloway Park** is selected for Friday, specifically **The Hollow**: wooded ravine terrain/true forest cover inside the major anchor park. This fits Kate's established use of the place to feel separated from the world and breathe. Its source status remains recovered/developed St. Claire evidence rather than silently promoted global System Bible canon; its use is approved story-local development.
+- Friday texting themes, not exact lines: interiors/decorating; fabrics/textures; flowers/plants; clothes/presentation and fit; domestic objects/table settings/linens; beauty/aesthetic judgments; small comfort rituals. Jim discusses these naturally and increasingly enthusiastically without consciously classifying the cluster as feminine-coded.
+- Friday daytime chapter completes the secondhand/thrift-store outing and Halloway Park/The Hollow picnic. The following chapter begins at Blush.
+- Story artifacts must be synchronized after approvals; stale state is a maintenance defect, not an accepted workflow state.
+
+#### Friday flowers — resolved for handoff
+
+The emotional sentences remain exact:
+- Jim: **“I think this is a dream, and I'm not sure I want to wake up.”**
+- Kate: **“What the hell do you do to me?”**
+
+Because the repository's existing flower vocabulary does not contain a verified one-to-one Victorian-flower dictionary encoding for every word of either sentence, do **not** fabricate exact historical meanings. Treat Friday's bouquets as **their increasingly personal extension of the floral language**: the arrangement, continuity with their already-established fluency, and the accompanying recognition carry the complete sentence-level meaning. Exact species may be selected during scene planning for aesthetic/seasonal continuity without pretending an unsupported dictionary translation. If exact historical floriography is desired later, research/verify it before assigning meanings.
