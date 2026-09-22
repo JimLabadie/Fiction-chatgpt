@@ -64,3 +64,21 @@ Begins immediately after Chapter One unless Jim establishes a time jump.
 - Selene sends them out with “Good luck with the medical emergency.”
 - Outside, Jim sends the first text: **MEDICAL EMERGENCY.** The emergency is remembering the ceramic cat from the thrift pop-up. Kate replies **Blocked.** Jim answers **you'd miss me**; Kate replies **Unfortunately.**
 - End state: Jim and Kate continue walking together. Kate carries the flamingo lamp; Jim wears the flannel, boots, and carabiner; they now have each other's phone numbers and an established private texting joke.
+
+
+## Approved Chapter Five
+- Begins Saturday morning immediately after the Friday-night sequence of Chapters One through Four and continues through Wednesday.
+- Over the weekend, Jim treats his new futch presentation as a discovered “life hack” for being a guy and begins texting Kate constantly.
+- Jim's texting and selfie behavior takes on teenage-girl flirting energy. He learns quickly that Kate enjoys looking at him and increasingly poses/sends photographs specifically to provoke and enjoy her reaction.
+- Kate recognizes that her attraction to Jim in the futch/tomboy presentation feels strikingly familiar to her established attraction patterns, while continuing not to use that recognition to dictate Jim's identity.
+- Monday, Jim deliberately shops for women's futch clothing, including women's jeans, while rationalizing the clothing as androgynous / a solution to masculinity.
+- Tuesday, Jim continues shopping and deliberately weaponizes Kate's attraction through increasingly flirtatious fitting-room photographs, including a cropped women's utility jacket he insists is merely “proportional.”
+- Tuesday, Kate has a coded bouquet delivered to Jim at work: fern, juniper, gladiolus, and mignonette. Jim understands the floral language and recognizes Kate's message as sincerity/safety/protection, a masculine-coded “ready armed” taunt, and admiration extending beyond his looks.
+- Jim and Kate initially maintain the joke that neither understands the flower language, but Jim's responses reveal that he understood Kate's entire bouquet.
+- Wednesday, Jim retaliates by having an intentionally nuclear bouquet delivered to Kate at work: wild tansy, Scotch thistle, hyacinth, palm, Spanish jasmine, and glory flower. Within their shared floral vocabulary it communicates declaration of war, retaliation, play/game, victory, sensuality, and glorious beauty.
+- During the ensuing phone call, Kate and Jim openly establish that both are fluent in the floral language. Kate states plainly that her first bouquet meant he is safe with her; Jim confirms he understood.
+- Jim admits that Kate's attraction to his new presentation matters to him and that he enjoys the way she looks at him.
+- Kate calls out Jim's fitting-room-photo flirting as having teenage-girl energy; Jim denies it while continuing to behave exactly that way.
+- Jim directly tells Kate she is beautiful.
+- Their “better lesbian” competition becomes an explicit private joke; Kate reminds him he is not a lesbian, and Jim calls that a “technicality.”
+- End state: Wednesday after Jim's floral retaliation. Their attraction and courtship are increasingly explicit, but no subsequent date/not-date or home visit has yet been assigned a calendar day.
