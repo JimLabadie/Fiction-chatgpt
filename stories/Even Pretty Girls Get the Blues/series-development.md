@@ -306,3 +306,21 @@ The post-Chapter-Four material must not be raced through as a compressed bridge 
 **Status: JIM-ESTABLISHED CONTINUITY / RECOVERED PROVENANCE.**
 
 The needlepoint **ASK ME ABOUT MY EX** was **acquired at the Chapter Three thrift fundraiser pop-up** and later belongs in Jim's home. Its provenance is therefore not unresolved and must not be invented as an estate-sale find or another origin. Preserve the Chapter Three thrift-pop-up origin when the object appears again.
+
+
+### Jim-established next not-date direction — Jim cooks for Kate at home
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION / DETAILS UNDER ACTIVE DEVELOPMENT.**
+
+The next planned not-date should bring **Kate Rivera to Jim Caldwell's home**, where **Jim cooks for her**. This replaces any assumption that the next relationship beat needs to be another public outing merely because an earlier development note contemplated a later secondhand-store not-date.
+
+The point of the home visit is not simply to relocate the courtship. It gives Kate direct access to a part of Jim that already exists independently of her and of the recent futch experiment:
+
+- **Jim is a very good cook.**
+- **Jim is quite domestic.**
+- Cooking for Kate should therefore feel like Jim operating in genuine competence and comfort rather than performing a newly discovered role for her.
+- The visit can naturally reveal the already-established qualities of Jim's home: sophisticated/elegantly feminine atmosphere, warmth, welcome, nurture, beauty, intentional composition, and exceptionally meticulous housekeeping.
+- The established third floral exchange remains attached to the Jim-at-home scene unless Jim changes that decision.
+- The **ASK ME ABOUT MY EX** needlepoint in Jim's home retains its established provenance from the Chapter Three thrift fundraiser pop-up.
+- The home/cooking material must continue to function as relationship and character discovery, not as a diagnostic proof of Jim's identity. Kate may notice the larger constellation, but she does not get authority to define him from domesticity, cooking, decor, clothing, flowers, or any combination of them.
+- Exact calendar day, invitation mechanism, meal/menu, arrival/departure beats, romantic/physical escalation, and chapter boundaries remain unresolved unless separately established by Jim.
