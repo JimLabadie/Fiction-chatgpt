@@ -100,3 +100,19 @@ Begins immediately after Chapter One unless Jim establishes a time jump.
 - Kate responds by initiating a long, warm hug. Jim reciprocates fully. Both are close to tears; they do not kiss and do not convert the moment into a formal identity or relationship declaration.
 - They preserve the “still not a date / extremely not” joke at the door. Jim asks Kate to text when she gets home; Kate answers “Of course,” deliberately echoing his language of care.
 - End state: Thursday night. Courtship is unmistakably reciprocal, their desire for a next time has been independently expressed in flowers and domestic action, and their physical intimacy has advanced to a sustained reciprocal hug without a kiss or formal relationship label.
+
+
+## Developed next sequence — Friday after Chapter Six
+**Status: DEVELOPMENT CONTINUITY; not manuscript canon until drafted/approved.**
+- Friday follows directly after Thursday's approved home not-date.
+- Jim Caldwell: software engineer. Kate Rivera: middle manager at a logistics company. Employer names intentionally unresolved/not currently needed.
+- Kate proposes playing hooky for a Lesbian Games rematch built around thrifting/secondhand shopping.
+- Jim agrees on condition that Kate take him somewhere genuinely meaningful to her.
+- Jim's approved presentation: very dark high-waisted slim women's trousers, fitted white top, close-fitted charcoal/black waistcoat, black boots, carabiner; one tiny unconscious feminine touch remains unresolved.
+- Kate deliberately buys a bodycon dress for the not-date and plans Louboutin heels plus unseen lingerie as her high-femme counterstrike; exact styling remains unresolved.
+- Thrifting reveals/uses their established shared passion for interiors/home decorating and their vigorous disagreements within it.
+- Kate's meaningful place is a St. Claire park tied to an outwardly ordinary but personally perfect earlier day; she returns there to feel separated from the world and breathe. Halloway Park/The Hollow is recovered development evidence and a candidate, not yet story-selected canon.
+- Jim brings his own favorite picnic shaped by Nonna Maria Russo: frittata, pressed sandwiches, marinated vegetables, beautiful fruit, and a lemon-ricotta-cake/crostata-family sweet, all suitable cold/room-temperature and packed with joyful abundance.
+- Jim's handmade cloth napkins/tablecloth are revealed. He quietly protects Kate's dress and Louboutin heels from the park environment without framing her presentation as impractical.
+- Floral messages: Jim — “I think this is a dream, and I'm not sure I want to wake up.” Kate — “What the hell do you do to me?” Exact flowers unresolved.
+- The Friday daytime chapter completes thrift store plus park/picnic. The following chapter begins at Blush.
