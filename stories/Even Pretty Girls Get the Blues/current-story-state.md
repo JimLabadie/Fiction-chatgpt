@@ -11,7 +11,7 @@ Three chapters are approved and preserved:
 ## Current canonical story point
 Still Friday night, directly after Chapter Three.
 
-Jim Caldwell and Kate Rivera have left the temporary community medical-fundraiser thrift pop-up together and are going to find dinner while emphatically insisting that they are not dating.
+Jim Caldwell and Kate Rivera have left the temporary community medical-fundraiser thrift pop-up together and are going to find dinner while emphatically insisting that they are not dating. Their developed destination is Amour Noir.
 
 Their mutual attraction, trust, and playful intimacy have deepened substantially across the night. Jim has deliberately turned lesbian stereotypes into play, proved unexpectedly good at the thrift challenge, and become visibly more joyful and less defended. Kate is increasingly attracted to him rather than merely curious about him.
 
@@ -30,7 +30,7 @@ Kate has privately noticed Jim's brief, unguarded attraction to a gorgeous pair 
 Jim's newly emerging futch/butch-coded lane is developed as a possible gateway and authentic region, not a fixed identity label or predetermined destination. Jim can interpret the ease as finally succeeding at being a guy while St. Claire's familiar sapphic context may reduce the friction that normally makes him brace and self-correct. Kate notices the absence of that defensive transition and also finds him extremely attractive in this presentation.
 
 ## Immediate developed continuation — not yet manuscript canon
-The next dinner is now developed at **Amour Noir**, the maintained St. Claire romantic dinner club in Greenleaf Core. Jim and Kate did not plan the dinner in advance, so the exact seating/walk-in circumstance must respect Amour Noir's maintained operating rules and remains to be resolved before prose.
+The next dinner is now developed at **Amour Noir**, the maintained St. Claire romantic dinner club in Greenleaf Core. Jim and Kate did not plan the dinner in advance. Amour Noir's maintained rules allow walk-in accommodation only at staff discretion when capacity permits, so the scene may use a genuinely available two-top rather than inventing a reservation; availability is luck, not entitlement. The maintained Amour Noir weekly schedule now establishes the full Friday peak roster on duty: Dom Cruz, Renata Alves, Colette Fournier, Iris Thorne, Simone Laurent, Pilar Zamora, Marisol Vega, Tamsin Rios, Selene Dupond, Greta Sorensen, and Cass Bellerose.
 
 The dinner has a substantive developed emotional beat involving established Amour Noir server **Pilar Zamora** having a visibly terrible shift/day. Jim notices and quietly helps her person-to-person without performing goodness for Kate. Kate should catch only pieces or the aftermath rather than receiving a staged demonstration. Pilar's night becomes genuinely less awful without her underlying problem being magically solved. Kate's reaction is close in spirit to, *God damn it, I did not just see that.*
 
@@ -44,4 +44,4 @@ After that emotional residue, Jim and Kate finally confront the absurdity that t
 - The long-term comic danger of the **Femme Borg** remains developed direction, not permission to rush Jim/Emily's self-understanding or treat futch as fake.
 
 ## Resume rule
-Resume from the approved Chapter Three ending. Before drafting the Amour Noir dinner, retrieve the mandatory router-selected modules, maintained Amour Noir authority, and active story records, and resolve any hard scene-gate blockers including actual walk-in/seating feasibility and required on-duty staff. Do not genericize a missing staff member or establishment function to get around an unresolved infrastructure problem.
+Resume from the approved Chapter Three ending. Before drafting the Amour Noir dinner, retrieve the mandatory router-selected modules, maintained Amour Noir authority, active story records, and the project/story guidance governing description, scene initialization, physical detail, and prose fidelity. Friday staffing is now resolved by maintained Amour Noir canon. Walk-in entry must remain capacity-contingent and staff-discretionary: the prose may establish that a two-top happens to be available, but must not imply walk-ins are normally guaranteed. Do not genericize a missing person, place, presentation detail, or establishment function to evade the hard scene gate.
