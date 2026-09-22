@@ -59,3 +59,18 @@ The deeper femme ache around heels, dresses, hair, and presentation remains deve
 
 ## Resume rule
 Resume from the approved Chapter Four ending. Before substantive development or drafting, retrieve the mandatory router-selected modules and active story records. Preserve the exact distinction between what Jim currently believes about his presentation, what Kate observes, and what remains unresolved. Do not convert Kate's private observations into diagnostic authority or prematurely resolve Jim/Emily's identity.
+
+
+## Chapter Five approval update
+Chapter Five is now approved. The approved manuscript continues from Friday night into Saturday through Wednesday without assigning a day to the next date/not-date or Jim-at-home scene.
+
+Current relationship/courtship state:
+- Jim and Kate text constantly enough for Jim's relaxed texting voice and selfie behavior to show pronounced teenage-girl energy.
+- Jim spent the weekend experimenting with his futch “life hack,” then deliberately shopped Monday and Tuesday for women's futch clothing while continuing to rationalize it as successful masculinity.
+- Jim knows Kate finds this presentation hot and has begun deliberately flirting for her reaction in the photographs he sends.
+- Kate recognizes the familiar hot-girl-in-tomboy-clothes shape of her own attraction without treating that recognition as authority over Jim's identity.
+- Kate's first bouquet was delivered to Jim at work Tuesday; Jim's deliberately nuclear answering bouquet was delivered to Kate at work Wednesday.
+- Both now know explicitly that the other is genuinely fluent in their chosen flower language; plausible deniability remains part of the game rather than actual ignorance.
+- Kate has told Jim directly through the floral exchange that he is safe with her. Jim has directly told Kate she is beautiful.
+- Their “better lesbian” argument is now an active private joke.
+- The next date/not-date remains unscheduled. The third floral exchange remains established for the later Jim-at-home scene, whose calendar day also remains unresolved.
