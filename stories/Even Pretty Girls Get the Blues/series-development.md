@@ -485,3 +485,61 @@ The eventual meal demonstrates both that Jim listened to Kate's answers and that
 **Status: JOINTLY DEVELOPING; NOT YET AUTHOR-APPROVED MENU DETAIL.**
 
 Jim wants at least one additional component of the dinner to communicate, through action rather than an explicit declaration: **you are important to me, and I am courting you.** It should complement rather than compete with Abuelita's tamales. The desired signal is deliberate care, forethought, and intimacy: something Jim chose or made specifically because Kate was coming, ideally connected to information he gathered in the food-reconnaissance texts. Avoid turning the meal into an overbuilt tasting menu; the inherited tamal remains the emotional center.
+
+
+### Jim-approved home not-date meal — Abuelita's tamales, tres leches, and “tomorrow” food
+
+**Status: JIM-APPROVED SCENE PLAN.**
+
+The previously proposed courtship-food structure is now established for the Jim-at-home not-date. The dinner should make **both Jim and Kate emotionally melt**, but for different and reciprocal reasons. It is not an elaborate restaurant-style tasting menu; each element has a relationship job.
+
+#### Pre-dinner reconnaissance
+
+Jim's apparently random food-preference texts are all questions whose answers help him plan this exact dinner. They cover ingredients and tolerances relevant to **Abuelita Sofía's Huila/Tolima tamal-family recipe**, plus Kate's dessert/drink preferences. The questions are distributed among ordinary flirting and selfies, so Kate recognizes that Jim is obviously gathering food information but does not infer the Colombian roots or identify the meal in advance.
+
+Only after eating does Kate understand how completely Jim listened: details she tossed off in texts have been incorporated into the evening.
+
+#### Main dish — Abuelita Sofía's tamales
+
+Sofía Méndez is from **Huila** and belongs in Jim's memory principally as **Abuelita**, with **Abuelita Sofía** natural when clarity is needed. The recipe Jim preserves belongs to the historically/culturally connected Huila–Tolima / “Tolima Grande” tamal tradition. Jim calls them **Abuelita's tamales** rather than treating the dinner like a regional-food lecture.
+
+The recipe came to Jim through Abuelita and the neighborhood-kitchen experience he treasures. Modern Google help can support shopping, substitutions, memory checks, or practical preparation, but it is not the source of the recipe's technique or emotional heart.
+
+Kate is blindsided by the Colombian connection. The opened leaf, aroma, texture, seasoning, and accumulated household technique hit her with the sensory force of **her own grandmother's cooking**. She may need a second bite to understand why she has suddenly gone quiet.
+
+When Kate asks where Jim learned it, Jim shares Abuelita with her. The disclosure is simple and affectionate: Sofía Méndez lived in his neighborhood, taught him in her kitchen, mattered deeply to him, and is still “Abuelita” in his memory. He continues making her recipe because keeping it is one way he keeps what she gave him.
+
+Kate then tells Jim why the food affected her: it tastes like her grandmother's. Jim does not compete with or over-explain the moment. The emotional center is that two women who never met can nevertheless meet across this dinner through the domestic language they taught the people they loved.
+
+A preferred understated Jim response is the already-developed possibility **“Then I got it right.”** Treat the exact line as a scene-level candidate until it exists in approved prose; its intended meaning is not “I reproduced the recipe correctly” but “I succeeded at feeding you with the same kind of love.”
+
+#### Dessert — tres leches remembered from Kate's answer
+
+Kate has previously mentioned during Jim's food reconnaissance that she loves **tres leches**. Jim remembers and makes it for her. Dessert communicates something distinct from the tamales:
+
+- the tamales say **I am trusting you with something precious from my life**;
+- the tres leches says **I listen to you, remember small things you tell me, and prepared this specifically because you were coming**.
+
+Kate should not learn that Jim made it because she mentioned it until the dessert appears. Jim treats remembering as obvious rather than extraordinary, which makes the gesture more intimate rather than less.
+
+#### Tomorrow tamales — courtship made tangible
+
+Jim intentionally makes enough tamales for Kate to take some home. This is not accidental leftover management. A container/portion is already intended for her.
+
+The take-home food quietly says **I am thinking about you after tonight**. This deliberately harmonizes with the matched third floral sentence already present in the room: **I think there is more than meets the eye to you, and I want to see what tomorrow looks like.**
+
+The flowers say *tomorrow* symbolically; Jim's domestic instinct gives Kate something from him **for tomorrow**. Jim does not need to have consciously engineered that parallel. Kate can recognize it even if he simply regards sending someone he cares about home with food as obvious.
+
+#### Table/hosting as courtship
+
+The courtship signal is also environmental rather than confined to the menu. Jim has prepared his home **for Kate to be there**: two intentional place settings, good dishes, cloth napkins, the locked floral arrangement on the table, her preferred drink available, and music/lighting arranged for warmth and conversation rather than spectacle. Avoid turning this into generic candlelit-romance staging or restaurant cosplay. It should look like a deeply domestic person deliberately welcoming someone important into his home.
+
+Jim has completed enough cooking before Kate arrives that he can **host her** rather than disappear into kitchen labor. His competence is relaxed and lived-in.
+
+#### Reciprocal emotional melt
+
+Kate's melt is cumulative: Jim's dress-shirt presentation and continued attraction game; the discovery that their two flower arrangements independently say essentially the same vulnerable thing; the realization that the food questions were all about caring for her; Abuelita's tamales unexpectedly reconnecting her to her own grandmother; the dessert proving Jim remembers small things; and the tomorrow food revealing that his care extends past the evening.
+
+Jim must also be allowed to melt. Kate's response to Abuelita's recipe matters profoundly to him because she understands what he is actually giving her. Her recognition that the food carries love validates a cherished part of Jim's history rather than merely praising his cooking. Kate arriving with a bouquet that independently answers his own floral sentence also tells Jim that his desire for a tomorrow is reciprocated. The home not-date therefore should not become one-directional “Jim devastates Kate with competence.” **Both discover that the other has independently been building toward the same emotional proposition: you matter to me; I want to know more of you; I want there to be a next time.**
+
+Neither character needs to convert that realization immediately into a formal relationship declaration. The power of the scene is that the courtship has become unmistakable even while the “not-date” joke remains available to them.
