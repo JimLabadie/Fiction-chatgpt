@@ -39,27 +39,44 @@ These seven are persistent reusable St. Claire characters, not story-local inven
 
 ## Staffing audit
 
-**Current status: FAILED / incomplete infrastructure.**
+**Current status: COMPLETE / scene-ready.**
 
-The eleven named people now provide the establishment's core sustainable staffing roster for a 26-seat, reservations-based, high-touch full-service restaurant. The recovered St. Claire staffing rule explicitly forbids “fixing” a failed restaurant by leaving missing work as unnamed operational slots: when a real staffing requirement is missing, the missing role must be filled by a real, complete St. Claire character.
+The eleven named people provide Amour Noir's sustainable operating roster for a 26-seat, reservations-based, high-touch full-service restaurant. Friday and Saturday are the peak nights and use the full roster. Coverage is deliberately lighter on the other four service days, with named cross-coverage rather than invisible or unnamed labor.
 
-Current named coverage:
-- Owner/floor leadership — Dominique “Dom” Cruz
-- Head Chef — Renata Alves
-- Sous Chef — Colette Fournier
-- Sommelier — Iris Thorne
-- Headwaiter — Simone Laurent
-- Servers — Pilar Zamora; Marisol Vega; Tamsin Rios
-- Reservations/front table — Selene Dupond
+### Weekly service schedule
 
-Confirmed infrastructure gaps:
-- **Dishwashing/utility coverage:** missing named person.
-- **Bussing/running/reset coverage:** missing named person.
-- **Server coverage:** Pilar Zamora, Marisol Vega, and Tamsin Rios plus headwaiter Simone Laurent provide peak-service and relief-capable dining-room coverage across the six-day operating week.
-- **Kitchen resilience/prep coverage:** Head Chef + Sous Chef can cover core cook headcount at this scale, but a named utility/prep/dish function is required so those chefs are not silently doing every omitted BOH task.
-- **Relief/schedule resilience:** must be represented by real people rather than fictional “coverage” slots when the infrastructure is completed.
+Amour Noir is closed Monday.
 
-Until those people are built and canonized, Amour Noir is a canonical establishment with an explicitly unresolved staffing defect. Do not claim it is fully staffed or scene-ready.
+| Person | Tue | Wed | Thu | Fri | Sat | Sun |
+|---|---|---|---|---|---|---|
+| Dominique “Dom” Cruz | Floor lead | Floor lead | Off | Floor lead | Floor lead | Floor lead |
+| Renata Alves | Head chef | Head chef | Head chef | Head chef | Head chef | Off |
+| Colette Fournier | Off | Sous chef | Sous chef | Sous chef | Sous chef | Kitchen lead |
+| Iris Thorne | Off | Sommelier | Sommelier | Sommelier | Sommelier | Sommelier |
+| Simone Laurent | Headwaiter | Off | Headwaiter | Headwaiter | Headwaiter | Headwaiter |
+| Pilar Zamora | Server | Server | Off | Server | Server | Server |
+| Marisol Vega | Off | Server | Server | Server | Server | Server |
+| Tamsin Rios | Relief server | Relief server | Relief server | Relief server | Relief server | Off |
+| Selene Dupond | Reservations/front table | Reservations/front table | Reservations/front table | Reservations/front table | Reservations/front table | Off |
+| Greta Sorensen | Busser/runner/reset | Busser/runner/reset | Busser/runner/reset | Busser/runner/reset | Busser/runner/reset | Off |
+| Cass Bellerose | Utility/prep/dish | Utility/prep/dish | Utility/prep/dish | Utility/prep/dish | Utility/prep/dish | Utility/prep/dish |
+
+### Coverage interpretation
+
+- **Friday and Saturday:** all eleven are on duty. These are the peak reservation nights and provide the strongest server, wine, reset, kitchen, reservations, and floor-lead coverage.
+- **Tuesday:** deliberately lighter service. Renata leads the kitchen without Colette; Pilar + Tamsin cover tables with Simone; Selene handles arrivals; Greta handles reset/running; Cass owns utility/prep/dish. Selene's established wine-curation support covers the absence of Iris where wine guidance is needed.
+- **Wednesday:** Dom leads the floor; Renata + Colette cover the kitchen; Pilar + Marisol + Tamsin provide dining-room coverage without Simone; Iris handles wine; Selene arrivals; Greta reset/running; Cass utility/prep/dish.
+- **Thursday:** Renata + Colette cover the kitchen; Simone leads service with Marisol + Tamsin; Iris handles wine; Selene arrivals; Greta reset/running; Cass utility/prep/dish. Dom and Pilar are off.
+- **Sunday:** shorter 6:00–10:00 service. Dom leads the floor; Colette is kitchen lead; Simone leads dining service with Pilar + Marisol; Iris handles wine; Cass owns utility/prep/dish. Selene, Tamsin, and Greta are off; the lower-volume Sunday model does not presume invisible substitutes for them.
+- **Cass's six service days:** Cass is the one roster member scheduled across all six open days because dish/utility is a required assigned function every service. This is an explicit schedule fact, not invisible coverage. If future story use establishes that this workload is unsustainable or requires leave/relief, Amour Noir will need another named cross-trained utility person rather than silently assigning an unnamed worker.
+- Opening, closing, prep, and exact clock-in/clock-out times may be staggered within these day assignments as operational detail when needed; they do not create permission to add unnamed staff.
+
+### Friday/Saturday scene baseline
+
+For a Friday or Saturday dinner scene, the default on-duty roster is therefore:
+Dom; Renata; Colette; Iris; Simone; Pilar; Marisol; Tamsin; Selene; Greta; Cass.
+
+This schedule supersedes the earlier unresolved-staffing language. Amour Noir may now be used in scenes without inventing convenience employees, provided story-specific time, capacity, reservations/walk-in feasibility, and individual temporary absences are still checked where materially relevant.
 
 ## Drafting use
 
