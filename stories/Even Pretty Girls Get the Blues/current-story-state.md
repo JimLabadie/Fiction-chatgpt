@@ -27,7 +27,7 @@ Kate deliberately bought a bodycon dress for this not-date as a femme counterstr
 
 Friday texting themes: interiors/decorating; fabrics/textures; flowers/plants; clothes/presentation and fit; domestic objects/table settings/linens; beauty/aesthetic judgments; small comfort rituals. Jim does not consciously categorize the cluster as feminine-coded.
 
-The secondhand-store outing occurs in this chapter. The chapter then goes to **Halloway Park — The Hollow**, selected from recovered/developed St. Claire reference evidence: wooded ravine/true forest cover. Story-local use is Jim-approved; this does not silently promote the underlying recovered reference to global maintained System Bible canon. Kate tells Jim about an earlier outwardly ordinary but personally perfect St. Claire day there; she returns when she wants to feel separated from the world and breathe.
+The secondhand-store outing occurs in this chapter. The chapter then goes to **Halloway Park — The Hollow**, selected from St. Claire reference recovery and approved by Jim for the reusable St. Claire world: wooded ravine/true forest cover. The maintained St. Claire Halloway Park record governs these shared-world facts. Kate tells Jim about an earlier outwardly ordinary but personally perfect St. Claire day there; she returns when she wants to feel separated from the world and breathe.
 
 Jim brings his own favorite-food feast shaped by **Nonna Maria Russo**, Sicilian grandmother figure and heart of his old neighborhood: abundant picnic food centered on frittata, pressed sandwiches/stuffed rolls, marinated vegetables, beautiful fruit, and lemon-ricotta-cake/crostata-family sweet. Maria taught joyful abundance; Jim has made the picnic his own. Jim made the cloth napkins/tablecloth.
 
