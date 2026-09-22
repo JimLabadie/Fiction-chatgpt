@@ -18,7 +18,7 @@ Friday daytime not-date. Complete the full daytime unit: setup/texting → Kate'
 - Jobs: Jim software engineer; Kate middle manager at logistics company; employer names unnecessary/unresolved.
 - Texting themes: interiors/decorating, fabrics/textures, flowers/plants, clothes/presentation/fit, domestic objects/table settings/linens, aesthetic judgments, comfort rituals. Exact messages are scene work.
 - Secondhand shopping: shared passion is interiors/home decorating; vigorous disagreements are part of compatibility.
-- Park: Halloway Park, specifically The Hollow, selected from recovered/developed St. Claire evidence for story-local use. It is not thereby promoted to global maintained System Bible canon.
+- Park: Halloway Park, specifically The Hollow, drawn from the reusable St. Claire world. Halloway Park / The Hollow was recovered from St. Claire reference material and approved by Jim into maintained St. Claire canon.
 - Kate's park meaning: an earlier St. Claire day outwardly ordinary but perfect for her; this is where she goes to separate from the world and breathe.
 - Picnic: Jim's favorites, shaped by Nonna Maria Russo, Sicilian and heart of his old neighborhood. Joyful abundance: frittata, pressed sandwiches/stuffed rolls, marinated vegetables, beautiful fruit, lemon-ricotta-cake/crostata-family sweet. Jim owns/evolves the picnic rather than merely reproducing Maria.
 - Jim made the picnic cloth napkins/tablecloth.
