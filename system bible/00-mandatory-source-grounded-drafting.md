@@ -133,3 +133,46 @@ Do not replace scene initialization or planning with an assumption that readers 
 
 Do not proceed merely because a scene's plot can be written. A scene is ready to draft only when the routed world and continuity inputs needed to embody that plot are resolved.
 
+
+
+## Mandatory Scene Application Ledger
+
+The hard pre-draft scene gate must produce an application ledger before substantial prose is drafted. This is an enforcement artifact, not a replacement for source retrieval or creative planning.
+
+For every materially applicable established scene element, record its source; the detail, relationship, joke, setup/payoff, physical specification, reader knowledge, interior state, cultural lineage, or narrative function at its established resolution; why it matters here; what must become perceptible or operational; where/how the scene will apply it; and a post-draft disposition of **rendered / intentionally deferred under existing authority / not materially applicable / blocked**.
+
+The ledger must distinguish a fact from its function. For example, a shoe brand is not equivalent to an established function in which another character recognizes those particular shoes as evidence of deliberate courtship escalation. Likewise, “characters disagree about decorating” is not equivalent to an established outside-observer payoff based on their behaving like a couple furnishing a home.
+
+The application ledger must include materially applicable character descriptions, presentation, environment/staff detail, meaningful objects, inherited/cultural influences, established interiority, intended reader knowledge, comic setup/payoff, and emotional/narrative functions. Do not reduce these to plot nouns.
+
+### Pre-draft persistence-fidelity prerequisite
+
+If the task or recent development creates reason to believe that the controlling story record may be a lossy summary of upstream approved/developed material, drafting is blocked until the applicable development-to-persistence fidelity check defined in the persistence failure and repair record has been completed or the gap is explicitly classified.
+
+A damaged persistent record cannot be made safe merely by auditing a draft against it.
+
+## Reader-Visibility Audit
+
+The post-draft gate must separately test intended reader knowledge. For every beat whose meaning depends on a character knowing, recognizing, misunderstanding, remembering, inferring, or emotionally reacting to something, inspect the manuscript and answer:
+
+**What exact prose allows the reader to know or experience this?**
+
+Model reasoning, planning notes, source records, and unstated character thoughts do not count as reader-visible evidence.
+
+If the answer is “the reader is expected to infer it” but the necessary evidence is not actually on the page, the draft fails. If the established beat requires interiority, dialogue, action, or contextual setup to communicate the meaning, that communication must appear in the prose.
+
+## Voice and Narrative-Function Gate
+
+After source-fidelity and reader-visibility checks, audit the actual prose against the controlling voice/style record and the scene's established narrative functions.
+
+This gate is independent of factual coverage. A scene fails even when all required nouns/events are present if established material has been converted into garment, food, setting, or character-description inventory; generic romance/date staging; generic quirky-store or generic NPC treatment; interchangeable banter; summary where developed dramatic action/setup/payoff was required; or announced emotion where the agreed voice requires the feeling to emerge through character behavior, interiority, physical detail, or comic escalation.
+
+For each major developed beat, verify both **presence** and **performance**: the beat must exist, and it must do the narrative/emotional/comedic work for which it was established.
+
+## Expanded Required Drafting Pipeline
+
+For substantial story prose, the required order is now:
+
+**source routing/retrieval → persistence-fidelity check when implicated → continuity/current-state check → hard scene-resolution gate → scene application ledger → physical scene plan → narrative/emotional scene plan → blocker check → prose drafting → scene-state audit → source-fidelity audit → reader-visibility audit → voice/narrative-function audit → continuity audit → delivery**
+
+No later audit may silently waive an earlier failed gate.
