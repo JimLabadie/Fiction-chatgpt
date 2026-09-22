@@ -368,3 +368,44 @@ When the home not-date arrives, Jim demonstrates the visual adage that there is 
 - This visual beat must not be converted into narrator-declared identity proof. Jim's current self-understanding and the story's unresolved identity trajectory remain intact; Kate may experience the attraction and familiar visual grammar without gaining authority to declare what Jim is.
 
 The exact calendar day of the home not-date, exact menu, exact flower species, and physical/romantic endpoint remain unresolved unless Jim establishes them separately.
+
+
+### Author clarification — prior “Steve” reference was a typo
+
+**Status: JIM CLARIFICATION.**
+
+Jim clarified that the prior use of **Steve** while planning this story was simply a typo carried over from a different story. The active character here remains **Jim Caldwell**. Do not interpret the typo as a new character, alias, crossover, or source invitation, and do not import any Steve-story material into this namespace.
+
+### Active scene-planning proposal — third floral sentence constructions
+
+**Status: KATE/CHATGPT PROPOSAL FOR JIM'S REVIEW; NOT YET AUTHOR-APPROVED CANON.**
+
+The already-established semantic sentence is: **I think there is more than meets the eye to you, and I want to see what tomorrow looks like.** To eliminate ambiguity while allowing Jim and Kate to arrive at the same sentence independently, use two different but semantically parallel arrangements drawn from Kate Greenaway's *Language of Flowers* vocabulary.
+
+**Jim's table arrangement proposal**
+- **Coriander — “Hidden worth.”**
+- **Crimson polyanthus — “The heart's mystery.”**
+- **Anemone (Zephyr Flower) — “Expectation.”**
+- **Hawthorn — “Hope.”**
+
+Approximate fluent reading: **There is hidden worth / a heart's mystery in you; I am looking toward what comes next with expectation and hope.**
+
+**Kate's carried bouquet proposal**
+- **Mignonette — “Your qualities surpass your charms.”**
+- **Clematis — “Mental beauty.”**
+- **Gooseberry — “Anticipation.”**
+- **Lesser celandine — “Joys to come.”**
+
+Approximate fluent reading: **There is more to you than what first attracts the eye; I value the person/mind beneath it, and I anticipate joy in what comes next.**
+
+The emotional equivalence, rather than identical species, is the point: they have independently written substantially the same sentence in different floral dialects. The duplicate intent becomes apparent when Kate arrives carrying her bouquet and sees Jim's already on the table.
+
+### Active meal-planning possibilities — Colombian direction
+
+**Status: JIM IDEA + RESEARCHED KATE/CHATGPT OPTIONS; NOT YET AUTHOR-APPROVED MENU.**
+
+Jim wants to explore **mole, tamales, or something Colombian** for Jim's home-cooked dinner. Research note: **mole is primarily associated with Mexican cuisine rather than Colombian cuisine**, so if the desired direction is specifically Colombian, a Colombian tamal is the closer fit among Jim's two initial ideas.
+
+Strong candidate: **tamal tolimense / Colombian Tolima-style tamales**, a substantial banana-leaf-wrapped preparation that can include seasoned corn masa, rice/peas, potato and mixed meats such as pork and chicken depending on the recipe/tradition. It is labor-intensive enough to demonstrate Jim's genuine domestic/cooking competence and has a warm, cared-for quality suitable for the home not-date.
+
+Other Colombian directions remain available if Jim wants the dinner to feel less like a labor-intensive wrapped centerpiece; no alternate dish is selected yet.
