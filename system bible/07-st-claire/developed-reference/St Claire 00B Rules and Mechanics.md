@@ -204,16 +204,89 @@ Concept.md establishes two separate pull mechanics for a male visitor, built to 
 
 **Failure this rule exists to prevent:** no methodology existed anywhere for judging whether a business's listed "Staffing structure" was actually adequate for its stated size. A first attempt to fix this wrote a set of category benchmarks from memory — plausible-sounding numbers with no actual source — and presented them with the same confidence as the demographic ratios elsewhere in this document, which genuinely are sourced (Census, Harris Interactive, Autostraddle). That was the same failure this document exists to prevent, just relocated: assertion dressed up as verified fact. The numbers below were checked against real sources before being written in.
 
-**Full-service dining (sit-down, waitstaff-served) — sourced from named industry operations guides (Nestlé Professional food-service staffing guidelines, via 7shifts; Shifty's restaurant staffing calculator methodology; role breakdowns from OpenTable, Toast, Lightspeed, and StaffedUp restaurant-position guides):**
+### Establishment Staffing Model — fixed + variable labor
 
-**Failure this sub-rule exists to prevent:** the first version of this rule only checked server-to-seat headcount, and every business "fixed" under it (River Mill Eatery, L'Aura, Amour Noir) only got additional servers. A follow-up question exposed that none of the 38 Food & Hospitality businesses in Organizations.md have a named busser, dishwasher, host, or prep cook anywhere — a 40-seat diner with 4 total staff was being treated as adequately staffed by the seat-ratio check alone, while nobody who clears a table, washes a dish, or greets a guest existed in the record at all. Checking one ratio and declaring the category solved was the same failure this whole rule exists to prevent, one level deeper.
+**Purpose:** staffing is infrastructure. A St. Claire establishment is not considered operationally complete merely because enough names exist to make one scene work. Staffing must cover the work the establishment actually performs, the scale and intensity of service, its operating hours, and a sustainable roster of real people.
 
-**The actual rule:** a full-service restaurant needs real coverage across both real functional groups, not just a headcount hitting a seat ratio:
-- **Front-of-house:** host/greeter (can be absorbed into another role at small scale), server(s) sized to the seat ratio below, busser(s) for anything beyond the smallest rooms, bartender if there's a bar program.
-- **Back-of-house:** a chef/cook, and — critically, the piece most often missing — dishwashing coverage. At small scale (roughly under 25–30 seats, modest menu), dishwashing and bussing can realistically be absorbed into existing roles during slower stretches rather than needing dedicated staff; this is a real, common small-restaurant pattern and shouldn't be treated as a violation on its own. Above that scale, or for any business with real volume, dedicated bussing and dishwashing coverage is expected, not optional.
-- Server-to-seat ratios: casual/full-service 1 server per 4–6 tables (roughly 1 per 16–24 seats at a 4-top average); fine dining / high-touch / reservations-paced service 1 server per 3–4 tables (roughly 1 per 12–16 seats).
-- Back-of-house kitchen sizing (cooks specifically) typically runs 60–80% of front-of-house headcount in full-service restaurants (source: Shifty).
-- Counter-service, diner-style, and bar/taproom models are exempt from the seat ratio above — genuinely different service logic — but are not exempt from needing dishwashing coverage to exist somewhere in the record, even if it's absorbed into an existing named role rather than a dedicated position.
+**Model basis:** real restaurant labor systems separate **fixed labor** from **variable labor**. Fixed labor supplies baseline weekly or service-period coverage that does not disappear when business is slow. Variable labor has minimum coverage and adds people as demand crosses thresholds. Real forecasting systems configure this by job, operating hours, day/daypart, and forecast demand rather than treating total headcount as one interchangeable pool. RestaurantOwner's full-service staffing worksheet likewise models managers, cooks, prep, dishwashing, servers, bussers, hosts, and bartenders separately by expected guests per hour.
+
+For St. Claire the governing equation is:
+
+**Required staffing = fixed functional coverage + variable demand coverage + sustainable roster coverage.**
+
+The first two determine **who must be working at a given time**. The third determines **how many actual persistent people must exist on the roster** to sustain the establishment's published schedule without assuming that the same people work every open hour forever.
+
+#### Inputs required before an establishment can pass staffing audit
+
+Every staffed establishment must expose enough data to evaluate:
+- establishment/service type;
+- capacity or another workload measure appropriate to the type;
+- days open;
+- public operating hours;
+- material opening/preparation and closing/reset work outside public hours;
+- required functions/roles;
+- service intensity;
+- normal versus peak demand where relevant;
+- which roles are fixed and which scale with demand;
+- which roles may legitimately be combined at that establishment's scale.
+
+If those inputs are absent, staffing is **unverified**, not implicitly adequate.
+
+#### Fixed functional coverage
+
+Fixed coverage means work that must exist whenever the relevant operation is occurring, even at low demand. The exact functions depend on establishment type. For full-service dining this includes, as applicable:
+- accountable floor/management coverage;
+- kitchen/cooking coverage;
+- dishwashing/sanitation coverage;
+- host/reservations/greeter function where the service model requires it;
+- bar or wine function where the establishment promises that service;
+- opening/prep and closing/reset work.
+
+A function may be combined with another named person's job only where the establishment's scale and workload make that combination plausible. **Combined role is not the same as missing role.** The record must say who performs the function and when.
+
+#### Variable demand coverage
+
+Variable roles scale from a defined minimum as demand rises. Use the workload measure that best represents the business rather than forcing every establishment into sales dollars. For restaurants, guests/covers, tables, or entrées are preferred because menu price should not by itself create more fictional employees.
+
+For full-service dining:
+- **Casual/full-service:** starting benchmark about 1 server per 4–6 occupied tables; translate against the establishment's real table mix rather than assuming every table is a four-top.
+- **Upscale/high-touch/reservations-paced:** use the more labor-intensive end of full-service coverage. Recovered St. Claire guidance of roughly 1 server per 3–4 occupied tables / about 12–16 seats remains a useful planning range, but it is a benchmark rather than permission to ignore support functions.
+- **Busser/runner/reset support:** becomes a dedicated function as room size, turnover, course count, or service intensity makes servers doing it themselves incompatible with the promised service. High-touch service can trigger dedicated support at a smaller seat count than casual dining.
+- **Kitchen:** cooks scale with menu complexity, covers, course structure, and daypart. A chef/sous-chef pair is not evidence that prep, utility, sanitation, and dish work vanish.
+- **Dishwashing/sanitation:** must always be assigned somewhere. At genuinely small/low-volume operations it may be a documented combined role; at meaningful full-service volume or high-touch multi-course service it requires dedicated coverage.
+- **Host/reservations:** may be combined in a genuinely small casual room; reservations-led/high-touch concepts generally require the function to be explicitly covered.
+- **Beverage specialist:** required when the establishment's promised service depends on one (for example a sommelier-led wine program); ordinary beverage service does not automatically require a specialist.
+
+Counter-service, diner, bar/taproom, nightclub, retail, health, civic, trades, and other establishment types require their own functional matrix; do not apply restaurant server ratios merely because customers are present.
+
+#### Sustainable roster coverage
+
+A correct peak shift is **not** a correct roster.
+
+After determining required coverage by job and service period:
+1. total the weekly labor/coverage hours for each function, including required prep/open/close time;
+2. distinguish jobs that require continuous presence from jobs that occur only during defined windows;
+3. compare required weekly coverage with the plausible weekly availability of the actual named people assigned to that function;
+4. include enough real people to permit ordinary days off, schedule rotation, illness/time-off resilience, and peak overlap;
+5. do not solve a weekly roster deficit by silently assuming owners, chefs, or managers absorb every uncovered hour.
+
+This is a **coverage test**, not a mandate that every employee work the same number of hours or that every establishment maintain a large backup bench. Owners and salaried leaders may work substantial hours where established. Part-time employees are legitimate. The question is whether the named roster can actually cover the published operation without impossible schedules.
+
+#### Audit outputs
+
+Every establishment staffing audit produces two separate results:
+- **Service/shift requirement:** roles and number of people required concurrently for the evaluated service level/daypart.
+- **Sustainable roster requirement:** the real named people required to sustain the establishment across its full weekly operation.
+
+An establishment passes only when both pass.
+
+#### Failure handling
+
+When a required role or roster position is missing, the establishment fails staffing audit. **Do not repair the failure with “unnamed staff,” “ordinary coverage,” presumed contractors, invisible relief workers, or a note that somebody can be created later.**
+
+The fix is the existing St. Claire population process: add the missing role as a **real, complete character**, with a full Population record and required household/relationship integration, checked against existing names and demographic rules. Infrastructure creates people when infrastructure requires people. Story need may also reveal a missing person, but story appearance is not a prerequisite for infrastructure staffing.
+
+This rule deliberately replaces the older practice of checking only server-to-seat ratios or declaring missing operational work to be handled by unnamed slots.
 
 **Retail (storefronts, shops) — sourced from a named municipal planning study (Montgomery County / Metropolitan Washington Council of Governments, "Estimating Number of Employees in a Building," Round 7.0 employment-density conversion factors):** that study gives two real figures — roughly 1.1 employees per 1,000 square feet, and a separate conversion factor of 450 square feet per employee — meaning real sourced figures for the same underlying question don't fully agree with each other, which is itself worth stating rather than hiding: retail staffing density is genuinely less standardized than dining. Since floor square footage isn't tracked in Places.md for most storefronts, the practical translation: a small single-room storefront (roughly the size of the district's typical named shops) plausibly supports 1–3 people; a sole proprietor with occasional help is realistic and common, not automatically understaffed.
 
