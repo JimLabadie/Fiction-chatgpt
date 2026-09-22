@@ -283,3 +283,26 @@ The house is also **immaculately kept**—the kind of near-perfect cleanliness a
 The needlepoint **ASK ME ABOUT MY EX** belongs in Jim's home. Its joke works because it interrupts the sophisticated, warm, elegantly feminine environment with an irreverent piece of domestic craft. It should feel like something Jim genuinely chose and enjoys, not a prop planted by the narration to prove femininity. Its eventual exact placement in the home remains scene-level staging unless Jim establishes it separately.
 
 Together, Jim's interiors, housekeeping, flowers/plants, futch wardrobe, and texting should continue to operate as a **constellation rather than a verdict**. Kate may increasingly recognize a familiar feminine/sapphic texture around Jim while remaining responsible for her own attraction and questions rather than using his home or hobbies to assign him an identity.
+
+
+### Jim-established chronology and courtship mechanics after Chapter Four
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+The post-Chapter-Four material must not be raced through as a compressed bridge or summary. The elapsed days are story space: Jim and Kate's texting, Jim's futch experimentation, Kate's attraction, photographs, and the floral courtship are scenes/scene material to be experienced rather than a checklist to clear on the way to a later not-date.
+
+- **Weekend immediately after the Friday-night Amour Noir chapter:** Jim is actively figuring out the "life hack" of being futch. This is the beginning of the process, not dead time to summarize away. His existing conclusion that he has finally figured out how to be a guy continues to drive the experiment.
+- **Photographic flirting:** as Jim experiments with looks and sends Kate photographs, he does not merely send neutral wardrobe documentation. He **flirts in the photographs with teenage-girl energy**, extending the already-established change in his texting voice into the way he poses/presents himself for Kate. The photos are part of their courtship and part of the feedback loop: Jim knows Kate finds this presentation hot and enjoys provoking that reaction.
+- **Monday and Tuesday:** Jim shops deliberately for the established women's futch clothing/presentation pieces. These days remain the established shopping days.
+- **Flower delivery matters:** the floral courtship is not limited to handing bouquets over on dates/not-dates. **Flowers are delivered**, including to workplaces. Receiving flowers at work is part of the romantic/social impact of the gesture and should be treated as such rather than avoided because the characters are not physically together.
+- **Tuesday:** Kate sends her **first floral message to Jim at work by flower delivery**. This is the already-established message: **I see you; you are safe with me**, plus the masculine-coded affectionate taunt. The delivery itself matters: Jim receives flowers at work.
+- **Wednesday:** Jim replies to Kate's bouquet **the next day**, also through the floral-message mechanism. His response is the already-established full escalation: essentially **I'm the better lesbian, and I'm going to totally wreck you**—competitive, flirtatious, ridiculous, and intentionally nuclear rather than timid.
+- The established **third floral exchange still belongs in the Jim-at-home scene**. Its exact calendar day remains unresolved unless Jim establishes it.
+- The calendar dates of subsequent dates/not-dates remain unresolved. Do not invent them merely to connect these beats. Jim will establish them when consequential.
+- Do not compress this sequence into a race toward the next outing. The relationship development occurring through texts, photographs, clothes, attraction, work-delivered flowers, and their escalating private language is itself substantive story material.
+
+### Jim-established provenance correction — ASK ME ABOUT MY EX needlepoint
+
+**Status: JIM-ESTABLISHED CONTINUITY / RECOVERED PROVENANCE.**
+
+The needlepoint **ASK ME ABOUT MY EX** was **acquired at the Chapter Three thrift fundraiser pop-up** and later belongs in Jim's home. Its provenance is therefore not unresolved and must not be invented as an estate-sale find or another origin. Preserve the Chapter Three thrift-pop-up origin when the object appears again.
