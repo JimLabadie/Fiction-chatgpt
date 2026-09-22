@@ -663,3 +663,20 @@ The exact sweet, sandwich/roll fillings, marinated vegetables, fruit selection, 
 **Friday chapter boundary:** Jim and Kate **make it through the thrift-store outing and the park/picnic sequence in this chapter**. The chapter should complete the Friday daytime not-date rather than stopping artificially during the thrift-store or picnic material.
 
 The **next chapter begins at Blush**. Do not fold the Blush return into the Friday daytime chapter merely because it occurs later the same day unless Jim later changes this boundary. The Blush chapter is deliberately reserved as its own next narrative unit.
+
+
+### Jim-established Friday wardrobe, work context, and texting-theme direction
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION + KATE/CHATGPT RECOMMENDATIONS PENDING JIM APPROVAL WHERE MARKED.**
+
+Jim's Friday futch outfit is now established as: **very dark high-waisted slim women's trousers, a fitted white top, a closely fitted charcoal/black waistcoat worn as the defining layer, black boots, and the established carabiner.** The silhouette should fit Jim's small frame properly and let the waistcoat emphasize rather than disguise his naturally feminine shape while he continues to interpret the result as having cracked masculinity.
+
+Jim also unconsciously adds **one very small feminine touch** that he does not register as a gender clue. **KATE/CHATGPT RECOMMENDATION PENDING JIM APPROVAL:** a tiny, neat **French tuck / deliberate waist emphasis** is too structural to be “sneaked in”; stronger recommendation is a **small fine chain at the neck, tucked mostly beneath the white top so only a glint shows at the collar**, chosen because it simply makes the outfit feel finished to him. This must remain subtle, unperformed, and not narratively diagnosed.
+
+Employment context is established at the level currently needed for the story:
+- **Kate Rivera is a middle manager at a logistics company.**
+- **Jim Caldwell is a software engineer.**
+Exact employers/company names and further job specifics are not story-important yet and remain intentionally unresolved. Friday's playing-hooky logistics should not invent employer canon merely to explain the day off.
+
+Friday morning texting should use feminine-coded **themes rather than a checklist of gender clues**. Recommended theme families for development are: **interiors and decorating judgment; fabric/texture and color; flowers/plants and arrangement; clothing fit/silhouette/details; beauty/presentation-adjacent aesthetics noticed as design; domestic objects/linens/table settings; and the emotional importance of making ordinary spaces beautiful.** Jim discusses these naturally as things he likes/has opinions about rather than announcing them as feminine interests.
+
