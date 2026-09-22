@@ -212,6 +212,20 @@ Kate's attraction remains personal as well as perceptive. She can find Jim **abs
 
 **Preservation boundary:** “futch chaos goblin,” “Femme Borg,” and similar language are development shorthand for this mechanism, not identity labels Kate is entitled to impose on Jim. Final labels, pronoun progression, transition choices, timing, and the exact endpoint remain story-earned and unresolved.
 
+### Jim-established refinement — futch attraction, self-reinforcement, and feminine-coded interests
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+Jim's embrace of the futch presentation has two simultaneous rewards, and the story must keep both visible rather than reducing his motivation to the masculinity-conquest joke. Jim genuinely believes he has found a way to be good at being a guy, **and Kate finds this version of him extremely hot**. Her attraction is not incidental evidence sitting in the background. Jim notices it. Being desired by Kate in the flannel/boots/carabiner, tomboy/futch lane feels fantastic, reinforces his confidence, and gives him another immediate reason to lean into the presentation. In effect, he is pulling off a **hot-girl-being-a-tomboy sexy vibe** without understanding the gendered irony of that description. Kate does understand enough of the visual/social vocabulary to feel the irony, but her first response is attraction, not diagnosis.
+
+This creates reciprocal reflection. **Jim's side:** he is not merely thinking, *finally, masculinity conquered.* He is also discovering that the woman he is increasingly crazy about lights up when he looks and acts this way. Her desire makes the experiment rewarding and safer, so he has every reason to keep exploring it. He may read her reaction as confirmation that he has finally found a masculine presentation that works for him, even though what Kate is responding to is substantially more sapphic/futch/tomboy-coded than Jim realizes.
+
+**Kate's side:** she should have to reckon with the embarrassingly uncomplicated fact that this supposedly male person is hitting a visual and behavioral attraction pattern that already makes sense to her. Jim is small, pretty, futch/tomboy-coded, mischievous, increasingly unguarded, and wearing women's clothes he has rationalized as basically androgynous. Kate can recognize the familiar **hot girl in tomboy clothes** shape of her attraction without using that recognition to decide Jim's identity for him. That tension belongs to Kate's own questioning: *why have I fallen for a guy?* can coexist with *why does being attracted to him feel so damn familiar?*
+
+The shared-interest mechanism should add another flavor to this accumulation rather than become a neon sign. The eventual interest(s) should be things that can reasonably produce an **oh yeah, those are pretty feminine-coded** reaction once noticed, but should not function as proof, a checklist, or an implausibly diagnostic hobby. Jim already likes them because he likes them. Their feminine cultural association is secondary and lightly legible. Kate sharing the interest makes the discovery primarily about compatibility and pleasure; only afterward can either of them notice the amusing way it sits beside Jim's current masculinity-conquest narrative.
+
+The overall effect should be cumulative and lived: women's futch clothes that Jim calls androgynous; Kate being helplessly attracted to the tomboy/futch result; Jim enthusiastically leaning further into what gets that response from her; texting that comes out with teenage-girl energy; feminine-coded interests that turn out to be shared; and the already-established flashes of deeper femme desire. **No single element proves anything. Together they make Jim's current self-explanation increasingly funny, tender, and difficult for Kate not to notice, while leaving Jim's eventual identity story-earned.**
+
 ### Immediate chapter-scale planning status after Chapter Three
 The developed material now supports more than a single next-scene note and must be preserved as chapter-scale planning without forcing chapter boundaries before the prose earns them.
 
