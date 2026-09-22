@@ -621,3 +621,16 @@ The unseen lingerie matters because Kate's preparation is not only external disp
 Kate's intent is explicitly competitive and affectionate: **she is going to war and intends to toast Jim's heart.** The humor comes from her treating this absurd not-date outfit decision with strategic seriousness while being increasingly emotionally compromised by the person she intends to defeat.
 
 The exact dress design/color, exact Louboutin model, lingerie design, hair/makeup/jewelry, and reveal mechanics remain unresolved unless subsequently established. Preserve Kate's established emphatic femme identity; the look should be recognizably *Kate*, intensified for deliberate effect, rather than a generic “sexy dress.”
+
+
+### Jim-established Friday care beat — protecting Kate's clothes and shoes
+
+**Status: JIM-ESTABLISHED DEVELOPMENT DIRECTION.**
+
+During the Friday park/picnic portion of the not-date, Jim notices the practical vulnerability created by Kate's deliberately high-femme “war” outfit—especially her bodycon dress and Louboutin heels—and **quietly protects her clothes and shoes without making her presentation into a problem**.
+
+The beat is an act of care, not a joke about Kate being overdressed or impractical and not an excuse to diminish her femme presentation. Jim does not tell her she should have worn different shoes, tease her into changing, infantilize her, or turn the assistance into masculine performance. He simply notices the ground/grass/setting and naturally solves the immediate problem: using the proper picnic setup and/or his own positioning/actions so Kate can remain exactly as dressed while being comfortable and keeping the dress and Louboutins protected.
+
+This lands emotionally for Kate because Jim's response to her deliberately weaponized femme presentation is not merely attraction. He pays attention to **what it takes for her to inhabit it comfortably** and cares for the things she chose because they matter to her. The gesture should be understated enough that Jim may regard it as obvious practical courtesy while Kate recognizes the tenderness underneath it.
+
+Kate is **absolutely not going to cry** over this. She is, naturally, therefore in immediate danger of crying. Preserve the comedy as defensive emotional texture rather than using it to cancel the sincerity of the beat.
