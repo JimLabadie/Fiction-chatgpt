@@ -724,3 +724,12 @@ Friday's secondhand/home-goods outing uses the reusable St. Claire establishment
 Kate is an established regular there and knows core staff member **Mara Singh** best. Mara likes and remembers Kate; their rapport includes mutual recognition of deliberate femme presentation and competence.
 
 When Kate arrives Friday in the deliberately purchased bodycon dress and **Louboutin heels**, Mara's first reaction should carry an unmistakable delighted **“ohhhhhhh, the Loubis”** recognition: not merely a neutral observation that the shoes are new, but the immediate knowing pleasure of a high-femme woman clocking another femme's serious shoe escalation. Mara then looks from the Louboutins to Kate, to Jim, and back to Kate. The beat should communicate that Jim has become evidence before Jim understands the case being made. Kate may insist they are there to shop for furniture/home goods; Mara does not need to accuse or diagnose the relationship. Keep the exchange playful, knowing, and rooted in Mara and Kate's established rapport rather than turning Mara into a narrator of their romance.
+
+
+### Steve visual reference — Marie Ulven in “we fell in love in october”
+
+**Status: JIM-ESTABLISHED DEVELOPMENT REFERENCE.**
+
+Jim identified Marie Ulven’s presentation in girl in red’s **“we fell in love in october”** video as the current visual touchstone for **Steve’s futch presentation** in *Even Pretty Girls Get the Blues*. The reference is to the overall visual language rather than a requirement to copy a specific outfit: relaxed, lived-in masculine/androgynous lesbian presentation while remaining unmistakably a woman, with the clothes feeling naturally hers rather than like a costume labeled masculine.
+
+Use this as a development reference for Steve’s current look and presence. Preserve the story’s existing futch-development logic and let specific garments remain story-local choices unless Jim establishes them separately. The useful quality is the effortless, inhabited balance of masculine and feminine signals—not imitation of Marie Ulven as a person or a frame-by-frame recreation of the music-video wardrobe.
