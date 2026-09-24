@@ -22,7 +22,7 @@
 - **Background / formative history:** Not yet established.
 - **Culture / family / class / regional formation:** Not yet established.
 - **Starting relationships:** Not yet established.
-- **Starting knowledge / beliefs / misunderstandings:** He does not regard feminine clothing/presentation as an identity crisis.
+- **Starting knowledge / beliefs / misunderstandings:** He does not regard feminine clothing/presentation as an identity crisis. In the Allison arrangement, Tim sees himself as the one winning: being Allison's date is the prize, and he is entirely willing to be her girlfriend and embrace feminine presentation for as long as she wants it.
 
 ## Current state
 Pre-prose; same as baseline.
@@ -61,7 +61,7 @@ Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. 
 - **Presentation preferences / personal aesthetic:** Not yet established.
 - **Relationship to body / appearance:** Not yet established beyond his female-compatible sizing/proportions.
 - **Skills / confidence in presentation domains:** Not yet established; do not infer feminine styling competence merely from willingness.
-- **What feels authentic / pleasurable / wrong / performative:** Feminine presentation is not inherently objectionable to him. Individual reactions remain to be discovered.
+- **What feels authentic / pleasurable / wrong / performative:** Feminine presentation is not inherently objectionable to him. With Allison, his attitude goes beyond reluctant tolerance: he can fully embrace being her girlfriend and being presented as a woman because he considers being Allison's date an obvious win. This does not change his established male identity. Individual reactions to specific presentation elements remain to be discovered.
 - **How these dimensions have changed:** No change has occurred yet.
 
 ## Boundaries and anti-characterization
@@ -80,6 +80,7 @@ No occurred changes yet.
 | Tim is an ordinary guy rather than a predetermined identity-reveal character | His tolerance or enjoyment of feminine presentation is allowed to be exactly what it is. Clothes and grooming do not dictate identity. | Jim | Established | Development conversation |
 | Tim is female-sized | Women's ready-to-wear can plausibly work without a body-transformation premise. | Jim | Established | Development conversation |
 | Tim is pragmatically okay with girl stuff | He is not seeking it out or cheering it on, but he does not hate it; attraction can outweigh concern about gendered presentation. | Jim | Established | Development conversation |
+| Tim considers himself the winner in Allison's arrangement | Allison is sufficiently desirable to Tim that being her date outweighs any concern about presenting as a woman. He can be her girlfriend all day long if that is what Allison wants and can fully embrace the role without it becoming an identity crisis. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
 Age, occupation, residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
