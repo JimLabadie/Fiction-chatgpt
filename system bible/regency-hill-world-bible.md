@@ -32,7 +32,7 @@ Regency Hill can plausibly support attractive walkable commercial frontage and e
 ## Current story binding — Rich Menace, Paris Edition
 The opening encounter occurs on a weekday in late afternoon/early evening outside Maison Belle. Tim Johnson is waiting for the bus because his car died and is being repaired. He has his laptop backpack and is dressed in deliberately ordinary everyday clothes: jeans, a plain T-shirt, a light casual jacket, and ordinary sneakers. Allison Kensington approaches in an exceptionally polished, expensive fitted skirt-suit look with a blouse, restrained expensive jewelry, immaculate hair and makeup, and spectacular high stilettos worth thousands of dollars. Exact brands and colors are not established.
 
-This story binding records the opening-scene use of Regency Hill. **Tim Johnson is established as a Regency Hill resident**, living in a clean, organized apartment a couple of miles from the Maison Belle bus stop. Allison Kensington is not currently established as a Regency Hill resident.
+This story binding records the opening-scene use of Regency Hill. **Tim Johnson is established as a Regency Hill resident**, living in a clean, organized apartment a couple of miles from the Maison Belle bus stop. **Allison Kensington is also a Regency Hill resident.** Her house is at the opposite end of Regency Hill from Tim's/Maison Belle area and sits along the edge of the neighborhood that touches St. Claire. The house is warm and feminine and large enough to raise a family in; proximity to St. Claire does not make the property or Allison part of St. Claire.
 
 ## Intentionally unresolved
 Unless a future story makes them consequential, leave unresolved:
@@ -44,6 +44,6 @@ Unless a future story makes them consequential, leave unresolved:
 - named residents;
 - other businesses and institutions;
 - detailed Maison Belle interior, brands, inventory, and operating schedule beyond what an active scene requires;
-- Allison's residence in relation to Regency Hill.
+- exact architectural style, room count, lot size, street, and interior inventory of Allison's house beyond its established warm, feminine, family-capable character.
 
 Do not build these out merely for completeness.
