@@ -195,3 +195,19 @@ Controlling story records are within this story namespace. Do not import similar
 - Tim then follows that logic to its deliberately outrageous but internally practical conclusion: if Allison is the coach/benchmark and training must be continuous, commuting back and forth is inefficient, so **he should move in with Allison** for the pre-Paris training period.
 - Thus the closing escalation has a clean causal chain: **Allison asks about nightgown → Tim explains living-in-it / 24-7 bootcamp → Tim proposes moving in → Allison outwardly treats it as sensible while inwardly delighted → Allison closes the chapter by making the U-Haul joke.**
 - Do not defer the nightgown explanation to a later chapter after this correction. Detailed domestic routines and implementation of the bootcamp still belong to the following chapter.
+
+
+## 2026-09-24 established go-forward update — Chloe Johnson
+- Near the opening of Chapter Three, Tim and Allison resolve the practical girlfriend-name problem by choosing **Chloe Johnson**.
+- Presentation cues name/pronouns. Chloe remains in feminine presentation full-time going forward, so ordinary narration/social life use **Chloe / she/her**. Tim remains historical context when genuinely relevant.
+- Chloe treats the change pragmatically; it does not automatically establish a medical transition arc or compulsory private identity crisis.
+- Immediately afterward Chloe sends HR an operational update that she goes by Chloe and uses she/her. Exact wording and legal-name-change status remain unresolved.
+- If Tim history becomes public, the privacy shorthand is that Chloe is trans and her history is nobody else's business; Chloe and Allison do not invent a false medical or childhood biography.
+- Chloe enjoys baseball and softball and plays cards.
+- She has five close friends, to be developed later.
+- She is close to her parents and sister. The future family reveal centers primarily on Allison, with “I'm going by Chloe now” almost an afterthought. The family's previously outlined reaction must be recovered before that scene is written.
+- Domesticity is a love language for Chloe. She enjoys caring for a partner and making a home; what has hurt until now is not having someone to receive that care.
+- Chloe loves sewing and makes prom dresses for girls who cannot afford them.
+- Her sewing gives her technical familiarity with clothing construction, fabric, fit, and alteration, helping explain why clothing/presentation instruction has usable scaffolding without making her magically expert.
+- Fashion becomes common ground with Allison: Chloe brings a maker/construction perspective to Allison's love of fashion.
+- Chloe will make room for Allison to return to photography, a passion Allison stopped pursuing, and they discover a new common interest through it.
