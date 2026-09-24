@@ -119,3 +119,11 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - It is a **French-American fusion restaurant** in Regency Hill.
 - Keep the establishment deliberately simple beyond those established facts unless later story needs require further development.
 - Chapter Two's first public couple-practice dinner occurs here after Maison Belle, preserving the Chapter One geographic setup and the evening-time handoff.
+
+### Chapter Two draft revision — Quality Assurance
+- Current candidate/draft manuscript: `chapters/drafts/002-quality-assurance.md`.
+- Revision commit: `ceeebd7a21c76930effb2dfa9c20c96a3ccec273`.
+- This revision preserves the existing Maison Belle material, removes the premature fourteen-day exchange, preserves enough late-afternoon/evening time for dinner, places the nightgown in the purchase pile without immediate explanation, and extends the chapter into the established Bistro Regency dinner.
+- Dinner now includes Tim applying Allison-derived heel observations, asking Allison to choose his meal, reciprocal food-flirting, Tim's dignity-preserving kindness to Nora Ellis after she is dumped, Tim's uncomplicated expectation that Allison pays because she asked him out, and the nightgown question triggering the 24/7 bootcamp/cohabitation argument.
+- Chapter closes on Allison explicitly making the U-Haul joke.
+- **Manuscript status: DRAFT / AWAITING JIM'S PROSE APPROVAL.** Do not promote to approved until Jim approves this exact revision.
