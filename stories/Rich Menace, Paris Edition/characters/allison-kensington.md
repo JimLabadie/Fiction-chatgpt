@@ -182,3 +182,14 @@ Controlling story records are within this story namespace. Do not import similar
 - This is not Chloe “fixing” Allison. It is an expression of Chloe's care: protecting room for something Allison loves and that belongs to Allison herself.
 - As Allison returns to photography, she and Chloe discover a new common interest. The exact shared form remains intentionally unresolved until developed.
 - Allison need not be domestically incompetent for Chloe to become the more domestic partner. Chloe's domesticity is an affirmative love language and pleasure of Chloe's, not evidence that Allison is incapable.
+
+
+## 2026-09-24 established development — Allison's family and close friends
+- Allison is a warm, caring person who treasures her family and friends. She also has an ice-queen edge: people outside her trusted circle can encounter a cool, formidable Allison, while people who cross the threshold into her circle are actively cared for.
+- Allison has a core group of about six former sorority sisters who remain important friends. Their individual identities and details are not yet established.
+- Allison is close to both parents. They love her and worry about her, particularly because they believe she has made a deal with the devil for the family business. The exact history behind that concern remains unresolved.
+- When Allison's parents meet Chloe, her mother quickly recognizes how thoroughly Chloe understands Allison. She strongly prefers Chloe to Clara, identifies Chloe as Allison's future wife, and gleefully tells Allison that Chloe has her figured out and Allison is dead meat.
+- Chloe is candid with Allison's parents about having previously lived and been known as Tim. She explains her current feminine presentation and social identity plainly rather than treating her history as shameful or constructing a false biography.
+- Chloe also makes clear that her presentation choices do not by themselves prevent Chloe and Allison from having biological children together if they someday choose that path.
+- Jim's intended comic reaction is that this reassurance may remove a major parental worry so completely that Allison's parents are ready to pop champagne. This does not establish that Chloe and Allison must have children or that their relationship depends on fertility.
+- The family meeting should show Allison's parents recognizing that Chloe understands, loves, and can handle the formidable daughter they know intimately.
