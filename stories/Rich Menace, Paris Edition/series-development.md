@@ -14,6 +14,11 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - The comedy should come from character, audacity, escalation, Tim's pragmatism and competitiveness, Allison's vanity and nerve, and the increasingly ridiculous logistics of their scheme — not from treating Tim's gender nonconformity as humiliating.
 - Genuine romance and emotional stakes remain welcome underneath the light, playful, sexy tone; sincerity does not require solemnity.
 
+### Opening visual contrast
+- Tim is a gloriously beautiful androgynous-model type with long hair and all the raw visual potential Allison notices immediately, but his opening clothes are aggressively ordinary: he could plausibly work at Best Buy dressed that way and still somehow pull it off. His beauty is doing the work, not styling.
+- Allison enters at the opposite end of the presentation spectrum: Chanel corporate skirt suit meets Jada Dubai heels — polished old-money corporate femininity colliding with spectacular statement footwear.
+- This contrast is part of the inciting visual joke: Allison is already operating at full intentional glamour while Tim is accidentally wasting elite feminine-presentation potential in mundane clothes, which helps make her immediate “I can work with this” calculation legible.
+
 ### Tim Johnson — baseline concept
 - Tim is 35 and works as a software engineer. At the opening he is taking the bus because his car died; his pragmatic view is that you pay people who like fixing cars to fix cars.
 - Tim is fundamentally "a real guy": he understands himself as a man and is not currently framed as secretly waiting for permission to discover a female identity.
