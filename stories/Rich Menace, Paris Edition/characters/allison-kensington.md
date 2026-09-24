@@ -49,8 +49,8 @@ Not yet established.
 - **Other character key:** Rich Menace, Paris Edition :: Tim Johnson
 - **Nature / current state:** At the premise stage, Allison proposes that Tim pretend to be her girlfriend for a wedding weekend in Paris so her ex will be jealous and Allison can feel that she won the breakup.
 - **Distinct chemistry / texture:** Allison recognizes immediately that Tim has the potential to be extremely attractive in feminine presentation; this perception is part of why she chooses him. Tim's competitiveness aligns with hers rather than challenging her: he treats Allison as his partner in the scheme and directs his competitive energy toward making their shared performance succeed.
-- **Trust / intimacy / attraction / affection:** Allison sees Tim's attractiveness/potential from the outset. The exact nature and degree of her attraction, and any later romance, remain to be developed rather than assumed.
-- **Boundaries / development:** Not yet established.
+- **Trust / intimacy / attraction / affection:** Allison sees Tim's attractiveness/potential from the outset and ultimately falls for him. What begins as Allison recruiting a potentially spectacular fake girlfriend becomes real love for Tim himself: the competitive idiot who commits to her scheme and is also deeply kind, caring, warm, and loving.
+- **Boundaries / development:** Allison does not require Tim to become a woman in identity for their relationship to work. She chooses him and decides that the extra "factory options" that come with loving Tim are something she will deal with because he is worth it.
 
 ## Identity, presentation, and embodiment
 Not yet established.
@@ -69,6 +69,7 @@ No occurred changes yet.
 | Canonical name is Allison Kensington | Jim supplied the full name for the previously unnamed wealthy woman / Rich Menace. | Jim | Established | Development conversation |
 | Fake-girlfriend motive is vanity / winning the breakup | Allison wants her ex jealous. The scheme is voluntary competitive vanity rather than necessity: she wants to arrive with a hot girlfriend and feel that she won the breakup. | Jim | Established | Development conversation |
 | Allison selects Tim because she sees his potential | She can see how hot Tim can be in feminine presentation and decides to act on that potential. | Jim | Established | Development conversation |
+| Allison ultimately falls for Tim | The fake-girlfriend project stops being merely a breakup victory. Allison falls for the idiot himself and chooses the relationship; in Jim's shorthand, she decides she will deal with the extra "factory options" because of him. Tim's male identity is not an obstacle that must be rewritten away. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
 Age, appearance, sexuality, occupation, source/scale of wealth, residence, family, the ex’s identity and wedding role, detailed breakup history, and broader personality remain not yet established.
