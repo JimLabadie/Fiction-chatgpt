@@ -211,3 +211,11 @@ Controlling story records are within this story namespace. Do not import similar
 - Her sewing gives her technical familiarity with clothing construction, fabric, fit, and alteration, helping explain why clothing/presentation instruction has usable scaffolding without making her magically expert.
 - Fashion becomes common ground with Allison: Chloe brings a maker/construction perspective to Allison's love of fashion.
 - Chloe will make room for Allison to return to photography, a passion Allison stopped pursuing, and they discover a new common interest through it.
+
+
+## 2026-09-24 established clarification — Tim's gender and Chloe presentation
+- Tim absolutely respects transgender people and is an ally. His own experience is not intended to define, dismiss, or generalize anyone else's transgender experience.
+- For Tim personally, cross-dressing and feminine presentation are preferences he genuinely enjoys. They do not make him believe that his own gender must be reinterpreted.
+- Tim considers himself a man and wants other people to respect his gender, just as he respects other people's stated genders.
+- Chloe is the full-time feminine social/presentation identity he is choosing for the current life he is building with Allison. Chloe/she-her and the public “trans” shorthand are practical social and operational tools; they do not require Tim privately to stop understanding himself as a man.
+- The distinction should be handled without mockery or invalidation: presentation, clothing, name, pronouns used in a social role, and private gender identity are related in this story but are not automatically identical.
