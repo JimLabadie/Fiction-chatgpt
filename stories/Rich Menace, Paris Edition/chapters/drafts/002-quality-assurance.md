@@ -1510,35 +1510,15 @@ Tim looked at her.
 
 Camille continued.
 
-“If you buy fourteen days of clothing today, half of it will be wrong by next week.”
+“If you buy too much clothing today, half of it will be wrong by next week.”
 
-Allison blinked.
+Allison considered that.
 
-“Fourteen days?”
+Then nodded.
 
-Tim looked at her.
+Fair.
 
-Nobody moved.
-
-Sophie stared at the ceiling.
-
-Camille went perfectly still.
-
-Tim smiled.
-
-Allison turned slowly.
-
-“Why did I just say fourteen days?”
-
-Tim kept his face innocent.
-
-“I don’t know.”
-
-Camille coughed.
-
-Allison looked suspiciously at all three of them.
-
-Then the moment passed because Sophie held up a handbag.
+Sophie held up a handbag.
 
 “This.”
 
@@ -1618,7 +1598,7 @@ Camille’s face was serene.
 
 Tim laughed.
 
-By the time the light outside the boutique windows had softened toward evening, the padded bench had become a controlled disaster.
+By late afternoon, while there was still plenty of day left to turn into evening, the padded bench had become a controlled disaster.
 
 A few days’ worth of actual clothing.
 
@@ -1633,6 +1613,8 @@ Hosiery.
 Several combinations Camille had chosen because they taught different lessons rather than simply filling hangers.
 
 A modest collection of jewelry and accessories.
+
+A nightgown Sophie folded into the pile with the same complete confidence she had shown about the handbag.
 
 Two practical pairs of heels.
 
@@ -2078,3 +2060,1387 @@ And Tim thought, with the calm satisfaction of a man who had discovered a partic
 Nice girls got the girl too.
 
 Sometimes they just had to be very, very thorough.
+
+Allison was still laughing when she looked across the street.
+
+The restaurant that had been setting tables when Tim was waiting for the bus that morning had finished the job. Bistro Regency glowed behind its windows now, warm and occupied, the French-American place looking exactly like the sort of restaurant where Allison Kensington knew how things worked and Tim absolutely did not.
+
+Her laughter faded into thought.
+
+Tim recognized that look.
+
+“What?”
+
+“We’re having dinner.”
+
+He glanced at the restaurant.
+
+“We are?”
+
+“Yes.”
+
+“Was that on the schedule?”
+
+“No.”
+
+“Then why?”
+
+Allison shifted the bags in her hands and looked at him as if this were obvious.
+
+“Because I am taking you to Paris as my girlfriend.”
+
+“Fake girlfriend.”
+
+“For now.”
+
+Tim’s eyebrows went up.
+
+Allison heard herself.
+
+“Do not.”
+
+“I didn’t say anything.”
+
+“You were about to.”
+
+“I was enjoying the phrasing.”
+
+She ignored him.
+
+“If we walk into Julie’s wedding and that is the first time we have ever actually behaved like a couple in public, Clara will know something is wrong in thirty seconds.”
+
+Tim considered that.
+
+Reasonable.
+
+“So dinner is training.”
+
+“Dinner is dinner.”
+
+“Training dinner.”
+
+“All dinners are training if you are sufficiently annoying.”
+
+Tim smiled.
+
+“Field test.”
+
+Allison closed her eyes.
+
+“No.”
+
+“You just described a field test.”
+
+“I invited you to dinner.”
+
+“Same thing with better lighting.”
+
+She opened her eyes.
+
+“Fine. Field test.”
+
+Tim looked down at himself.
+
+He was still wearing one of the practical combinations Camille had built for him near the end of the fitting session, with the lower heels he could actually walk in without requiring emergency services.
+
+He looked back at Allison.
+
+“As me?”
+
+Allison’s gaze moved over him.
+
+Slowly.
+
+There it was again.
+
+The look.
+
+“Yes,” she said.
+
+Tim smiled.
+
+Her expression tightened.
+
+Interesting.
+
+They put the Maison Belle bags into the Bentley and crossed the street.
+
+Tim made it three steps before he realized Allison had changed the way she was walking.
+
+Not dramatically.
+
+Nothing he would have noticed yesterday.
+
+Today he noticed.
+
+Her stride shortened before the curb.
+
+Her weight shifted.
+
+She placed the heel with more care than she had on the flat sidewalk, stepped down, and let the other foot stabilize before moving normally again.
+
+Tim watched.
+
+Then copied her.
+
+Not perfectly.
+
+But enough that the curb stopped feeling like a small hostile engineering problem.
+
+Allison stopped on the opposite sidewalk.
+
+Tim nearly walked into her.
+
+“What?”
+
+She looked down at his feet.
+
+Then up at him.
+
+“What did you just do?”
+
+“Crossed the street.”
+
+“You did the curb.”
+
+“The curb?”
+
+“My curb thing.”
+
+Tim looked back at the sidewalk.
+
+“I don’t think you own that.”
+
+“You watched me.”
+
+“I told you I was collecting evidence.”
+
+Allison’s expression changed.
+
+Not the helpless stare from the fitting room.
+
+Something softer.
+
+“You actually watched me.”
+
+Tim frowned.
+
+“Of course I watched you.”
+
+That did not improve the situation.
+
+Allison looked away.
+
+“Oh.”
+
+Tim stared at her.
+
+Now that was interesting.
+
+Bistro Regency was close enough that they reached the door before Tim could investigate further.
+
+Claire Beaumont greeted Allison with the easy recognition of someone who had seen her before and led them through the warm dinner room.
+
+Tim had expected the restaurant to make him feel more conspicuous.
+
+Instead he discovered something else.
+
+Allison’s hand at the middle of his back.
+
+Light.
+
+Natural.
+
+Possessive only in the sense that it told the room they had arrived together.
+
+Girlfriend.
+
+Right.
+
+Tim let himself move with it.
+
+At the table, he remembered the skirt before he sat.
+
+He remembered the handbag before he put it somewhere stupid.
+
+He remembered Camille’s warning about sitting without thinking.
+
+Allison noticed all three.
+
+“You remembered.”
+
+Tim settled into the chair.
+
+“Handbag is not optional.”
+
+“Sophie has damaged you.”
+
+“She had a marker. I never stood a chance.”
+
+Daniel Park brought water and menus.
+
+Tim opened his.
+
+He read the first few lines.
+
+Then a few more.
+
+He understood the words individually.
+
+This did not add up to competence.
+
+He closed the menu.
+
+Allison looked over hers.
+
+“That was fast.”
+
+“You pick.”
+
+Her menu lowered.
+
+“What?”
+
+“My dinner.”
+
+“You want me to choose your food?”
+
+“Yes.”
+
+“Why?”
+
+“Because you know what you’re doing.”
+
+Allison stared at him.
+
+Tim waited.
+
+“You don’t?”
+
+“I know how to eat.”
+
+“I’m relieved.”
+
+“I do not know this restaurant. You do.”
+
+“You could ask me what things are.”
+
+“I could.”
+
+“And?”
+
+Tim shrugged.
+
+“You invited me. You know the place. You know the food. I trust your judgment.”
+
+Allison went still.
+
+Tim looked around the room.
+
+“What?”
+
+“Nothing.”
+
+“That is visibly not nothing.”
+
+She lowered her eyes to the menu.
+
+“I’m choosing.”
+
+“That was the plan.”
+
+“You don’t get to complain.”
+
+“I reserve the right to complain if you order something with tentacles.”
+
+“I was not going to order you anything with tentacles.”
+
+“Excellent. Trust vindicated.”
+
+Her mouth twitched.
+
+When Daniel returned, Allison ordered for them both.
+
+Tim listened.
+
+Not because he intended to audit her.
+
+Because he liked watching people who knew what they were doing.
+
+Allison did.
+
+She asked one question.
+
+Made one choice.
+
+Adjusted another.
+
+No performance.
+
+No apology.
+
+No need to make herself smaller so somebody else could feel important.
+
+Tim liked that.
+
+Quite a lot, actually.
+
+When Daniel left, Allison picked up her water.
+
+“You’re really fine with that.”
+
+“With water?”
+
+“With me ordering for you.”
+
+“You seem qualified.”
+
+“I mean with me deciding.”
+
+Tim considered her.
+
+“You didn’t seize my menu.”
+
+“No.”
+
+“You didn’t forbid me from picking.”
+
+“No.”
+
+“I asked you to.”
+
+“Yes.”
+
+“And you know more about this than I do.”
+
+“Yes.”
+
+“So what is the problem?”
+
+Allison looked at him for several seconds.
+
+“I don’t know.”
+
+“Good.”
+
+“That’s it?”
+
+“That’s it.”
+
+She smiled despite herself.
+
+Tim leaned back.
+
+The heel of one shoe started to catch awkwardly beneath the chair.
+
+He stopped.
+
+Remembered Allison earlier.
+
+She did not fix her feet after she got into trouble.
+
+She prepared before the movement.
+
+Tim shifted first.
+
+Then settled.
+
+Allison looked down.
+
+Then back up.
+
+“You did it again.”
+
+“What?”
+
+“Me.”
+
+Tim looked at his feet.
+
+“Oh.”
+
+“You’re copying me.”
+
+“Learning from you.”
+
+That hit harder than he expected.
+
+Allison’s face softened.
+
+She looked almost embarrassed by how pleased she was.
+
+Tim filed that away.
+
+Not because he wanted to embarrass her.
+
+Because this mattered.
+
+Apparently being watched by Tim was different when what he was watching was her competence.
+
+The first food arrived.
+
+Tim tried what Allison had chosen.
+
+Paused.
+
+Tried another bite.
+
+Looked at her.
+
+“Good call.”
+
+Her smile turned smug.
+
+“You doubted me?”
+
+“No.”
+
+“You looked surprised.”
+
+“I can trust you and still be delighted when the result is excellent.”
+
+Allison stared at him.
+
+Tim smiled.
+
+There.
+
+Another one.
+
+He had seen women do things with food on dates before.
+
+Steal a bite.
+
+Offer one.
+
+Lean across the table as if tasting somebody else’s dinner were somehow more intimate than the exact same food on their own plate.
+
+He had never catalogued it.
+
+He did now.
+
+Not as an instruction manual for being a woman.
+
+As social language.
+
+Flirting with props.
+
+Useful.
+
+Allison was explaining something about her dish when Tim held out his fork.
+
+“Let me try that.”
+
+She looked at his fork.
+
+Then at him.
+
+“You have food.”
+
+“You said yours is different.”
+
+“It is.”
+
+“Then this is research.”
+
+“That is not how dinner works.”
+
+“Coward.”
+
+Allison’s eyes narrowed.
+
+Then she cut a bite.
+
+Tim expected it to land on his plate.
+
+Instead she held her fork across the table.
+
+They both paused.
+
+Oh.
+
+That was considerably better.
+
+Tim leaned forward and took the bite.
+
+Allison forgot whatever she had been about to say.
+
+Tim chewed.
+
+Considered.
+
+“You win.”
+
+She blinked.
+
+“What?”
+
+“Yours is better.”
+
+Allison put the fork down very carefully.
+
+Tim smiled.
+
+A few minutes later he returned the favor.
+
+He offered her a bite from his fork.
+
+She stared at it.
+
+Then at him.
+
+Tim raised his eyebrows.
+
+Allison leaned forward.
+
+Took the bite.
+
+Sat back.
+
+Tim watched the reaction.
+
+“Mine?”
+
+She swallowed.
+
+“Good.”
+
+“That was not the question.”
+
+“You are competitive about food now?”
+
+“I contain multitudes.”
+
+She laughed.
+
+Tim liked that too.
+
+The dinner began to feel easier after that.
+
+Not less deliberate.
+
+More natural.
+
+Allison knew the food.
+
+Tim let her know it.
+
+Tim asked questions.
+
+Allison answered them.
+
+He did not pretend knowledge to protect his ego.
+
+She did not pretend not to have knowledge to protect his.
+
+There was something surprisingly pleasant about that arrangement.
+
+Then Allison caught him using another of her heel habits when he adjusted in the chair.
+
+She stared.
+
+Tim caught her.
+
+“What?”
+
+“You keep doing that.”
+
+“Doing what?”
+
+“Things I do.”
+
+Tim glanced down.
+
+“That one works.”
+
+“You noticed it?”
+
+“I noticed a lot.”
+
+Her expression changed again.
+
+Tim understood something then.
+
+The beautiful clothes got one reaction.
+
+Learning from Allison got another.
+
+He liked both.
+
+He liked this one differently.
+
+Before he could say anything, a chair scraped sharply across the floor several tables away.
+
+Conversation dipped.
+
+Not stopped.
+
+Just bent around the sound.
+
+Tim looked over.
+
+A young woman sat frozen at a table while the man who had been across from her stood.
+
+He said something Tim could not hear.
+
+She did not answer.
+
+He left.
+
+The woman stayed.
+
+That was enough.
+
+Her hands were completely still for several seconds.
+
+Then one moved toward her water and shook badly enough that she stopped before she touched the glass.
+
+Everyone close enough to notice had noticed.
+
+And everyone was doing the very polite thing of pretending they had not.
+
+Tim knew that particular kind of mercy could still feel like being watched.
+
+He stood.
+
+Allison looked up.
+
+“Tim?”
+
+“Second.”
+
+He crossed the short distance.
+
+The woman saw him approaching and straightened.
+
+Which was worse.
+
+Now she was trying to look as though she had not just been publicly abandoned.
+
+Tim did not ask if she was okay.
+
+She was not.
+
+He did not ask what happened.
+
+Not his business.
+
+He stopped beside the empty chair.
+
+“Hi.”
+
+Her eyes were bright.
+
+She nodded.
+
+Tim lowered his voice.
+
+“I need a favor.”
+
+Confusion replaced humiliation for half a second.
+
+Good.
+
+“My girlfriend ordered my dinner because I have absolutely no idea what I’m doing.”
+
+The woman blinked.
+
+Tim gestured back toward Allison.
+
+Allison, to her credit, understood immediately enough not to look bewildered.
+
+She raised her glass.
+
+The woman looked between them.
+
+Tim continued.
+
+“I’m trying to determine whether she has excellent taste or has been exploiting my ignorance all evening.”
+
+A sound escaped the woman.
+
+Not quite a laugh.
+
+Close.
+
+Tim nodded toward the food.
+
+“You look like you know this place better than I do. Settle something for me.”
+
+Her name was Nora Ellis.
+
+Tim learned that only because she gave it while answering him.
+
+He gave her a small, ordinary question about the food.
+
+It did not matter much what the answer was.
+
+What mattered was that for thirty seconds she was not the woman somebody had just dumped in front of a room full of strangers.
+
+She was Nora.
+
+She knew something.
+
+Someone wanted her opinion.
+
+She answered.
+
+Her voice shook once.
+
+Then steadied.
+
+Tim listened.
+
+Actually listened.
+
+When she finished, he nodded.
+
+“That helps. Thank you.”
+
+Then, quietly enough that the other tables could not claim the moment:
+
+“And you don’t owe anybody a graceful exit.”
+
+Nora looked at him.
+
+Her eyes filled again.
+
+But her chin rose.
+
+Just a little.
+
+Tim smiled.
+
+No pity.
+
+No performance.
+
+Then he went back to Allison.
+
+He sat.
+
+Remembered the skirt.
+
+Remembered the handbag.
+
+Looked up.
+
+Allison was staring at him.
+
+Not the dress stare.
+
+Not the heels stare.
+
+Not the fork stare.
+
+Different.
+
+“What?”
+
+She shook her head.
+
+“Nothing.”
+
+“You have to stop saying that when your face is doing things.”
+
+“What things?”
+
+Tim gestured vaguely at her entire face.
+
+“All of that.”
+
+Allison glanced toward Nora.
+
+“You didn’t ask what happened.”
+
+“Wasn’t my business.”
+
+“You didn’t tell her the guy was an asshole.”
+
+“I don’t know him.”
+
+“You didn’t tell her she deserved better.”
+
+“I don’t know her either.”
+
+Allison looked back at him.
+
+Tim shrugged.
+
+“She looked embarrassed.”
+
+“So?”
+
+“So she didn’t do anything embarrassing.”
+
+Allison went quiet.
+
+Tim glanced toward Nora.
+
+She was breathing normally now.
+
+Still hurt.
+
+Obviously.
+
+Tim had not fixed that.
+
+He was not supposed to.
+
+“She got hurt in public,” he said. “That’s bad enough. She shouldn’t have to feel ashamed too.”
+
+When he looked back, Allison’s expression had gone soft enough that Tim stopped thinking of it as useful data.
+
+This one was not a button to push.
+
+He smiled at her.
+
+Just because he wanted to.
+
+Allison looked down.
+
+Then back up.
+
+“Jesus, Tim.”
+
+“What?”
+
+She shook her head.
+
+“Nothing.”
+
+He pointed at her.
+
+“That is at least three nothings.”
+
+She laughed.
+
+Good.
+
+Nora eventually stood.
+
+Not quickly.
+
+She collected her things and walked out of Bistro Regency without hurrying.
+
+When she passed Tim’s table, she touched two fingers lightly to the edge.
+
+Thanks.
+
+Tim nodded.
+
+No speech required.
+
+Allison watched the whole thing.
+
+Afterward, dinner changed again.
+
+Not dramatically.
+
+There was simply more between them.
+
+Tim stole a bite from Allison’s plate.
+
+She stole one from his.
+
+He caught his heel, corrected the way he had watched her correct, and earned that ridiculously pleased look again.
+
+“You’re doing it again,” she said.
+
+“Learning?”
+
+“Learning me.”
+
+Tim stopped.
+
+That phrase landed somewhere unexpected.
+
+“I have a good teacher.”
+
+Allison looked away.
+
+Tim smiled.
+
+Then, halfway through that smile, Allison’s eyes narrowed.
+
+Not at him.
+
+At something in her own memory.
+
+Tim recognized delayed processing when he saw it.
+
+“What?”
+
+She looked at him.
+
+“Nightgown.”
+
+Tim blinked.
+
+“What about it?”
+
+“We bought you a nightgown.”
+
+“Yes.”
+
+“For Paris.”
+
+“Yes.”
+
+“The weekend in Paris.”
+
+“Yes.”
+
+Allison set down her fork.
+
+“Why does my fake girlfriend need a nightgown for a weekend?”
+
+Tim opened his mouth.
+
+Nothing came out.
+
+That was an annoyingly good question.
+
+He thought back through the afternoon.
+
+Camille.
+
+The clothes.
+
+The heels.
+
+The handbag.
+
+The lecture near the end.
+
+*That is not the same as living in any of it.*
+
+Tim’s attention sharpened.
+
+“Oh.”
+
+Allison did not like the sound of that.
+
+“What does ‘oh’ mean?”
+
+“It means Camille was right.”
+
+“That sentence has already cost me an offensive amount of money.”
+
+“Not about the money.”
+
+“Then what?”
+
+“Living in it.”
+
+Allison stared.
+
+Tim leaned forward.
+
+“Camille said today was mostly learning what I don’t know.”
+
+“I remember.”
+
+“I can learn a rule in the boutique. I can practice a walk. I can learn what goes under what.”
+
+“Yes.”
+
+“But that isn’t the same as not having to think about it.”
+
+Allison’s expression changed.
+
+Tim kept going.
+
+“This dinner is already proving that.”
+
+“How?”
+
+“I almost sat wrong.”
+
+“You corrected.”
+
+“Because I was thinking about it.”
+
+“You remembered the handbag.”
+
+“Because Sophie threatened me psychologically.”
+
+Allison laughed.
+
+Tim pointed under the table.
+
+“I’m still consciously managing my feet.”
+
+“You’ve had heels on for one afternoon.”
+
+“Exactly.”
+
+He sat back.
+
+“Camille said living in it.”
+
+Allison stared at him.
+
+“You are building an argument.”
+
+“I am discovering an argument.”
+
+“That is worse.”
+
+“I need repetition.”
+
+“Oh no.”
+
+“Different environments.”
+
+“Tim.”
+
+“Normal life.”
+
+“Tim.”
+
+“Mornings. Evenings. Getting dressed when I’m tired. Sitting around when I’m not performing. Walking through a house. Forgetting something and having somebody correct me before I repeat it fifty times.”
+
+Allison put one hand over her eyes.
+
+Tim was enjoying himself now.
+
+“Grooming. Maintenance. How long things actually take. What survives six hours. What becomes torture after two.”
+
+“You are describing boot camp.”
+
+Tim pointed at her.
+
+“Yes.”
+
+“I did not mean that as encouragement.”
+
+“Femininity boot camp.”
+
+“Oh my God.”
+
+“Twenty-four seven.”
+
+Allison lowered her hand.
+
+“No.”
+
+Tim smiled.
+
+“That was fast.”
+
+“Because I know where this is going.”
+
+“I’m not sure I do yet.”
+
+“I am.”
+
+Tim thought about it.
+
+Then he did.
+
+“Oh.”
+
+Allison groaned.
+
+“There it is.”
+
+“If the problem is unconscious habits, occasional lessons are inefficient.”
+
+“Yes.”
+
+“And if I need immediate correction—”
+
+“No.”
+
+“—then I need someone around who already knows what she’s doing.”
+
+“No.”
+
+Tim gestured at her.
+
+“You.”
+
+Allison stared.
+
+“You cannot possibly be serious.”
+
+“You are very good at this.”
+
+“That is not the issue.”
+
+“You already coach me.”
+
+“I stopped you from breaking your ankle.”
+
+“Valuable coaching.”
+
+“We met this morning.”
+
+“Also true.”
+
+Tim leaned closer.
+
+“And you need me convincing.”
+
+Allison’s eyes narrowed.
+
+“For the wedding.”
+
+“For the wedding.”
+
+“For Clara.”
+
+“Obviously.”
+
+Tim’s expression remained completely innocent.
+
+Mostly.
+
+“And commuting back and forth for twenty-four-seven boot camp would defeat the twenty-four-seven part.”
+
+Silence.
+
+Allison stared at him.
+
+Tim let the conclusion arrive on its own.
+
+Then:
+
+“I should move in with you.”
+
+Allison’s face became perfectly still.
+
+Tim had never seen a woman try so hard not to look delighted.
+
+It was magnificent.
+
+He waited.
+
+She looked at him.
+
+Looked at the table.
+
+Looked back.
+
+Then the CEO arrived.
+
+Calm.
+
+Measured.
+
+Evaluating an operational proposal.
+
+“Hm.”
+
+Tim almost lost it.
+
+“‘Hm’?”
+
+“You are not entirely wrong.”
+
+“I am delighted by the qualifier.”
+
+“If we are doing this properly, continuous practice is more efficient.”
+
+“Yes.”
+
+“And I am obviously more experienced than you.”
+
+“Significantly.”
+
+“And we do need to learn to function as a couple.”
+
+“Exactly.”
+
+Allison nodded.
+
+Very professional.
+
+Very composed.
+
+“Fine.”
+
+Tim blinked.
+
+“Fine?”
+
+“You can move in.”
+
+That was easier than expected.
+
+Tim suspected Allison might be just as dangerous as he was.
+
+“When?”
+
+She picked up her water.
+
+“Tomorrow’s problem.”
+
+“Rules?”
+
+“Tomorrow.”
+
+“Training schedule?”
+
+“Tomorrow.”
+
+“My stuff?”
+
+“Tim.”
+
+“Tomorrow?”
+
+“Yes.”
+
+He grinned.
+
+Allison saw it.
+
+“Do not.”
+
+“I did not say anything.”
+
+“You are pleased with yourself.”
+
+“I made a good argument.”
+
+“You made a case for moving into my house after knowing me for less than a day.”
+
+“For training.”
+
+“Of course.”
+
+“For Paris.”
+
+“Naturally.”
+
+Allison stared at him.
+
+Then laughed.
+
+The check arrived a few minutes later.
+
+Daniel placed it at the edge of the table.
+
+Allison reached for it.
+
+Tim did not.
+
+She stopped.
+
+Looked at him.
+
+“What?”
+
+“You’re not going to do the thing?”
+
+“What thing?”
+
+“The check.”
+
+Tim frowned.
+
+“You asked me out.”
+
+“So?”
+
+“So you pay.”
+
+Allison stared.
+
+“That’s it?”
+
+“That’s it.”
+
+“No masculine crisis?”
+
+“About dinner?”
+
+“About me paying.”
+
+Tim considered her seriously.
+
+“No.”
+
+“You have noticed I have more money than you.”
+
+“A subtle clue or two.”
+
+“I am paying for your clothes.”
+
+“Yes.”
+
+“Paris.”
+
+“Yes.”
+
+“Dinner.”
+
+“You asked me out.”
+
+Allison leaned back.
+
+Tim could see something else landing.
+
+Not submission.
+
+Not dependence.
+
+Not surrender.
+
+Just the fact that he did not need her to become less capable, less wealthy, less decisive, or less Allison so he could feel like himself.
+
+He smiled.
+
+“You’re very good at being you.”
+
+Allison froze.
+
+Tim nodded at the check.
+
+“I’d be an idiot to ask you to stop.”
+
+For once, Allison Kensington had nothing sarcastic ready.
+
+She signed.
+
+They stood.
+
+Tim remembered the skirt.
+
+The handbag.
+
+His feet.
+
+He walked beside Allison through the restaurant, out into the Regency Hill night, and back toward the Bentley.
+
+At the curb, he copied her again.
+
+She saw.
+
+Of course she saw.
+
+This time she only smiled.
+
+At the car, Tim looked back toward the bus stop.
+
+Morning Tim had stood there in jeans and sneakers waiting for public transit because his car was dead.
+
+Evening Tim was wearing heels, carrying a handbag, planning to move in with a woman he had met less than a day ago, and calling it training.
+
+His day had taken a turn.
+
+Allison followed his gaze.
+
+Then looked at him.
+
+Then at the car full of Maison Belle bags.
+
+Her smile slowly became dangerous.
+
+“Jesus Christ, Tim.”
+
+“What?”
+
+“We met this morning and you’re already bringing the U-Haul.”
