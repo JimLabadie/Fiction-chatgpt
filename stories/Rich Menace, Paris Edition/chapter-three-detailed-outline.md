@@ -176,7 +176,7 @@ Possible later material that is specifically **not silently pulled into this cha
 - Parental phone calls are expected to trigger **parental summons**, but do not yet decide which family calls first, exact weekend placement, or a weekend activity schedule.
 - Do not build a detailed weekend timetable. Do not impose a detailed weekend timetable; preserve later weekend developments as runway until they are deliberately placed.
 
-## Preserved Julie material — placement unresolved
+## Preserved Julie material — placement established
 Julie Smith remains the Paris bride and one of Allison's close former sorority sisters. Developed future material is preserved:
 - Chloe and Allison do not invent a long relationship history;
 - Julie can recognize Allison's genuine happiness;
@@ -186,7 +186,7 @@ Julie Smith remains the Paris bride and one of Allison's close former sorority s
 - Julie wants Chloe at the Paris wedding as Allison's plus-one;
 - the U-Haul joke can recur.
 
-This outline does **not** force Julie into Chapter Three merely because earlier recovery conflated later cohabitation material with the single-night chapter.
+Julie is **in Chapter Three on Friday night before bedtime**, after Chloe has begun integrating her new belongings and the couple has developed authentic micro-behaviors. Her placement is established.
 
 ## Continuity guardrails
 - One continuous overnight.
