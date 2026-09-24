@@ -134,3 +134,16 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Approval commit: `1fe009b49d9d9dace2e7f03de90c49c67a850010`.
 - Approved Maison Belle prose preserves the original Chapter Two baseline except for the agreed nightgown insertion and timing adjustment; the original fourteen-day exchange remains.
 - Approved dinner continuation begins only after the original quality-assurance ending and ends with Allison's U-Haul line.
+
+
+## 2026-09-24 — Chapter Three development checkpoint
+Detailed development is preserved in `series-development.md` and the principal-character records.
+
+- Opening sequence: **girlfriend-name problem → Chloe Johnson → she/her → full-time feminine presentation → immediate HR update**.
+- Ordinary ongoing narration/social life uses Chloe/she; Tim remains relevant historical context.
+- If Tim history surfaces, the public privacy shorthand is that Chloe is trans and her history is nobody else's business; no invented medical/transition biography.
+- Chloe's established off-plot life includes baseball/softball, cards, five close friends (details deferred), close parents and sister, domesticity as a love language, sewing, and making prom dresses for girls who cannot afford them.
+- Chloe's sewing provides technical clothing knowledge and intersects with Allison's love of fashion.
+- Allison likes photography but stopped pursuing it; Chloe will make room for her to return to it, and they discover a new common interest.
+- The future family reveal is primarily an Allison reveal, with Chloe's “I'm going by Chloe now” almost an afterthought. Recover Jim's previously outlined family reaction before developing that scene.
+- Next major character-development gap: **private Allison**, especially how she expresses love when nobody is watching and what else gives her joy outside CEO/society/fashion/photography roles.
