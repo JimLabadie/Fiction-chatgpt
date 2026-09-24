@@ -147,3 +147,12 @@ Detailed development is preserved in `series-development.md` and the principal-c
 - Allison likes photography but stopped pursuing it; Chloe will make room for her to return to it, and they discover a new common interest.
 - The future family reveal is primarily an Allison reveal, with Chloe's “I'm going by Chloe now” almost an afterthought. Recover Jim's previously outlined family reaction before developing that scene.
 - Next major character-development gap: **private Allison**, especially how she expresses love when nobody is watching and what else gives her joy outside CEO/society/fashion/photography roles.
+
+
+## 2026-09-24 authoritative Chloe continuity update
+- **Chloe Johnson is a transgender woman.**
+- Chloe loves femininity and is happy living as Chloe.
+- Tim remains a real and respected part of Chloe's history.
+- Chloe is pragmatic about this part of herself; it does not need to dominate the story.
+- This update supersedes earlier story-local formulations that treated Chloe only as a presentation role. Older material may remain as historical development evidence but does not govern go-forward characterization.
+- Ordinary ongoing narration and social life use **Chloe / she/her** after the Chapter Three name resolution.
