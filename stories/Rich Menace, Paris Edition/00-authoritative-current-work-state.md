@@ -1,6 +1,6 @@
 # Rich Menace, Paris Edition — Authoritative Current Work State
 
-Status: ACTIVE RECOVERY / OUTLINE GATE
+Status: ACTIVE CHAPTER THREE DRAFTING
 Updated: 2026-09-24
 
 ## Approved manuscript
@@ -20,13 +20,13 @@ These records contain the recovered post-Chapter-Two development that was previo
 ## Stable Chapter Three spine
 - Immediate consequences of the U-Haul agreement; no convenience skip over the first cohabitation/training period.
 - Resolve Chloe/name/pronouns and the immediate HR dependency near the opening.
-- Chapter Three is one continuous overnight at Allison's house; the actual move and Chloe-apartment visit happen in a later chapter.
+- Chapter Three is one continuous **Friday night into Saturday morning** at Allison's house. Chloe starts living there by integrating the new belongings bought that day; the later Chloe-apartment visit retrieves/relocates her preexisting possessions.
 - Allison's established Colonial, white fence, swing set, doghouse, and family-life hopes function as character evidence.
 - First-night/evening ordinary-life training is story material, not something to skip.
 - Sleeping arrangements are discussed and bed-sharing is an important intimacy beat.
 - Femininity training expands into relationship knowledge, sapphic social fluency, and learning each other's worlds.
 - Allison's photography and old Clara photographs reveal history; Chloe accepts that history and makes room for Allison to use her camera again.
-- Julie Smith material is preserved, but her placement in Chapter Three is unresolved after restoring the single-night scope.
+- Julie Smith visits during Chapter Three **Friday night before bedtime**, after Chloe has begun integrating her new belongings and authentic couple behavior has emerged.
 
 ## Stable house and family facts
 - Allison's house: three bedrooms, three baths, Colonial, Regency Hill, white picket fence, swing set, doghouse.
@@ -36,5 +36,4 @@ These records contain the recovered post-Chapter-Two development that was previo
 - Allison's core former sorority sisters: Julie Smith, Natalie Brooks, Rebecca “Becca” Walsh, Samantha “Sam” Delaney, Lauren Pierce, Megan Foster.
 
 ## Current gate
-Do not draft replacement Chapter Three prose yet.
-Next deliverable is a detailed Chapter Three outline built only after recovery/persistence cleanup. Jim will use that outline to verify whether the recovered planning is actually present.
+The detailed Chapter Three outline has been reviewed and developed far enough for prose drafting. Draft from the current `chapter-three-development.md` and `chapter-three-detailed-outline.md`, with the approved Chapter Two ending as the handoff. Preserve Friday-night-to-Saturday-morning chronology and do not timetable the remainder of the weekend.
