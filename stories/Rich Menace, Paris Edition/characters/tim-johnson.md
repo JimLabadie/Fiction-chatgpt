@@ -28,7 +28,7 @@
 Pre-prose; same as baseline.
 
 ## Character engine
-- **Core drives / motivations:** Once Tim accepts Allison's scheme, his competitive streak engages. He wants them to win together: Allison wants to beat the breakup and make her ex jealous, and Tim wants to become the strongest possible version of the girlfriend Allison chose.
+- **Core drives / motivations:** Tim is radically self-possessed. He does not organize himself around other people's approval or disapproval; he simply is himself. Once he accepts Allison's scheme, his competitive streak engages. He wants them to win together: Allison wants to beat the breakup and make her ex jealous, and Tim wants to become the strongest possible version of the girlfriend Allison chose.
 - **Wants:** Not yet established.
 - **Needs:** Not yet established.
 - **Fears:** Not yet established.
@@ -44,12 +44,13 @@ Pre-prose; same as baseline.
 
 ## Voice, humor, and behavior
 - Pragmatic and unpanicked about the premise.
+- Profoundly unconcerned with whether other people approve of who he is. This is not performative rebellion or a need to shock anyone; he simply does not outsource his sense of self.
 - At least as competitive as Allison once he commits.
 - He knows where his bread is buttered: Allison is his partner and the person he wants to impress, not someone he wants to defeat.
 - His competitive target is the challenge itself — learning, performing, and mastering femininity well enough that the two of them can win together.
 
 ## Self-perception and outside perception
-- **How the character sees themself:** A guy. He does not police his personality for masculinity; being kind, caring, warm, tender, or loving does not require explanation beyond, in his terms, being a human being.
+- **How the character sees themself:** A guy, and simply Tim. He does not police himself through other people's expectations of masculinity, femininity, or social approval. Being kind, caring, warm, tender, loving, competitive, masculine, or spectacularly feminine in presentation can all coexist because none of them requires permission from an audience. Being human is enough explanation for his humanity.
 - **What the character gets wrong about themself:** Not yet established.
 - **Outside perception:** Not yet established.
 
@@ -86,6 +87,7 @@ No occurred changes yet.
 | Tim considers himself the winner in Allison's arrangement | Allison is sufficiently desirable to Tim that being her date outweighs any concern about presenting as a woman. He can be her girlfriend all day long if that is what Allison wants and can fully embrace the role without it becoming an identity crisis. | Jim | Established | Development conversation |
 | Tim is at least as competitive as Allison, but cooperatively | He will not compete against Allison; he competes with her. Once committed, he treats femininity itself as a challenge to beat/master for their shared objective and discovers he is pretty good at it. His skill is learned through effort rather than automatic expertise. | Jim | Established | Development conversation |
 | Tim has naturally feminine-coded traits without being effeminate | He is kind, caring, warm, tender, and loving because, as he puts it, he is a human being. These qualities belong to him as a man and are not evidence of a hidden identity or a feminized personality. | Jim | Established | Development conversation |
+| Tim is radically self-possessed | Tim does not give a fuck what somebody else thinks of him because he simply is himself. This is not rebellion for an audience; other people's gender rules and judgments do not define him. That self-possession is the through-line that makes his masculinity, warmth, competitive streak, and wholehearted feminine presentation compatible rather than contradictory. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
 Age, occupation, residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
