@@ -9,9 +9,9 @@ Reusable setting authority: `system bible/regency-hill-world-bible.md`
 - Regency Hill is deliberately outside St. Claire. Tim is not currently established as a St. Claire resident or member, and the story does not bind him to St. Claire at inception.
 - Tim is established as a man and the intended story direction is **not a transgender arc**. He can become a very comfortable cross-dresser, genuinely enjoy feminine presentation, and may later consider body choices such as implants while remaining a guy. His proximity to St. Claire does not create or imply a gender-identity realization.
 
-## Not yet established
+## Established
 - Tim lives in a **clean, organized apartment in Regency Hill, a couple of miles from the Maison Belle bus stop**. His home is not coded masculine or feminine; it reflects an adult who takes care of his shit.
-- Allison's residence/home base and the detailed structure of her family wealth remain unresolved. She is established as a society woman and CEO of her family's logistics company.
+- Allison lives in a **warm, feminine house in Regency Hill, large enough to raise a family in**. It is at the opposite end of the neighborhood from Tim/Maison Belle and sits along the Regency Hill edge touching St. Claire; it remains outside St. Claire and creates no St. Claire residency or membership. Exact architecture, room count, street, and interior inventory remain unresolved. The detailed structure of her family wealth remains unresolved. She is established as a society woman and CEO of her family's logistics company.
 - Wedding venue and wedding-party/family structure.
 - The opening boutique is **Maison Belle**, an upscale independent women's clothing boutique in Regency Hill, with a public bus stop immediately outside or directly adjacent. It is owned by **Camille Moreau**; **Sophie Bennett** works its register/sales floor. Chapter One establishes a spacious upscale interior with deliberately arranged racks/displays and fitting rooms. Exact brands, broader inventory, hours, and other unnecessary operating detail remain unresolved.
 - Allison is established in Chapter One as having a **Bentley** available to take Tim home. Exact model/specification remains unresolved.
