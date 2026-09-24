@@ -23,6 +23,7 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
 - A future transgender direction remains a possible development path, but Tim is **not transgender at story baseline**. The story may discover that direction later if his lived experience actually develops there; it is not predetermined.
 - The opening is in **Regency Hill**, a neighborhood in the same city as and directly bordering St. Claire. Tim is outside St. Claire rather than being established as a St. Claire resident/member. Simply being next door does not exert a gender-identity push or pull on him; at baseline, he is not feeling one.
+- Tim's existing friends do not become a chorus of gender panic when they later see him with Allison or in feminine presentation. They recognize Tim as Tim. Their tone is ordinary, teasing, approving, and pragmatic: Allison is spectacularly hot, they can readily understand why Tim would dress that way to keep her happy, and after the joke they can move directly back to normal friendship — e.g. asking whether he is still in fantasy football. No gasping, hand-wringing, masculinity policing, or forced identity intervention is the intended social response.
 
 ### Allison Kensington
 - The wealthy woman / "Rich Menace" is canonically named **Allison Kensington**.
