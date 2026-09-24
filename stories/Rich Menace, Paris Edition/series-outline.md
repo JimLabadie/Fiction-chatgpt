@@ -15,7 +15,7 @@ The approved manuscript currently covers Tim's bus-stop meeting with Allison Ken
 3. She offers him a weekend in Paris if he will pretend to be her girlfriend at a wedding.
 
 ## Proposed / unresolved material
-Chapter Two and later structure remain under development. Consequential unresolved decisions — including Tim's residence/life infrastructure, Allison's residence/occupation/wealth mechanics, and the ex/wedding relationship details — will be resolved and persisted when the next chapter requires them rather than invented in advance.
+Chapter Two — **Quality Assurance** — is **FINAL / APPROVED** and preserved verbatim at `chapters/approved/002-quality-assurance.md`. Later structure remains under development; unresolved future details should still be resolved only when the story actually requires them.
 
 
 ## Chapter Two — development priority
@@ -120,11 +120,10 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Keep the establishment deliberately simple beyond those established facts unless later story needs require further development.
 - Chapter Two's first public couple-practice dinner occurs here after Maison Belle, preserving the Chapter One geographic setup and the evening-time handoff.
 
-### Chapter Two draft revision — Quality Assurance
-- Original Chapter Two draft was restored verbatim from commit `6784185cccf4fec3c2b5a10a36658d03d3e34f78` in restore commit `54e66c26f4fd3ee2e8ffa7c975d5d0daf20b9909`.
-- Current candidate/draft manuscript: `chapters/drafts/002-quality-assurance.md`.
-- Additive revision commit: `a99b71102c47900935f039f60b883526406d60ab`.
-- Revision preserves the original Maison Belle manuscript and its existing bus-stop/quality-assurance ending beat, with only the agreed in-scene repairs: remove the premature fourteen-day exchange, preserve sufficient late-afternoon/evening time, and add the nightgown to the purchase pile without immediate explanation.
-- After the original ending, the chapter continues into Bistro Regency for the planned first public couple-practice dinner: Tim applies Allison-derived heel observations; asks Allison to choose his meal; experiments with food-flirting; quietly helps Nora Ellis recover dignity after being dumped; accepts Allison paying because she asked him out; then Allison's nightgown question triggers Tim's 24/7 bootcamp logic, move-in proposal, and Allison's final U-Haul joke.
-- **Manuscript status: DRAFT / AWAITING JIM'S PROSE APPROVAL.** Do not promote to approved until Jim approves this exact revision.
+### Chapter Two — Quality Assurance — FINAL / APPROVED
+- Approved manuscript: `chapters/approved/002-quality-assurance.md`.
+- Approval commit: `1fe009b49d9d9dace2e7f03de90c49c67a850010`.
+- The approved Maison Belle section uses the original Chapter Two prose baseline from commit `6784185cccf4fec3c2b5a10a36658d03d3e34f78`, with exactly two agreed surgical changes inside that prose: the purchase list adds **a nightgown**, and the timing sentence is adjusted to preserve enough late-afternoon/evening time for dinner. The original fourteen-day exchange remains.
+- After the original bus-stop / quality-assurance ending, the approved chapter continues into Bistro Regency for the first public couple-practice dinner: Tim applies Allison-derived heel observations; asks Allison to choose his meal; experiments with food-flirting; quietly helps a recently dumped woman recover dignity without turning her into a rescue project; accepts Allison paying because she asked him out; then Allison's nightgown question triggers Tim's 24/7 bootcamp logic, move-in proposal, and Allison's final U-Haul joke.
+- **Manuscript status: FINAL / APPROVED.** The older draft file remains historical working material and is not the governing manuscript.
 
