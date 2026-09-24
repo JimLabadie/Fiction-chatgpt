@@ -2,7 +2,7 @@
 
 ## Substantial characters
 - [Tim Johnson](characters/tim-johnson.md) — main character.
-- Wealthy woman / "Rich Menace" — canonical full name not yet established; substantial character record pending naming.
+- [Allison Kensington](characters/allison-kensington.md) — wealthy woman who proposes the Paris fake-girlfriend arrangement; "Rich Menace" is development shorthand.
 
 ## Minor characters
 Not yet established.
