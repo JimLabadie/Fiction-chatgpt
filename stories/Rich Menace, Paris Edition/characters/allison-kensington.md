@@ -21,7 +21,7 @@
 - **Occupation / skills / competencies:** Not yet established.
 - **Background / formative history:** Not yet established.
 - **Culture / family / class / regional formation:** Wealthy; source and scale of wealth not yet established.
-- **Starting relationships:** She needs Tim to pretend to be her girlfriend at a wedding; her exact relationship to the wedding participants is not yet established.
+- **Starting relationships:** Her ex will be at the wedding. Allison wants a fake girlfriend specifically to make the ex jealous and to feel that she has "won" the breakup. The ex’s exact role at the wedding and the history of the breakup are not yet established.
 - **Starting knowledge / beliefs / misunderstandings:** Not yet established.
 - **Starting habits / routines:** Not yet established.
 
@@ -29,7 +29,10 @@
 Pre-prose; same as baseline.
 
 ## Character engine
-Not yet established beyond the audacity/practical initiative inherent in approaching Tim with the proposition; do not expand that implication into durable personality traits without Jim establishing them.
+- **Core drive in the inciting scheme:** Vanity and competitive pride about the breakup. Allison wants her ex jealous and wants to feel that she has won the breakup.
+- **Approach to Tim:** Allison sees how hot Tim could be in feminine presentation and decides he can plausibly become the impressive girlfriend she wants to arrive with.
+- **Important distinction:** The fake-girlfriend scheme is not established as a necessity, family obligation, protective cover, or crisis. Allison is doing it because she wants to win.
+- Other durable personality traits remain not yet established.
 
 ## Voice, humor, and behavior
 Not yet established.
@@ -44,9 +47,9 @@ Not yet established.
 
 ### Significant relationship — Tim Johnson
 - **Other character key:** Rich Menace, Paris Edition :: Tim Johnson
-- **Nature / current state:** At the premise stage, Allison proposes that Tim pretend to be her girlfriend for a wedding weekend in Paris.
-- **Distinct chemistry / texture:** Not yet established.
-- **Trust / intimacy / attraction / affection:** Not yet established beyond the premise's proposed arrangement; do not treat later romance ideas as occurred fact.
+- **Nature / current state:** At the premise stage, Allison proposes that Tim pretend to be her girlfriend for a wedding weekend in Paris so her ex will be jealous and Allison can feel that she won the breakup.
+- **Distinct chemistry / texture:** Allison recognizes immediately that Tim has the potential to be extremely attractive in feminine presentation; this perception is part of why she chooses him.
+- **Trust / intimacy / attraction / affection:** Allison sees Tim's attractiveness/potential from the outset. The exact nature and degree of her attraction, and any later romance, remain to be developed rather than assumed.
 - **Boundaries / development:** Not yet established.
 
 ## Identity, presentation, and embodiment
@@ -64,9 +67,11 @@ No occurred changes yet.
 | Decision / understanding | Developed reasoning and distinctions | Provenance | Status | Source |
 |---|---|---|---|---|
 | Canonical name is Allison Kensington | Jim supplied the full name for the previously unnamed wealthy woman / Rich Menace. | Jim | Established | Development conversation |
+| Fake-girlfriend motive is vanity / winning the breakup | Allison wants her ex jealous. The scheme is voluntary competitive vanity rather than necessity: she wants to arrive with a hot girlfriend and feel that she won the breakup. | Jim | Established | Development conversation |
+| Allison selects Tim because she sees his potential | She can see how hot Tim can be in feminine presentation and decides to act on that potential. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
-Age, appearance, sexuality, occupation, source/scale of wealth, residence, family, wedding connection, reason for needing a fake girlfriend, personality, and relationship history are not yet established.
+Age, appearance, sexuality, occupation, source/scale of wealth, residence, family, the ex’s identity and wedding role, detailed breakup history, and broader personality remain not yet established.
 
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
