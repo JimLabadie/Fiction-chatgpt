@@ -58,7 +58,8 @@ Pre-prose; same as baseline.
 Not yet established.
 
 ## Relationship ecosystem
-Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. Their immediate superficial attraction is mutual: each sees the other as exceptionally hot and, in essence, has the reaction, "Do you see that? That's mine." Allison ultimately falls for Tim himself.
+- **Friends / ordinary social world:** Tim's friends share the story's ordinary, non-melodramatic response to his self-possession and feminine presentation. Seeing Tim with Allison does not trigger gasping, hand-wringing, masculinity policing, or an identity intervention. Their basic reaction is closer to: Allison is spectacularly hot; yes, they would absolutely dress like that too if that were the deal; good for Tim. Then ordinary friendship resumes — including questions like whether he is still in fantasy football. The humor comes from continuity: Tim is still obviously Tim to them.
+- **Allison Kensington:** Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. Their immediate superficial attraction is mutual: each sees the other as exceptionally hot and, in essence, has the reaction, "Do you see that? That's mine." Allison ultimately falls for Tim himself.
 
 ## Identity, presentation, and embodiment
 - **Identity understanding:** Male; he understands himself as a guy. A future transgender development remains possible, but Tim is not transgender at story baseline and is not currently experiencing a push or pull toward a different gender identity.
