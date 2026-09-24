@@ -1,13 +1,15 @@
 # Rich Menace, Paris Edition — Current Story State
 
 ## Story stage
-Chapter One — **Software Engineer Barbie** — is **FINAL / APPROVED**. The complete approved chapter is preserved verbatim at `chapters/approved/001-software-engineer-barbie.md`.
+Chapter One — **Software Engineer Barbie** — is **FINAL / APPROVED** at `chapters/approved/001-software-engineer-barbie.md`.
+
+Chapter Two — **Quality Assurance** — is **FINAL / APPROVED** at `chapters/approved/002-quality-assurance.md` (approval commit `1fe009b49d9d9dace2e7f03de90c49c67a850010`).
 
 ## Main character
 Tim Johnson.
 
 ## Current handoff
-Chapter One is complete and final. It ends after Tim recognizes that Allison has recruited competition and decides, **“This weekend was going to be fun.”** Chapter Two has not yet been developed. Before Chapter Two prose, resolve only the consequential currently-open life/wedding infrastructure that the chapter actually requires, then persist those decisions before drafting.
+Chapters One and Two are complete and final. Chapter Two ends after the Bistro Regency dinner, where Tim's nightgown question/answer logic becomes 24/7 femininity boot camp, Tim proposes moving in with Allison for continuous practice, Allison agrees, and she closes the chapter with the U-Haul joke. The next prose work begins from that established cohabitation/training handoff; detailed domestic routines and implementation remain to be developed at story pace.
 
 ## Immediate unresolved items
 - Tim is established as 35, a software engineer, and a **Regency Hill resident**. He lives in a **clean, organized apartment a couple of miles from the Maison Belle bus stop**. The apartment reflects an ordinary competent adult who takes care of his life; it is not coded as a masculine or feminine space. He is temporarily using the bus because his car died and is being repaired. He is not a St. Claire resident/member.
@@ -124,3 +126,11 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - It is a **French-American fusion restaurant** in Regency Hill.
 - Keep the establishment deliberately simple beyond those established facts unless later story needs require further development.
 - Chapter Two's first public couple-practice dinner occurs here after Maison Belle, preserving the Chapter One geographic setup and the evening-time handoff.
+
+
+### Chapter Two manuscript status
+- **FINAL / APPROVED**.
+- Governing manuscript: `chapters/approved/002-quality-assurance.md`.
+- Approval commit: `1fe009b49d9d9dace2e7f03de90c49c67a850010`.
+- Approved Maison Belle prose preserves the original Chapter Two baseline except for the agreed nightgown insertion and timing adjustment; the original fourteen-day exchange remains.
+- Approved dinner continuation begins only after the original quality-assurance ending and ends with Allison's U-Haul line.
