@@ -248,3 +248,11 @@ Status: Jim proposal under evaluation; preserve as a possibility, not establishe
 - Their generosity is ordinary behavior rather than performance. They see helping family, friends, and neighbors as something people simply do.
 - This family culture provides natural roots for Chloe's own acts-of-service approach to love and her quiet practical kindness.
 - Steve and Dot went to school with Gary and Jenny Kensington. The couples were not close friends, but liked one another and later moved in different circles.
+
+
+### 2026-09-24 established development — Allison Johnson
+- Chloe's sister is **Allison Johnson**.
+- The shared first name with Allison Kensington is intentional and should be allowed to become recurring joke material rather than treated as a naming defect.
+- Allison Johnson and Chloe are two sides of the same family coin. Neither is the good sibling, bad sibling, responsible sibling, or destructive counterexample to the other.
+- They share the Johnson family's underlying values but see the world through different lenses. Their differences should create perspective, affection, friction, and comedy without requiring estrangement or dysfunction.
+- Because Chloe's partner is also named Allison, family conversations can naturally produce confusion, qualifiers, and increasingly ridiculous attempts to distinguish which Allison everyone means.
