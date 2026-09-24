@@ -4,7 +4,7 @@ Status: REVIEW DRAFT — CORRECTED SCOPE
 Purpose: truth-test recovered planning before prose.
 
 ## Governing scope
-**Saturday night into Sunday morning. One house. Chloe starts living there. No trip to her former apartment and no internal time skip over the overnight.**
+**Friday night into Saturday morning. One house. Chloe starts living there. No trip to her former apartment and no internal time skip over the overnight.**
 
 Chapter Two ends on Allison's U-Haul joke. Chapter Three tests the 24/7 boot-camp logic by following Tim/Chloe and Allison through the rest of that same evening, bedtime, sharing a bed, and the following morning at Allison's house. Chloe begins cohabiting immediately by unpacking the new Chloe wardrobe/presentation belongings bought that day into Allison's normal domestic space. The later move is the separate task of retrieving/relocating her preexisting possessions from her soon-to-be-former apartment.
 
@@ -34,7 +34,9 @@ Chapter Two ends on Allison's U-Haul joke. Chapter Three tests the 24/7 boot-cam
 - Allison's home: three-bedroom, three-bath Colonial in Regency Hill.
 - White picket fence.
 - Swing set and doghouse left by the prior family.
-- It is a warm home, not an heiress showroom.
+- It is a warm, femininely decorated, lived-in home, not an heiress showroom.
+- The family room is the normal free-time gathering space and the natural setting for Julie's visit.
+- Allison's bedroom has its closet and ensuite attached; Chloe's new belongings can be integrated there without inventing further architectural detail.
 - Allison bought a house that a family had made into a home.
 - Allison already wanted marriage, children, and family life; that hope influenced what felt right to her even before she consciously articulated it.
 - Chloe can notice and tease from the evidence without omnisciently announcing Allison's psychology.
@@ -168,11 +170,11 @@ Possible later material that is specifically **not silently pulled into this cha
 - later pre-Paris days/weeks.
 
 ## Weekend runway — do not timetable yet
-- This story day is **Saturday**; the chapter ends Sunday morning.
+- This story day is **Friday**; the chapter ends Saturday morning.
 - The weekend gives room for later family/friend contact, deeper coupling, parental phone calls/summons, and the later apartment/possessions move.
 - Chloe and Allison recognize that knowing each other's family/friends on paper is insufficient; convincing couplehood eventually means actually meeting people from each other's lives.
-- Parental phone calls are expected to trigger **parental summons**, but do not yet decide which family calls first, exact Sunday placement, or a weekend activity schedule.
-- Do not build a detailed weekend timetable. Continue forward planning only through **Friday** before imposing later calendar structure.
+- Parental phone calls are expected to trigger **parental summons**, but do not yet decide which family calls first, exact weekend placement, or a weekend activity schedule.
+- Do not build a detailed weekend timetable. Do not impose a detailed weekend timetable; preserve later weekend developments as runway until they are deliberately placed.
 
 ## Preserved Julie material — placement unresolved
 Julie Smith remains the Paris bride and one of Allison's close former sorority sisters. Developed future material is preserved:
