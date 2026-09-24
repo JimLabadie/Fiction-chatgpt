@@ -5,7 +5,7 @@ Corrected: 2026-09-24
 
 ## Chapter boundary and time
 - Chapter Two is final and ends on Allison's U-Haul line.
-- Chapter Three is **one continuous Saturday overnight at Allison's house**: the same evening into Sunday morning.
+- Chapter Three is **one continuous Friday overnight at Allison's house**: the same evening into Saturday morning.
 - Do not use an internal time skip to bypass the night, bedtime, sleeping arrangement, or morning. Those are the chapter.
 - Chloe **starts living at Allison's house in Chapter Three**. She unpacks and integrates the new Chloe wardrobe/presentation belongings they bought that day into Allison's normal bedroom/closet/bathroom space.
 - They do **not** empty Chloe's soon-to-be-former apartment or retrieve her preexisting possessions in Chapter Three. That later apartment/possessions move remains future material.
@@ -21,6 +21,9 @@ Corrected: 2026-09-24
 - Chloe's earlier history remains private; Allison and Chloe do not invent an elaborate false biography.
 
 ## Allison's house as the single-night environment
+- The house is warmly and femininely decorated and feels like a normal lived-in home, not an heiress showroom.
+- Allison and Chloe naturally spend free time in the family room; Julie's visit also plays there.
+- Allison's closet and ensuite bathroom are attached to her bedroom. These are ordinary household relationships, not architecture requiring further specification.
 - Allison's home is a three-bedroom, three-bath Colonial in Regency Hill with a white picket fence.
 - The yard still has a swing set and doghouse left from the prior family.
 - Allison consciously bought a nice house that a family had made into a home.
@@ -103,12 +106,12 @@ Corrected: 2026-09-24
 - No assumption that the one-night test equals completed cohabitation.
 
 ## Weekend runway — established without scheduling it
-- The story day is **Saturday**; Chapter Three continues Saturday evening into Sunday morning.
+- The story day is **Saturday**; Chapter Three continues Saturday evening into Saturday morning.
 - The weekend provides runway for later material involving family, friends, further coupling, parental phone calls/summons, and the later apartment/possessions move.
-- **Do not assign those weekend developments to specific Sunday times/scenes yet.** Preserve them as available weekend material.
+- **Do not assign those weekend developments to specific weekend times/scenes yet.** Preserve them as available weekend material.
 - Chloe and Allison recognize that convincing couplehood will eventually require meeting each other's family and friends, not merely exchanging facts about them.
 - Parental contact is expected to produce **parental summons after phone calls**; exact calls, order, family, and timing remain undeveloped.
-- Continue planning forward only through **Friday** before imposing any detailed later calendar.
+- Do not impose a detailed weekend timetable; preserve later weekend developments as runway until they are deliberately placed.
 
 ## Still unresolved for the detailed outline
 - Exact same-evening starting location immediately after Bistro Regency.
