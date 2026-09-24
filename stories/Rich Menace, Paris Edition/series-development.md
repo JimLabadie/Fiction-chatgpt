@@ -279,3 +279,12 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Allison and Chloe can approach fashion from complementary directions: Allison from wearer/aesthetic/social experience and Chloe from maker/construction experience.
 - Photography can become the reciprocal romantic mechanism to Chloe's presentation training: Allison helps Chloe learn a new lived presentation while Chloe helps Allison reclaim room for an existing passion.
 - Chloe's five close friends and close family mean she already had a social world before Allison; Allison is not rescuing her from isolation.
+
+
+## 2026-09-24 authoritative Chloe continuity update
+- **Chloe Johnson is a transgender woman.**
+- Chloe loves femininity and is happy living as Chloe.
+- Tim remains a real and respected part of Chloe's history.
+- Chloe is pragmatic about this part of herself; it does not need to dominate the story.
+- This update supersedes earlier story-local formulations that treated Chloe only as a presentation role. Older material may remain as historical development evidence but does not govern go-forward characterization.
+- Ordinary ongoing narration and social life use **Chloe / she/her** after the Chapter Three name resolution.
