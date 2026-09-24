@@ -34,7 +34,8 @@ Inspected live baseline: `203268358e61174e5ecb9833b91b37b5d73aa538`.
 - the noncanonical plural `chapters/candidates/` directory is absent;
 - a byte-identical promoted candidate is not retained beside its approved copy;
 - a differing candidate beside an approved chapter is reported as a proposed revision requiring status review, not silently deleted;
-- every approved Markdown chapter is discoverable in the README approval register;
+- every approved Markdown chapter is discoverable in the controlling series-outline chapter map;
+- README names or links the required story records without becoming a competing status authority;
 - approved prose has a nonempty, recognizable current-story-state handoff.
 
 `test_validate_story_lifecycle.py` supplies isolated fixtures for:
@@ -42,7 +43,8 @@ Inspected live baseline: `203268358e61174e5ecb9833b91b37b5d73aa538`.
 1. a complete passing story;
 2. detection of a retained promoted candidate;
 3. detection of approved prose without a current handoff;
-4. detection of a README/approved-directory authority conflict.
+4. detection of a series-outline/approved-directory authority conflict;
+5. detection of an incomplete README navigation map.
 
 These checks enforce structure and discoverability. They deliberately do not claim semantic completeness or authorial approval.
 
@@ -54,12 +56,12 @@ Command:
 python3 -m unittest discover -s Systemwide/Audit -p 'test_validate_story_lifecycle.py' -v
 ```
 
-Result: four tests passed.
+Result: five tests passed.
 
 Scoped repository validation:
 
 - **The Neon Sign:** zero structural findings.
-- generic unit suite: four tests passed.
+- generic unit suite: five tests passed.
 
 No other story namespace is part of this audit's result. A prior revision exceeded the active-story boundary by testing and changing unrelated stories. The corrective revision restored those story files to their exact pre-audit state and removed the cross-story conclusions. Structural findings outside the active namespace do not authorize inspection, disposition, cleanup, or issue creation without the required task scope and author authority.
 
@@ -71,10 +73,10 @@ No other story namespace is part of this audit's result. A prior revision exceed
 | Brainstorming becomes substantive | bootstrap + development-record requirements | Validator confirms the development destination exists, not that every idea reached it | OPEN |
 | Story gets a working/final title | README and series records | Starter-record existence only | PARTIAL |
 | Story namespace initializes | nine starter documents + chapter directories | Deterministic structural validation | PASS FOR THE NEON SIGN |
-| Development state remains discoverable | README, development, outline, current state | Required records and approved-chapter registration checked | PARTIAL PASS |
+| Development state remains discoverable | README navigation, development, outline, current state | Required links and outline chapter registration checked | PARTIAL PASS |
 | Candidate prose is preserved immediately | candidate chapter directory | Repository end state checked; timing/turn boundary cannot be reconstructed automatically | OPEN |
 | Revision updates the live candidate | one candidate per prose unit | Differing approved/candidate pair is surfaced for status review | PARTIAL |
-| Approval promotes exact text | approved directory + README register | Stale identical candidate and missing register entry are detectable | PASS FOR THE NEON SIGN |
+| Approval promotes exact text | approved directory + series-outline chapter map | Stale identical candidate and missing outline entry are detectable | PASS FOR THE NEON SIGN |
 | Approval updates continuity/handoff | timeline/current state/related records | Current-state presence is checked; semantic completeness is not | PARTIAL |
 | Fresh chat resumes correctly | bootstrap/router/story entry point | No genuinely isolated new-chat execution was available in this work session | OPEN |
 | Failed write stops continuation | bootstrap failure rule | No controlled connector-write failure was induced | OPEN |

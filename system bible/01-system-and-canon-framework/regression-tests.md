@@ -164,7 +164,7 @@ A fresh session that has only the repository and the test prompt should reach th
 - Maintain all nine standard starter documents and the singular `chapters/candidate/` plus `chapters/approved/` directories.
 - Keep one active candidate per prose unit. After exact prose is approved, move it into approved and remove the promoted candidate in the same revision.
 - Treat a candidate that differs from an approved chapter as a proposed revision requiring explicit status, not as a duplicate that may be silently discarded.
-- Register every approved chapter in the story README and maintain a usable current-story-state handoff.
+- Keep README limited to navigation. Register every approved chapter in `series-outline.md`, the controlling chapter/manuscript map, and maintain a usable current-story-state handoff.
 - Run `python3 Systemwide/Audit/validate_story_lifecycle.py "stories/<Story Title>"` after lifecycle changes. An error is a failed structural regression test.
 
 **Failure conditions:**
@@ -172,10 +172,11 @@ A fresh session that has only the repository and the test prompt should reach th
 - Missing starter records or chapter lifecycle directories.
 - A plural or parallel candidate directory that bypasses the maintained path.
 - Byte-identical candidate and approved copies left active after promotion.
-- Approved prose absent from the README approval register.
+- Approved prose absent from the controlling series-outline chapter map.
 - Approved prose without a current handoff.
-- A README claiming no approved prose while `chapters/approved/` contains chapter artifacts.
+- A series outline claiming no approved prose while `chapters/approved/` contains chapter artifacts.
 - Multiple active approved artifacts for the same chapter number, or nonchapter Markdown stored in the approved-prose directory.
+- Duplicating approval, continuity, character, or handoff status into README and thereby creating a competing authority.
 - Describing a structural pass as proof that brainstorming was semantically complete, candidate persistence happened at the required turn boundary, or a fresh chat correctly applied the records.
 
 The executable checker and its unit fixtures live under `Systemwide/Audit/`; the [2026-09-24 lifecycle audit](../../Systemwide/Audit/story-lifecycle-audit-2026-09-24.md) records its first repository application and remaining semantic/runtime limits.

@@ -89,8 +89,14 @@ def validate_story(story: Path) -> list[Finding]:
 
     readme = story / "README.md"
     readme_text = readme.read_text(encoding="utf-8") if readme.is_file() else ""
-    if approved_files and re.search(r"\bno chapters approved\b", readme_text, re.IGNORECASE):
-        findings.append(Finding("error", "approval-state-conflict", str(readme), "README says no chapters are approved while chapter artifacts exist in chapters/approved"))
+    for name in REQUIRED_DOCUMENTS[1:]:
+        if name not in readme_text:
+            findings.append(Finding("error", "story-record-not-linked", str(readme), f"README navigation does not link or name required story record: {name}"))
+
+    outline = story / "series-outline.md"
+    outline_text = outline.read_text(encoding="utf-8") if outline.is_file() else ""
+    if approved_files and "no chapters approved" in outline_text.lower():
+        findings.append(Finding("error", "approval-state-conflict", str(outline), "Series outline says no chapters are approved while chapter artifacts exist in chapters/approved"))
 
     approved_by_number: dict[str, list[Path]] = {}
     for name, path in approved_files.items():
@@ -103,8 +109,8 @@ def validate_story(story: Path) -> list[Finding]:
 
     for name, path in approved_files.items():
         relative = f"chapters/approved/{name}"
-        if relative not in readme_text:
-            findings.append(Finding("error", "approved-chapter-not-registered", str(path), f"README approval register does not reference {relative}"))
+        if relative not in outline_text:
+            findings.append(Finding("error", "approved-chapter-not-registered", str(path), f"Series outline does not reference {relative}"))
 
     if approved_files:
         state = story / "current-story-state.md"

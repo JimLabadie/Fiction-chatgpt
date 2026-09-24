@@ -14,7 +14,7 @@ Author-approved on 2026-09-14. Create all nine documents when starting a new ser
 
 | Document | Controlling purpose |
 |---|---|
-| `README.md` | Overview and document index |
+| `README.md` | Minimal navigation entry point; links only, not a duplicate status/canon record |
 | `series-bible.md` | Durable premise and scope |
 | `character-bible.md` | Character index; compact entries only for genuinely minor characters |
 | `world-and-setting.md` | Shared references and series-specific setting |
@@ -24,7 +24,7 @@ Author-approved on 2026-09-14. Create all nine documents when starting a new ser
 | `current-story-state.md` | Exact handoff |
 | `series-development.md` | Decisions, reasoning, proposals, and open questions |
 
-README includes navigation, chapter workflow, and an approval register. The development record retains decisions, reasoning, open questions, and rejected alternatives. Link to shared world and house-voice records; do not duplicate entire shared bibles. Each fact has one controlling home. An approved plan is not a completed event.
+README provides the shortest useful path into the story records. It may identify the story in one sentence and link to the controlling files, but it does not maintain chapter approval, current handoff, continuity, characterization, or story canon. Chapter order, manuscript status, and artifact links belong in `series-outline.md`; the exact resume point belongs in `current-story-state.md`; development reasoning belongs in `series-development.md`. Link to shared world and house-voice records; do not duplicate entire shared bibles. Each fact has one controlling home. An approved plan is not a completed event.
 
 ## Chapter artifacts and lifecycle
 
@@ -37,8 +37,8 @@ Example: `A Life in Plain Sight - 001 - The Door.md`.
 1. Write and revise chapter prose in candidate.
 2. Approval of the exact chapter text must come from the author. Outline approval, approval of another chapter, silence, or a successful upload does not approve prose.
 3. After approval, move that chapter into approved with the same filename. Remove the candidate copy as part of the same commit; do not keep two active versions.
-4. Record number, title, book, approved revision, approval date/source, and artifact link in the README approval register.
-5. Update the timeline, current story state, changed character/relationship facts, relevant durable world/premise facts, and outline progress in the same revision.
+4. Record number, title, book, manuscript status, current revision, and artifact link in `series-outline.md`, which is the single controlling chapter/manuscript map. Preserve material approval provenance or recovery reasoning in `series-development.md` when needed; do not duplicate it into README.
+5. Update the timeline, current story state, changed character/relationship facts, relevant durable world/premise facts, and outline progress in the same revision. Do not duplicate those updates into README.
 6. To revise approved prose, leave the existing approved chapter intact while preparing the proposed revision in candidate. Only after the author approves the revision should it replace the approved artifact; then remove the candidate and reconcile downstream continuity. Git preserves earlier versions.
 7. If the series or chapter title changes, rename affected artifacts and update links and registers together.
 

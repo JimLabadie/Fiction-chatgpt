@@ -11,6 +11,8 @@ def make_story(root: Path) -> Path:
     for name in REQUIRED_DOCUMENTS:
         content = "# Test\n"
         if name == "README.md":
+            content += "\n".join(REQUIRED_DOCUMENTS[1:]) + "\n"
+        if name == "series-outline.md":
             content += "chapters/approved/001-opening.md\n"
         if name == "current-story-state.md":
             content += "Current handoff: after chapter one.\n"
@@ -44,10 +46,17 @@ class StoryLifecycleValidationTests(unittest.TestCase):
     def test_conflicting_approval_state_fails(self):
         with tempfile.TemporaryDirectory() as temp:
             story = make_story(Path(temp))
-            readme = story / "README.md"
-            readme.write_text(readme.read_text(encoding="utf-8") + "No chapters approved.\n", encoding="utf-8")
+            outline = story / "series-outline.md"
+            outline.write_text(outline.read_text(encoding="utf-8") + "No chapters approved.\n", encoding="utf-8")
             codes = {finding.code for finding in validate_story(story)}
             self.assertIn("approval-state-conflict", codes)
+
+    def test_missing_navigation_link_fails(self):
+        with tempfile.TemporaryDirectory() as temp:
+            story = make_story(Path(temp))
+            (story / "README.md").write_text("# Test\n", encoding="utf-8")
+            codes = {finding.code for finding in validate_story(story)}
+            self.assertIn("story-record-not-linked", codes)
 
 
 if __name__ == "__main__":
