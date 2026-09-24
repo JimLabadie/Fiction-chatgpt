@@ -106,7 +106,7 @@ Corrected: 2026-09-24
 - No assumption that the one-night test equals completed cohabitation.
 
 ## Weekend runway — established without scheduling it
-- The story day is **Saturday**; Chapter Three continues Saturday evening into Saturday morning.
+- The story day is **Friday**; Chapter Three continues Friday evening into Saturday morning.
 - The weekend provides runway for later material involving family, friends, further coupling, parental phone calls/summons, and the later apartment/possessions move.
 - **Do not assign those weekend developments to specific weekend times/scenes yet.** Preserve them as available weekend material.
 - Chloe and Allison recognize that convincing couplehood will eventually require meeting each other's family and friends, not merely exchanging facts about them.
