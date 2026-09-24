@@ -4,9 +4,9 @@ Status: REVIEW DRAFT — CORRECTED SCOPE
 Purpose: truth-test recovered planning before prose.
 
 ## Governing scope
-**One night. One house. No move. No internal time skip over the overnight.**
+**Saturday night into Sunday morning. One house. Chloe starts living there. No trip to her former apartment and no internal time skip over the overnight.**
 
-Chapter Two ends on Allison's U-Haul joke. Chapter Three tests the 24/7 boot-camp logic by following Tim/Chloe and Allison through the rest of that same evening, bedtime, sharing a bed, and the following morning at Allison's house. The actual move happens in a later chapter.
+Chapter Two ends on Allison's U-Haul joke. Chapter Three tests the 24/7 boot-camp logic by following Tim/Chloe and Allison through the rest of that same evening, bedtime, sharing a bed, and the following morning at Allison's house. Chloe begins cohabiting immediately by unpacking the new Chloe wardrobe/presentation belongings bought that day into Allison's normal domestic space. The later move is the separate task of retrieving/relocating her preexisting possessions from her soon-to-be-former apartment.
 
 ## Scene 1 — Immediate aftermath of the U-Haul line
 **Time:** same evening, immediately after Bistro Regency.
@@ -69,7 +69,7 @@ The information should emerge through conversation and action rather than a ques
 ### Sapphic/social fluency
 - Chloe needs cultural/social fluency appropriate to being Allison's girlfriend.
 - No stereotypes.
-- Do not resolve Allison's still-open exact sexuality label.
+- Allison is bisexual with a strong preference for women; this is established self-knowledge, not a Chloe-triggered revelation. Clara was a real relationship, and Allison simply experiences Chloe as a woman she is intensely attracted to.
 
 ### Each other's worlds
 - The principle is reciprocal knowledge, not physically moving Chloe's possessions in this chapter.
@@ -111,17 +111,30 @@ This is available relationship-boot-camp material during the evening.
 - This becomes reciprocal care and a possible shared interest.
 - Exact photo, location, camera, and future photography activity remain unresolved.
 
-## Scene 7 — Sleeping arrangements
+## Scene 7 — Julie rings the doorbell
+- Julie arrives after Chloe has begun integrating the newly purchased wardrobe/presentation belongings into Allison's normal space and after authentic couple micro-behaviors have begun emerging.
+- Chloe and Allison are forthright that they have known each other an absurdly short time; they do not fabricate a long shared history.
+- Julie sees Chloe as an extraordinarily attractive woman and recognizes that Allison is genuinely radiant rather than merely performing for Clara.
+- Julie notices authentic physical and domestic intimacy because Chloe and Allison genuinely enjoy it; they are not staging affection for Julie.
+- Julie personally insists Chloe attend Paris as Allison's plus-one.
+- Julie teases that Allison may, for once, be punching above her weight class.
+- The U-Haul joke returns with a new meaning: Chloe really has started living here, even though her former apartment has not yet been emptied.
+- Julie makes **both women promise to participate in the bouquet toss** and muses that she may need **two bouquets, just in case**.
+- Julie leaves before bedtime, allowing the chapter to contract from outside social comedy into private intimacy.
+
+## Scene 8 — Sleeping arrangements
 - They must explicitly discuss where Chloe sleeps.
-- Sex remains several chapters away.
-- Bed-sharing is nevertheless intimate and useful couple practice.
+- Chloe explicitly raises sex because they are adults, intensely attracted to each other, and about to share a bed.
+- They agree they **do not want to add sex to the relationship yet**; sex remains several chapters away.
+- They also explicitly agree that they both enjoy nonsexual/outer physical intimacy—kissing, touching, cuddling, closeness, and sleeping together—and do not want to suppress it. They acknowledge that genuine affection will also help the supposedly fake relationship read naturally.
+- Bed-sharing is intimate and useful couple practice.
 - Allison “selflessly” proposes they sleep together.
 - The justification should be transparent enough to be funny: apparently quality assurance now requires sharing a bed with the gorgeous woman she met that morning.
 - Chloe sees through Allison's heroic sacrifice.
 - Heavy flirting is appropriate.
 - Keep the distinction between sharing a bed and having sex clear without making the scene solemn.
 
-## Scene 8 — The first night
+## Scene 9 — The first night
 - Do not cut from the sleeping-arrangement joke to morning.
 - Show ordinary bedtime.
 - Chloe actually uses the nightgown whose existence helped trigger the 24/7 logic.
@@ -134,7 +147,7 @@ This is available relationship-boot-camp material during the evening.
 - They actually share the bed.
 - The comic truth remains that they met that morning and have somehow classified this as quality assurance.
 
-## Scene 9 — Morning
+## Scene 10 — Morning
 - Morning is continuous with the night, not a chapter-internal skip that bypasses it.
 - Waking, grooming, dressing, coffee/breakfast, and ordinary habits prove why Chloe wanted 24/7 practice.
 - Chloe will not execute every learned behavior perfectly when half awake.
@@ -150,11 +163,16 @@ The chapter ends in the morning, after the single-night experiment has demonstra
 **The exact final beat is not yet established.**
 
 Possible later material that is specifically **not silently pulled into this chapter**:
-- actual move;
-- Chloe's apartment;
-- moving possessions;
-- later pre-Paris days/weeks;
-- Julie's doorbell visit unless Jim confirms it belongs inside this one-night window.
+- Chloe's former-apartment visit;
+- retrieval/relocation of her preexisting possessions;
+- later pre-Paris days/weeks.
+
+## Weekend runway — do not timetable yet
+- This story day is **Saturday**; the chapter ends Sunday morning.
+- The weekend gives room for later family/friend contact, deeper coupling, parental phone calls/summons, and the later apartment/possessions move.
+- Chloe and Allison recognize that knowing each other's family/friends on paper is insufficient; convincing couplehood eventually means actually meeting people from each other's lives.
+- Parental phone calls are expected to trigger **parental summons**, but do not yet decide which family calls first, exact Sunday placement, or a weekend activity schedule.
+- Do not build a detailed weekend timetable. Continue forward planning only through **Friday** before imposing later calendar structure.
 
 ## Preserved Julie material — placement unresolved
 Julie Smith remains the Paris bride and one of Allison's close former sorority sisters. Developed future material is preserved:
@@ -170,12 +188,12 @@ This outline does **not** force Julie into Chapter Three merely because earlier 
 
 ## Continuity guardrails
 - One continuous overnight.
-- No actual move.
-- No Chloe-apartment visit.
+- Chloe starts living at Allison's house and integrates the new belongings bought that day.
+- No Chloe-apartment visit and no retrieval of her preexisting possessions.
 - No multi-day montage.
 - No skipping bedtime/night.
 - No magical presentation competence.
-- No invented Allison sexuality label.
+- Allison is bisexual with a strong preference for women.
 - No jealous Chloe over Clara photographs.
 - No Allison domestic incompetence.
 - No invented house layout beyond established facts.
