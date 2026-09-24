@@ -20,14 +20,13 @@ These records contain the recovered post-Chapter-Two development that was previo
 ## Stable Chapter Three spine
 - Immediate consequences of the U-Haul agreement; no convenience skip over the first cohabitation/training period.
 - Resolve Chloe/name/pronouns and the immediate HR dependency near the opening.
-- Actual move-in on page, exposing the protagonist's existing life.
-- Integrated domestic space rather than staged guest infrastructure.
+- Chapter Three is one continuous overnight at Allison's house; the actual move and Chloe-apartment visit happen in a later chapter.
 - Allison's established Colonial, white fence, swing set, doghouse, and family-life hopes function as character evidence.
 - First-night/evening ordinary-life training is story material, not something to skip.
 - Sleeping arrangements are discussed and bed-sharing is an important intimacy beat.
 - Femininity training expands into relationship knowledge, sapphic social fluency, and learning each other's worlds.
 - Allison's photography and old Clara photographs reveal history; Chloe accepts that history and makes room for Allison to use her camera again.
-- Julie Smith is the doorbell visitor. She learns they barely know each other, observes earned authentic couple behavior and domestic integration, recognizes Allison's genuine happiness, insists Chloe attend Paris, and escalates the U-Haul joke.
+- Julie Smith material is preserved, but her placement in Chapter Three is unresolved after restoring the single-night scope.
 
 ## Stable house and family facts
 - Allison's house: three bedrooms, three baths, Colonial, Regency Hill, white picket fence, swing set, doghouse.
