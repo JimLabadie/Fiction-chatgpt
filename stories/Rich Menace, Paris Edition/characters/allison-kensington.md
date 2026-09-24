@@ -226,3 +226,10 @@ Chloe's parents and Allison's parents went to school together. They were not clo
 - After her breakup, Allison swore off romantic relationships for a time and threw herself heavily into work.
 - Photography consequently received less room in her life. This is an ordinary consequence of where Allison put her time and attention after the breakup, not evidence that the company destroyed her or that she needs to be rescued from her career.
 - Chloe helping Allison make room for photography again is therefore about restoring balance and pleasure, not fixing a damaged life or opposing Kensington Logistics.
+
+
+### 2026-09-24 established development — Renee Kensington
+- Allison's sister is **Renee Kensington**.
+- Renee and Allison share the same family foundation but often see situations differently.
+- Their differences are healthy rather than destructive. They can disagree, tease each other, and offer contrasting interpretations while remaining loving sisters.
+- Neither sister is the family's cautionary example or presented as inherently better than the other.
