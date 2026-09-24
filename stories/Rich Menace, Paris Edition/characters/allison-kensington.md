@@ -9,14 +9,14 @@
 - **Retrieval aliases / spelling variants:** Rich Menace.
 - **Former/changed names:** Not yet established.
 - **Pronouns / scope / chronology:** she/her at story baseline.
-- **Age / birth date:** Not yet established.
+- **Age / birth date:** 34.
 - **Story role:** Wealthy woman who approaches Tim Johnson and proposes the Paris fake-girlfriend arrangement.
 - **Record status / provenance:** In development; canonical full name established by Jim.
 
 ## Baseline / original state
 - **Opening identity/presentation:** Woman; further identity/presentation details not yet established.
 - **Opening location/context:** Approaches Tim Johnson while he is waiting for a bus outside a dress shop.
-- **Appearance / physical baseline:** Not yet established.
+- **Appearance / physical baseline:** Similar overall build to Tim, but Allison is exceptionally beautiful at a higher conventional-glamour register: where Tim is "hot model territory," Allison is "Victoria's Secret supermodel territory." The comparison establishes relative visual impact rather than a literal employment/modeling history. Detailed features remain not yet established.
 - **Clothing / grooming / presentation baseline:** Not yet established.
 - **Occupation / skills / competencies:** Not yet established.
 - **Background / formative history:** Not yet established.
@@ -53,7 +53,7 @@ Not yet established.
 ### Significant relationship — Tim Johnson
 - **Other character key:** Rich Menace, Paris Edition :: Tim Johnson
 - **Nature / current state:** At the premise stage, Allison proposes that Tim pretend to be her girlfriend for a wedding weekend in Paris so her ex will be jealous and Allison can feel that she won the breakup.
-- **Distinct chemistry / texture:** Allison recognizes immediately that Tim has the potential to be extremely attractive in feminine presentation; this perception is part of why she chooses him. Tim's competitiveness aligns with hers rather than challenging her: he treats Allison as his partner in the scheme and directs his competitive energy toward making their shared performance succeed.
+- **Distinct chemistry / texture:** Allison recognizes immediately that Tim has the potential to be extremely attractive in feminine presentation; this perception is part of why she chooses him. Tim likewise finds Allison spectacularly attractive. Their superficial attraction gives the arrangement an immediate "okay, we can work with this" logic: each looks at the other with a possessive, delighted "Do you see that? That's mine" energy. Tim's competitiveness aligns with hers rather than challenging her: he treats Allison as his partner in the scheme and directs his competitive energy toward making their shared performance succeed.
 - **Trust / intimacy / attraction / affection:** Allison sees Tim's attractiveness/potential from the outset and ultimately falls for him. What begins as Allison recruiting a potentially spectacular fake girlfriend becomes real love for Tim himself: the competitive idiot who commits to her scheme and is also deeply kind, caring, warm, and loving. A central contrast in their romantic engine is that Allison begins the story intensely invested in winning the breakup — in controlling what her ex sees and thinks — while Tim is radically self-possessed and does not outsource himself to other people's judgment. She starts the weekend trying to make her ex look at them; as her feelings deepen, Allison becomes the one who cannot stop looking at Tim.
 - **Boundaries / development:** Allison does not require Tim to become a woman in identity for their relationship to work. She chooses him and decides that the extra "factory options" that come with loving Tim are something she will deal with because he is worth it.
 
@@ -78,7 +78,7 @@ No occurred changes yet.
 | Allison's gaze changes over the weekend | She begins intensely concerned with making her ex look at her and Tim; Tim's freedom from outside judgment becomes part of the contrast between them. As Allison falls for him, her attention shifts from whether the ex is looking to Allison herself being unable to stop looking at Tim. | Jim, approving ChatGPT interpretation | Established | Development conversation |
 
 ## Unresolved character questions
-Age, detailed appearance, sexuality, occupation, exact source/scale and structure of wealth, residence, family specifics, the ex’s identity and wedding role, and detailed breakup history remain not yet established.
+Detailed facial/hair features, sexuality, occupation, exact source/scale and structure of wealth, residence, family specifics, the ex’s identity and wedding role, and detailed breakup history remain not yet established.
 
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
