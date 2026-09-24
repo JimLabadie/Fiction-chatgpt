@@ -1,7 +1,7 @@
 # Rich Menace, Paris Edition — Current Story State
 
 ## Story stage
-Chapter One in progress. The exterior opening and first Maison Belle diagnostic sequence have been approved by Jim.
+Chapter One — **Software Engineer Barbie** — is in progress. The exterior opening and subsequent Maison Belle sequences have been approved by Jim. The approved exterior opening is now preserved verbatim at `chapters/approved/001-software-engineer-barbie.md`; the later approved Maison Belle prose still requires verbatim manuscript synchronization.
 
 ## Main character
 Tim Johnson.
