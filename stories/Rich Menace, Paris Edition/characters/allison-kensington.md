@@ -243,3 +243,11 @@ Chloe's parents and Allison's parents went to school together. They were not clo
 - The house therefore reveals something Allison had not fully articulated to herself: she chose a home with room for the family life she hoped to have someday.
 - This is ordinary layered thought and self-understanding. Allison can sincerely hold the practical explanation for buying the house while only gradually recognizing the personal hopes that also shaped the choice.
 - By the time Chloe arrives, the house is already unusually well suited to becoming their shared suburban home. The white fence, extra bedrooms, swing set, and doghouse create a comic romantic contrast with Allison's post-breakup insistence that she had sworn off romance.
+
+
+### 2026-09-24 established development — photography in the house
+- Allison's earlier photography is still present in the house and helps Chloe discover that photography once mattered to her.
+- Some photographs include **Clara Smyth**, who was part of Allison's life during that period.
+- Chloe is comfortable encountering those photographs. She sees them as part of Allison's history rather than something that must be removed.
+- The discovery makes Chloe even more determined to court Allison well and build a strong relationship with her.
+- It also gives Chloe a concrete reason to encourage Allison to use her camera again. Chloe wants Allison to make room for an interest she enjoyed and to create new photographs and memories in her present life.
