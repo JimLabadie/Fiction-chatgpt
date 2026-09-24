@@ -20,7 +20,7 @@ Tim Johnson.
 Close third-person centered on Tim Johnson; past tense.
 
 ## Setting / shared-world binding
-The story opens in Regency Hill, a deliberately lightweight affluent neighborhood in the same city as and directly bordering St. Claire but outside it. Maison Belle is the established Regency Hill boutique used in Chapter One. Paris wedding weekend remains central. Tim's residence, Allison's home/base, wedding venue, and any later shared-world binding remain unresolved until consequential.
+The story opens in Regency Hill, a deliberately lightweight affluent neighborhood in the same city as and directly bordering St. Claire but outside it. Maison Belle is the established Regency Hill boutique used in Chapter One. Paris wedding weekend remains central. Tim lives in a clean, organized apartment in Regency Hill a couple of miles from Maison Belle; the home is deliberately not gender-coded and reflects ordinary adult competence. Allison is a society woman and CEO of her family's logistics company. Allison's home/base, the detailed family/company structure, wedding venue, and any later shared-world binding remain unresolved until consequential.
 
 ## Foundational rules
 - Tim remains the owner of his identity and choices.
