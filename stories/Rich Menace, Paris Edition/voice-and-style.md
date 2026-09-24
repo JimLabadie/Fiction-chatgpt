@@ -20,3 +20,12 @@ The project house voice and governing System Bible apply.
 - **Narrative advantage of Tim POV:** Allison's internal calculation remains partly opaque at the opening, allowing Tim — and the reader — to experience a spectacularly attractive, wealthy stranger approaching him with an increasingly outrageous proposition before fully understanding what she has seen in him.
 
 The intended effect is affectionate, sexy, ridiculous, queer rom-com energy with real emotional stakes underneath it — not an issues novel wearing a comedy costume.
+
+
+## 2026-09-24 authoritative Chloe continuity update
+- **Chloe Johnson is a transgender woman.**
+- Chloe loves femininity and is happy living as Chloe.
+- Tim remains a real and respected part of Chloe's history.
+- Chloe is pragmatic about this part of herself; it does not need to dominate the story.
+- This update supersedes earlier story-local formulations that treated Chloe only as a presentation role. Older material may remain as historical development evidence but does not govern go-forward characterization.
+- Ordinary ongoing narration and social life use **Chloe / she/her** after the Chapter Three name resolution.
