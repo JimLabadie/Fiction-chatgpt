@@ -24,6 +24,7 @@
 - **Starting relationships:** Her **female ex** will be at the wedding. Allison wants a fake girlfriend specifically to make the ex jealous and to feel that she has "won" the breakup. The ex’s identity, exact role at the wedding, and the history of the breakup are not yet established.
 - **Starting knowledge / beliefs / misunderstandings:** Not yet established.
 - **Starting habits / routines:** Not yet established.
+- **Residence / home:** Allison lives in a **warm, feminine house in Regency Hill, large enough to raise a family in**. It is at the opposite end of Regency Hill from Tim/Maison Belle and along the neighborhood edge touching St. Claire. The house is outside St. Claire; adjacency does not confer St. Claire residency or membership. Exact architecture, room count, street, and interior inventory remain unresolved.
 
 ## Current state
 Chapter One complete. Allison has recruited Tim Johnson as her fake girlfriend for the Paris wedding, agreed to pay the presentation/travel requirements while Tim continues to code, and taken him into Maison Belle for an initial diagnostic styling session. She has discovered that Tim is not merely plausible in feminine presentation but extraordinarily attractive to her. Tim has noticed her reaction and deliberately begun testing how effectively he can short-circuit her composure. By the end of Chapter One, Allison recognizes that she has recruited competition rather than a passive accessory.
@@ -80,7 +81,7 @@ No occurred changes yet.
 | Allison and Tim eventually compete to short-circuit each other | Their competitiveness becomes affectionate couple play. They deliberately use attraction, clothes/presentation, flirting, teasing, and showing off to make the other partner lose composure, then lovingly give each other shit about succeeding. Neither partner's beauty or desirability diminishes the other; the partner's reaction is the prize. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
-Detailed facial/hair features, sexuality label, exact source/scale and ownership structure of wealth/company, company name and operational details, residence, family specifics, the female ex’s identity and wedding role, and detailed breakup history remain not yet established. Allison is established as a society woman and CEO of her family's logistics company. Chapter One additionally establishes that Allison has a Bentley available during the opening encounter; exact model/specification is unresolved. Chapter One additionally establishes that Allison has a Bentley available during the opening encounter; exact model/specification is unresolved.
+Detailed facial/hair features, sexuality label, exact source/scale and ownership structure of wealth/company, company name and operational details, family specifics, the female ex’s identity and wedding role, and detailed breakup history remain not yet established. Allison is established as a society woman and CEO of her family's logistics company. Chapter One additionally establishes that Allison has a Bentley available during the opening encounter; exact model/specification is unresolved.
 
 ## Attraction vulnerability to Tim
 - Allison's initial plan assumes she is the architect: she identifies Tim's potential and intends to construct a girlfriend capable of making her ex jealous.
