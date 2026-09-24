@@ -48,7 +48,7 @@ Not yet established.
 ### Significant relationship — Tim Johnson
 - **Other character key:** Rich Menace, Paris Edition :: Tim Johnson
 - **Nature / current state:** At the premise stage, Allison proposes that Tim pretend to be her girlfriend for a wedding weekend in Paris so her ex will be jealous and Allison can feel that she won the breakup.
-- **Distinct chemistry / texture:** Allison recognizes immediately that Tim has the potential to be extremely attractive in feminine presentation; this perception is part of why she chooses him.
+- **Distinct chemistry / texture:** Allison recognizes immediately that Tim has the potential to be extremely attractive in feminine presentation; this perception is part of why she chooses him. Tim's competitiveness aligns with hers rather than challenging her: he treats Allison as his partner in the scheme and directs his competitive energy toward making their shared performance succeed.
 - **Trust / intimacy / attraction / affection:** Allison sees Tim's attractiveness/potential from the outset. The exact nature and degree of her attraction, and any later romance, remain to be developed rather than assumed.
 - **Boundaries / development:** Not yet established.
 
