@@ -20,7 +20,7 @@
 - **Clothing / grooming / presentation baseline:** Not yet established.
 - **Occupation / skills / competencies:** Not yet established.
 - **Background / formative history:** Not yet established.
-- **Culture / family / class / regional formation:** Wealthy; source and scale of wealth not yet established.
+- **Culture / family / class / regional formation:** WASP, old-money background. Exact family history, scale of wealth, and institutional structure remain not yet established.
 - **Starting relationships:** Her ex will be at the wedding. Allison wants a fake girlfriend specifically to make the ex jealous and to feel that she has "won" the breakup. The ex’s exact role at the wedding and the history of the breakup are not yet established.
 - **Starting knowledge / beliefs / misunderstandings:** Not yet established.
 - **Starting habits / routines:** Not yet established.
@@ -32,13 +32,18 @@ Pre-prose; same as baseline.
 - **Core drive in the inciting scheme:** Vanity and competitive pride about the breakup. Allison wants her ex jealous and wants to feel that she has won the breakup.
 - **Approach to Tim:** Allison sees how hot Tim could be in feminine presentation and decides he can plausibly become the impressive girlfriend she wants to arrive with.
 - **Important distinction:** The fake-girlfriend scheme is not established as a necessity, family obligation, protective cover, or crisis. Allison is doing it because she wants to win.
-- Other durable personality traits remain not yet established.
+- Allison is witty, sarcastic, feminine, socially confident, not stuck-up, and genuinely loving when she is not performing.
 
 ## Voice, humor, and behavior
-Not yet established.
+- Witty and sarcastic.
+- Carries a college-sorority-cheerleader social vibe: polished, feminine, socially confident, energetic, and comfortable being visibly enthusiastic about femininity. This shorthand does not make her shallow, snobbish, or cruel.
+- Loves femininity rather than merely performing it as status.
+- Not stuck-up despite her old-money background.
+- When she is not performing for an audience or trying to win, she is genuinely pretty loving and affectionate.
 
 ## Self-perception and outside perception
-Not yet established.
+- Allison is comfortable with and actively enjoys her femininity.
+- Her polished social performance is real but not the whole woman; underneath it is a loving person rather than an aloof old-money stereotype.
 
 ## Knowledge, beliefs, ignorance, and secrets
 Not yet established.
@@ -73,7 +78,7 @@ No occurred changes yet.
 | Allison's gaze changes over the weekend | She begins intensely concerned with making her ex look at her and Tim; Tim's freedom from outside judgment becomes part of the contrast between them. As Allison falls for him, her attention shifts from whether the ex is looking to Allison herself being unable to stop looking at Tim. | Jim, approving ChatGPT interpretation | Established | Development conversation |
 
 ## Unresolved character questions
-Age, appearance, sexuality, occupation, source/scale of wealth, residence, family, the ex’s identity and wedding role, detailed breakup history, and broader personality remain not yet established.
+Age, detailed appearance, sexuality, occupation, exact source/scale and structure of wealth, residence, family specifics, the ex’s identity and wedding role, and detailed breakup history remain not yet established.
 
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
