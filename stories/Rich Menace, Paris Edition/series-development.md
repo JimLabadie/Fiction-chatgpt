@@ -251,3 +251,31 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Chloe and Allison approach fashion from complementary directions: Allison from aesthetic/wearer/collector/social experience and Chloe from maker/construction experience. This is a promising mechanism for mutual fascination.
 - Allison's photography offers a useful reciprocal romantic mechanism: Allison helps Chloe learn a new lived presentation while Chloe helps Allison reclaim time for an existing passion.
 - The five close friends and close family establish that Chloe had a real social life before Allison; Allison is not rescuing Chloe from isolation.
+
+
+## 2026-09-24 — Chapter Three development: Chloe and Allison
+
+### Jim-established decisions
+- Near the beginning of Chapter Three, Tim and Allison notice the practical problem that Allison's girlfriend cannot plausibly keep going by Tim. They settle on **Chloe Johnson**.
+- Presentation cues name and pronouns. Chloe remains in feminine presentation full-time going forward, so ordinary ongoing narration and social life use **Chloe / she/her**. Tim remains part of Chloe's history when relevant; this is not a retroactive erasure of Tim.
+- Chloe experiences this pragmatically rather than as a required existential crisis. She likes feminine things and masculine things; neither category threatens her. Full-time Chloe presentation/name/she-her do not by themselves require a medicalized transition arc.
+- Immediately after the Chloe/name/pronoun discussion comes the workplace dependency. Chloe sends HR an operational update that she now/goes by Chloe and uses she/her. Exact email wording and legal-name-change status remain unresolved.
+- If Chloe's Tim history is discovered, Chloe and Allison do not invent an elaborate false biography. The public shorthand is effectively that Chloe is trans and her private history is nobody else's business. They do not invent medical history, surgeries, hormones, childhood stories, or dates to support it.
+- Chloe is into **baseball and softball**; the story may knowingly have fun with the lesbian-softball stereotype without reducing her to it.
+- Chloe plays **cards**.
+- Chloe has **five close friends** whose individual identities/details are intentionally deferred.
+- Chloe is **close to her parents and sister**.
+- The future family reveal is primarily about **Allison**, with Chloe's “oh, by the way, I'm going by Chloe now” almost an afterthought. Jim previously outlined the family's reaction; recover that evidence before developing the scene rather than recreating it.
+- Chloe genuinely **loves domesticity because caring for someone is a love language for her**. What she hates is that until now she has not had anyone to care for in that intimate domestic way.
+- Chloe **loves to sew** and makes **prom dresses for girls who cannot afford them**.
+- Sewing is part of why the clothing side of feminine presentation goes smoothly: Chloe already has technical knowledge of clothing construction, fabric, fit, and alteration, without this becoming magical expertise in every aspect of women's styling.
+- Sewing/fashion creates common ground with Allison. Allison loves fashion but has not thought much about its technical construction; Chloe brings a maker's perspective to something Allison already loves aesthetically.
+- Allison **likes photography** but stopped doing it.
+- Chloe will make time/space for Allison to pursue photography again. This is reciprocal care, not Chloe “fixing” Allison.
+- Through Allison returning to photography, **Chloe and Allison discover a new common interest**. Its exact form remains open.
+
+### Collaborator analysis / proposals — preserved, not Jim-established canon
+- Chloe's sewing gives her technical scaffolding when Camille teaches presentation, which can explain fast learning without instant expertise.
+- Allison and Chloe can approach fashion from complementary directions: Allison from wearer/aesthetic/social experience and Chloe from maker/construction experience.
+- Photography can become the reciprocal romantic mechanism to Chloe's presentation training: Allison helps Chloe learn a new lived presentation while Chloe helps Allison reclaim room for an existing passion.
+- Chloe's five close friends and close family mean she already had a social world before Allison; Allison is not rescuing her from isolation.
