@@ -239,3 +239,12 @@ Status: Jim proposal under evaluation; preserve as a possibility, not establishe
 - Tim remains a real and respected part of her history rather than a false person who must be repudiated.
 - Chloe's relationship to the label is characteristically pragmatic. It is true, but it does not need to become a crisis, manifesto, or dominant subject of her life. It is simply part of who she is.
 - This clarification supersedes the earlier unresolved development possibility and prior story-local formulations that treated Chloe only as a man using feminine presentation. Preserve older material as historical development evidence, but use this formulation for ongoing characterization.
+
+
+## 2026-09-24 established development — Chloe's parents
+- Chloe's parents are **Steve Johnson** and **Dorothy “Dot” Johnson**.
+- Steve and Dot are loving, helpful people, and Chloe's instinct to care for others is recognizably something she was raised with rather than a trait that appeared with Allison.
+- Their help is practical and proactive. They are the kind of neighbors who do not merely ask whether someone needs to borrow a tool; if Steve knows what will help, he brings the tool over.
+- Their generosity is ordinary behavior rather than performance. They see helping family, friends, and neighbors as something people simply do.
+- This family culture provides natural roots for Chloe's own acts-of-service approach to love and her quiet practical kindness.
+- Steve and Dot went to school with Gary and Jenny Kensington. The couples were not close friends, but liked one another and later moved in different circles.
