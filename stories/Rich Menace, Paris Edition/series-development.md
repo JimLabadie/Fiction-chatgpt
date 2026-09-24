@@ -18,12 +18,13 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 
 ### Allison Kensington
 - The wealthy woman / "Rich Menace" is canonically named **Allison Kensington**.
-- Her age, appearance, sexuality, occupation, wealth source, residence, family, wedding connection, and detailed characterization are not yet established.
+- Allison's fake-girlfriend scheme is entirely driven by vanity and competitive pride about her breakup: she wants her ex jealous and wants to feel that she has won the breakup.
+- She sees how hot Tim can be in feminine presentation and figures he can become exactly the kind of girlfriend who will accomplish that.
+- The scheme is not currently established as something Allison needs for family acceptance, cover, protection, or another practical necessity. She is doing it because she wants to win.
+- Her age, appearance, sexuality, occupation, wealth source, residence, family, the ex's identity/wedding role, and broader characterization are not yet established.
 
 ## ChatGPT proposals preserved for later evaluation — not established canon
 Earlier brainstorming proposed possibilities including:
-- The wealthy woman needs a girlfriend because an ex is getting married and/or because family has already been told she is dating someone.
-- She knowingly selects Tim rather than mistaking him for a woman.
 - She can solve most logistical problems with money and treats the styling challenge as practical.
 - Possible package: first-class travel, luxury hotel, expenses/clothing paid, plus spending money.
 - Tim may react differently to individual feminine experiences rather than having one global reaction: dress, makeup, nails, skirts, heels, compliments, etc.
@@ -33,8 +34,8 @@ Earlier brainstorming proposed possibilities including:
 These remain proposals until Jim accepts, rejects, or revises them.
 
 ## Open questions
-- Allison Kensington's characterization.
-- Why she needs a fake girlfriend.
+- Allison Kensington's broader characterization.
+- The ex’s identity, relationship history with Allison, and role at the wedding.
 - Tim's and her ages.
 - Their ordinary lives and residences.
 - Exact opening city/location.
