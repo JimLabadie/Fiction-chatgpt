@@ -32,7 +32,9 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - A central romantic contrast is now established: Allison begins the story intensely invested in what her ex thinks and in engineering a visible breakup victory, while Tim simply does not outsource his identity or self-worth to an audience. She starts the weekend trying to make her ex look at them. As she falls for Tim, the emotional joke turns on Allison becoming the one who cannot stop looking at him; her attention shifts away from whether the ex is watching and toward Tim himself.
 - Allison is WASP and old money. She has a college-sorority-cheerleader vibe: polished, feminine, socially confident, energetic, and enthusiastic about femininity. She loves femininity. The shorthand does not make her shallow or stuck-up.
 - Allison is witty and sarcastic. Despite the performance involved in her social polish and her breakup-winning scheme, when she is not performing she is genuinely pretty loving and affectionate.
-- Her age, detailed appearance, sexuality label, occupation, exact wealth structure, residence, family specifics, and the ex's identity/wedding role remain not yet established.
+- Allison is 34. She and Tim have a similar enough overall build to make them visually compatible, but their attractiveness registers differently: Tim is "hot model territory"; Allison is "Victoria's Secret supermodel territory." This is a relative beauty/glamour shorthand, not a claim that either has literally worked as a model.
+- Their first layer of attraction is intentionally superficial and mutual. Each can look at the other and essentially think, "Okay, we can work with this" followed by the possessive-delighted energy of, "Do you see that? That's mine." The deeper relationship grows from that shamelessly attractive starting point.
+- Her detailed facial/hair appearance, sexuality label, occupation, exact wealth structure, residence, family specifics, and the ex's identity/wedding role remain not yet established.
 
 ## ChatGPT proposals preserved for later evaluation — not established canon
 Earlier brainstorming proposed possibilities including:
