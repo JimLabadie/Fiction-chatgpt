@@ -127,3 +127,9 @@ Controlling story records are within this story namespace. Do not import similar
 - Tim's proposed practical solution is therefore that **he and Allison live together as a couple during the pre-Paris training period**, because continuous coaching is supposedly simpler and more effective than repeatedly arranging lessons and practice sessions.
 - This is another major step in Tim's campaign to remove **fake** from the relationship while presenting each escalation as sensible operational preparation for Allison's own goal. The comedy is that the plan increasingly resembles an actual relationship because Tim keeps identifying perfectly plausible reasons why they should do actual-couple things.
 - The move-in / 24-7 bootcamp belongs to the **next chapter's development**, not the current Maison Belle chapter. Do not prematurely solve its detailed logistics, rules, duration, domestic routines, or Allison's exact response until that chapter is developed.
+
+### Chapter Two evening extension: first appearance-maintenance dinner
+- Chapter Two should have enough remaining **evening time after Maison Belle** for Allison to take Tim to dinner.
+- Allison's immediate rationale is entirely consistent with her vanity and concern for appearances: if Tim is going to be presented as her girlfriend, they need to begin appearing together as a couple rather than treating the project as something that exists only inside a fitting room.
+- The dinner is therefore the first natural bridge from presentation training into lived/public couple practice. It gives Tim a real environment in which to apply what he has just learned and gives Allison a first taste of being seen with the girlfriend she commissioned.
+- This dinner should support, not prematurely complete, the later multi-week campaign in which public appearances increasingly become real dates and the word **fake** loses practical meaning.
