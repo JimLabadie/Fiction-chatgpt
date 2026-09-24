@@ -9,6 +9,7 @@
 Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy woman offers him a weekend away in Paris if he will pretend to be her girlfriend at a wedding.
 
 ### Tim Johnson — baseline concept
+- Tim is 35 and works as a software engineer. At the opening he is taking the bus because his car died; his pragmatic view is that you pay people who like fixing cars to fix cars.
 - Tim is fundamentally "a real guy": he understands himself as a man and is not currently framed as secretly waiting for permission to discover a female identity.
 - He is physically female-sized enough that women's ready-to-wear clothing can plausibly fit him; the story does not need a body-transformation mechanic simply to dress him.
 - Tim does not hate feminine things. He is not cheering them on or seeking them out at the outset; his reaction is closer to "meh" or pragmatic acceptance.
@@ -29,7 +30,9 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Allison ultimately falls for Tim himself. Her original project is to manufacture the girlfriend who will make her ex jealous; the romantic destination is that she loves the competitive, warm, caring idiot she recruited.
 - Allison does not need Tim's male identity erased to make the relationship work. In Jim's shorthand, she decides she will deal with the extra "factory options" because of him.
 - A central romantic contrast is now established: Allison begins the story intensely invested in what her ex thinks and in engineering a visible breakup victory, while Tim simply does not outsource his identity or self-worth to an audience. She starts the weekend trying to make her ex look at them. As she falls for Tim, the emotional joke turns on Allison becoming the one who cannot stop looking at him; her attention shifts away from whether the ex is watching and toward Tim himself.
-- Her age, appearance, sexuality label, occupation, wealth source, residence, family, the ex's identity/wedding role, and broader characterization are not yet established.
+- Allison is WASP and old money. She has a college-sorority-cheerleader vibe: polished, feminine, socially confident, energetic, and enthusiastic about femininity. She loves femininity. The shorthand does not make her shallow or stuck-up.
+- Allison is witty and sarcastic. Despite the performance involved in her social polish and her breakup-winning scheme, when she is not performing she is genuinely pretty loving and affectionate.
+- Her age, detailed appearance, sexuality label, occupation, exact wealth structure, residence, family specifics, and the ex's identity/wedding role remain not yet established.
 
 ## ChatGPT proposals preserved for later evaluation — not established canon
 Earlier brainstorming proposed possibilities including:
