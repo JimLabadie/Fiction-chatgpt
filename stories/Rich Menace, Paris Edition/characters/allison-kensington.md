@@ -82,5 +82,11 @@ No occurred changes yet.
 ## Unresolved character questions
 Detailed facial/hair features, sexuality, occupation, exact source/scale and structure of wealth, residence, family specifics, the ex’s identity and wedding role, and detailed breakup history remain not yet established.
 
+## Attraction vulnerability to Tim
+- Allison's initial plan assumes she is the architect: she identifies Tim's potential and intends to construct a girlfriend capable of making her ex jealous.
+- Very early in Maison Belle, that control begins to reverse. Allison discovers that Tim's feminine presentation affects her far more strongly than she anticipated.
+- Tim notices. Once he starts deliberately applying what he learns to provoke her reaction, Allison can become visibly flustered, distracted, or unable to stop looking. This vulnerability is welcome rather than threatening; it is an early seed of their later affectionate competition to short-circuit each other.
+- Allison remains witty, capable, and socially confident. Her vulnerability is specifically that **Tim is becoming devastatingly attractive to her**, not that femininity makes her generally foolish or weak.
+
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
