@@ -8,6 +8,12 @@
 ### Core premise
 Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy woman offers him a weekend away in Paris if he will pretend to be her girlfriend at a wedding.
 
+### POV, genre, and tone
+- Close third-person centered on Tim, past tense.
+- Queer romantic comedy that does not take itself too seriously.
+- The comedy should come from character, audacity, escalation, Tim's pragmatism and competitiveness, Allison's vanity and nerve, and the increasingly ridiculous logistics of their scheme — not from treating Tim's gender nonconformity as humiliating.
+- Genuine romance and emotional stakes remain welcome underneath the light, playful, sexy tone; sincerity does not require solemnity.
+
 ### Tim Johnson — baseline concept
 - Tim is 35 and works as a software engineer. At the opening he is taking the bus because his car died; his pragmatic view is that you pay people who like fixing cars to fix cars.
 - Tim is fundamentally "a real guy": he understands himself as a man and is not currently framed as secretly waiting for permission to discover a female identity.
