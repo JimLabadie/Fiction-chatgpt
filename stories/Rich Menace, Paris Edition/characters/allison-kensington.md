@@ -40,6 +40,7 @@ Pre-prose; same as baseline.
 - Loves femininity rather than merely performing it as status.
 - Not stuck-up despite her old-money background.
 - When she is not performing for an audience or trying to win, she is genuinely pretty loving and affectionate.
+- As her relationship with Tim becomes real, Allison's competitive streak becomes part of their affectionate couple language. She and Tim deliberately try to short-circuit each other through attraction, presentation, flirting, teasing, and showing off. This is not competition for status or beauty and neither is trying to outshine the other. The objective is the partner's reaction: make the other stare, squirm, blush, stumble, or otherwise visibly lose composure, then give them shit about it. Allison enjoys being devastating to Tim just as much as she enjoys Tim becoming devastating to her.
 
 ## Self-perception and outside perception
 - Allison is comfortable with and actively enjoys her femininity.
@@ -76,6 +77,7 @@ No occurred changes yet.
 | Allison selects Tim because she sees his potential | She can see how hot Tim can be in feminine presentation and decides to act on that potential. | Jim | Established | Development conversation |
 | Allison ultimately falls for Tim | The fake-girlfriend project stops being merely a breakup victory. Allison falls for the idiot himself and chooses the relationship; in Jim's shorthand, she decides she will deal with the extra "factory options" because of him. Tim's male identity is not an obstacle that must be rewritten away. | Jim | Established | Development conversation |
 | Allison's gaze changes over the weekend | She begins intensely concerned with making her ex look at her and Tim; Tim's freedom from outside judgment becomes part of the contrast between them. As Allison falls for him, her attention shifts from whether the ex is looking to Allison herself being unable to stop looking at Tim. | Jim, approving ChatGPT interpretation | Established | Development conversation |
+| Allison and Tim eventually compete to short-circuit each other | Their competitiveness becomes affectionate couple play. They deliberately use attraction, clothes/presentation, flirting, teasing, and showing off to make the other partner lose composure, then lovingly give each other shit about succeeding. Neither partner's beauty or desirability diminishes the other; the partner's reaction is the prize. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
 Detailed facial/hair features, sexuality, occupation, exact source/scale and structure of wealth, residence, family specifics, the ex’s identity and wedding role, and detailed breakup history remain not yet established.
