@@ -78,6 +78,33 @@ During ordinary story work, repository discovery must be scoped first to the act
 
 Shared System Bible canon may cross story boundaries only because it is maintained reusable framework authority. Story-specific facts do not become reusable merely because they resemble another story or would fit conveniently.
 
+## Story Inception: Shared-World and Life-Infrastructure Resolution
+
+Before sustained prose begins for a new story, resolve the story's consequential relationship to any shared world it uses. This is a deliberate author-collaboration gate, not permission for ChatGPT to choose convenient answers.
+
+Evaluate every principal and recurring character for the stable facts already known to matter to the story. At minimum, where applicable, determine or explicitly leave unresolved:
+
+- residence and household;
+- whether the character is a resident/member of any governed shared-world community;
+- occupation, employer or owned business, workplace location, and recurring professional infrastructure;
+- whether a character-owned business belongs inside or outside a governed shared-world community;
+- recurring transportation, commute, haunts, or other life infrastructure when they will materially affect continuity;
+- any shared-world person, household, business, organization, or place record the story proposes to bind to that character.
+
+**Route first; infer conservatively.** Load the governing shared-world rules before proposing residency, membership, ownership, household, business, or institutional affiliation. Eligibility and consequences come from the live shared-world mechanics, not from proximity, convenience, surname matching, story role, or the existence of an apparently suitable resource.
+
+**Binding is an author decision.** A story character is not automatically an existing shared-world person, a new shared-world resident, or a member merely because the story occurs there. Presence does not establish residency. Employment in a place does not establish residency. Residency does not establish workplace location. A business owned by a resident is not automatically located in the resident's community. Name or surname overlap never establishes identity. When a proposed binding, addition, exception, or affiliation is consequential, surface the viable choices and their established consequences to Jim before canonizing one.
+
+**Shared-world mechanics remain real constraints.** If a community defines residency, membership, land tenure, business tenancy/ownership, household eligibility, or other status mechanically, test the proposed story facts against those rules. Do not use story convenience to bypass them. If Jim deliberately establishes a story-scoped exception, record it as a story exception rather than silently changing shared-world canon.
+
+**Residency and membership are not synonyms unless the governing world says they are.** For St. Claire specifically, consult the live St. Claire Concept and Rules & Mechanics before any residency, membership, household, land/business tenancy, or ownership decision. A St. Claire Household record is what establishes residency; Co-op membership is a separate status with its own requirements. All district land is Co-op-held and residences/businesses operate through the established lease structure. Never reduce these mechanics to a generic `lives in St. Claire` checkbox.
+
+**Persistence follows the decision.** When Jim establishes a character as a reusable shared-world resident/person or establishes a shared-world business/household affiliation, maintain the applicable shared-world records as well as the story's binding/reference. Story-specific development remains story-scoped unless Jim explicitly promotes it to reusable shared-world canon. If the character is not a shared-world resident, the story still owns enough stable life infrastructure to preserve continuity.
+
+This inception pass is not an exhaustive RPG sheet. Apply Pencil: settle the rabbit holes capable of changing eligibility, world behavior, recurring locations, professional continuity, or later scenes; flesh out the details that materially matter; leave harmless trivia open.
+
+After inception, whenever prose first requires a consequential stable fact that was intentionally unresolved or genuinely unforeseen, treat it as a new canon decision gate: search authoritative sources, present the unresolved choice when necessary, persist the accepted answer, and reuse it thereafter.
+
 ### Mandatory Character Surnames and Identity Checks
 
 Every persistent named story character must have a canonical surname in that story's records. A new sustained character may be discussed briefly under a first name or working label, but before the character is used as established continuity or appears in manuscript prose, assign or recover the canonical full name and persist it.
