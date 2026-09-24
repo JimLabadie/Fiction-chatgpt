@@ -233,3 +233,13 @@ Chloe's parents and Allison's parents went to school together. They were not clo
 - Renee and Allison share the same family foundation but often see situations differently.
 - Their differences are healthy rather than destructive. They can disagree, tease each other, and offer contrasting interpretations while remaining loving sisters.
 - Neither sister is the family's cautionary example or presented as inherently better than the other.
+
+
+### 2026-09-24 established development — Allison's home and family hopes
+- Allison owns a three-bedroom, three-bath Colonial in Regency Hill with a white picket fence.
+- The yard still has a swing set and a doghouse from the family who lived there before her.
+- When Allison bought it, her conscious reasoning was straightforward: it was a nice house that a family had clearly made into a home before selling it.
+- At the same time, Allison already wanted marriage, children, and a family life of her own. That hope influenced what felt welcoming and right about this house even though she did not consciously frame the purchase as preparing a home for future children.
+- The house therefore reveals something Allison had not fully articulated to herself: she chose a home with room for the family life she hoped to have someday.
+- This is ordinary layered thought and self-understanding. Allison can sincerely hold the practical explanation for buying the house while only gradually recognizing the personal hopes that also shaped the choice.
+- By the time Chloe arrives, the house is already unusually well suited to becoming their shared suburban home. The white fence, extra bedrooms, swing set, and doghouse create a comic romantic contrast with Allison's post-breakup insistence that she had sworn off romance.
