@@ -16,6 +16,10 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - A particularly important part of his attitude is simple attraction and pragmatism: if a hot woman likes him while he is dressed/presenting as a woman, his reaction can essentially be, "good enough for me."
 - This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
 
+### Allison Kensington
+- The wealthy woman / "Rich Menace" is canonically named **Allison Kensington**.
+- Her age, appearance, sexuality, occupation, wealth source, residence, family, wedding connection, and detailed characterization are not yet established.
+
 ## ChatGPT proposals preserved for later evaluation — not established canon
 Earlier brainstorming proposed possibilities including:
 - The wealthy woman needs a girlfriend because an ex is getting married and/or because family has already been told she is dating someone.
@@ -29,7 +33,7 @@ Earlier brainstorming proposed possibilities including:
 These remain proposals until Jim accepts, rejects, or revises them.
 
 ## Open questions
-- Wealthy woman's canonical full name and characterization.
+- Allison Kensington's characterization.
 - Why she needs a fake girlfriend.
 - Tim's and her ages.
 - Their ordinary lives and residences.
