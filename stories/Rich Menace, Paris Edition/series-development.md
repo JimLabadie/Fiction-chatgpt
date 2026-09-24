@@ -25,6 +25,14 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Allison enters at the opposite end of the presentation spectrum. "Chanel corporate skirt suit meets Jada Dubai heels" is likewise metaphorical shorthand: a hot woman in an exceptionally polished, expensive corporate skirt-suit look and spectacular statement heels worth thousands of dollars. It does not establish literal Chanel, literal Jada Dubai, or museum/collector footwear.
 - This contrast is part of the inciting visual joke: Allison is already operating at full intentional glamour while Tim is accidentally wasting elite feminine-presentation potential in mundane clothes, which helps make her immediate “I can work with this” calculation legible.
 
+### Maison Belle continuation
+- Once Tim enters Maison Belle, the story will actually use the boutique rather than treating it as exterior scenery.
+- Maison Belle is owned by a **French woman who hates the boutique's name**. Her full name remains to be established before she appears in prose.
+- A **college-age woman runs the register and sales floor** during the scene. Her full name also remains to be established before she appears in prose.
+- They do what they can with Tim using the boutique's ordinary resources rather than producing instant impossible mastery.
+- The important reveal is Allison seeing the first practical result and realizing she was spectacularly right: **Tim is fucking hot as a girl.**
+- Tim's interpersonal effect matters as much as the visual reveal. He becomes an almost instant best friend to the women helping him and makes everyone smile. This is not a one-scene convenience; Jim identifies making people smile and quickly creating warm connection as apparently **Tim's superpower**.
+
 ### Tim Johnson — baseline concept
 - Tim is 35 and works as a software engineer. At the opening he is taking the bus because his car died; his pragmatic view is that you pay people who like fixing cars to fix cars.
 - Tim is fundamentally "a real guy": he understands himself as a man and is not currently framed as secretly waiting for permission to discover a female identity.
