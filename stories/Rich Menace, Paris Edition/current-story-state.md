@@ -1,13 +1,13 @@
 # Rich Menace, Paris Edition — Current Story State
 
 ## Story stage
-Chapter One — **Software Engineer Barbie** — is in progress. All prose drafted and approved so far — the exterior opening and both Maison Belle sequences — is preserved verbatim at `chapters/approved/001-software-engineer-barbie.md`.
+Chapter One — **Software Engineer Barbie** — is **FINAL / APPROVED**. The complete approved chapter is preserved verbatim at `chapters/approved/001-software-engineer-barbie.md`.
 
 ## Main character
 Tim Johnson.
 
 ## Current handoff
-The opening exterior scene through Tim accepting Allison's deal and entering Maison Belle, the first Maison Belle diagnostic sequence, and Tim's subsequent realization that he can deliberately weaponize feminine presentation against Allison's composure have been drafted, explicitly approved by Jim, and preserved in the approved Chapter One manuscript. The next prose begins after Tim recognizes that Allison has recruited competition and decides the weekend is going to be fun.
+Chapter One is complete and final. It ends after Tim recognizes that Allison has recruited competition and decides, **“This weekend was going to be fun.”** Chapter Two has not yet been developed. Before Chapter Two prose, resolve only the consequential currently-open life/wedding infrastructure that the chapter actually requires, then persist those decisions before drafting.
 
 ## Immediate unresolved items
 - Tim's exact residence and remaining consequential life infrastructure. Tim is established as 35, a software engineer, and temporarily using the bus because his car died and is being repaired. The opening occurs in Regency Hill, a neighborhood directly bordering St. Claire in the same city; Tim is not established as a St. Claire resident/member.
