@@ -28,22 +28,25 @@
 Pre-prose; same as baseline.
 
 ## Character engine
-- **Core drives / motivations:** Not yet established.
+- **Core drives / motivations:** Once Tim accepts Allison's scheme, his competitive streak engages. He wants them to win together: Allison wants to beat the breakup and make her ex jealous, and Tim wants to become the strongest possible version of the girlfriend Allison chose.
 - **Wants:** Not yet established.
 - **Needs:** Not yet established.
 - **Fears:** Not yet established.
 - **Vulnerabilities:** Not yet established.
-- **Contradictions / tensions:** He is an ordinary, male-identifying guy who is unusually unbothered by being asked to adopt feminine presentation.
+- **Contradictions / tensions:** He is an ordinary, male-identifying guy who is unusually unbothered by being asked to adopt feminine presentation. His competitiveness does not turn Allison into a rival: he competes with her, not against her.
 - **Sources of joy / pleasure / fascination:** Not yet established.
 - **Sources of shame / discomfort / avoidance:** No shame about feminine presentation has been established.
 - **Values / loyalties:** Not yet established.
-- **Competencies / strengths:** Not yet established.
+- **Competencies / strengths:** Competitive follow-through. Tim does not begin with established feminine-presentation expertise, but once he decides the objective is to be an exceptional girlfriend for Allison, he applies himself seriously and discovers that he is pretty good at learning and executing femininity.
 - **Limitations / blind spots:** Not yet established.
 - **Coping / defense patterns:** Not yet established.
 - **What changes them / reaches them:** Not yet established.
 
 ## Voice, humor, and behavior
-Not yet established beyond his pragmatic, unpanicked attitude toward the premise.
+- Pragmatic and unpanicked about the premise.
+- At least as competitive as Allison once he commits.
+- He knows where his bread is buttered: Allison is his partner and the person he wants to impress, not someone he wants to defeat.
+- His competitive target is the challenge itself — learning, performing, and mastering femininity well enough that the two of them can win together.
 
 ## Self-perception and outside perception
 - **How the character sees themself:** A guy.
@@ -81,6 +84,7 @@ No occurred changes yet.
 | Tim is female-sized | Women's ready-to-wear can plausibly work without a body-transformation premise. | Jim | Established | Development conversation |
 | Tim is pragmatically okay with girl stuff | He is not seeking it out or cheering it on, but he does not hate it; attraction can outweigh concern about gendered presentation. | Jim | Established | Development conversation |
 | Tim considers himself the winner in Allison's arrangement | Allison is sufficiently desirable to Tim that being her date outweighs any concern about presenting as a woman. He can be her girlfriend all day long if that is what Allison wants and can fully embrace the role without it becoming an identity crisis. | Jim | Established | Development conversation |
+| Tim is at least as competitive as Allison, but cooperatively | He will not compete against Allison; he competes with her. Once committed, he treats femininity itself as a challenge to beat/master for their shared objective and discovers he is pretty good at it. His skill is learned through effort rather than automatic expertise. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
 Age, occupation, residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
