@@ -193,3 +193,19 @@ Controlling story records are within this story namespace. Do not import similar
 - Chloe also makes clear that her presentation choices do not by themselves prevent Chloe and Allison from having biological children together if they someday choose that path.
 - Jim's intended comic reaction is that this reassurance may remove a major parental worry so completely that Allison's parents are ready to pop champagne. This does not establish that Chloe and Allison must have children or that their relationship depends on fertility.
 - The family meeting should show Allison's parents recognizing that Chloe understands, loves, and can handle the formidable daughter they know intimately.
+
+
+## 2026-09-24 established development — Allison's circle
+
+Allison has a close group of approximately six former sorority sisters:
+- **Julie Smith** — the Paris bride. She knows Allison well enough to recognize genuine happiness.
+- **Natalie Brooks** — warm and socially fearless; likely to say aloud what everyone else notices.
+- **Rebecca “Becca” Walsh** — practical, dryly funny, and difficult to rattle. Allison trusts her for direct answers.
+- **Samantha “Sam” Delaney** — energetic, affectionate, and an enthusiastic organizer of the group's social life.
+- **Lauren Pierce** — polished and observant, with quiet humor and an eye for social currents.
+- **Megan Foster** — easygoing and loyal, with a gift for puncturing drama with an ordinary observation.
+Further personal details remain open until needed.
+
+Allison's parents are **Gary Kensington** and **Jenny Kensington**. They are genuinely charming. Gary has natural charisma and ease, values honesty and family, and tends to make people comfortable. Jenny's previously developed characterization remains in force and should be recovered rather than reinvented.
+
+Chloe's parents and Allison's parents went to school together. They were not close friends, but liked one another and later moved in different circles. Their old connection becomes newly relevant through their daughters and gives the two families an independent line of communication. The parents can quietly compare notes and encourage the relationship from the background without manufacturing it or overriding Chloe and Allison's choices.
