@@ -78,7 +78,7 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Visual-reference shorthand: Tim is inspired by Andreja Pejić's pre-transition/androgynous-model-era appearance — fine-featured, androgynous high-fashion beauty with obvious potential to read spectacularly in feminine presentation. Allison is strongly inspired by Bella Hadid's sculpted, high-fashion supermodel beauty. These references establish visual direction only; neither real person's biography, identity, personality, career, family, or life history transfers into story canon.
 - Her detailed facial/hair appearance beyond that visual direction, sexuality label, exact wealth structure beyond the family-built Kensington Logistics baseline, and family specifics remain not yet established.
 - **Kensington Logistics:** Allison's family built the logistics company and Allison is its CEO. Pencil governs: they ship stuff, competent people work there, and things move. Do not turn Allison's CEO role into a logistics-system rabbit hole unless the story actually needs one.
-- **Clara Smyth:** Allison's ex, another heiress. Their breakup was messy. Clara and Allison are both standing up in **Julie Smith's** Paris wedding as wedding-party attendants; neither is a bride. Julie is one of Allison's former sorority sisters.
+- **Clara Smyth:** Allison's ex, another heiress. Their breakup was messy, but they are civil to each other. **Clara and Allison are bridesmaids** in **Julie Smith's** Paris wedding. Julie is one of Allison's former sorority sisters. No deeper breakup mechanics are required unless Jim later chooses to develop them.
 
 ### Tim's possible later feminine embodiment
 - Tim may eventually choose breast implants while still understanding himself as a man. The motivation under consideration is characteristically Tim: he wants to look even hotter for Allison and to mercilessly torture/tease her with the result. The implants are a possible future choice, not yet an occurred event.
@@ -95,8 +95,8 @@ These remain proposals until Jim accepts, rejects, or revises them.
 
 ## Open questions
 - Allison's family/company detail beyond the deliberately simple established Kensington Logistics baseline, if later consequential.
-- **Clara Smyth** is Allison's ex and another heiress. Their breakup was **messy**; the detailed breakup/relationship history remains unresolved. The bride is **Julie Smith**, one of Allison's former sorority sisters. Allison and Clara are both standing up in Julie's Paris wedding as wedding-party attendants; neither is a bride. Their exact attendant titles remain unresolved.
+- **Clara Smyth** is Allison's ex and another heiress. Their breakup was **messy**, and they are now **civil to each other**. That is sufficient story-level explanation; the cause/details of the messy breakup are not an open development requirement. The bride is **Julie Smith**, one of Allison's former sorority sisters. **Allison and Clara are bridesmaids** in Julie's Paris wedding.
 - Exact street/dress-shop/bus-stop details within Regency Hill, if they become consequential.
-- Allison and Clara's exact wedding-party attendant titles and the wedding venue.
+- Wedding venue, only if it becomes consequential.
 - What Tim specifically likes, dislikes, or remains indifferent to as the weekend develops.
 - Whether **Rich Menace, Paris Edition** remains the final title or working title.
