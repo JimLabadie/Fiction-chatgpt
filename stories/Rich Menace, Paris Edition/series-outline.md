@@ -16,3 +16,8 @@ The approved manuscript currently covers Tim's bus-stop meeting with Allison Ken
 
 ## Proposed / unresolved material
 Chapter Two and later structure remain under development. Consequential unresolved decisions — including Tim's residence/life infrastructure, Allison's residence/occupation/wealth mechanics, and the ex/wedding relationship details — will be resolved and persisted when the next chapter requires them rather than invented in advance.
+
+
+## Chapter Two — development priority
+
+Chapter Two should advance the actual story rather than continue prerequisite cataloging. The key development question is what happens immediately after Chapter One: Tim and Allison now have an agreed fake-girlfriend arrangement, Tim has begun learning how to present femininely, and both understand that their competitive chemistry has changed the game. Develop the chapter's dramatic/comedic engine, scene sequence, and relationship movement first. Resolve additional background facts only when a planned scene materially requires them.
