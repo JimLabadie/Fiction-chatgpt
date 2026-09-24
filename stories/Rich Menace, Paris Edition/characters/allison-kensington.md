@@ -98,3 +98,11 @@ Detailed facial/hair features, sexuality label, exact source/scale and ownership
 
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
+
+### Weekend trip / permanent-campaign wardrobe logic
+- **Paris remains a weekend trip.** The earlier wording that made the trip itself roughly two weeks was a mistaken interpretation and is corrected here.
+- The **roughly fourteen days' worth of clothing, lingerie/foundation pieces, hosiery, nightgowns/sleepwear, shoes, accessories, jewelry, and related feminine presentation equipment** is deliberately far more than Tim needs for a weekend. They are fully equipping Tim's campaign for a continuing/permanent future after Paris, whether or not Allison consciously recognizes that implication yet.
+- Allison is so immersed in femininity, fashion, and the logic of doing this properly that she does **not initially stop to ask why a weekend fake girlfriend needs fourteen days of clothes, nightgowns, and an escalating shoe wardrobe**. To her, outfitting Tim comprehensively feels natural; this is part of how she unknowingly sows the seeds of her own destruction.
+- Tim does recognize the longer horizon. If Allison eventually notices the excess and asks why he needs all of it, Tim has an entirely respectable explanation ready: **after Paris, Allison will obviously need to take him out as a couple from time to time for appearance's sake, so the fake relationship remains convincing.** This explanation is technically plausible and strategically useful.
+- Tim's private motive is considerably less innocent: the continuing public-couple logic gives him opportunities to keep dating Allison, learning what she likes, and making himself increasingly irresistible to her. He is **absolutely trying to seduce Allison**, while presenting the continuing dates as sensible maintenance of her own scheme.
+- The comedy depends on Allison helping authorize and finance every step of this future before realizing Tim is quietly extending the expiration date on her fake girlfriend.
