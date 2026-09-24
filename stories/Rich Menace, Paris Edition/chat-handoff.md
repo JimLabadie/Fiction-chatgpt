@@ -12,4 +12,4 @@ Use the live project bootstrap/router and then retrieve:
 
 Chapter Two is FINAL / APPROVED at `chapters/approved/002-quality-assurance.md`.
 
-Chapter Three is currently at detailed-outline review. Do not draft replacement prose until Jim reviews the outline.
+Chapter Three is cleared for drafting from the current detailed outline and development records. Its chronology is Friday night into Saturday morning; Julie visits Friday night before bedtime. Do not timetable the remainder of the weekend.
