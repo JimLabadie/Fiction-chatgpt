@@ -1,7 +1,13 @@
 # Rich Menace, Paris Edition — Series Outline
 
 ## Status
-Development only. No chapters drafted or approved.
+Chapter One is in progress. Its approved opening is preserved as manuscript prose.
+
+## Chapter One — Software Engineer Barbie
+
+Established title: **Software Engineer Barbie**. **APPROVED OPENING.** Manuscript: `chapters/approved/001-software-engineer-barbie.md`.
+
+The approved manuscript currently covers Tim's bus-stop meeting with Allison Kensington through his acceptance of the Paris fake-girlfriend arrangement and entry into Maison Belle. Later approved Chapter One continuations still require verbatim manuscript synchronization.
 
 ## Established premise beats
 1. Tim Johnson is waiting for a bus outside a dress shop.
