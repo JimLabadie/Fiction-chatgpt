@@ -14,7 +14,7 @@ The premise, Tim's baseline relationship to gendered presentation, and Allison K
 - Allison Kensington's occupation, residence, detailed facial/hair appearance, exact old-money structure, and relationship to the wedding. Allison is established as 34, WASP/old money, witty, sarcastic, strongly feminine, socially confident, not stuck-up, genuinely loving when she is not performing, and "Victoria's Secret supermodel territory" attractive. Tim is "hot model territory"; they have similar enough builds and immediate mutual superficial attraction.
 - Exact street/dress-shop/bus-stop details within Regency Hill, only if needed.
 - Wedding relationships and venue.
-- Opening-scene visible state: Tim’s clothing/grooming, Allison’s clothing/grooming, and enough Regency Hill dress-shop/bus-stop environment to satisfy the pre-draft scene gate.
+- Opening-scene visible state is now directionally established: Tim has long hair and extraordinary androgynous-model beauty while dressed with "could work at Best Buy" levels of ordinary casual presentation; Allison arrives in a Chanel-corporate-skirt-suit-meets-Jada-Dubai-heels register. Exact garments/colors, exact Jada Dubai pair, and enough Regency Hill dress-shop/bus-stop environment still need resolution for the pre-draft scene gate.
 
 ## Established narrative mode
 Close third-person centered on Tim Johnson, past tense. Queer romantic comedy with a playful, warm, sexy tone that does not take itself too seriously; genuine romantic feeling can coexist with absurdity and character-driven comedy.
