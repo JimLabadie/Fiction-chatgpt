@@ -4,6 +4,8 @@ Date: 2026-09-21 (America/Chicago)
 Status: COMPLETE FOR THE INSPECTED SCOPE; ENFORCEMENT NOT IMPLEMENTED
 Authority: AUDIT EVIDENCE AND RECOMMENDATION; NOT NEW OPERATING RULES OR STORY CANON
 
+Follow-up: the [2026-09-24 story-lifecycle audit](story-lifecycle-audit-2026-09-24.md) adds executable structural validation and repairs confirmed chapter-lifecycle drift. It does not install the automatic capture mechanism recommended below, and it leaves the semantic fresh-chat test open.
+
 ## Answer
 
 The inspected setup has durable records, detailed instructions, repository write capabilities, and native local conversation recording. It does not have an identified automatic connection from fiction conversation turns to repository preservation or a machine-enforced story checkpoint.

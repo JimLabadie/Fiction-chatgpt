@@ -103,3 +103,7 @@ The byte/container inventory is complete for the stated baseline. The semantic a
 ## Conversation preservation enforcement audit
 
 [2026-09-21 audit](conversation-preservation-enforcement-audit-2026-09-21.md) distinguishes repository conventions, executable tooling, native recording, lifecycle hooks, and verified trigger configuration. It records the inspected scope, remaining access limits, and a proposed minimal capture mechanism. The recommendation is not installed automation or new operating governance.
+
+## Story lifecycle validation
+
+[2026-09-24 lifecycle audit](story-lifecycle-audit-2026-09-24.md) traces GitHub issue #2 against the maintained lifecycle and records the exact structural pass/fail boundary. [`validate_story_lifecycle.py`](validate_story_lifecycle.py) now checks starter records, chapter directories, promoted-candidate cleanup, approval-register discoverability, and current-state presence. [`test_validate_story_lifecycle.py`](test_validate_story_lifecycle.py) contains isolated regression fixtures. These checks do not claim semantic completeness or automatic conversation capture.
