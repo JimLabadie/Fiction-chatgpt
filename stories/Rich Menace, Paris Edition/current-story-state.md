@@ -1,13 +1,13 @@
 # Rich Menace, Paris Edition — Current Story State
 
 ## Story stage
-Chapter One in progress. The opening exterior portion has been approved by Jim; continuation proceeds inside Maison Belle.
+Chapter One in progress. The exterior opening and first Maison Belle diagnostic sequence have been approved by Jim.
 
 ## Main character
 Tim Johnson.
 
 ## Current handoff
-The opening exterior scene through Tim accepting Allison's deal and entering Maison Belle has been drafted and explicitly approved by Jim. The next prose continues immediately inside Maison Belle with Camille Moreau and Sophie Bennett.
+The opening exterior scene through Tim accepting Allison's deal and entering Maison Belle, plus the first Maison Belle diagnostic sequence through Allison realizing Tim is extraordinarily hot in feminine presentation, have been drafted and explicitly approved by Jim. The next prose begins with Tim recognizing Allison's reaction and deliberately testing how much control feminine presentation gives him over her composure.
 
 ## Immediate unresolved items
 - Tim's exact residence and remaining consequential life infrastructure. Tim is established as 35, a software engineer, and temporarily using the bus because his car died and is being repaired. The opening occurs in Regency Hill, a neighborhood directly bordering St. Claire in the same city; Tim is not established as a St. Claire resident/member.
