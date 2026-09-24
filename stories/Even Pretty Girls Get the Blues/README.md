@@ -20,7 +20,7 @@ The story is intentionally allowed to develop organically rather than being forc
 - [Publication Chapter Guide](publication-chapter-guide.md)
 
 ## Chapter workflow
-Candidate prose belongs in `chapters/candidate/`. Jim's exact approval is required before prose is moved verbatim into `chapters/approved/`; the promoted candidate is removed in the same revision.
+Candidate prose belongs in `chapters/candidate/`. Jim's exact approval is required before prose is copied verbatim into `chapters/approved/`.
 
 Every approved chapter should also receive:
 - a publication-oriented chapter summary/teaser that entices without replacing the chapter;
@@ -29,10 +29,7 @@ Every approved chapter should also receive:
 
 ## Approval register
 - Chapter 1 — **Friday at Eight** — APPROVED. Approved prose: `chapters/approved/001-friday-at-eight.md`.
-- Chapter 2 — **Kindred Spirits** — APPROVED. Approved prose: `chapters/approved/002-kindred-spirits.md`.
-- Chapter 3 — **Worth the Risk** — APPROVED. Approved prose: `chapters/approved/003-worth-the-risk.md`.
-- Chapter 4 — **So Not a Date** — APPROVED. Approved prose: `chapters/approved/004-so-not-a-date.md`.
-- Chapter 5 — **Chapter Five** — APPROVED. Approved prose: `chapters/approved/005-chapter-five.md`.
-- Chapter 6 — **Thursday** — APPROVED. Approved prose: `chapters/approved/006-thursday.md`.
 
-Chapter 7 — **Friday** remains active candidate prose at `chapters/candidate/007-friday.md`; it is not approved by implication from the approved planning recorded elsewhere.
+
+## Approved Chapter Three
+- `chapters/approved/003-worth-the-risk.md` — **Worth the Risk** — approved by Jim; exact candidate promoted verbatim.

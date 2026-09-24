@@ -4,7 +4,7 @@ Date: 2026-09-21 (America/Chicago)
 Status: COMPLETE FOR THE INSPECTED SCOPE; ENFORCEMENT NOT IMPLEMENTED
 Authority: AUDIT EVIDENCE AND RECOMMENDATION; NOT NEW OPERATING RULES OR STORY CANON
 
-Follow-up: the [2026-09-24 story-lifecycle audit](story-lifecycle-audit-2026-09-24.md) adds executable structural validation and repairs confirmed chapter-lifecycle drift. It does not install the automatic capture mechanism recommended below, and it leaves the semantic fresh-chat test open.
+Follow-up: the [2026-09-24 story-lifecycle audit](story-lifecycle-audit-2026-09-24.md) adds executable structural validation scoped to generic fixtures and **The Neon Sign**. It does not install the automatic capture mechanism recommended below, and it leaves the semantic fresh-chat test open.
 
 ## Answer
 
