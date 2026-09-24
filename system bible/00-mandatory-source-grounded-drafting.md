@@ -24,6 +24,24 @@ Example:
 
 This is a reusable system-level drafting rule. It applies across stories that use the shared repository framework. Story-specific canon remains subordinate to the project's established authority hierarchy; this rule governs the process used to discover, retrieve, and apply that canon, not the substantive story facts themselves.
 
+## Shared-World Affiliation and New-Location Gate
+
+Scene routing does not authorize the draft to decide where a character lives, where a recurring workplace or owned business is located, or whether a character belongs to a governed shared-world population.
+
+Before drafting a scene that depends on a previously unresolved significant residence, household, workplace, recurring/named business, shared-world affiliation, or character-to-world binding:
+
+1. search the story records and applicable shared-world records for an established answer;
+2. load the governing mechanics for the candidate world/community, including residency, membership, household, ownership/tenancy, and eligibility rules where applicable;
+3. distinguish presence, residence, membership, employment, business location, and ownership rather than treating one as proof of another;
+4. if the consequential fact remains unresolved, surface the viable choice and established consequences to Jim rather than selecting the convenient answer;
+5. after Jim establishes the fact, persist it in the correct story/shared-world records and use it consistently thereafter.
+
+A scene occurring in a shared-world location requires that world's applicable place, population, organization, staffing, and cultural resources to be checked. This does **not** mean every nearby story character, residence, workplace, or business is automatically part of that shared world.
+
+For established shared-world businesses and institutions, use established people and staffing when the records resolve who plausibly occupies the scene. Do not invent convenience staff, customers, neighbors, or residents when the shared-world population/resources already provide the appropriate person. Conversely, do not force a shared-world resident into a scene merely because a reusable person exists; presence still requires continuity and plausibility.
+
+Ordinary incidental geography that creates no meaningful canon, shared-world, or continuity consequence may remain generic. The gate applies when the choice establishes or changes persistent infrastructure, eligibility, affiliation, recurring geography, or which world rules govern the scene.
+
 ## Mandatory Scene Initialization and Re-Presentation
 
 Every new scene, meaningful location change, or meaningful time jump must initialize the perceptible current state before the draft treats the scene as fully underway. This is a required drafting step, not an optional descriptive flourish.
