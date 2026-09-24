@@ -10,3 +10,7 @@ Working story title.
 - [Timeline and Continuity](timeline-and-continuity.md)
 - [Current Story State](current-story-state.md)
 - [Series Development](series-development.md)
+
+
+## Approved manuscript
+- Chapter One — **Software Engineer Barbie** — in progress. Approved opening preserved at [chapters/approved/001-software-engineer-barbie.md](chapters/approved/001-software-engineer-barbie.md). Later approved Chapter One continuation remains to be synchronized verbatim.
