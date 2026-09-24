@@ -200,3 +200,9 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Tim then follows that logic to its deliberately outrageous but internally practical conclusion: if Allison is the coach/benchmark and training must be continuous, commuting back and forth is inefficient, so **he should move in with Allison** for the pre-Paris training period.
 - Thus the closing escalation has a clean causal chain: **Allison asks about nightgown → Tim explains living-in-it / 24-7 bootcamp → Tim proposes moving in → Allison outwardly treats it as sensible while inwardly delighted → Allison closes the chapter by making the U-Haul joke.**
 - Do not defer the nightgown explanation to a later chapter after this correction. Detailed domestic routines and implementation of the bootcamp still belong to the following chapter.
+
+### Bistro Regency — Chapter Two dinner setting
+- **Bistro Regency** is the restaurant directly across the street from Maison Belle that was already visible in Chapter One setting tables for dinner.
+- It is a **French-American fusion restaurant** in Regency Hill.
+- Keep the establishment deliberately simple beyond those established facts unless later story needs require further development.
+- Chapter Two's first public couple-practice dinner occurs here after Maison Belle, preserving the Chapter One geographic setup and the evening-time handoff.
