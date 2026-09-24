@@ -17,6 +17,7 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - In the arrangement with Allison specifically, Tim considers himself the one winning. Allison is the prize from his perspective; if being her date means being her girlfriend and presenting as a woman all day, he is entirely willing to do that and can genuinely embrace the role for her rather than merely endure it.
 - Tim is at least as competitive as Allison, but crucially he does not compete against her. He knows where his bread is buttered: Allison is his partner and the woman he wants to impress. He competes with her toward their shared objective.
 - Once committed, Tim treats femininity itself as a challenge he intends to beat/master. He will do what it takes to become the strongest possible girlfriend for Allison, and through the process he discovers that he is pretty good at feminine presentation. That competence is learned through engagement and effort rather than granted automatically.
+- Tim naturally has qualities that may be culturally coded feminine — he is kind, caring, warm, tender, and loving — without being effeminate per se. He does not treat these qualities as feminine evidence about himself; as he puts it, he is a human being.
 - This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
 
 ### Allison Kensington
@@ -24,15 +25,16 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Allison's fake-girlfriend scheme is entirely driven by vanity and competitive pride about her breakup: she wants her ex jealous and wants to feel that she has won the breakup.
 - She sees how hot Tim can be in feminine presentation and figures he can become exactly the kind of girlfriend who will accomplish that.
 - The scheme is not currently established as something Allison needs for family acceptance, cover, protection, or another practical necessity. She is doing it because she wants to win.
-- Her age, appearance, sexuality, occupation, wealth source, residence, family, the ex's identity/wedding role, and broader characterization are not yet established.
+- Allison ultimately falls for Tim himself. Her original project is to manufacture the girlfriend who will make her ex jealous; the romantic destination is that she loves the competitive, warm, caring idiot she recruited.
+- Allison does not need Tim's male identity erased to make the relationship work. In Jim's shorthand, she decides she will deal with the extra "factory options" because of him.
+- Her age, appearance, sexuality label, occupation, wealth source, residence, family, the ex's identity/wedding role, and broader characterization are not yet established.
 
 ## ChatGPT proposals preserved for later evaluation — not established canon
 Earlier brainstorming proposed possibilities including:
 - She can solve most logistical problems with money and treats the styling challenge as practical.
 - Possible package: first-class travel, luxury hotel, expenses/clothing paid, plus spending money.
 - Tim may react differently to individual feminine experiences rather than having one global reaction: dress, makeup, nails, skirts, heels, compliments, etc.
-- A possible romantic engine is that the wealthy woman becomes genuinely attracted to the girlfriend she created for the ruse, while Tim is notably less troubled by the gender presentation than she expected.
-- A possible emotional turn is Tim discovering that being desired by her in that presentation matters more to him than the clothes themselves.
+- A possible emotional turn is Tim discovering that being desired by Allison in feminine presentation matters more to him than the clothes themselves.
 
 These remain proposals until Jim accepts, rejects, or revises them.
 
