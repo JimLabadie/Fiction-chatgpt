@@ -2128,3 +2128,1212 @@ Sophie practically bounced.
 Allison stared at her brand-new fake girlfriend and realized she might have created a problem.
 
 A very, very pretty problem.
+
+
+Tim looked at Allison.
+
+Then at himself.
+
+Then back at Allison.
+
+Allison was trying very hard to look normal.
+
+That, Tim realized, was new.
+
+Until approximately thirty seconds ago, Allison Kensington had possessed the unnerving composure of a woman who had never once been surprised by a room she entered. She had approached a strange man at a bus stop, proposed international girlfriend fraud, negotiated the terms, dragged him into a boutique, and calmly supervised the first stages of converting him into breakup ordnance.
+
+Now she was staring at him like someone had changed the rules without notifying her.
+
+Interesting.
+
+Tim glanced at Sophie.
+
+Sophie was already watching Allison.
+
+Their eyes met.
+
+And Sophie's expression changed.
+
+It was tiny.
+
+A little upward twitch at one corner of her mouth.
+
+Tim smiled.
+
+Oh.
+
+She saw it too.
+
+Tim looked down at himself again.
+
+The dress hadn't changed.
+
+Which meant the useful variable wasn't the dress.
+
+It was Allison.
+
+Tim walked over to Sophie.
+
+Allison's eyes followed him.
+
+He noticed that.
+
+Also useful.
+
+“Sophie.”
+
+“Yeah?”
+
+He lowered his voice.
+
+“Question.”
+
+Her eyes lit immediately.
+
+Camille, several feet away, saw that expression and sighed.
+
+“No conspiracy.”
+
+“We're not conspiring,” Tim said.
+
+Sophie nodded solemnly. “Absolutely not.”
+
+Camille looked unconvinced.
+
+Tim leaned slightly closer to Sophie.
+
+“What exactly did I just do?”
+
+Sophie blinked.
+
+“You put on a dress.”
+
+“No.”
+
+He glanced toward Allison.
+
+Sophie followed his gaze.
+
+Allison folded her arms.
+
+“What?”
+
+“Nothing,” Tim said.
+
+Allison narrowed her eyes.
+
+Tim turned back to Sophie.
+
+“That.”
+
+Sophie's smile returned.
+
+“What about it?”
+
+“She looked at me differently when I came out.”
+
+Sophie bit her lip.
+
+“Yes.”
+
+“How?”
+
+That got her.
+
+Sophie looked at Allison again, then back at Tim.
+
+“You seriously don't know?”
+
+“No.”
+
+“You didn't see her face?”
+
+“I saw her face. I don't know what caused the face.”
+
+Sophie looked delighted by the distinction.
+
+Tim continued quietly.
+
+“Was it just the dress?”
+
+“No.”
+
+“What else?”
+
+Sophie looked him over.
+
+“Well…”
+
+Tim waited.
+
+She lowered her voice too.
+
+“You came out standing like yourself.”
+
+“Meaning?”
+
+“Meaning you weren't hunched over or embarrassed or doing that thing some people do when they think everybody is staring at them.”
+
+Tim nodded.
+
+“So confidence.”
+
+“Kind of.”
+
+“Kind of isn't useful.”
+
+Sophie grinned.
+
+“You really do this with everything, don't you?”
+
+“Do what?”
+
+“Turn it into homework.”
+
+“No.”
+
+She waited.
+
+Tim smiled.
+
+“Sometimes it's a spreadsheet.”
+
+Sophie laughed.
+
+Allison called from across the store.
+
+“What are you two doing?”
+
+“Science,” Tim said.
+
+“That is not reassuring.”
+
+Tim ignored her.
+
+“So. Confidence.”
+
+Sophie shook her head.
+
+“Not exactly. You looked comfortable. Like the dress belonged on you because you had decided it did.”
+
+Tim considered that.
+
+“Okay.”
+
+“And then you looked at her.”
+
+“At Allison?”
+
+“Yes.”
+
+“I've been looking at Allison all afternoon.”
+
+“Not like that.”
+
+Tim frowned.
+
+“How did I look at her?”
+
+Sophie hesitated.
+
+Then her grin became almost wicked.
+
+“Like you knew she liked what she saw.”
+
+Tim went very still.
+
+That was interesting.
+
+Very interesting.
+
+He looked toward Allison.
+
+Allison was pretending to inspect a handbag.
+
+She was doing a poor job.
+
+Tim smiled slowly.
+
+Sophie saw the smile.
+
+“Oh no.”
+
+“What?”
+
+“Nothing.”
+
+“No, that was definitely something.”
+
+Sophie shook her head.
+
+“You figured something out.”
+
+Tim didn't answer.
+
+Because he had.
+
+Allison was beautiful.
+
+Not normal beautiful.
+
+Not *woman at the office you occasionally notice in meetings* beautiful.
+
+Allison was the kind of beautiful that made people reorganize their sentences halfway through because some percentage of their available processing power had been abruptly reassigned.
+
+She knew it, too.
+
+Not arrogantly.
+
+Factually.
+
+Her entire plan had been built on visual impact. She understood attraction as a weapon because she'd apparently been carrying a nuclear device around her entire adult life.
+
+And now—
+
+Tim looked at himself in the mirror.
+
+Then at Allison's reflection.
+
+Allison was watching him again.
+
+She looked away the moment their eyes met in the glass.
+
+Tim's smile widened.
+
+Well.
+
+Well, well, well.
+
+Apparently Allison Kensington had a weakness.
+
+And currently it was wearing her dress.
+
+Tim turned to Sophie.
+
+“What makes someone read feminine before clothes?”
+
+Sophie's eyebrows shot up.
+
+“That's a huge question.”
+
+“Give me the first three things.”
+
+She glanced at him.
+
+Then Allison.
+
+Then back.
+
+“You are absolutely planning something.”
+
+“I'm learning.”
+
+“You are plotting while learning.”
+
+“Efficient.”
+
+Sophie almost bounced.
+
+“All right. Movement.”
+
+“Okay.”
+
+“Posture.”
+
+“Different from movement?”
+
+“Yes.”
+
+“How?”
+
+“Posture is what you're doing when you're still. Movement is how you transition between positions.”
+
+Tim nodded immediately.
+
+“That's useful.”
+
+“And expression.”
+
+“What about it?”
+
+“Women tend to use more expression when they're communicating.”
+
+Camille appeared beside them.
+
+“Careful.”
+
+Sophie looked over.
+
+Camille continued, “Do not teach him caricature.”
+
+“I wasn't.”
+
+“I know.”
+
+Tim looked at Camille.
+
+“What would you say?”
+
+Camille studied him.
+
+“Femininity is not a collection of gestures.”
+
+“Okay.”
+
+“If you memorize gestures, you will look like a man performing gestures.”
+
+Tim nodded.
+
+“So what's underneath them?”
+
+That earned him another of Camille's little approving pauses.
+
+“Awareness.”
+
+“Of?”
+
+“Your body. The space around you. The effect you are having. Other people.”
+
+Tim looked at Allison.
+
+Camille followed his gaze.
+
+Then Camille understood.
+
+Her mouth twitched.
+
+“Oh.”
+
+Sophie grinned.
+
+Tim looked between them.
+
+“So we're all caught up?”
+
+Camille folded her arms.
+
+“You are a dangerous student.”
+
+“I've been here twenty minutes.”
+
+“Yes.”
+
+“That seems premature.”
+
+“No.”
+
+Sophie laughed.
+
+Tim nodded toward Allison.
+
+“Okay. Specific problem.”
+
+Camille waited.
+
+“I want to know which parts of what she's reacting to are the clothes and which are me.”
+
+Sophie covered her mouth.
+
+Camille's eyebrows climbed.
+
+“What?”
+
+Tim looked genuinely puzzled.
+
+“You're helping me become convincing enough to make her ex jealous.”
+
+“Yes.”
+
+“So Allison is the test environment.”
+
+Sophie made a choking sound.
+
+Camille turned away briefly.
+
+Tim looked at both of them.
+
+“What?”
+
+Sophie whispered, “Please never change.”
+
+Tim shrugged.
+
+“I need feedback.”
+
+Sophie moved closer.
+
+“Okay.”
+
+She pointed toward his shoulders.
+
+“Relax those.”
+
+Tim did.
+
+“Not collapse. Relax.”
+
+He adjusted.
+
+“No. Too much.”
+
+Tim reset.
+
+“Show me.”
+
+Sophie demonstrated.
+
+He copied.
+
+She corrected one shoulder with two fingers.
+
+“There.”
+
+Tim looked in the mirror.
+
+Tiny difference.
+
+But real.
+
+“Okay.”
+
+“Now don't stand with your feet planted like you're waiting for someone to throw something heavy at you.”
+
+Tim looked down.
+
+“I stand like that?”
+
+“Yes.”
+
+“Why has nobody told me?”
+
+“Because you're a man.”
+
+“That's terrible quality control.”
+
+Sophie laughed.
+
+She adjusted his stance.
+
+“Just put your weight more on one leg.”
+
+Tim did.
+
+The line of the dress changed.
+
+He noticed immediately.
+
+“Oh.”
+
+“See?”
+
+“Yeah.”
+
+He shifted back.
+
+Then forward again.
+
+Same effect.
+
+“So that's not cosmetic.”
+
+“No.”
+
+“It actually changes the silhouette.”
+
+“Yes!”
+
+Sophie was getting excited now.
+
+Tim tried it again.
+
+“How much is too much?”
+
+She demonstrated an exaggerated hip.
+
+Tim recoiled.
+
+“That.”
+
+“Yes.”
+
+“Got it.”
+
+Camille nodded.
+
+“Good.”
+
+Tim looked at her.
+
+“What?”
+
+“You asked where the boundary was.”
+
+“Why wouldn't I?”
+
+“Many people ask only what to do.”
+
+Tim shrugged.
+
+“If I understand the rule, I can adapt.”
+
+Camille smiled.
+
+“Yes.”
+
+Sophie pointed at him.
+
+“That. That's what you've been doing the whole time.”
+
+Tim looked toward Allison again.
+
+Still watching.
+
+All right.
+
+He had enough for a test.
+
+“Expression.”
+
+Sophie practically clapped.
+
+Camille looked at her.
+
+“Sophie.”
+
+“Sorry.”
+
+She was not sorry.
+
+Tim leaned toward her.
+
+“What did I do with my face before?”
+
+“When?”
+
+“When she forgot how words worked.”
+
+From across the store:
+
+“I can hear you.”
+
+Tim looked at Allison.
+
+“Excellent.”
+
+Allison stared at him.
+
+Tim smiled pleasantly.
+
+Then turned back to Sophie.
+
+“That.”
+
+Sophie lost it.
+
+She laughed so hard she had to grab Tim's arm.
+
+“You're awful.”
+
+“I haven't done anything yet.”
+
+“That is exactly why this is frightening.”
+
+Camille spoke quietly.
+
+“You smiled at her.”
+
+Tim looked at Camille.
+
+“I've smiled at her before.”
+
+“Not quite.”
+
+“So what changed?”
+
+Camille thought about it.
+
+“You waited.”
+
+Tim frowned.
+
+“She looked at you. You saw her looking. And instead of looking away or pretending you had not noticed, you let her know you had noticed.”
+
+Tim's eyes moved toward Allison.
+
+He understood immediately.
+
+“Oh.”
+
+Sophie whispered, “There it is.”
+
+Tim grinned.
+
+“I get it.”
+
+Allison pointed at him from across the store.
+
+“No.”
+
+Tim turned.
+
+“No what?”
+
+“I don't know yet.”
+
+“That seems like poor negotiating.”
+
+“I don't like the expression on your face.”
+
+“What expression?”
+
+“That one.”
+
+Sophie was almost vibrating now.
+
+Tim looked at her.
+
+“Anything else?”
+
+“Walk.”
+
+Camille sighed.
+
+“You are feeding the monster.”
+
+“Yes.”
+
+Sophie moved into the open space between racks.
+
+“Don't try to walk like a woman.”
+
+Tim followed.
+
+“Useful advice.”
+
+“I mean it. Just stop taking up so much horizontal space.”
+
+Tim blinked.
+
+“What?”
+
+“Your steps.”
+
+She demonstrated.
+
+“Most guys walk wider.”
+
+Tim looked down at his own feet.
+
+Then at hers.
+
+“Center line.”
+
+“Yes.”
+
+“So slightly narrower tracking.”
+
+Sophie stopped.
+
+“That's… actually a much better way to say it.”
+
+“Software engineer.”
+
+“You say that like it's a diagnosis.”
+
+“Sometimes.”
+
+Tim tried several steps.
+
+Awful.
+
+Sophie winced.
+
+“That looked like you were on a balance beam.”
+
+“Noted.”
+
+Again.
+
+Better.
+
+Camille said, “Do not stare at your feet.”
+
+“Right.”
+
+Again.
+
+He looked forward this time.
+
+“Too deliberate,” Camille said.
+
+Again.
+
+“Better,” Sophie said.
+
+Tim stopped.
+
+“What changed?”
+
+“You stopped thinking about your feet.”
+
+“I was thinking about where I was going.”
+
+Camille smiled.
+
+“There.”
+
+Tim nodded.
+
+“So the skill has to become background.”
+
+“Eventually.”
+
+“Good.”
+
+Allison finally approached.
+
+“What exactly is happening?”
+
+Tim turned toward her.
+
+“We're learning.”
+
+“We?”
+
+He smiled at Sophie.
+
+“She has excellent documentation.”
+
+Sophie beamed.
+
+Allison looked between them.
+
+Then at Camille.
+
+“You're encouraging this?”
+
+Camille's expression was serene.
+
+“I sell dresses.”
+
+“You are enjoying this.”
+
+“I contain multitudes.”
+
+Tim almost laughed.
+
+But Allison was close now.
+
+Closer than before.
+
+He looked at her.
+
+And suddenly all of the pieces arranged themselves.
+
+Weight shifted.
+
+Shoulders relaxed.
+
+Don't exaggerate.
+
+Don't perform.
+
+Awareness.
+
+Effect.
+
+He didn't need to become somebody else.
+
+He just needed to stop wasting information.
+
+Tim let his weight settle onto one leg.
+
+The dress changed around him.
+
+Allison noticed.
+
+Of course she did.
+
+Tim let his arms relax instead of crossing them.
+
+Then he looked at her.
+
+And waited.
+
+Allison's eyes traveled down.
+
+Then back up.
+
+Tim caught her doing it.
+
+This time he didn't rescue her.
+
+Didn't joke.
+
+Didn't look away.
+
+He simply smiled.
+
+Small.
+
+Knowing.
+
+Allison stopped walking.
+
+Sophie made a tiny squeaking sound behind him.
+
+Tim ignored it.
+
+He took one step toward Allison.
+
+Narrower.
+
+Not exaggerated.
+
+Just enough.
+
+Allison swallowed.
+
+Oh.
+
+There it was.
+
+Tim took another.
+
+She wasn't immune.
+
+Not remotely.
+
+In fact—
+
+Jesus Christ.
+
+This woman was putty.
+
+Tim had known her for less than an hour and somehow Allison Kensington, who looked capable of buying a small government because somebody had annoyed her at brunch, was standing completely still because he'd shifted his weight and smiled at her.
+
+Tim felt something bright and competitive spark awake inside him.
+
+This changed things.
+
+This changed *everything.*
+
+Allison had approached him thinking she was going to build herself the perfect girlfriend.
+
+Fine.
+
+Great.
+
+Tim was still entirely on board with that.
+
+But she'd made one catastrophic mistake.
+
+She had shown him the scoreboard.
+
+Tim stopped in front of her.
+
+Close enough now that Allison had to tip her chin very slightly to keep their eyes locked.
+
+Her pupils were enormous.
+
+Interesting.
+
+Tim lowered his voice.
+
+“Like this?”
+
+Allison stared.
+
+Tim waited.
+
+Behind him, Sophie whispered, “Oh my God.”
+
+Camille shushed her.
+
+Allison finally found her voice.
+
+“Yes.”
+
+Just one word.
+
+Soft.
+
+Tim's eyebrows rose slightly.
+
+“That convincing?”
+
+“Yes.”
+
+The answer came faster this time.
+
+Tim smiled.
+
+Allison's composure cracked another millimeter.
+
+He almost laughed.
+
+Instead he glanced down at himself.
+
+“I don't know.”
+
+Allison blinked.
+
+“What?”
+
+Tim looked back at her.
+
+“I think I need more practice.”
+
+Sophie made a noise that sounded like she had been physically injured.
+
+Camille muttered something in French.
+
+Tim looked over Allison's shoulder.
+
+“What did she say?”
+
+“No,” Camille replied.
+
+Tim looked at Sophie.
+
+Sophie was red in the face.
+
+“What did she say?”
+
+Sophie shook her head furiously.
+
+“All right.”
+
+Tim turned back to Allison.
+
+She was still staring.
+
+And now Tim understood something else.
+
+Allison had spent the afternoon looking at him as potential.
+
+Potential face.
+
+Potential body.
+
+Potential girlfriend.
+
+Potential weapon.
+
+But this was different.
+
+This wasn't Allison inspecting what she could make.
+
+She wanted him.
+
+Tim.
+
+Like this.
+
+The thought landed with surprising simplicity.
+
+He liked it.
+
+A lot.
+
+Not because he was dressed like a woman.
+
+Not because the dress had unlocked some hidden truth.
+
+Because **Allison** was looking at him like that.
+
+And Allison was absurdly hot.
+
+Tim considered the available facts.
+
+Hot woman.
+
+Wanted him.
+
+Liked him feminine.
+
+He could learn feminine.
+
+This was not complicated mathematics.
+
+Tim's grin became genuine.
+
+Allison frowned.
+
+“What?”
+
+“Nothing.”
+
+“That smile means something.”
+
+Tim leaned slightly closer.
+
+Apparently Camille had been right.
+
+Awareness mattered.
+
+He became acutely aware of the distance between them.
+
+Of Allison's eyes.
+
+Of exactly where her attention was.
+
+Of the way her breath caught when he moved closer instead of away.
+
+Tim lowered his voice.
+
+“You really like this.”
+
+Allison recovered enough to manage indignation.
+
+“This was my idea.”
+
+“That wasn't an answer.”
+
+“Yes.”
+
+Tim waited.
+
+Allison's jaw tightened.
+
+“Yes, Tim.”
+
+He nodded.
+
+“Good.”
+
+Allison blinked.
+
+“Good?”
+
+“Very.”
+
+He stepped away.
+
+Just like that.
+
+Allison actually followed him half a step before catching herself.
+
+Sophie saw it.
+
+Tim saw Sophie see it.
+
+Sophie looked ready to explode.
+
+Tim walked calmly back toward her.
+
+He made it three steps before the grin escaped.
+
+Sophie grabbed his arm.
+
+“You are evil.”
+
+Tim whispered, “She followed me.”
+
+“I SAW.”
+
+“Sophie.”
+
+They both looked at Camille.
+
+“Inside voice.”
+
+Sophie lowered hers dramatically.
+
+“She followed you.”
+
+Tim nodded.
+
+“I know.”
+
+“You did that on purpose.”
+
+“The second part.”
+
+“What second part?”
+
+“Walking away.”
+
+Sophie stared at him.
+
+“The first part was an experiment.”
+
+“And now?”
+
+Tim looked over at Allison.
+
+She was pretending to be interested in a rack of blouses.
+
+She wasn't fooling anybody.
+
+Tim's eyes narrowed thoughtfully.
+
+“Now I have data.”
+
+Sophie nearly folded in half.
+
+Camille closed her eyes.
+
+“This is my fault.”
+
+“You sold dresses,” Tim said.
+
+“I educated you.”
+
+“Occupational hazard.”
+
+Camille pointed at him.
+
+“You are going to be unbearable.”
+
+Tim looked at Allison again.
+
+“No.”
+
+He smiled.
+
+“I'm going to be *excellent*.”
+
+Allison heard that.
+
+Her head snapped toward him.
+
+Tim gave her the same small smile he'd just learned could ruin her afternoon.
+
+Allison froze.
+
+Sophie whispered, reverently:
+
+“Oh, we are so fucked.”
+
+Camille looked at her.
+
+“We?”
+
+Sophie pointed at Allison.
+
+“I am emotionally invested now.”
+
+Tim laughed.
+
+And Allison—
+
+magnificent, polished, impossibly beautiful Allison Kensington—
+
+looked at the man she'd found waiting for a bus and seemed, for the first time, to understand that she had not hired an accessory.
+
+She had recruited competition.
+
+Tim looked at her.
+
+Allison looked back.
+
+And something passed between them.
+
+Challenge recognized.
+
+Challenge accepted.
+
+Tim smiled.
+
+This weekend was going to be fun.
