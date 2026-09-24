@@ -36,7 +36,8 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Allison is witty and sarcastic. Despite the performance involved in her social polish and her breakup-winning scheme, when she is not performing she is genuinely pretty loving and affectionate.
 - Allison is 34. She and Tim have a similar enough overall build to make them visually compatible, but their attractiveness registers differently: Tim is "hot model territory"; Allison is "Victoria's Secret supermodel territory." This is a relative beauty/glamour shorthand, not a claim that either has literally worked as a model.
 - Their first layer of attraction is intentionally superficial and mutual. Each can look at the other and essentially think, "Okay, we can work with this" followed by the possessive-delighted energy of, "Do you see that? That's mine." The deeper relationship grows from that shamelessly attractive starting point.
-- Her detailed facial/hair appearance, sexuality label, occupation, exact wealth structure, residence, family specifics, and the ex's identity/wedding role remain not yet established.
+- Visual-reference shorthand: Tim is inspired by Andreja Pejić's pre-transition/androgynous-model-era appearance — fine-featured, androgynous high-fashion beauty with obvious potential to read spectacularly in feminine presentation. Allison is strongly inspired by Bella Hadid's sculpted, high-fashion supermodel beauty. These references establish visual direction only; neither real person's biography, identity, personality, career, family, or life history transfers into story canon.
+- Her detailed facial/hair appearance beyond that visual direction, sexuality label, occupation, exact wealth structure, residence, family specifics, and the ex's identity/wedding role remain not yet established.
 
 ## ChatGPT proposals preserved for later evaluation — not established canon
 Earlier brainstorming proposed possibilities including:
