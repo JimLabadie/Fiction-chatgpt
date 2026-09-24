@@ -24,7 +24,9 @@ Regency Hill can plausibly support attractive walkable commercial frontage and e
 - **Name intent:** French-adjacent, elegant, legible, and deliberately uncomplicated.
 - **Location:** Regency Hill, on the commercial block used by the opening of *Rich Menace, Paris Edition*.
 - **Exterior relationship:** A public bus stop is immediately outside or directly adjacent to the boutique, allowing someone waiting for the bus to stand in front of the shop.
-- **Market register:** Expensive/upscale independent retail appropriate to Regency Hill. Exact brands, inventory, ownership, interior, hours, and staffing are not yet established.
+- **Market register:** Expensive/upscale independent retail appropriate to Regency Hill. Exact brands, inventory, interior, and hours are not yet established.
+- **Owner:** A French woman owns Maison Belle. She personally hates the name **Maison Belle**. Her canonical full name is not yet established.
+- **Floor/register staffing at the Rich Menace opening:** A college-age woman works the register and sales floor. Her canonical full name is not yet established. The opening scene materially uses both women, so their names must be resolved before prose continues inside the boutique.
 - **Reuse rule:** Maison Belle may recur if useful, but its existence does not imply a larger boutique network or fashion district.
 
 ## Current story binding — Rich Menace, Paris Edition
@@ -41,7 +43,7 @@ Unless a future story makes them consequential, leave unresolved:
 - government/civic structure;
 - named residents;
 - other businesses and institutions;
-- Maison Belle ownership, staff, interior, brands, inventory, and operating schedule;
+- Maison Belle owner's and sales associate's canonical full names; detailed interior, brands, inventory, and operating schedule beyond what an active scene requires;
 - Tim's or Allison's residence in relation to Regency Hill.
 
 Do not build these out merely for completeness.
