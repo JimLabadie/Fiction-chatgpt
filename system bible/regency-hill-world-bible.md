@@ -32,7 +32,7 @@ Regency Hill can plausibly support attractive walkable commercial frontage and e
 ## Current story binding — Rich Menace, Paris Edition
 The opening encounter occurs on a weekday in late afternoon/early evening outside Maison Belle. Tim Johnson is waiting for the bus because his car died and is being repaired. He has his laptop backpack and is dressed in deliberately ordinary everyday clothes: jeans, a plain T-shirt, a light casual jacket, and ordinary sneakers. Allison Kensington approaches in an exceptionally polished, expensive fitted skirt-suit look with a blouse, restrained expensive jewelry, immaculate hair and makeup, and spectacular high stilettos worth thousands of dollars. Exact brands and colors are not established.
 
-This story binding records the opening-scene use of Regency Hill; it does not make Tim or Allison a Regency Hill resident.
+This story binding records the opening-scene use of Regency Hill. **Tim Johnson is established as a Regency Hill resident**, living in a clean, organized apartment a couple of miles from the Maison Belle bus stop. Allison Kensington is not currently established as a Regency Hill resident.
 
 ## Intentionally unresolved
 Unless a future story makes them consequential, leave unresolved:
@@ -44,6 +44,6 @@ Unless a future story makes them consequential, leave unresolved:
 - named residents;
 - other businesses and institutions;
 - detailed Maison Belle interior, brands, inventory, and operating schedule beyond what an active scene requires;
-- Tim's or Allison's residence in relation to Regency Hill.
+- Allison's residence in relation to Regency Hill.
 
 Do not build these out merely for completeness.
