@@ -83,6 +83,13 @@ No occurred changes yet.
 ## Unresolved character questions
 Detailed facial/hair features, sexuality label, exact source/scale and ownership structure of family wealth beyond the established family-built Kensington Logistics business, family specifics, No further breakup explanation is required. Allison and Clara are established as bridesmaids and civil exes. Allison is established as a society woman and CEO of Kensington Logistics; the company intentionally needs no deeper operational detail at present beyond competent people shipping things successfully. Chapter One additionally establishes that Allison has a Bentley available during the opening encounter; exact model/specification is unresolved.
 
+
+### Tim's background romantic trajectory
+- Tim is **not** treating the Paris arrangement as a beautiful temporary adventure after which he expects to politely disappear from Allison Kensington's life. Allison is spectacular to him — "wow" — and his interest is already pointed beyond the fake-girlfriend assignment.
+- This should remain a **background motivational current**, not premature certainty that Allison owes him a relationship or that the outcome is guaranteed. Tim's developing attitude is essentially: he has met an extraordinary woman, she is attracted to him, he is increasingly attracted to her, and **no siree Bob, he is not planning to gently fade into the good night when Paris is over**.
+- That current helps explain the seriousness of his commitment to the presentation challenge. He is not merely optimizing a two-week costume assignment; part of him is already exploring what Allison likes, enjoying being desired by her, and thinking in terms of **"hot girlfriend; I think I'll keep her."**
+- The joke/romance remains reciprocal rather than acquisitive: Tim can want to keep Allison while Allison is simultaneously sowing the seeds of her own destruction by making Tim ever more irresistible to herself.
+
 ## Attraction vulnerability to Tim
 - Allison's initial plan assumes she is the architect: she identifies Tim's potential and intends to construct a girlfriend capable of making her ex jealous.
 - Very early in Maison Belle, that control begins to reverse. Allison discovers that Tim's feminine presentation affects her far more strongly than she anticipated.
