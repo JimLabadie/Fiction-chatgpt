@@ -105,6 +105,13 @@ No occurred changes yet.
 ## Unresolved character questions
 Detailed appearance, presentation history, relationships, and personal background remain not yet established. Residence is established: a clean, organized Regency Hill apartment a couple of miles from Maison Belle.
 
+
+### Tim's background romantic trajectory
+- Tim is **not** treating the Paris arrangement as a beautiful temporary adventure after which he expects to politely disappear from Allison Kensington's life. Allison is spectacular to him — "wow" — and his interest is already pointed beyond the fake-girlfriend assignment.
+- This should remain a **background motivational current**, not premature certainty that Allison owes him a relationship or that the outcome is guaranteed. Tim's developing attitude is essentially: he has met an extraordinary woman, she is attracted to him, he is increasingly attracted to her, and **no siree Bob, he is not planning to gently fade into the good night when Paris is over**.
+- That current helps explain the seriousness of his commitment to the presentation challenge. He is not merely optimizing a two-week costume assignment; part of him is already exploring what Allison likes, enjoying being desired by her, and thinking in terms of **"hot girlfriend; I think I'll keep her."**
+- The joke/romance remains reciprocal rather than acquisitive: Tim can want to keep Allison while Allison is simultaneously sowing the seeds of her own destruction by making Tim ever more irresistible to herself.
+
 ## Emerging competitive femininity dynamic
 - Tim's quick study extends from understanding feminine presentation to understanding **Allison's reaction to it**. He notices patterns in what makes her stare, lose composure, or become visibly affected.
 - Once Tim realizes Allison is exceptionally vulnerable to his feminine presentation, he does not merely enjoy the compliment; his competitive instinct activates. He begins deliberately using feminine presentation, posture, movement, expression, and eventually styling choices to **weaponize attraction against Allison in affectionate play**.
