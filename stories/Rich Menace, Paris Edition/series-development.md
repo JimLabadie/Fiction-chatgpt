@@ -1,0 +1,39 @@
+# Rich Menace, Paris Edition — Series Development
+
+## Established by Jim
+
+### Working title
+**Rich Menace, Paris Edition.**
+
+### Core premise
+Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy woman offers him a weekend away in Paris if he will pretend to be her girlfriend at a wedding.
+
+### Tim Johnson — baseline concept
+- Tim is fundamentally "a real guy": he understands himself as a man and is not currently framed as secretly waiting for permission to discover a female identity.
+- He is physically female-sized enough that women's ready-to-wear clothing can plausibly fit him; the story does not need a body-transformation mechanic simply to dress him.
+- Tim does not hate feminine things. He is not cheering them on or seeking them out at the outset; his reaction is closer to "meh" or pragmatic acceptance.
+- His masculinity is not threatened merely by wearing women's clothing or participating in feminine grooming/presentation.
+- A particularly important part of his attitude is simple attraction and pragmatism: if a hot woman likes him while he is dressed/presenting as a woman, his reaction can essentially be, "good enough for me."
+- This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
+
+## ChatGPT proposals preserved for later evaluation — not established canon
+Earlier brainstorming proposed possibilities including:
+- The wealthy woman needs a girlfriend because an ex is getting married and/or because family has already been told she is dating someone.
+- She knowingly selects Tim rather than mistaking him for a woman.
+- She can solve most logistical problems with money and treats the styling challenge as practical.
+- Possible package: first-class travel, luxury hotel, expenses/clothing paid, plus spending money.
+- Tim may react differently to individual feminine experiences rather than having one global reaction: dress, makeup, nails, skirts, heels, compliments, etc.
+- A possible romantic engine is that the wealthy woman becomes genuinely attracted to the girlfriend she created for the ruse, while Tim is notably less troubled by the gender presentation than she expected.
+- A possible emotional turn is Tim discovering that being desired by her in that presentation matters more to him than the clothes themselves.
+
+These remain proposals until Jim accepts, rejects, or revises them.
+
+## Open questions
+- Wealthy woman's canonical full name and characterization.
+- Why she needs a fake girlfriend.
+- Tim's and her ages.
+- Their ordinary lives and residences.
+- Exact opening city/location.
+- Wedding relationship structure.
+- What Tim specifically likes, dislikes, or remains indifferent to as the weekend develops.
+- Whether **Rich Menace, Paris Edition** remains the final title or working title.
