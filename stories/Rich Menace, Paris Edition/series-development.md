@@ -21,6 +21,8 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Tim naturally has qualities that may be culturally coded feminine — he is kind, caring, warm, tender, and loving — without being effeminate per se. He does not treat these qualities as feminine evidence about himself; as he puts it, he is a human being.
 - The deeper unifying trait is radical self-possession: Tim does not give a fuck what somebody else thinks of him because he simply is himself. This is not performative defiance or rebellion for attention. He does not outsource his identity, masculinity, behavior, warmth, or presentation to an audience. That is why masculine Tim, caring Tim, competitive Tim, and Tim enthusiastically becoming Allison's spectacular girlfriend can all be the same uncomplicated person.
 - This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
+- A future transgender direction remains a possible development path, but Tim is **not transgender at story baseline**. The story may discover that direction later if his lived experience actually develops there; it is not predetermined.
+- The opening is in **Regency Hill**, a neighborhood in the same city as and directly bordering St. Claire. Tim is outside St. Claire rather than being established as a St. Claire resident/member. Simply being next door does not exert a gender-identity push or pull on him; at baseline, he is not feeling one.
 
 ### Allison Kensington
 - The wealthy woman / "Rich Menace" is canonically named **Allison Kensington**.
@@ -50,7 +52,7 @@ These remain proposals until Jim accepts, rejects, or revises them.
 - The ex’s identity, relationship history with Allison, and role at the wedding.
 - Tim's and her ages.
 - Their ordinary lives and residences.
-- Exact opening city/location.
+- Exact street/dress-shop/bus-stop details within Regency Hill, if they become consequential.
 - Wedding relationship structure.
 - What Tim specifically likes, dislikes, or remains indifferent to as the weekend develops.
 - Whether **Rich Menace, Paris Edition** remains the final title or working title.
