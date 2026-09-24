@@ -16,3 +16,9 @@ Reusable setting authority: `system bible/regency-hill-world-bible.md`
 - The opening boutique is **Maison Belle**, an upscale independent women's clothing boutique in Regency Hill, with a public bus stop immediately outside or directly adjacent. It is owned by **Camille Moreau**; **Sophie Bennett** works its register/sales floor. Chapter One establishes a spacious upscale interior with deliberately arranged racks/displays and fitting rooms. Exact brands, broader inventory, hours, and other unnecessary operating detail remain unresolved.
 - Allison is established in Chapter One as having a **Bentley** available to take Tim home. Exact model/specification remains unresolved.
 - Whether later story events create any actual St. Claire binding; proximity alone does not.
+
+## Bistro Regency
+- Restaurant directly across the street from Maison Belle, already visible in Chapter One setting tables for dinner.
+- French-American fusion restaurant in Regency Hill.
+- Chapter Two evening coverage: Claire Beaumont (manager/host), Daniel Park (server), Marcus Reed (chef/kitchen lead).
+- Keep further establishment detail Pencil-light unless later story use requires development.
