@@ -27,11 +27,12 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 
 ### Maison Belle continuation
 - Once Tim enters Maison Belle, the story will actually use the boutique rather than treating it as exterior scenery.
-- Maison Belle is owned by a **French woman who hates the boutique's name**. Her full name remains to be established before she appears in prose.
-- A **college-age woman runs the register and sales floor** during the scene. Her full name also remains to be established before she appears in prose.
+- Maison Belle is owned by **Camille Moreau**, a French woman who hates the boutique's name.
+- **Sophie Bennett**, a college-age woman, runs the register and sales floor during the scene.
 - They do what they can with Tim using the boutique's ordinary resources rather than producing instant impossible mastery.
 - The important reveal is Allison seeing the first practical result and realizing she was spectacularly right: **Tim is fucking hot as a girl.**
 - Tim's interpersonal effect matters as much as the visual reveal. He becomes an almost instant best friend to the women helping him and makes everyone smile. This is not a one-scene convenience; Jim identifies making people smile and quickly creating warm connection as apparently **Tim's superpower**.
+- The mechanism must be visible rather than asserted: Tim asks Camille, Sophie, and Allison real questions, listens to their answers, follows up, and behaves as though their judgment and opinions genuinely matter. He gives them agency in the experiment instead of treating them as service staff or props. The warmth comes from being taken seriously and included, not from Tim delivering a nonstop charm routine.
 
 ### Tim Johnson — baseline concept
 - Tim is 35 and works as a software engineer. At the opening he is taking the bus because his car died; his pragmatic view is that you pay people who like fixing cars to fix cars.
