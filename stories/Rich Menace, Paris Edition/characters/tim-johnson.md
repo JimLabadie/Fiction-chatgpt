@@ -44,7 +44,7 @@ Story: Rich Menace, Paris Edition
 
 ## Chapter Three dependencies
 - Name resolution near opening, then immediate HR update.
-- Chapter Three is one overnight at Allison's house; the actual move and Chloe-apartment visit happen later.
+- Chapter Three is the first overnight, **Friday night into Saturday morning**, at Allison's house. Chloe starts living there immediately by integrating the new belongings bought that day; the later Chloe-apartment visit retrieves/relocates her preexisting possessions.
 - Sleeping arrangements are discussed; sharing a bed is intimate and heavily flirtatious.
 - Training expands beyond presentation into relationship knowledge, sapphic social fluency, and reciprocal learning of each other's worlds.
 - During Julie Smith's visit, Chloe's natural domesticity should be visible as earned behavior rather than a rehearsed cover performance.
