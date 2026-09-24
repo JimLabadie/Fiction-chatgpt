@@ -54,7 +54,7 @@ Not yet established beyond his pragmatic, unpanicked attitude toward the premise
 Not yet established.
 
 ## Relationship ecosystem
-The wealthy woman who approaches him is not yet named. Their relationship begins as a proposed fake-girlfriend arrangement; no romantic outcome is yet canon.
+Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. No romantic outcome between Allison and Tim is yet canon.
 
 ## Identity, presentation, and embodiment
 - **Identity understanding:** Male; he understands himself as a guy.
