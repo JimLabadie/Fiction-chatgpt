@@ -7,10 +7,9 @@ Pre-prose development.
 Tim Johnson.
 
 ## Current handoff
-The premise and Tim's baseline relationship to gendered presentation are being developed. No scene has yet been drafted or accepted.
+The premise, Tim's baseline relationship to gendered presentation, and Allison Kensington's character are being developed. No scene has yet been drafted or accepted.
 
 ## Immediate unresolved items
-- Wealthy woman's canonical full name.
 - Tim's age, occupation, residence, and other consequential life infrastructure.
 - Wealthy woman's age, background, wealth source, residence, and relationship to the wedding.
 - Exact location of the opening encounter.
