@@ -17,7 +17,7 @@
 - **Opening identity/presentation:** Woman; further identity/presentation details not yet established.
 - **Opening location/context:** Approaches Tim Johnson while he is waiting for a bus outside a dress shop.
 - **Appearance / physical baseline:** Similar overall build to Tim, but Allison is exceptionally beautiful at a higher conventional-glamour register: where Tim is "hot model territory," Allison is "Victoria's Secret supermodel territory." The comparison establishes relative visual impact rather than a literal employment/modeling history. For visual shorthand, Jim sees Allison as strongly inspired by Bella Hadid: sculpted, high-fashion supermodel beauty with a commanding glamour register. This is a visual reference only; Bella Hadid's biography, personality, ethnicity/family history, career, and other real-life attributes are not Allison's canon. Detailed features remain not yet established.
-- **Clothing / grooming / presentation baseline:** Not yet established.
+- **Clothing / grooming / presentation baseline:** At the opening, Allison's look is "Chanel corporate skirt suit meets Jada Dubai heels": highly polished old-money corporate femininity above the ankle, paired with spectacular ultra-luxury statement heels. The shorthand establishes the contrast and glamour register; exact suit design/color and the exact Jada Dubai pair remain to be resolved before prose if materially visible.
 - **Occupation / skills / competencies:** Not yet established.
 - **Background / formative history:** Not yet established.
 - **Culture / family / class / regional formation:** WASP, old-money background. Exact family history, scale of wealth, and institutional structure remain not yet established.
