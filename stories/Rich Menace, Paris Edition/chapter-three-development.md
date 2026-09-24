@@ -5,10 +5,11 @@ Corrected: 2026-09-24
 
 ## Chapter boundary and time
 - Chapter Two is final and ends on Allison's U-Haul line.
-- Chapter Three is **one continuous overnight stay at Allison's house**: the same evening into the following morning.
+- Chapter Three is **one continuous Saturday overnight at Allison's house**: the same evening into Sunday morning.
 - Do not use an internal time skip to bypass the night, bedtime, sleeping arrangement, or morning. Those are the chapter.
-- **The actual move does not happen in Chapter Three.** It belongs to a later chapter.
-- Chapter Two's “move in” agreement is the comic/romantic premise that creates the 24/7 boot-camp plan; Chapter Three begins testing that plan with one night before later move logistics.
+- Chloe **starts living at Allison's house in Chapter Three**. She unpacks and integrates the new Chloe wardrobe/presentation belongings they bought that day into Allison's normal bedroom/closet/bathroom space.
+- They do **not** empty Chloe's soon-to-be-former apartment or retrieve her preexisting possessions in Chapter Three. That later apartment/possessions move remains future material.
+- Chapter Two's “move in” agreement therefore means immediate cohabitation begins now; later move logistics complete the merger of Chloe's prior household possessions.
 - The later move and the pre-Paris weeks remain future story material.
 
 ## Opening dependency chain
@@ -33,13 +34,16 @@ Corrected: 2026-09-24
 - Sharing a bed nevertheless matters because it is intimate and because they are deliberately learning how to function as a couple.
 - Allison “selflessly” proposes that they sleep together.
 - The proposal should be heavily flirtatious and funny while maintaining the distinction between sharing a bed and having sex.
+- Chloe explicitly raises the sexual boundary because they are adults, mutually attracted, and about to share a bed. They agree they **do not want to add sex yet**.
+- They also explicitly acknowledge that they both enjoy physical intimacy outside sex: kissing, touching, cuddling, closeness, and sleeping together are welcome. They recognize that this authentic affection also helps their supposedly fake relationship read naturally.
 - The first evening and night must be dramatized rather than skipped.
 - Ordinary nighttime behavior is part of the 24/7 boot-camp premise.
 
 ## Boot camps operating during the overnight
 - **Femininity Boot Camp:** ordinary movement, grooming, dressing, sleepwear, tired habits, bedtime, waking, morning routines, and real-time correction. Chloe learns through observation and practice rather than magical competence.
 - **Relationship Boot Camp:** they need to learn each other's coffee, work, friends, family, routines, preferences, history, habits, and ordinary likes/dislikes so they do not behave like strangers playing a couple.
-- **Sapphic social fluency:** Chloe needs enough cultural/social fluency for the girlfriend role to function naturally. This must not become stereotypes and must not resolve Allison's still-unresolved exact sexuality label.
+- **Sapphic social fluency:** Chloe needs enough cultural/social fluency for the girlfriend role to function naturally. This must not become stereotypes.
+- **Allison's sexuality:** Allison is bisexual with a strong preference for women. This is already known to Allison, not a revelation caused by Chloe. Clara was a real relationship. Chloe being transgender does not complicate Allison's attraction: Allison experiences Chloe as a woman she is intensely attracted to.
 - **Each other's worlds:** reciprocal knowledge matters, but Chapter Three remains one night at Allison's house. Visiting Chloe's apartment and physically moving her possessions are later-chapter material.
 - Governing dramatic mechanism: trying to convincingly fake intimacy requires them to acquire real intimacy.
 
@@ -63,7 +67,7 @@ Corrected: 2026-09-24
 
 ## Julie Smith
 - Julie Smith is an established close former sorority sister and the Paris bride.
-- The developed doorbell material is preserved as future/placement material, but **its placement inside this single-night Chapter Three is not assumed by this corrected record**.
+- **Julie visits during Chapter Three, before bedtime.** Her visit is the first outside test of the couple behavior Chloe and Allison have been building during the evening.
 - Established Julie material: Chloe and Allison do not invent a long relationship history; Julie sees Chloe as extraordinarily attractive; Julie knows Allison well enough to distinguish performance from genuine happiness; Julie can notice authentic couple micro-behaviors only after the story has earned them; Julie wants Chloe at the Paris wedding as Allison's plus-one; the U-Haul joke can recur.
 - Exact timing of Julie's visit remains to be placed consistently with the single-night chapter and later move chronology.
 
@@ -92,16 +96,22 @@ Corrected: 2026-09-24
 
 ## Not Chapter Three
 - No trip to Chloe's apartment.
-- No retrieval of Chloe's possessions.
-- No physical move-in sequence.
+- No retrieval of Chloe's **preexisting apartment possessions**.
+- No emptying/closing the former apartment. Chloe nevertheless starts living at Allison's house now and unpacks the new wardrobe/presentation belongings bought that day.
 - No montage across subsequent days or weeks.
 - No convenience time jump from evening directly past the first night.
 - No assumption that the one-night test equals completed cohabitation.
 
+## Weekend runway — established without scheduling it
+- The story day is **Saturday**; Chapter Three continues Saturday evening into Sunday morning.
+- The weekend provides runway for later material involving family, friends, further coupling, parental phone calls/summons, and the later apartment/possessions move.
+- **Do not assign those weekend developments to specific Sunday times/scenes yet.** Preserve them as available weekend material.
+- Chloe and Allison recognize that convincing couplehood will eventually require meeting each other's family and friends, not merely exchanging facts about them.
+- Parental contact is expected to produce **parental summons after phone calls**; exact calls, order, family, and timing remain undeveloped.
+- Continue planning forward only through **Friday** before imposing any detailed later calendar.
+
 ## Still unresolved for the detailed outline
 - Exact same-evening starting location immediately after Bistro Regency.
-- Exact ordering of name/HR, house discovery, photography, relationship-learning conversation, bedtime, and morning beats.
-- Whether Julie appears during this chapter at all; if so, exactly when during the single-night window.
 - Exact sleeping dialogue.
 - Exact HR email wording.
 - Exact camera/photo placement.
