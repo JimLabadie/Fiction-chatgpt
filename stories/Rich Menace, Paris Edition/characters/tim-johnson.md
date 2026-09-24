@@ -63,9 +63,9 @@ Not yet established.
 - **Allison Kensington:** Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. Their immediate superficial attraction is mutual: each sees the other as exceptionally hot and, in essence, has the reaction, "Do you see that? That's mine." Allison ultimately falls for Tim himself.
 
 ## Identity, presentation, and embodiment
-- **Identity understanding:** Male; he understands himself as a guy. A future transgender development remains possible, but Tim is not transgender at story baseline and is not currently experiencing a push or pull toward a different gender identity.
+- **Identity understanding:** Male; he understands himself as a guy. Jim's current intended direction is that Tim remains a man rather than following a transgender arc. He can become a very comfortable cross-dresser, develop genuine enthusiasm for feminine clothing, grooming, beauty, and presentation, and make increasingly feminine appearance choices without those choices redefining his gender identity.
 - **Presentation preferences / personal aesthetic:** Not yet established.
-- **Relationship to body / appearance:** Not yet established beyond his female-compatible sizing/proportions.
+- **Relationship to body / appearance:** Not yet established beyond his female-compatible sizing/proportions. A possible later choice is breast implants: Tim may decide he wants them because they make his feminine presentation hotter for Allison and give him another way to mercilessly tease/torture her with how good he looks. This is a possible future body choice, not yet an occurred event and not evidence of a female gender identity.
 - **Skills / confidence in presentation domains:** Not yet established; do not infer feminine styling competence merely from willingness.
 - **What feels authentic / pleasurable / wrong / performative:** Feminine presentation is not inherently objectionable to him. With Allison, his attitude goes beyond reluctant tolerance: he can fully embrace being her girlfriend and being presented as a woman because he considers being Allison's date an obvious win. This does not change his established male identity. Individual reactions to specific presentation elements remain to be discovered.
 - **How these dimensions have changed:** No change has occurred yet.
@@ -73,7 +73,7 @@ Not yet established.
 ## Boundaries and anti-characterization
 - Do not turn his comfort with feminine things into proof that he secretly identifies as a woman.
 - Do not manufacture gender panic merely because he is male.
-- Do not predetermine dysphoria, gender euphoria, or a transgender outcome. A transgender direction may emerge later only if Jim establishes it through Tim’s actual development.
+- Do not reinterpret Tim's increasing comfort with cross-dressing, feminine interests, or possible body modification as evidence that he must be transgender. Jim's current intended direction is that Tim remains a guy underneath it all.
 - His established attitude permits the straightforward reaction that if an attractive woman likes him while he is presenting as a woman, that can simply be good enough for him.
 - Feminine presentation skills remain learned competencies; willingness is not automatic expertise.
 
