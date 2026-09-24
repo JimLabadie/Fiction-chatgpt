@@ -7,7 +7,7 @@ Chapter One is in progress. Its approved opening is preserved as manuscript pros
 
 Established title: **Software Engineer Barbie**. **APPROVED OPENING.** Manuscript: `chapters/approved/001-software-engineer-barbie.md`.
 
-The approved manuscript currently covers Tim's bus-stop meeting with Allison Kensington through his acceptance of the Paris fake-girlfriend arrangement and entry into Maison Belle. Later approved Chapter One continuations still require verbatim manuscript synchronization.
+The approved manuscript currently covers Tim's bus-stop meeting with Allison Kensington, his acceptance of the Paris fake-girlfriend arrangement, the Maison Belle diagnostic styling sequence, Allison's realization that Tim is extraordinarily attractive in feminine presentation, and Tim's discovery that he can deliberately use that presentation to short-circuit Allison. All approved Chapter One prose drafted so far is synchronized verbatim.
 
 ## Established premise beats
 1. Tim Johnson is waiting for a bus outside a dress shop.
