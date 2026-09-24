@@ -15,8 +15,8 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Genuine romance and emotional stakes remain welcome underneath the light, playful, sexy tone; sincerity does not require solemnity.
 
 ### Opening visual contrast
-- Tim is a gloriously beautiful androgynous-model type with long hair and all the raw visual potential Allison notices immediately, but his opening clothes are aggressively ordinary: he could plausibly work at Best Buy dressed that way and still somehow pull it off. His beauty is doing the work, not styling.
-- Allison enters at the opposite end of the presentation spectrum: Chanel corporate skirt suit meets Jada Dubai heels — polished old-money corporate femininity colliding with spectacular statement footwear.
+- Tim is a gloriously beautiful androgynous-model type with long hair and all the raw visual potential Allison notices immediately, but his opening clothes are ridiculously ordinary and unremarkable. "Could work at Best Buy" is metaphorical shorthand for the register, not a literal uniform, employer, or specific outfit. His beauty is doing the work, not styling.
+- Allison enters at the opposite end of the presentation spectrum. "Chanel corporate skirt suit meets Jada Dubai heels" is likewise metaphorical shorthand: a hot woman in an exceptionally polished, expensive corporate skirt-suit look and spectacular statement heels worth thousands of dollars. It does not establish literal Chanel, literal Jada Dubai, or museum/collector footwear.
 - This contrast is part of the inciting visual joke: Allison is already operating at full intentional glamour while Tim is accidentally wasting elite feminine-presentation potential in mundane clothes, which helps make her immediate “I can work with this” calculation legible.
 
 ### Tim Johnson — baseline concept
