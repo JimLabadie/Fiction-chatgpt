@@ -33,14 +33,14 @@ Pre-prose; same as baseline.
 - **Needs:** Not yet established.
 - **Fears:** Not yet established.
 - **Vulnerabilities:** Not yet established.
-- **Contradictions / tensions:** He is an ordinary, male-identifying guy who is unusually unbothered by being asked to adopt feminine presentation. His competitiveness does not turn Allison into a rival: he competes with her, not against her.
+- **Contradictions / tensions:** He is an ordinary, male-identifying guy who is unusually unbothered by being asked to adopt feminine presentation. His competitiveness does not turn Allison into a rival: he competes with her, not against her. He also naturally possesses traits culturally coded as feminine — kindness, caring, warmth, tenderness, and loving behavior — without being effeminate or understanding those traits as gendered.
 - **Sources of joy / pleasure / fascination:** Not yet established.
 - **Sources of shame / discomfort / avoidance:** No shame about feminine presentation has been established.
-- **Values / loyalties:** Not yet established.
+- **Values / loyalties:** Kindness, care, warmth, and love are ordinary human qualities to Tim rather than feminine qualities that threaten his masculinity. If someone tries to classify those traits as unmanly or inherently feminine, his basic answer is that he is a human being.
 - **Competencies / strengths:** Competitive follow-through. Tim does not begin with established feminine-presentation expertise, but once he decides the objective is to be an exceptional girlfriend for Allison, he applies himself seriously and discovers that he is pretty good at learning and executing femininity.
 - **Limitations / blind spots:** Not yet established.
 - **Coping / defense patterns:** Not yet established.
-- **What changes them / reaches them:** Not yet established.
+- **What changes them / reaches them:** Genuine affection reaches him. Allison ultimately falls for Tim himself — including the warm, caring, loving man underneath the increasingly skilled girlfriend presentation.
 
 ## Voice, humor, and behavior
 - Pragmatic and unpanicked about the premise.
@@ -49,7 +49,7 @@ Pre-prose; same as baseline.
 - His competitive target is the challenge itself — learning, performing, and mastering femininity well enough that the two of them can win together.
 
 ## Self-perception and outside perception
-- **How the character sees themself:** A guy.
+- **How the character sees themself:** A guy. He does not police his personality for masculinity; being kind, caring, warm, tender, or loving does not require explanation beyond, in his terms, being a human being.
 - **What the character gets wrong about themself:** Not yet established.
 - **Outside perception:** Not yet established.
 
@@ -85,6 +85,7 @@ No occurred changes yet.
 | Tim is pragmatically okay with girl stuff | He is not seeking it out or cheering it on, but he does not hate it; attraction can outweigh concern about gendered presentation. | Jim | Established | Development conversation |
 | Tim considers himself the winner in Allison's arrangement | Allison is sufficiently desirable to Tim that being her date outweighs any concern about presenting as a woman. He can be her girlfriend all day long if that is what Allison wants and can fully embrace the role without it becoming an identity crisis. | Jim | Established | Development conversation |
 | Tim is at least as competitive as Allison, but cooperatively | He will not compete against Allison; he competes with her. Once committed, he treats femininity itself as a challenge to beat/master for their shared objective and discovers he is pretty good at it. His skill is learned through effort rather than automatic expertise. | Jim | Established | Development conversation |
+| Tim has naturally feminine-coded traits without being effeminate | He is kind, caring, warm, tender, and loving because, as he puts it, he is a human being. These qualities belong to him as a man and are not evidence of a hidden identity or a feminized personality. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
 Age, occupation, residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
