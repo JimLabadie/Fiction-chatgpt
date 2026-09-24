@@ -76,7 +76,9 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Allison is 34. She and Tim have a similar enough overall build to make them visually compatible, but their attractiveness registers differently: Tim is "hot model territory"; Allison is "Victoria's Secret supermodel territory." This is a relative beauty/glamour shorthand, not a claim that either has literally worked as a model.
 - Their first layer of attraction is intentionally superficial and mutual. Each can look at the other and essentially think, "Okay, we can work with this" followed by the possessive-delighted energy of, "Do you see that? That's mine." The deeper relationship grows from that shamelessly attractive starting point.
 - Visual-reference shorthand: Tim is inspired by Andreja Pejić's pre-transition/androgynous-model-era appearance — fine-featured, androgynous high-fashion beauty with obvious potential to read spectacularly in feminine presentation. Allison is strongly inspired by Bella Hadid's sculpted, high-fashion supermodel beauty. These references establish visual direction only; neither real person's biography, identity, personality, career, family, or life history transfers into story canon.
-- Her detailed facial/hair appearance beyond that visual direction, sexuality label, occupation, exact wealth structure, residence, family specifics, and the ex's identity/wedding role remain not yet established.
+- Her detailed facial/hair appearance beyond that visual direction, sexuality label, exact wealth structure beyond the family-built Kensington Logistics baseline, and family specifics remain not yet established.
+- **Kensington Logistics:** Allison's family built the logistics company and Allison is its CEO. Pencil governs: they ship stuff, competent people work there, and things move. Do not turn Allison's CEO role into a logistics-system rabbit hole unless the story actually needs one.
+- **Clara Smyth:** Allison's ex, another heiress. Clara and Allison are both standing up in the Paris wedding of one of Allison's former sorority sisters.
 
 ### Tim's possible later feminine embodiment
 - Tim may eventually choose breast implants while still understanding himself as a man. The motivation under consideration is characteristically Tim: he wants to look even hotter for Allison and to mercilessly torture/tease her with the result. The implants are a possible future choice, not yet an occurred event.
@@ -92,11 +94,9 @@ Earlier brainstorming proposed possibilities including:
 These remain proposals until Jim accepts, rejects, or revises them.
 
 ## Open questions
-- Allison Kensington's broader characterization.
-- The ex’s identity, relationship history with Allison, and role at the wedding.
-- Tim's and her ages.
-- Their ordinary lives and residences.
+- Allison's family/company detail beyond the deliberately simple established Kensington Logistics baseline, if later consequential.
+- **Clara Smyth** is Allison's ex and another heiress. Both Clara and Allison are standing up in the Paris wedding of one of Allison's former sorority sisters. Their detailed breakup/relationship history remains unresolved.
 - Exact street/dress-shop/bus-stop details within Regency Hill, if they become consequential.
-- Wedding relationship structure.
+- Bride's name, exact attendant titles, and wedding venue.
 - What Tim specifically likes, dislikes, or remains indifferent to as the weekend develops.
 - Whether **Rich Menace, Paris Edition** remains the final title or working title.
