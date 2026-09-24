@@ -231,3 +231,11 @@ Status: Jim proposal under evaluation; preserve as a possibility, not establishe
 - Tim's characteristic response to discovering that a broader gender label accurately describes the experience can remain pragmatic: the fact may be true without becoming the most important thing about Tim/Chloe.
 - This possibility is specifically about Tim/Chloe and must not be generalized into a claim about how other transgender people experience identity, dysphoria, presentation, or transition.
 - This proposal may require reconciliation with the currently established statement that Tim considers himself a man and wants that gender respected. Do not silently resolve that tension; Jim has not yet selected the final formulation.
+
+
+## 2026-09-24 established clarification — Chloe
+- Chloe is a transgender woman. This is an authentic part of who she is, not merely a cover story or public convenience.
+- She loves femininity and is happy living as Chloe.
+- Tim remains a real and respected part of her history rather than a false person who must be repudiated.
+- Chloe's relationship to the label is characteristically pragmatic. It is true, but it does not need to become a crisis, manifesto, or dominant subject of her life. It is simply part of who she is.
+- This clarification supersedes the earlier unresolved development possibility and prior story-local formulations that treated Chloe only as a man using feminine presentation. Preserve older material as historical development evidence, but use this formulation for ongoing characterization.
