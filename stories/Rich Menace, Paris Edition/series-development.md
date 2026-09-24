@@ -14,6 +14,12 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - The comedy should come from character, audacity, escalation, Tim's pragmatism and competitiveness, Allison's vanity and nerve, and the increasingly ridiculous logistics of their scheme — not from treating Tim's gender nonconformity as humiliating.
 - Genuine romance and emotional stakes remain welcome underneath the light, playful, sexy tone; sincerity does not require solemnity.
 
+### Opening scene resolution
+- The opening occurs on a **weekday in late afternoon/early evening** on a walkable commercial block in Regency Hill, outside **Maison Belle**, an upscale independent women's clothing boutique. A public bus stop is immediately outside or directly adjacent to the boutique.
+- Regency Hill is established as a reusable but deliberately lightly built setting: the **lower end of upper class**, affluent/polished/expensive, directly bordering St. Claire but outside it. Its reusable authority is `system bible/regency-hill-world-bible.md`; Pencil applies and the neighborhood should not be built out beyond actual story need.
+- Tim is coming from work with his laptop backpack. His opening clothes are jeans, a plain T-shirt, a light casual jacket, and ordinary sneakers. Exact colors/brands are not established.
+- Allison wears a fitted expensive corporate skirt suit with blouse, restrained expensive jewelry, immaculate hair and makeup, and spectacular high stilettos worth thousands. Exact colors/brands are not established.
+
 ### Opening visual contrast
 - Tim is a gloriously beautiful androgynous-model type with long hair and all the raw visual potential Allison notices immediately, but his opening clothes are ridiculously ordinary and unremarkable. "Could work at Best Buy" is metaphorical shorthand for the register, not a literal uniform, employer, or specific outfit. His beauty is doing the work, not styling.
 - Allison enters at the opposite end of the presentation spectrum. "Chanel corporate skirt suit meets Jada Dubai heels" is likewise metaphorical shorthand: a hot woman in an exceptionally polished, expensive corporate skirt-suit look and spectacular statement heels worth thousands of dollars. It does not establish literal Chanel, literal Jada Dubai, or museum/collector footwear.
