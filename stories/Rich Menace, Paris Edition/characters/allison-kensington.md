@@ -219,3 +219,10 @@ Chloe's parents and Allison's parents went to school together. They were not clo
 - Chloe can rely on Allison to show up, remain steady, and help turn chaos into something manageable.
 - Allison respects Chloe as a capable adult; caring for Chloe never requires treating her as helpless.
 - Chloe often shows affection through domestic care, attention, and practical acts of service. Allison often shows affection through steadiness, support, reliability, and helping Chloe feel secure.
+
+
+### 2026-09-24 established clarification — work and photography
+- Allison's immersion in Kensington Logistics is **not a tragic corporate sacrifice** and does not require an elaborate “deal with the devil” explanation.
+- After her breakup, Allison swore off romantic relationships for a time and threw herself heavily into work.
+- Photography consequently received less room in her life. This is an ordinary consequence of where Allison put her time and attention after the breakup, not evidence that the company destroyed her or that she needs to be rescued from her career.
+- Chloe helping Allison make room for photography again is therefore about restoring balance and pleasure, not fixing a damaged life or opposing Kensington Logistics.
