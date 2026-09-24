@@ -105,5 +105,11 @@ No occurred changes yet.
 ## Unresolved character questions
 Residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
 
+## Emerging competitive femininity dynamic
+- Tim's quick study extends from understanding feminine presentation to understanding **Allison's reaction to it**. He notices patterns in what makes her stare, lose composure, or become visibly affected.
+- Once Tim realizes Allison is exceptionally vulnerable to his feminine presentation, he does not merely enjoy the compliment; his competitive instinct activates. He begins deliberately using feminine presentation, posture, movement, expression, and eventually styling choices to **weaponize attraction against Allison in affectionate play**.
+- This is the beginning of the later established couple dynamic where Tim and Allison try to short-circuit each other. Tim's goal is not to humiliate or dominate Allison but to flip the board on the woman who thought she was simply constructing a fake girlfriend and make **her** the one struggling to maintain composure.
+- He learns this the same way he learns everything else: observation, questions, feedback, pattern recognition, then deliberate application. The effect should feel earned rather than magically intuitive.
+
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
