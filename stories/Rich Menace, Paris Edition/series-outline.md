@@ -98,3 +98,9 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Allison is privately **squealing with delight** at the idea of Tim moving in. Outwardly she refuses to give him that satisfaction. She treats it as a cool, sensible logistical proposal: effectively, *yes, that makes sense.* Her composure should contrast comically with how thrilled she actually is.
 - Allison's agreement is willing and enthusiastic internally; Tim is not maneuvering her past reluctance. The comedy is that both can pretend this enormous relationship escalation is merely efficient preparation for a fake-girlfriend assignment.
 - This beat closes Chapter Two and launches the next chapter's 24/7 femininity-bootcamp / cohabitation phase. Detailed domestic routines, training rules, move-in logistics, duration, and later nightgown payoff remain for the next chapter rather than being solved in the closing exchange.
+
+### Chapter Two final-line correction: Allison names the U-Haul joke
+- The **actual closing beat of Chapter Two** is Allison, not narration, explicitly making the **U-Haul joke** after Tim presents his straight-faced case for moving in as the logical consequence of 24/7 femininity bootcamp.
+- Allison outwardly treats Tim's proposal as cool, practical, and sensible even while privately delighted by the idea of him moving in.
+- Her final joke acknowledges the absurd speed of their escalation: they met that day, she recruited him as a fake girlfriend, and by the end of the evening they are discussing cohabitation with stereotypical U-Haul speed.
+- The precise final wording belongs to the regenerated prose, but the chapter must land on **Allison recognizing and verbalizing the U-Haul comparison**. Do not end on narrator commentary or Tim owning the metaphor instead.
