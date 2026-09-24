@@ -14,6 +14,7 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - Tim does not hate feminine things. He is not cheering them on or seeking them out at the outset; his reaction is closer to "meh" or pragmatic acceptance.
 - His masculinity is not threatened merely by wearing women's clothing or participating in feminine grooming/presentation.
 - A particularly important part of his attitude is simple attraction and pragmatism: if a hot woman likes him while he is dressed/presenting as a woman, his reaction can essentially be, "good enough for me."
+- In the arrangement with Allison specifically, Tim considers himself the one winning. Allison is the prize from his perspective; if being her date means being her girlfriend and presenting as a woman all day, he is entirely willing to do that and can genuinely embrace the role for her rather than merely endure it.
 - This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
 
 ### Allison Kensington
