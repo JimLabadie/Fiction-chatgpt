@@ -9,8 +9,10 @@ Working story title.
 - [Series Outline](series-outline.md)
 - [Timeline and Continuity](timeline-and-continuity.md)
 - [Current Story State](current-story-state.md)
+- [Chat Handoff](chat-handoff.md)
 - [Series Development](series-development.md)
 
 
 ## Approved manuscript
-- Chapter One — **Software Engineer Barbie** — in progress. All approved prose drafted so far is preserved at [chapters/approved/001-software-engineer-barbie.md](chapters/approved/001-software-engineer-barbie.md).
+- Chapter One — **Software Engineer Barbie** — **FINAL / APPROVED**: [chapters/approved/001-software-engineer-barbie.md](chapters/approved/001-software-engineer-barbie.md).
+- Chapter Two — **Quality Assurance** — **FINAL / APPROVED**: [chapters/approved/002-quality-assurance.md](chapters/approved/002-quality-assurance.md).
