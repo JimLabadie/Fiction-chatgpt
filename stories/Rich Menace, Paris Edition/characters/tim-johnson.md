@@ -15,12 +15,12 @@
 
 ## Baseline / original state
 - **Opening identity/presentation:** Tim is a man and understands himself straightforwardly as a guy.
-- **Opening location/context:** In Regency Hill, a neighborhood in the same city as and directly bordering St. Claire, Tim is waiting for a bus outside a dress shop when approached by Allison Kensington. Tim is using the bus because his car died and is being repaired. He is not established as a St. Claire resident/member.
+- **Opening location/context:** Tim is a **Regency Hill resident**. He lives in a **clean, organized apartment a couple of miles from the Maison Belle bus stop**. He is waiting for a bus outside Maison Belle when approached by Allison Kensington because his car died and is being repaired. He is not a St. Claire resident/member.
 - **Appearance / physical baseline:** Physically female-sized/proportioned enough that women's ready-to-wear sizing can plausibly work for him. Tim is exceptionally attractive in conventional terms — "hot model territory" — while remaining physically similar enough in build to Allison that their visual pairing and the practical mechanics of feminine styling are plausible. For visual shorthand, Jim sees Tim as inspired by Andreja Pejić's pre-transition/androgynous-model-era appearance: unusually fine, androgynous high-fashion beauty that can read strikingly in masculine presentation and provides Allison with immediately legible feminine-presentation potential. This is a visual reference only; Andreja Pejić's biography, identity, transition history, personality, and life experience are not Tim's canon. Further detailed features remain not yet established.
 - **Clothing / grooming / presentation baseline:** Tim has long hair and the full raw material of a gloriously beautiful androgynous fashion model, but at the opening he is dressed with essentially no fashion ambition. "Could work at Best Buy" is metaphorical shorthand for how ridiculously ordinary and unremarkable his everyday clothes are, not a literal uniform, employer, or specific outfit. He still pulls the look off because his natural beauty and androgynous model presence survive mundane clothing. Exact garments/colors remain to be resolved for the opening scene.
 - **Occupation / skills / competencies:** Software engineer.
 - **Background / formative history:** Not yet established.
-- **Culture / family / class / regional formation:** Not yet established.
+- **Culture / family / class / regional formation:** Tim's home and ordinary adult life are not coded as masculine or feminine. He is simply a competent adult who takes care of his shit; cleanliness, organization, domestic competence, and self-maintenance should not be treated as gender characterization. Other family/class/regional formation remains unresolved.
 - **Starting relationships:** Not yet established.
 - **Starting knowledge / beliefs / misunderstandings:** Tim does not regard car repair as something he needs to perform himself: his car died, and his attitude is that you pay people who like fixing cars to fix it. He does not regard feminine clothing/presentation as an identity crisis. In the Allison arrangement, Tim sees himself as the one winning: being Allison's date is the prize, and he is entirely willing to be her girlfriend and embrace feminine presentation for as long as she wants it.
 
@@ -103,7 +103,7 @@ No occurred changes yet.
 | Tim and Allison eventually compete to short-circuit each other | Tim's competitiveness does not remain limited to their shared external objective. Once they are a couple, they gleefully turn it on each other through attraction, teasing, presentation, flirting, and showing off. Neither tries to diminish or outshine the other; each wants to make the other squirm and lose composure because being desired by that partner is part of the fun. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
-Residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
+Detailed appearance, presentation history, relationships, and personal background remain not yet established. Residence is established: a clean, organized Regency Hill apartment a couple of miles from Maison Belle.
 
 ## Emerging competitive femininity dynamic
 - Tim's quick study extends from understanding feminine presentation to understanding **Allison's reaction to it**. He notices patterns in what makes her stare, lose composure, or become visibly affected.
