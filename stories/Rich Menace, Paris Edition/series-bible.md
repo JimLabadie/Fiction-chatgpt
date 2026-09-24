@@ -30,3 +30,9 @@ The story opens in Regency Hill, a deliberately lightweight affluent neighborhoo
 
 ## Major canon events
 Chapter One — **Software Engineer Barbie** — is final and approved. Tim meets Allison Kensington at the Regency Hill bus stop outside Maison Belle after his car dies; Allison recruits him as her fake girlfriend for a Paris wedding to make her female ex jealous and win the breakup; Tim accepts under the “Software Engineer Barbie” terms; inside Maison Belle, Camille Moreau and Sophie Bennett help Tim begin learning feminine presentation; Allison discovers Tim is extraordinarily attractive in feminine presentation; Tim recognizes Allison's vulnerability to it and deliberately begins flipping the competitive board on her.
+
+### Tim's background romantic trajectory
+- Tim is **not** treating the Paris arrangement as a beautiful temporary adventure after which he expects to politely disappear from Allison Kensington's life. Allison is spectacular to him — "wow" — and his interest is already pointed beyond the fake-girlfriend assignment.
+- This should remain a **background motivational current**, not premature certainty that Allison owes him a relationship or that the outcome is guaranteed. Tim's developing attitude is essentially: he has met an extraordinary woman, she is attracted to him, he is increasingly attracted to her, and **no siree Bob, he is not planning to gently fade into the good night when Paris is over**.
+- That current helps explain the seriousness of his commitment to the presentation challenge. He is not merely optimizing a two-week costume assignment; part of him is already exploring what Allison likes, enjoying being desired by her, and thinking in terms of **"hot girlfriend; I think I'll keep her."**
+- The joke/romance remains reciprocal rather than acquisitive: Tim can want to keep Allison while Allison is simultaneously sowing the seeds of her own destruction by making Tim ever more irresistible to herself.
