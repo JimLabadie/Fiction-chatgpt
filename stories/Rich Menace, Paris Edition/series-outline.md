@@ -121,9 +121,10 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - Chapter Two's first public couple-practice dinner occurs here after Maison Belle, preserving the Chapter One geographic setup and the evening-time handoff.
 
 ### Chapter Two draft revision — Quality Assurance
+- Original Chapter Two draft was restored verbatim from commit `6784185cccf4fec3c2b5a10a36658d03d3e34f78` in restore commit `54e66c26f4fd3ee2e8ffa7c975d5d0daf20b9909`.
 - Current candidate/draft manuscript: `chapters/drafts/002-quality-assurance.md`.
-- Revision commit: `ceeebd7a21c76930effb2dfa9c20c96a3ccec273`.
-- This revision preserves the existing Maison Belle material, removes the premature fourteen-day exchange, preserves enough late-afternoon/evening time for dinner, places the nightgown in the purchase pile without immediate explanation, and extends the chapter into the established Bistro Regency dinner.
-- Dinner now includes Tim applying Allison-derived heel observations, asking Allison to choose his meal, reciprocal food-flirting, Tim's dignity-preserving kindness to Nora Ellis after she is dumped, Tim's uncomplicated expectation that Allison pays because she asked him out, and the nightgown question triggering the 24/7 bootcamp/cohabitation argument.
-- Chapter closes on Allison explicitly making the U-Haul joke.
+- Additive revision commit: `a99b71102c47900935f039f60b883526406d60ab`.
+- Revision preserves the original Maison Belle manuscript and its existing bus-stop/quality-assurance ending beat, with only the agreed in-scene repairs: remove the premature fourteen-day exchange, preserve sufficient late-afternoon/evening time, and add the nightgown to the purchase pile without immediate explanation.
+- After the original ending, the chapter continues into Bistro Regency for the planned first public couple-practice dinner: Tim applies Allison-derived heel observations; asks Allison to choose his meal; experiments with food-flirting; quietly helps Nora Ellis recover dignity after being dumped; accepts Allison paying because she asked him out; then Allison's nightgown question triggers Tim's 24/7 bootcamp logic, move-in proposal, and Allison's final U-Haul joke.
 - **Manuscript status: DRAFT / AWAITING JIM'S PROSE APPROVAL.** Do not promote to approved until Jim approves this exact revision.
+
