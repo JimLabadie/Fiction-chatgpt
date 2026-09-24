@@ -13,4 +13,4 @@ Working story title.
 
 
 ## Approved manuscript
-- Chapter One — **Software Engineer Barbie** — in progress. Approved opening preserved at [chapters/approved/001-software-engineer-barbie.md](chapters/approved/001-software-engineer-barbie.md). Later approved Chapter One continuation remains to be synchronized verbatim.
+- Chapter One — **Software Engineer Barbie** — in progress. All approved prose drafted so far is preserved at [chapters/approved/001-software-engineer-barbie.md](chapters/approved/001-software-engineer-barbie.md).
