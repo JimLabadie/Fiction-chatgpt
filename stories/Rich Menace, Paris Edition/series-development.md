@@ -15,6 +15,8 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - His masculinity is not threatened merely by wearing women's clothing or participating in feminine grooming/presentation.
 - A particularly important part of his attitude is simple attraction and pragmatism: if a hot woman likes him while he is dressed/presenting as a woman, his reaction can essentially be, "good enough for me."
 - In the arrangement with Allison specifically, Tim considers himself the one winning. Allison is the prize from his perspective; if being her date means being her girlfriend and presenting as a woman all day, he is entirely willing to do that and can genuinely embrace the role for her rather than merely endure it.
+- Tim is at least as competitive as Allison, but crucially he does not compete against her. He knows where his bread is buttered: Allison is his partner and the woman he wants to impress. He competes with her toward their shared objective.
+- Once committed, Tim treats femininity itself as a challenge he intends to beat/master. He will do what it takes to become the strongest possible girlfriend for Allison, and through the process he discovers that he is pretty good at feminine presentation. That competence is learned through engagement and effort rather than granted automatically.
 - This attitude must not be rewritten into automatic dysphoria, automatic gender euphoria, or proof of a hidden identity. Individual likes/dislikes can emerge through experience.
 
 ### Allison Kensington
