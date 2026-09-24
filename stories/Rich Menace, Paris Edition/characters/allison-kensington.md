@@ -173,3 +173,12 @@ Controlling story records are within this story namespace. Do not import similar
 - Tim then follows that logic to its deliberately outrageous but internally practical conclusion: if Allison is the coach/benchmark and training must be continuous, commuting back and forth is inefficient, so **he should move in with Allison** for the pre-Paris training period.
 - Thus the closing escalation has a clean causal chain: **Allison asks about nightgown → Tim explains living-in-it / 24-7 bootcamp → Tim proposes moving in → Allison outwardly treats it as sensible while inwardly delighted → Allison closes the chapter by making the U-Haul joke.**
 - Do not defer the nightgown explanation to a later chapter after this correction. Detailed domestic routines and implementation of the bootcamp still belong to the following chapter.
+
+
+## 2026-09-24 established update — private interests and reciprocity
+- Allison genuinely loves fashion. Chloe's sewing creates a new dimension of that interest because Allison has not previously thought much about fashion from the technical/maker/construction side.
+- Allison likes photography but stopped doing it.
+- Chloe will notice that photography has fallen out of Allison's life and deliberately make time/space for Allison to pursue it again.
+- This is not Chloe “fixing” Allison. It is an expression of Chloe's care: protecting room for something Allison loves and that belongs to Allison herself.
+- As Allison returns to photography, she and Chloe discover a new common interest. The exact shared form remains intentionally unresolved until developed.
+- Allison need not be domestically incompetent for Chloe to become the more domestic partner. Chloe's domesticity is an affirmative love language and pleasure of Chloe's, not evidence that Allison is incapable.
