@@ -16,7 +16,7 @@
 ## Baseline / original state
 - **Opening identity/presentation:** Woman; further identity/presentation details not yet established.
 - **Opening location/context:** Approaches Tim Johnson while he is waiting for a bus outside a dress shop.
-- **Appearance / physical baseline:** Similar overall build to Tim, but Allison is exceptionally beautiful at a higher conventional-glamour register: where Tim is "hot model territory," Allison is "Victoria's Secret supermodel territory." The comparison establishes relative visual impact rather than a literal employment/modeling history. Detailed features remain not yet established.
+- **Appearance / physical baseline:** Similar overall build to Tim, but Allison is exceptionally beautiful at a higher conventional-glamour register: where Tim is "hot model territory," Allison is "Victoria's Secret supermodel territory." The comparison establishes relative visual impact rather than a literal employment/modeling history. For visual shorthand, Jim sees Allison as strongly inspired by Bella Hadid: sculpted, high-fashion supermodel beauty with a commanding glamour register. This is a visual reference only; Bella Hadid's biography, personality, ethnicity/family history, career, and other real-life attributes are not Allison's canon. Detailed features remain not yet established.
 - **Clothing / grooming / presentation baseline:** Not yet established.
 - **Occupation / skills / competencies:** Not yet established.
 - **Background / formative history:** Not yet established.
