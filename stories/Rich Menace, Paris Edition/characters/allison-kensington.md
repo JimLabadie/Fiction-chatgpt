@@ -209,3 +209,13 @@ Further personal details remain open until needed.
 Allison's parents are **Gary Kensington** and **Jenny Kensington**. They are genuinely charming. Gary has natural charisma and ease, values honesty and family, and tends to make people comfortable. Jenny's previously developed characterization remains in force and should be recovered rather than reinvented.
 
 Chloe's parents and Allison's parents went to school together. They were not close friends, but liked one another and later moved in different circles. Their old connection becomes newly relevant through their daughters and gives the two families an independent line of communication. The parents can quietly compare notes and encourage the relationship from the background without manufacturing it or overriding Chloe and Allison's choices.
+
+
+### 2026-09-24 established development — Allison in a relationship
+- Allison is a steady, grounding partner.
+- When Chloe is overwhelmed, Allison helps her regain perspective and gives her somewhere dependable to lean.
+- Allison pays attention to problems and tends to handle what she can calmly and efficiently.
+- She makes sure Chloe is included, supported, remembered, and backed up when circumstances become difficult.
+- Chloe can rely on Allison to show up, remain steady, and help turn chaos into something manageable.
+- Allison respects Chloe as a capable adult; caring for Chloe never requires treating her as helpless.
+- Chloe often shows affection through domestic care, attention, and practical acts of service. Allison often shows affection through steadiness, support, reliability, and helping Chloe feel secure.
