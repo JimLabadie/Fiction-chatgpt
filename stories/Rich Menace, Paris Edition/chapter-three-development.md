@@ -1,32 +1,31 @@
 # Rich Menace, Paris Edition — Chapter Three Recovered Development
 
 Status: ACTIVE DEVELOPMENT RECORD
-Recovered: 2026-09-24
+Corrected: 2026-09-24
 
-## Chapter boundary and pacing
-- Chapter Two is final and ends with Allison's U-Haul line.
-- Chapter Three begins from the immediate consequences of the move-in agreement.
-- Do not skip the first cohabitation/training period with an unexplained next-morning jump.
-- Ordinary life is the training environment.
-- The pre-Paris weeks are major story territory. Do not jump to Paris.
+## Chapter boundary and time
+- Chapter Two is final and ends on Allison's U-Haul line.
+- Chapter Three is **one continuous overnight stay at Allison's house**: the same evening into the following morning.
+- Do not use an internal time skip to bypass the night, bedtime, sleeping arrangement, or morning. Those are the chapter.
+- **The actual move does not happen in Chapter Three.** It belongs to a later chapter.
+- Chapter Two's “move in” agreement is the comic/romantic premise that creates the 24/7 boot-camp plan; Chapter Three begins testing that plan with one night before later move logistics.
+- The later move and the pre-Paris weeks remain future story material.
 
-## Actual move and domestic integration
-- The move-in happens on the page.
-- Keep logistics Pencil-simple rather than turning the chapter into a box inventory.
-- Moving exposes the protagonist's existing life rather than presenting a blank slate created by the girlfriend scheme.
-- Existing interests available as character evidence include baseball/softball, cards, sewing, and making prom dresses for girls who cannot afford them.
-- The domestic arrangement is integrated, not staged guest infrastructure.
-- Do not create separate guest bathrooms, closets, or other obviously temporary facilities merely to preserve distance.
-- A surprise visitor should encounter a home in which the new partner actually lives.
-- Exact room-by-room architecture remains an outline/scene-blocking decision where needed.
+## Opening dependency chain
+- Near the beginning, the practical girlfriend-name problem is resolved as **Chloe Johnson / she-her**.
+- Tim remains real and respected history.
+- Chloe loves femininity and is happy living as Chloe.
+- Immediately after the name/pronoun discussion comes the workplace dependency: Chloe sends HR an operational update that she goes by Chloe and uses she/her.
+- Exact HR wording and legal-name status remain unresolved.
+- Chloe's earlier history remains private; Allison and Chloe do not invent an elaborate false biography.
 
-## Allison's house as character evidence
+## Allison's house as the single-night environment
 - Allison's home is a three-bedroom, three-bath Colonial in Regency Hill with a white picket fence.
 - The yard still has a swing set and doghouse left from the prior family.
 - Allison consciously bought a nice house that a family had made into a home.
 - Allison already wanted marriage, children, and family life. Those hopes influenced what felt welcoming/right even though she did not consciously frame the purchase as preparing for children.
-- The house reveals something about Allison before she necessarily explains it.
-- The fence, swing set, doghouse, and family scale are character evidence, not decorative trivia.
+- The house can reveal Allison through what Chloe encounters during the overnight stay.
+- Do not turn Chapter Three into room-by-room architecture or move-in logistics.
 
 ## Sleeping arrangements and first-night intimacy
 - Sleeping arrangements are discussed rather than silently assigned.
@@ -34,63 +33,77 @@ Recovered: 2026-09-24
 - Sharing a bed nevertheless matters because it is intimate and because they are deliberately learning how to function as a couple.
 - Allison “selflessly” proposes that they sleep together.
 - The proposal should be heavily flirtatious and funny while maintaining the distinction between sharing a bed and having sex.
-- The first evening/night should not be skipped merely to reach the next logistical beat.
-- Ordinary evening and morning routines are part of the 24/7 premise and create opportunities for learning, attraction, vulnerability, and couple behavior.
+- The first evening and night must be dramatized rather than skipped.
+- Ordinary nighttime behavior is part of the 24/7 boot-camp premise.
 
-## Multiple boot camps
-- Femininity Boot Camp: ordinary movement, grooming, dressing, sleepwear, tired habits, mornings/evenings, and real-time correction. Competence is learned through observation and practice.
-- Relationship Boot Camp: they need to know each other's coffee, work, friends, family, routines, preferences, history, habits, and ordinary likes/dislikes well enough not to behave like strangers playing a couple.
-- Sapphic social fluency: the girlfriend role requires cultural/social fluency without stereotypes and without resolving Allison's still-open exact sexuality label.
-- Each other's worlds: genuine exposure to one another's existing lives rather than rehearsed answers.
-- “Each Other Boot Camp” was a collaborator label during development; the underlying reciprocal-world-learning is established, while the exact label remains optional.
-- Governing dramatic mechanism: trying to convincingly fake intimacy forces them to acquire real intimacy.
+## Boot camps operating during the overnight
+- **Femininity Boot Camp:** ordinary movement, grooming, dressing, sleepwear, tired habits, bedtime, waking, morning routines, and real-time correction. Chloe learns through observation and practice rather than magical competence.
+- **Relationship Boot Camp:** they need to learn each other's coffee, work, friends, family, routines, preferences, history, habits, and ordinary likes/dislikes so they do not behave like strangers playing a couple.
+- **Sapphic social fluency:** Chloe needs enough cultural/social fluency for the girlfriend role to function naturally. This must not become stereotypes and must not resolve Allison's still-unresolved exact sexuality label.
+- **Each other's worlds:** reciprocal knowledge matters, but Chapter Three remains one night at Allison's house. Visiting Chloe's apartment and physically moving her possessions are later-chapter material.
+- Governing dramatic mechanism: trying to convincingly fake intimacy requires them to acquire real intimacy.
 
-## Domesticity, sewing, and reciprocal care
-- Domestic care is a genuine love language for the protagonist.
-- This does not make Allison domestically incompetent and must not become gender-essentialism.
-- Sewing and making prom dresses for girls who cannot afford them are established parts of the protagonist's existing life.
-- Sewing supplies real technical knowledge of fabric, construction, fit, and alteration without granting universal expertise.
-- Fashion becomes common ground: maker/construction knowledge meets Allison's wearer/aesthetic/social experience.
+## Chloe's domesticity and care
+- Chloe genuinely loves domesticity because caring for someone is one of her love languages.
+- This does not mean Allison is domestically incompetent and must not become gender-essentialism.
+- Chloe loves sewing and makes prom dresses for girls who cannot afford them.
+- Sewing gives her real technical knowledge of fabric, construction, fit, and alteration without granting universal presentation expertise.
+- Fashion becomes common ground: Allison brings wearer/aesthetic/social experience; Chloe brings maker/construction experience.
+- Chapter Three may reveal these facts through conversation/overnight interaction; it does **not** require a trip to Chloe's apartment.
 
 ## Allison's photography and Clara history
 - Allison likes photography and once made more room for it.
-- After the breakup she swore off romantic relationships for a time and immersed herself in Kensington Logistics; photography received less time and attention. This is ordinary imbalance, not a tragic sacrifice narrative.
-- Allison's earlier photography remains in the house.
-- Some photographs include Clara Smyth, who was part of Allison's life during that period.
-- The protagonist is comfortable encountering those photographs and sees them as Allison's history rather than something to remove.
-- The discovery strengthens the determination to court Allison well and build a strong relationship.
-- The protagonist deliberately makes room/time for Allison to use her camera again. This is reciprocal care, not “fixing” Allison.
-- Allison is encouraged to create new photographs and memories in her present life.
-- Photography becomes new common ground; exact form remains open.
+- After the breakup she swore off romantic relationships for a time and immersed herself in Kensington Logistics; photography received less time/attention. This is ordinary imbalance, not a tragic corporate-sacrifice narrative.
+- Allison's earlier photography is still present in the house and can be encountered during the overnight.
+- Some photographs include **Clara Smyth**.
+- Chloe is comfortable encountering those photographs. She sees them as Allison's history rather than something that must be removed.
+- The discovery makes Chloe more determined to court Allison well and build a strong relationship.
+- Chloe wants Allison to make room for photography again and to create new photographs and memories in her present life.
+- Photography gives them new common ground; exact form remains open.
 
-## Julie Smith doorbell visit
-- Julie Smith is the doorbell visitor.
-- The couple are forthright that they have only just met / barely know each other. They do not invent a long relationship history.
-- Julie sees Allison's new girlfriend as extraordinarily attractive and is impressed.
-- Julie can tease that Allison is punching above her weight.
-- Julie knows Allison well enough to distinguish smug performance from genuine radiance/happiness.
-- Julie notices authentic micro-behaviors only where preceding scenes have earned them: orientation, looks/touches, anticipation, making room for each other, domestic familiarity, and tiny couple habits.
-- Domestic integration should be visible during Julie's visit so Julie encounters evidence of someone actually inhabiting Allison's life/home rather than posing inside it.
-- Julie demands that Allison bring her girlfriend to the Paris wedding as her plus-one, giving the girlfriend independent standing with the bride rather than leaving her as an anti-Clara prop.
-- Julie explicitly calls back the U-Haul joke after learning how quickly this happened.
-- The joke evolves from “absurdly fast” toward recognition that the new partner may not be moving back out.
-- Exact dialogue remains to be written.
+## Julie Smith
+- Julie Smith is an established close former sorority sister and the Paris bride.
+- The developed doorbell material is preserved as future/placement material, but **its placement inside this single-night Chapter Three is not assumed by this corrected record**.
+- Established Julie material: Chloe and Allison do not invent a long relationship history; Julie sees Chloe as extraordinarily attractive; Julie knows Allison well enough to distinguish performance from genuine happiness; Julie can notice authentic couple micro-behaviors only after the story has earned them; Julie wants Chloe at the Paris wedding as Allison's plus-one; the U-Haul joke can recur.
+- Exact timing of Julie's visit remains to be placed consistently with the single-night chapter and later move chronology.
 
-## Family and social continuity
-- Chloe's parents: Steve Johnson and Dorothy “Dot” Johnson. Sister: Allison Johnson.
-- Allison's parents: Gary Kensington and Jenny Kensington. Sister: Renee Kensington.
-- Steve/Dot and Gary/Jenny knew each other in school, liked each other, but were in different circles and were not close friends.
-- Allison's core former sorority sisters: Julie Smith, Natalie Brooks, Rebecca “Becca” Walsh, Samantha “Sam” Delaney, Lauren Pierce, and Megan Foster.
+## Family and friends — preserved continuity
+### Chloe
+- Parents: **Steve Johnson** and **Dorothy “Dot” Johnson**.
+- Sister: **Allison Johnson**.
+- Chloe has **five close friends**; individual names/details remain intentionally deferred.
+- Chloe is close to her parents and sister.
+- Likes baseball and softball and plays cards.
+- Steve and Dot knew Gary and Jenny Kensington in school. They liked each other but were in different circles and were not close friends.
+
+### Allison
+- Parents: **Gary Kensington** and **Jenny Kensington**.
+- Sister: **Renee Kensington**.
+- Allison has a core group of approximately six former sorority sisters:
+  - **Julie Smith** — Paris bride.
+  - **Natalie Brooks** — warm and socially fearless.
+  - **Rebecca “Becca” Walsh** — practical and dryly funny.
+  - **Samantha “Sam” Delaney** — energetic, affectionate organizer.
+  - **Lauren Pierce** — polished, observant, quiet humor.
+  - **Megan Foster** — easygoing, loyal, punctures drama.
 - Allison is warm/caring with family and trusted friends while capable of an ice-queen edge outside that circle.
-- Allison's love behavior is steady and grounding: she shows up, handles problems calmly, protects and supports her partner without treating her as incapable.
+- Allison's love behavior is steady and grounding: she shows up, handles problems calmly, protects and supports Chloe without treating Chloe as incapable.
+- Gary and Jenny are close to Allison. Previously established family-meeting development remains future material rather than a Chapter Three requirement.
+
+## Not Chapter Three
+- No trip to Chloe's apartment.
+- No retrieval of Chloe's possessions.
+- No physical move-in sequence.
+- No montage across subsequent days or weeks.
+- No convenience time jump from evening directly past the first night.
+- No assumption that the one-night test equals completed cohabitation.
 
 ## Still unresolved for the detailed outline
-- Exact scene count and scene breaks.
-- Exact chapter endpoint.
+- Exact same-evening starting location immediately after Bistro Regency.
+- Exact ordering of name/HR, house discovery, photography, relationship-learning conversation, bedtime, and morning beats.
+- Whether Julie appears during this chapter at all; if so, exactly when during the single-night window.
 - Exact sleeping dialogue.
 - Exact HR email wording.
-- Exact Julie dialogue.
 - Exact camera/photo placement.
 - Exact domestic micro-behaviors.
-- Exact room usage beyond established house facts.
-- Exact ordering of the developed beats where conversation did not settle it.
+- Exact chapter-ending morning beat.
