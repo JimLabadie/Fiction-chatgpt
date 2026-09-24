@@ -9,20 +9,20 @@
 - **Retrieval aliases / spelling variants:** Not yet established.
 - **Former/changed names:** None established.
 - **Pronouns / scope / chronology:** he/him at story baseline.
-- **Age / birth date:** Not yet established.
+- **Age / birth date:** 35.
 - **Story role:** Main character.
 - **Record status / provenance:** In development; facts below directly established by Jim unless identified otherwise.
 
 ## Baseline / original state
 - **Opening identity/presentation:** Tim is a man and understands himself straightforwardly as a guy.
-- **Opening location/context:** Waiting for a bus outside a dress shop when approached by a wealthy woman.
+- **Opening location/context:** Waiting for a bus outside a dress shop when approached by Allison Kensington. Tim is using the bus because his car died and is being repaired.
 - **Appearance / physical baseline:** Physically female-sized/proportioned enough that women's ready-to-wear sizing can plausibly work for him. Further details not yet established.
 - **Clothing / grooming / presentation baseline:** Not yet established.
-- **Occupation / skills / competencies:** Not yet established.
+- **Occupation / skills / competencies:** Software engineer.
 - **Background / formative history:** Not yet established.
 - **Culture / family / class / regional formation:** Not yet established.
 - **Starting relationships:** Not yet established.
-- **Starting knowledge / beliefs / misunderstandings:** He does not regard feminine clothing/presentation as an identity crisis. In the Allison arrangement, Tim sees himself as the one winning: being Allison's date is the prize, and he is entirely willing to be her girlfriend and embrace feminine presentation for as long as she wants it.
+- **Starting knowledge / beliefs / misunderstandings:** Tim does not regard car repair as something he needs to perform himself: his car died, and his attitude is that you pay people who like fixing cars to fix it. He does not regard feminine clothing/presentation as an identity crisis. In the Allison arrangement, Tim sees himself as the one winning: being Allison's date is the prize, and he is entirely willing to be her girlfriend and embrace feminine presentation for as long as she wants it.
 
 ## Current state
 Pre-prose; same as baseline.
@@ -90,7 +90,7 @@ No occurred changes yet.
 | Tim is radically self-possessed | Tim does not give a fuck what somebody else thinks of him because he simply is himself. This is not rebellion for an audience; other people's gender rules and judgments do not define him. That self-possession is the through-line that makes his masculinity, warmth, competitive streak, and wholehearted feminine presentation compatible rather than contradictory. | Jim | Established | Development conversation |
 
 ## Unresolved character questions
-Age, occupation, residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
+Residence, detailed appearance, presentation history, relationships, and personal background remain not yet established.
 
 ## Source / recovery notes
 Controlling story records are within this story namespace. Do not import similarly named or conceptually similar characters from other stories.
