@@ -2,6 +2,13 @@
 
 The project house voice and governing System Bible apply.
 
+## Author-voice shorthand and operational translation
+- **Jim's stated creative shorthand:** Robin Alexander-inspired romantic-comedy energy. This is a shorthand reference for the desired reading experience, not permission to copy wording, reproduce distinctive passages, or substitute an external author's work for this story's own voice.
+- **Operational voice traits:** warm and conversational close-third narration; quick comic timing; character-driven banter; affectionate absurdity; playful escalation; sharp observational humor; romantic chemistry carried through reactions, timing, and subtext; emotionally sincere tenderness that can arrive without turning solemn; and characters who may behave ridiculously without the narration treating them as ridiculous people.
+- **Narrator posture:** the storyteller should feel close enough to Tim to enjoy his practical logic, competitive experiments, and dawning realization that Allison is spectacular, while retaining enough comic distance to notice that both of them are enthusiastically building an actual relationship and calling it quality assurance.
+- **Scene-rhythm rule:** avoid reducing developed scenes to clipped beat sheets in prose. Short lines can be used for comic timing, but sustained scenes should breathe through observation, physical action, dialogue, interior reaction, and escalating callbacks. Plot beats are ingredients, not the finished voice.
+- **Romantic-comedy rule:** let jokes and tenderness coexist in the same beat. Do not stop the comedy to announce sincerity, and do not flatten sincere moments into punchlines. The ideal effect is that the reader can laugh at the situation while rooting hard for the people in it.
+
 ## Established series voice
 - **POV:** Close third-person centered on Tim Johnson.
 - **Tense:** Past tense.
