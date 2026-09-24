@@ -16,7 +16,7 @@
 ## Baseline / original state
 - **Opening identity/presentation:** Tim is a man and understands himself straightforwardly as a guy.
 - **Opening location/context:** Waiting for a bus outside a dress shop when approached by Allison Kensington. Tim is using the bus because his car died and is being repaired.
-- **Appearance / physical baseline:** Physically female-sized/proportioned enough that women's ready-to-wear sizing can plausibly work for him. Further details not yet established.
+- **Appearance / physical baseline:** Physically female-sized/proportioned enough that women's ready-to-wear sizing can plausibly work for him. Tim is exceptionally attractive in conventional terms — "hot model territory" — while remaining physically similar enough in build to Allison that their visual pairing and the practical mechanics of feminine styling are plausible. Further detailed features remain not yet established.
 - **Clothing / grooming / presentation baseline:** Not yet established.
 - **Occupation / skills / competencies:** Software engineer.
 - **Background / formative history:** Not yet established.
@@ -58,7 +58,7 @@ Pre-prose; same as baseline.
 Not yet established.
 
 ## Relationship ecosystem
-Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. No romantic outcome between Allison and Tim is yet canon.
+Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. Their immediate superficial attraction is mutual: each sees the other as exceptionally hot and, in essence, has the reaction, "Do you see that? That's mine." Allison ultimately falls for Tim himself.
 
 ## Identity, presentation, and embodiment
 - **Identity understanding:** Male; he understands himself as a guy.
