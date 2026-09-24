@@ -15,7 +15,7 @@
 
 ## Baseline / original state
 - **Opening identity/presentation:** Tim is a man and understands himself straightforwardly as a guy.
-- **Opening location/context:** Waiting for a bus outside a dress shop when approached by Allison Kensington. Tim is using the bus because his car died and is being repaired.
+- **Opening location/context:** In Regency Hill, a neighborhood in the same city as and directly bordering St. Claire, Tim is waiting for a bus outside a dress shop when approached by Allison Kensington. Tim is using the bus because his car died and is being repaired. He is not established as a St. Claire resident/member.
 - **Appearance / physical baseline:** Physically female-sized/proportioned enough that women's ready-to-wear sizing can plausibly work for him. Tim is exceptionally attractive in conventional terms — "hot model territory" — while remaining physically similar enough in build to Allison that their visual pairing and the practical mechanics of feminine styling are plausible. Further detailed features remain not yet established.
 - **Clothing / grooming / presentation baseline:** Not yet established.
 - **Occupation / skills / competencies:** Software engineer.
@@ -61,7 +61,7 @@ Not yet established.
 Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. Allison sees how hot Tim can be in feminine presentation and chooses him as part of her plan to make her ex jealous and win the breakup. Their immediate superficial attraction is mutual: each sees the other as exceptionally hot and, in essence, has the reaction, "Do you see that? That's mine." Allison ultimately falls for Tim himself.
 
 ## Identity, presentation, and embodiment
-- **Identity understanding:** Male; he understands himself as a guy.
+- **Identity understanding:** Male; he understands himself as a guy. A future transgender development remains possible, but Tim is not transgender at story baseline and is not currently experiencing a push or pull toward a different gender identity.
 - **Presentation preferences / personal aesthetic:** Not yet established.
 - **Relationship to body / appearance:** Not yet established beyond his female-compatible sizing/proportions.
 - **Skills / confidence in presentation domains:** Not yet established; do not infer feminine styling competence merely from willingness.
@@ -71,7 +71,7 @@ Allison Kensington approaches Tim and proposes the fake-girlfriend arrangement. 
 ## Boundaries and anti-characterization
 - Do not turn his comfort with feminine things into proof that he secretly identifies as a woman.
 - Do not manufacture gender panic merely because he is male.
-- Do not predetermine dysphoria or gender euphoria.
+- Do not predetermine dysphoria, gender euphoria, or a transgender outcome. A transgender direction may emerge later only if Jim establishes it through Tim’s actual development.
 - His established attitude permits the straightforward reaction that if an attractive woman likes him while he is presenting as a woman, that can simply be good enough for him.
 - Feminine presentation skills remain learned competencies; willingness is not automatic expertise.
 
