@@ -28,6 +28,7 @@ Tim Johnson is standing outside a dress shop waiting for a bus when a wealthy wo
 - The scheme is not currently established as something Allison needs for family acceptance, cover, protection, or another practical necessity. She is doing it because she wants to win.
 - Allison ultimately falls for Tim himself. Her original project is to manufacture the girlfriend who will make her ex jealous; the romantic destination is that she loves the competitive, warm, caring idiot she recruited.
 - Allison does not need Tim's male identity erased to make the relationship work. In Jim's shorthand, she decides she will deal with the extra "factory options" because of him.
+- A central romantic contrast is now established: Allison begins the story intensely invested in what her ex thinks and in engineering a visible breakup victory, while Tim simply does not outsource his identity or self-worth to an audience. She starts the weekend trying to make her ex look at them. As she falls for Tim, the emotional joke turns on Allison becoming the one who cannot stop looking at him; her attention shifts away from whether the ex is watching and toward Tim himself.
 - Her age, appearance, sexuality label, occupation, wealth source, residence, family, the ex's identity/wedding role, and broader characterization are not yet established.
 
 ## ChatGPT proposals preserved for later evaluation — not established canon
