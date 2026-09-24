@@ -27,6 +27,11 @@
 ## Current state
 Pre-prose; same as baseline.
 
+## Social superpower
+- Tim has an almost immediate best-friend quality with people. He is naturally warm, kind, funny, and easy to like without performing charm or working an angle.
+- He has a recurring ability to make the people around him smile and relax; Jim describes this as apparently being Tim's **superpower**.
+- This social warmth is not femininity evidence and is not a manipulation tactic. It is simply part of Tim: he makes human connection quickly and sincerely.
+
 ## Character engine
 - **Core drives / motivations:** Tim is radically self-possessed. He does not organize himself around other people's approval or disapproval; he simply is himself. Once he accepts Allison's scheme, his competitive streak engages. He wants them to win together: Allison wants to beat the breakup and make her ex jealous, and Tim wants to become the strongest possible version of the girlfriend Allison chose.
 - **Wants:** Not yet established.
