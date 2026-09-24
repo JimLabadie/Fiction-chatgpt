@@ -164,3 +164,12 @@ Controlling story records are within this story namespace. Do not import similar
 - Allison outwardly treats Tim's proposal as cool, practical, and sensible even while privately delighted by the idea of him moving in.
 - Her final joke acknowledges the absurd speed of their escalation: they met that day, she recruited him as a fake girlfriend, and by the end of the evening they are discussing cohabitation with stereotypical U-Haul speed.
 - The precise final wording belongs to the regenerated prose, but the chapter must land on **Allison recognizing and verbalizing the U-Haul comparison**. Do not end on narrator commentary or Tim owning the metaphor instead.
+
+### Chapter Two dinner causality correction: nightgown triggers bootcamp proposal
+- The nightgown is not merely an unexplained purchase whose logic is revealed later. Its payoff occurs **at the Chapter Two dinner**.
+- During dinner, Allison finally notices / thinks through the oddity and asks Tim, in substance, **why he needed a nightgown** for what is supposedly a weekend fake-girlfriend assignment.
+- That question gives Tim the opening for the bootcamp argument. He takes Camille's earlier lesson that convincing presentation requires **living in it**, not merely dressing for fittings, and explains that learning only during occasional sessions will not be enough if Allison wants them to win.
+- Tim argues that he needs ordinary-life practice and real-time correction across the full day, including the parts of life that happen after the public outfit comes off. The nightgown therefore becomes evidence of the larger requirement rather than a random luxury purchase: **femininity bootcamp has to be 24/7**.
+- Tim then follows that logic to its deliberately outrageous but internally practical conclusion: if Allison is the coach/benchmark and training must be continuous, commuting back and forth is inefficient, so **he should move in with Allison** for the pre-Paris training period.
+- Thus the closing escalation has a clean causal chain: **Allison asks about nightgown → Tim explains living-in-it / 24-7 bootcamp → Tim proposes moving in → Allison outwardly treats it as sensible while inwardly delighted → Allison closes the chapter by making the U-Haul joke.**
+- Do not defer the nightgown explanation to a later chapter after this correction. Detailed domestic routines and implementation of the bootcamp still belong to the following chapter.
