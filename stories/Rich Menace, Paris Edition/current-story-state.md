@@ -18,3 +18,15 @@ Chapter One is complete and final. It ends after Tim recognizes that Allison has
 
 ## Established narrative mode
 Close third-person centered on Tim Johnson, past tense. Queer romantic comedy with a playful, warm, sexy tone that does not take itself too seriously; genuine romantic feeling can coexist with absurdity and character-driven comedy.
+
+### Chapter Two development — Maison Belle completion before departure
+
+Jim has established that Chapter Two must **slow down and complete Tim's first presentation build rather than jumping ahead to Allison's house**.
+
+- Tim is not half-assing the assignment. The single diagnostic dress from Chapter One is only the beginning; he intends to do the girlfriend presentation properly.
+- Before Tim leaves Maison Belle, the presentation needs to become a coherent full look rather than "dress + barefoot": lingerie/foundation choices as appropriate, stockings/hosiery, jewelry, accessories, and — emphatically — **heels** all matter. Exact items remain to be developed rather than silently invented.
+- Tim keeps applying Camille and Sophie's fashion/presentation lessons with **increasing accuracy**. His quick-study trait should be visible in better choices, sharper questions, and increasingly successful application, not instant unexplained expertise.
+- The central comic/romantic engine is that **Allison is sowing the seeds of her own destruction**. She recruited Tim, insisted on doing this properly, brought him to experts, and is now watching those experts help him become progressively more capable of short-circuiting her.
+- Everyone is cheering Tim on for a different character-specific reason: **Tim** because the spectacular hot girlfriend is the prize and his emerging attitude is essentially *hot girlfriend; I think I'll keep her*; **Camille** because there is money to be made ("caching") and because she is a romantic; **Sophie** from pure, unadulterated joy at the unfolding disaster; and **Allison** despite herself, because every improvement is exactly what she asked for and also makes Tim more devastating to her.
+- Tim repeatedly applies what he has learned, gets more accurate, observes Allison's response as feedback, and then **keeps breaking Allison's brain**. The escalation should be earned through successive presentation/fashion lessons and tests rather than one abrupt transformation.
+- This chapter-development priority supersedes the earlier proposed rush from Maison Belle directly into Allison's home. Allison's home remains established continuity for later use; it is not the current development target.
