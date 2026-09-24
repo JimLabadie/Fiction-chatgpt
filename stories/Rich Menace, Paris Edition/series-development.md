@@ -206,3 +206,48 @@ Jim has established that Chapter Two must **slow down and complete Tim's first p
 - It is a **French-American fusion restaurant** in Regency Hill.
 - Keep the establishment deliberately simple beyond those established facts unless later story needs require further development.
 - Chapter Two's first public couple-practice dinner occurs here after Maison Belle, preserving the Chapter One geographic setup and the evening-time handoff.
+
+
+## 2026-09-24 — Chapter Three development: Chloe identity, ordinary life, and Allison common ground
+
+### Jim-established decisions — Chloe name, presentation, workplace, and privacy
+- Near the beginning of Chapter Three, the practical problem is noticed that Allison's supposed girlfriend cannot plausibly continue to be called Tim. Tim and Allison discuss it and settle on **Chloe**.
+- **Presentation is the cue for name and pronouns.** Chloe is going to remain in feminine presentation full-time going forward, so in ordinary ongoing story life the cue effectively does not switch back. From that point she is **Chloe Johnson** and uses **she/her**.
+- This does not erase Tim Johnson from Chloe's history and is not retroactive amnesia. Tim remains part of her prior life and self-understanding when historically relevant; narration and social life should not repeatedly bounce back to Tim/he while she remains full-time Chloe.
+- Chloe experiences this with striking pragmatism rather than as a required existential crisis. She likes feminine things and masculine things and does not experience either category as threatening. Her emotional logic is that Allison is so extraordinary that if being Chloe for the rest of her life is what this life means, she would be delighted rather than mournful.
+- Full-time Chloe presentation/name/she-her do not by themselves establish a medical transition arc or require the story to manufacture a private identity crisis.
+- Immediately after the Chloe/name/pronoun discussion comes the workplace dependency: Chloe realizes she cannot simply arrive at work as Chloe while systems and coworkers continue to use Tim/he. She sends HR an email telling them that she is now/goes by Chloe and uses she/her. To Chloe this is an operational update, not a dramatic coming-out scene. Exact email wording and legal-name-change status remain unresolved.
+- If Chloe's Tim history is discovered publicly, Chloe and Allison do not construct an elaborate false biography. The simple public explanation is effectively that **yes, Chloe is trans, and her history is nobody else's business**. This is privacy rather than an elaborate deception. They do not invent hormones, surgeries, childhood gender stories, transition dates, or other medical/biographical claims.
+- The public trans shorthand does not require Chloe's private self-understanding to become a solemn identity-analysis arc. Chloe can remain pragmatic and uninterested in parsing herself.
+- This also makes the supposed secret poor blackmail material: Chloe is not ashamed of the history and HR already knows.
+- Julie Smith does not need Tim information; Chloe and Allison are not deceiving Julie about information she has a legitimate need to know.
+
+### Jim-established decisions — Chloe's life outside the scheme
+- Chloe is into **baseball and softball**. The story may knowingly have fun with the lesbian-softball stereotype, but the hobby is genuinely Chloe's and should not reduce her to stereotype material.
+- Chloe plays **cards**.
+- Chloe has **five close friends**. Their individual identities and details are intentionally deferred for later development rather than invented now.
+- Chloe is **close to her parents and her sister**.
+- The later family reveal is primarily about **Allison**. The update that Tim is now going by Chloe is almost an afterthought in comparison: Chloe brings Allison into her family world and, in substance, adds, “oh, by the way, I'm going by Chloe now.” Jim has previously outlined the family's reaction; that reaction must be recovered from authoritative story evidence before that scene is developed rather than recreated from guesswork.
+
+### Jim-established decisions — domesticity as Chloe's love language
+- Chloe genuinely **loves domesticity because caring for someone is a love language for her**.
+- What she hates is that, until now, she has not had anyone to care for in that intimate domestic way. The ache is not that she dislikes housework or domestic life; it is that the instinct has mostly had no romantic partner to receive it.
+- This supports Chloe becoming the more domestic partner without making Allison generically incompetent or turning domesticity into gender-essentialism. Chloe enjoys making a home and caring for the person she loves.
+
+### Jim-established decisions — sewing, fashion, and prom dresses
+- Chloe **loves to sew**.
+- She makes **prom dresses for girls who cannot afford them**. This is an established expression of Chloe's practical kindness and her instinct to preserve or create dignity through concrete acts of care.
+- Sewing helps explain why the clothing side of Chloe's feminine presentation goes comparatively smoothly. She already understands clothing technically—fabric, construction, fit, alteration, and related maker knowledge—even though that does not give her magical expertise in every aspect of women's styling or presentation.
+- Sewing/fashion creates real common ground with Allison. Allison loves fashion but has not spent much time thinking about its technical construction. Chloe can bring a maker's perspective to something Allison already loves aesthetically and socially.
+
+### Jim-established decisions — Allison's photography and reciprocal care
+- Allison **likes photography** but stopped doing it.
+- Chloe will notice that Allison has allowed something she loves to fall out of her life and will deliberately **make time/space for Allison to pursue photography again**.
+- This is reciprocal care rather than Chloe “fixing” Allison: Chloe's instinct is to protect room in Allison's life for something that belongs to Allison and gives her joy.
+- Through Allison returning to photography, **Chloe and Allison discover a new common interest**. The exact form that shared interest takes remains open until developed.
+
+### Developed implications / collaborator analysis — not independently established canon
+- Chloe's sewing knowledge gives her technical scaffolding when Camille teaches presentation, helping her learn quickly without turning her into an instant expert.
+- Chloe and Allison approach fashion from complementary directions: Allison from aesthetic/wearer/collector/social experience and Chloe from maker/construction experience. This is a promising mechanism for mutual fascination.
+- Allison's photography offers a useful reciprocal romantic mechanism: Allison helps Chloe learn a new lived presentation while Chloe helps Allison reclaim time for an existing passion.
+- The five close friends and close family establish that Chloe had a real social life before Allison; Allison is not rescuing Chloe from isolation.
