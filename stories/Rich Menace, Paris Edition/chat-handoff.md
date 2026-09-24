@@ -172,3 +172,12 @@ Jim should be able to say simply:
 > Continue **Rich Menace, Paris Edition** from the Chapter Two handoff.
 
 The new session should initialize from the live repository, retrieve this handoff plus the governing story records and routed modules, and continue from the approved Chapter Two endpoint without requiring Jim to reconstruct the prior chat.
+
+
+## 2026-09-24 authoritative Chloe continuity update
+- **Chloe Johnson is a transgender woman.**
+- Chloe loves femininity and is happy living as Chloe.
+- Tim remains a real and respected part of Chloe's history.
+- Chloe is pragmatic about this part of herself; it does not need to dominate the story.
+- This update supersedes earlier story-local formulations that treated Chloe only as a presentation role. Older material may remain as historical development evidence but does not govern go-forward characterization.
+- Ordinary ongoing narration and social life use **Chloe / she/her** after the Chapter Three name resolution.
