@@ -84,6 +84,26 @@ Ruth founded the establishment. Mara made the accidental business operationally 
 
 The four form the establishment's core staff. Their competence is complementary rather than interchangeable.
 
+## Physical environment and circulation
+
+The store occupies an older commercial storefront with broad street-facing windows. The first impression is intentionally dense but curated rather than chaotic: decorative objects, glassware, ceramics, jewelry, textiles, and whatever especially striking, funny, valuable, or inexplicable pieces currently deserve front-of-store attention.
+
+The main sales floor opens deeper than the storefront initially suggests. Furniture is arranged in loose room-like groupings rather than rigid retail aisles. Chairs, tables, lamps, rugs, cabinets, art, and household objects may be staged together so customers encounter combinations and lived-space possibilities rather than isolated inventory.
+
+Mara's primary working area sits toward the front and middle of the store, where decorative arts, jewelry, textiles, glass, and ceramics naturally concentrate. She has a functioning sales/work counter there and can manage actual operations without being reduced to a generic cashier role.
+
+Books, records, photographs, posters, and queer ephemera occupy a quieter section farther into the store, giving Tess room to research, browse inscriptions, and distinguish ordinary merchandise from material that may carry community-history significance.
+
+Ruth moves throughout the customer floor rather than occupying a fixed owner's station. Larger furniture, unusual objects, condition questions, value judgments, and customer debates may pull her naturally into different parts of the store.
+
+The sales floor connects to a rear work/loading area used for deliveries, handling, and restoration flow. Jo's already-established basement association remains intact; the basement supports restoration, salvage, storage, and objects awaiting judgment or resurrection and is not treated as an ordinary public browsing area unless later established.
+
+Circulation is deliberately irregular but navigable. Furniture groupings, cabinets, displays, and changing inventory create partial sight-line breaks and small discoveries without making the store physically incoherent. Customers can round a cabinet, step into another staged grouping, momentarily lose direct sight of a companion, or call across nearby furniture without the layout becoming a maze.
+
+The governing aesthetic is accumulated material life, not antique-store preciousness and not thrift-store disorder. Expensive antiques, useful household pieces, sentimental objects, ridiculous curiosities, queer ephemera, and baffling objects may coexist. Merchandise is generally meant to be examined, touched, opened, sat in, compared, and argued about where safe and appropriate.
+
+Inventory changes constantly. Story scenes may use plausible individual objects that fit the store's established merchandise categories without promoting every lamp, chair, vase, framed joke, dish, textile, or curiosity into permanent reusable St. Claire canon. An individual object becomes durable shared-world canon only when separately established as such.
+
 ## Open development
 
-Exact physical layout, operating history beyond the established origin, additional employees if ever needed, and other detailed establishment mechanics remain open until developed and approved. Do not invent unresolved details as established facts during story use.
+Operating history beyond the established origin, additional employees if ever needed, exact dimensions, fine-grained floorplan geometry, and other detailed establishment mechanics remain open until developed and approved. Do not invent unresolved details as established facts during story use.
