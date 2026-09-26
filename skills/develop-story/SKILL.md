@@ -103,13 +103,18 @@ Do not collapse these statuses.
 14. **Distinguish implementation from consequential choice.**
     Routine implementation of an approved decision may be developed without re-asking Jim. If selection among genuinely different plausible options would establish new consequential canon, relationship direction, identity development, world binding, major pacing, or other authorial choice, present the actual choice to Jim.
 
-15. **Preserve before evaluation can erase.**
+15. **Checkpoint active development before interruption or reconciliation.**
+    Treat scene-capable working material as persistence-worthy state, not disposable chat. Before asking a question, switching tasks, beginning reconciliation/recovery, or otherwise interrupting an active development sequence, checkpoint the material already established in the appropriate development record when persistence is authorized. This includes **scene composition and attendance**, location, temporal placement, entrance/exit state, character-relative knowledge, relationship state, selected beats, causal ordering, stopping point, important objects/wardrobe/resources, deferred material, and explicit unknowns. Who is in a scene is a major structural fact because it controls available knowledge, dialogue, relationships, reveals, and possible action; never demote it to incidental detail.
+
+    Preserve provenance separately from interpretation. A Jim recollection of lost development must be recorded as **Jim-recalled recovery evidence** (or the applicable recovery status), not silently rewritten as assistant uncertainty merely because an older durable record differs or is stale. First preserve the claim and its source; then reconcile it under Recover/Reconcile. **Persistence comes before reconciliation when delaying persistence risks losing current-session work.**
+
+16. **Preserve before evaluation can erase.**
     Useful alternatives, implications, rabbit holes, rejected/deferred paths, and reasoning should survive in the appropriate development/ideas record when persistence is authorized. Preservation does not approve or canonize them.
 
-16. **Produce a development handoff, not prose by default.**
+17. **Produce a development handoff, not prose by default.**
     Supply the selected/approved scene or story structure, constraints, character-state assumptions, unresolved choices, and stopping point to Write Fiction. Do not silently draft finished narrative unless requested.
 
-17. **Propagate only after establishment.**
+18. **Propagate only after establishment.**
     Approved future plans go to the outline/development records with correct status. Occurred events only become continuity/current-state/character-state facts after they actually occur or Jim explicitly establishes them as current truth. Use Track State and Persist for durable authorized updates.
 
 ## Output contract
