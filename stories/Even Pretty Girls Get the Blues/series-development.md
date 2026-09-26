@@ -745,5 +745,25 @@ Use this as a development reference for Steve’s current look and presence. Pre
 - Kate does **not** decide Jim's relationship status for him. After acknowledging where she is, she asks Jim whether **he is there too**. Jim's answer and the exact wording/scene mechanics remain unresolved active development.
 - Preserve the distinction between relationship recognition and identity recognition: this beat may establish that Kate and Jim are dating if Jim reciprocates, but it does not by itself settle Jim/Emily's gender identity, labels, or presentation trajectory.
 
+### Friday night planning checkpoint — approved development
+
+**Current story time:** Friday, after the Halloway Park picnic. Exact clock time remains unresolved and must be chosen before this planning unit is complete.
+
+- After the picnic, Jim and Kate decide to continue the evening at **Blush**.
+- They stop at **Kate's place before Blush** because Kate wants to change into a club-oriented Blush look. Jim does **not** change; his established Friday futch outfit has become his **"lucky outfit."**
+- They use **Kate's vehicle** for the trip to Blush and subsequent return to her home.
+- Jim wants to be included in Kate's getting-ready ritual but is unsure of the etiquette and lingers rather than confidently inviting himself into the private ritual.
+- Kate catches the lingering. It fits her existing private hypothesis/observations about Jim's gender without authorizing her to diagnose him. She warmly invites him into the getting-ready ritual and **flirts with him** while including him.
+- At Blush, Kate socially leads. The community sincerely reads and embraces Jim and Kate as a **lesbian couple**; no one there except Kate knows Jim is male.
+- Jim and Kate **dance**, with Kate leading as established by Jim for their prior Blush dynamic. Friday's dance is intended as a callback/progression: the physical grammar is familiar, but as a couple the dance is more intimate and Jim actively reciprocates the closeness.
+- **Continuity reconciliation pin:** Jim states that Jim and Kate danced in Chapter 1. The current approved Chapter 1 file retrieved during this planning pass does not contain that dance and ends at the bar after Jim asks about Kate's heels; the approved Chapter 2 file also does not contain it. Preserve Jim's statement and do not silently rewrite approved manuscript. Reconcile the missing earlier dance before prose relies on exact Chapter 1 dance details.
+- During the Blush sequence, ordinary community treatment and the word **dating** name a relationship reality already made obvious by Friday. Kate stops hiding behind the "not dating" technicality, acknowledges that she is there, and asks Jim whether he is there too. Jim's exact response remains to be resolved.
+- The Blush sequence should let Jim experience effortless belonging rather than a reveal/test. Kate alone holds the knowledge that the community assumes Jim is a woman.
+- After Blush, Kate drives them back to her home.
+- **Planned Friday endpoint:** Friday night at Kate's door. A first kiss there is the recommended/desired endpoint under discussion; do not promote the kiss as approved until Jim explicitly settles it.
+- Do not continue inside Kate's home or into Saturday merely because the scene can continue.
+
+**Ending story time:** Friday night at Kate's door. Exact clock time remains unresolved and must be decided before planning is complete.
+
 ### Active stopping point
 Develop how the community's easy acceptance of them as a lesbian couple lands on Jim and Kate, then Jim's response to Kate asking whether he is there too, plus the immediate emotional/comedic consequences at Blush. Do not silently choose his answer merely because Kate has accepted the dating term.
