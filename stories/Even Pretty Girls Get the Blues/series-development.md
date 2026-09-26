@@ -735,14 +735,15 @@ Jim identified Marie Ulven’s presentation in girl in red’s **“we fell in l
 Use this as a development reference for Steve’s current look and presence. Preserve the story’s existing futch-development logic and let specific garments remain story-local choices unless Jim establishes them separately. The useful quality is the effortless, inhabited balance of masculine and feminine signals—not imitation of Marie Ulven as a person or a frame-by-frame recreation of the music-video wardrobe.
 
 
-## Saturday at Blush — active WIP checkpoint
+## Friday night at Blush — active WIP checkpoint
 **Status: JIM-APPROVED DEVELOPMENT; ACTIVE WIP.**
 
-- The chapter after the approved Friday daytime development begins at **Blush**.
+- After the Halloway Park picnic, Jim and Kate **decide together to go to Blush Friday night**. The Blush return is the next chapter/narrative unit after the Friday daytime not-date.
+- At Blush, the surrounding community naturally **reads and embraces Jim and Kate as a lesbian couple**. Kate leads socially through this environment. **No one at Blush except Kate knows Jim is male**; the community's response is therefore sincere and unselfconscious rather than a wink, test, reveal, or deliberate misgendering.
 - During the Blush sequence, someone from the community naturally refers to Jim and Kate as **dating**. The speaker is not diagnosing Jim's identity or forcing a label onto him; "dating" is used as the ordinary relationship term for what the two of them visibly appear to be doing.
 - The moment finally breaks Kate's increasingly untenable "not dating" defense. Kate **surrenders to the obvious** and accepts that she is dating Jim rather than continuing to hide behind the running technicality.
 - Kate does **not** decide Jim's relationship status for him. After acknowledging where she is, she asks Jim whether **he is there too**. Jim's answer and the exact wording/scene mechanics remain unresolved active development.
 - Preserve the distinction between relationship recognition and identity recognition: this beat may establish that Kate and Jim are dating if Jim reciprocates, but it does not by itself settle Jim/Emily's gender identity, labels, or presentation trajectory.
 
 ### Active stopping point
-Develop Jim's response to Kate asking whether he is there too, plus the immediate emotional/comedic consequences at Blush. Do not silently choose his answer merely because Kate has accepted the dating term.
+Develop how the community's easy acceptance of them as a lesbian couple lands on Jim and Kate, then Jim's response to Kate asking whether he is there too, plus the immediate emotional/comedic consequences at Blush. Do not silently choose his answer merely because Kate has accepted the dating term.
