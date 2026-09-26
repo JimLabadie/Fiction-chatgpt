@@ -53,8 +53,10 @@ Do not collapse these statuses.
 1. **Resolve story and resume point.**
    Establish the active story namespace, current handoff, approved manuscript boundary, and the exact development question. Do not import another story's material merely because it fits.
 
-2. **Resolve temporal position before sequencing.**
-   Establish the last supported temporal anchor and the temporal relationship of the material being developed: same moment, later same scene, later same day, next day, specific date/time, elapsed duration, or unresolved. Preserve only the precision supported by authority or Jim's decision. A chapter boundary is narrative structure, not evidence of a day change. If the temporal gap is consequential and unresolved, leave it unresolved or ask Jim rather than silently advancing time.
+2. **State and resolve temporal position before sequencing.**
+   At the start of scene/chapter planning, explicitly state **Current story time** in the planning handoff at the greatest supported precision: story-relative day/date, daypart/clock time if known, and sequence relative to the last anchored event. Establish the temporal relationship of the material being developed: same moment, later same scene, later same day, next day, specific date/time, elapsed duration, or unresolved. Preserve only the precision supported by authority or Jim's decision. A chapter boundary is narrative structure, not evidence of a day change. If the temporal gap is consequential and unresolved, leave it unresolved or ask Jim rather than silently advancing time.
+
+   Before scene/chapter planning is considered complete, explicitly resolve and state **Ending story time**. The ending may be a supported clock time/daypart/date or an explicitly decided relative temporal endpoint, but it may not be left as an accidental blank. If the ending time materially affects continuity or the next scene and authority does not settle it, Jim must decide it. Do not manufacture precision merely to satisfy this requirement.
 
 3. **Separate facts, plans, and possibilities.**
    Identify what has occurred, what Jim has approved for the future, what is merely developed/proposed, and what remains open. Never treat an outline beat as already occurred or a developed possibility as approved.
