@@ -768,6 +768,18 @@ Use this as a development reference for Steve’s current look and presence. Pre
 
 **Ending story time:** **11:00 PM Friday**, at Kate's door, ending with Jim and Kate's first kiss.
 
+### Future Susan/Kate conversation — PINNED, not Friday planning
+
+**Status: DEFERRED/PINNED future development, not scheduled or authorized for Friday prose.** Potentially one or two chapters after Friday; exact chapter and timing undecided. Do not develop further until Jim asks.
+
+- A later private conversation between sorority sisters and close friends Susan and Kate may involve wine/dinner and Kate candidly describing how her attraction to Jim is making her brain melt down. This is Kate sharing her uncertainty, **not revealing a dark secret about Jim**.
+- Jim currently understands and presents himself as male; his masculinity is **not hidden**. Susan's surprise on learning he is male is an ordinary consequence of her assumption that he is a woman, not an outing narrative or exposure of concealed information.
+- This occurs **before Jim recognizes any possible trans identity**. Kate has a private hypothesis that Jim might be trans, based on her experiences with him, but she knows she cannot decide his identity for him.
+- Kate wonders whether her hypothesis reflects genuine observations or whether she is rationalizing her attraction so that, as a lesbian, she can tell herself she is dating a woman. This is **Kate's internal uncertainty**, not a conclusion about Jim's identity or Kate's orientation.
+- Susan's closeness and long history with Kate make her a natural confidante. A gold-star discussion may arise as part of Kate explaining her own mental turmoil, **not as a purity judgment or the point of the scene**.
+- The affectionate story of **The Incident** may eventually come up over wine and dinner, potentially with a woman Susan brings, as they discuss why Kate and Susan did not click romantically but have found people with whom they do. The precise setting, participants, sequencing, and whether this is the same evening as Kate's private conversation are **not decided**.
+- **Stop here.** Do not assign the scene to the next chapter, invent dialogue, settle Kate's theory, or decide Jim's identity. Return to Friday planning.
+
 ### Susan Smith — approved character development
 
 - **Susan Smith** is the same age as Kate and one of Kate's closest long-term friends.
