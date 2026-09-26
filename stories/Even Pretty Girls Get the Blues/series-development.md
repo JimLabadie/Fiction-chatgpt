@@ -799,6 +799,48 @@ Use this as a development reference for Steve’s current look and presence. Pre
 - The affectionate story of **The Incident** may eventually come up over wine and dinner, potentially with a woman Susan brings, as they discuss why Kate and Susan did not click romantically but have found people with whom they do. The precise setting, participants, sequencing, and whether this is the same evening as Kate's private conversation are **not decided**.
 - **Stop here.** Do not assign the scene to the next chapter, invent dialogue, settle Kate's theory, or decide Jim's identity. Return to Friday planning.
 
+### Late-Friday Susan/Kate conversation — active developed material
+
+**Working-session checkpoint. Preserve before further reconciliation.**
+
+After Jim leaves Kate's door following their first kiss, **Susan is still inside Kate's home waiting for her**. Susan said goodbye to Jim; she did not go home. Kate returns inside visibly affected by the kiss, and the private conversation between Susan and Kate follows from the evening Susan has just witnessed.
+
+The purpose of the conversation is **not for Susan to challenge Kate's lesbian label** or assign Kate a different one. Susan's first move is a sanity check: she wants to establish that Kate sees the same strange set of facts Susan sees. Susan takes Kate's identity seriously and makes the conversation easier by first acknowledging that Kate's situation genuinely is a mindfuck rather than treating Kate as confused, hypocritical, or in need of correction.
+
+Developed progression:
+- Susan is genuinely surprised to learn that Jim is a man. She had naturally read him as a woman at Blush. Jim did not deceive her; she simply had not encountered a correction.
+- Susan checks the facts rather than jumping to a theory: Jim identifies himself as a man; he knows people frequently read him as a woman; this is a recurring experience for him.
+- Kate has privately wondered whether Jim might eventually discover that he is trans, based on her observations and experiences with him, but she knows emphatically that **Jim's identity is Jim's to discover and name**. She may not relabel him to make her own sexuality easier to explain.
+- Kate's additional fear is that her trans hypothesis could be genuine observation **or** a rationalization created by her own attraction: if Jim were a woman, Kate's established lesbian identity would remain tidy. Kate distrusts using that possibility as an escape hatch.
+- Susan's sanity check then turns toward Kate's attraction. Susan has known Kate since freshman year and knows what Kate looks like when she is attracted to women. What Susan witnessed between Kate and Jim reads to her as the same recognizable pattern, not merely Kate making an abstract exception.
+- This is what allows Kate to admit the central mindfuck: she respects that Jim says he is a man, yet her attraction to him does not subjectively feel like discovering attraction to men. It feels familiar to the part of herself she has always understood as lesbian.
+- Susan does **not** use that observation to conclude that Jim is therefore a woman. Her response is that, yes, the evidence is genuinely weird and she understands why Kate's brain is melting.
+- The **gold-star discussion** grows naturally from Kate's history and anxiety; it is not a purity test, status contest, or challenge to Kate's lesbian credentials.
+- Susan and Kate can distinguish partner identity from sexual mechanics. The **strap-on comparison** is a deliberately irreverent sanity check: lesbians already understand that penis-shaped sexual mechanics do not automatically transform lesbian sex into heterosexual sex. Kate can correctly push back that a strap-on is not a person who says he is a man. Susan concedes the distinction. The joke therefore clarifies the issue rather than solving it.
+- The penis/anatomy itself is not the deepest source of Kate's crisis. The harder question is why attraction to this particular man feels so familiar to Kate's established experience of attraction to women.
+- Susan does not require Kate to immediately relabel herself merely because one person has made her categories complicated. Respecting Jim's current identity and leaving Kate's own label intact while she understands her experience are allowed to coexist.
+- Only after Susan has acknowledged the situation seriously does she earn the affectionate **get your head out of your ass** portion of the conversation: the identity/metaphysics may remain unresolved, but Susan can plainly see that Kate and Jim are falling in love with each other.
+- Susan is checking accuracy, not policing labels: effectively, *I'm not telling you what you are; I'm making sure you're seeing what I'm seeing.*
+
+#### The Incident — resolved core, embellishment deferred
+
+The durable core of **The Incident** is now more specific:
+- Susan and Kate, already close friends and both lesbians, once tested whether their deep affection might actually be romantic.
+- They shared what can affectionately be characterized as **the most platonic romantic kiss in the history of mankind**.
+- The kiss was not bad, traumatic, humiliating, or evidence that either woman lacked skill. It simply contained spectacularly no romantic chemistry.
+- They broke apart **laughing at the result**.
+- The experience clarified their friendship and ultimately made them closer.
+- This is useful to Susan's sanity check because Susan and Kate once satisfied the obvious categorical expectations for a lesbian pairing and still had no romantic click, whereas Kate's chemistry with Jim is glaringly real. Labels describe meaningful patterns; they do not manufacture attraction.
+- **Do not fully dramatize or over-specify The Incident here.** Its circumstances and comic embellishments are deliberately reserved for the later dinner conversation.
+
+#### Mandy
+
+- **Mandy** is the woman Susan is currently dating.
+- Susan talks about Mandy during the private Kate/Susan conversation, allowing Susan to have her own romantic life rather than functioning only as Kate's advice mechanism.
+- Susan's discussion of Mandy can provide a natural contrast: Susan can describe an uncomplicated current attraction while Kate is dealing with an unusually complicated one.
+- Mandy is also connected to the later dinner material where The Incident can be more fully embellished.
+- **Later-dinner participant composition is currently unresolved in the durable record.** Do not invent whether Jim attends. Preserve that as a reconciliation question rather than converting an old possibility or current assumption into canon.
+
 ### Susan Smith — approved character development
 
 - **Susan Smith** is the same age as Kate and one of Kate's closest long-term friends.
