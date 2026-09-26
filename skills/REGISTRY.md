@@ -16,6 +16,7 @@ Scope: Integrated procedural skill set. This registry routes responsibilities; i
 | Present | How does this character coherently present right now? | current composition from canon, resources, context, competence, constraints | underlying identity/body/culture/wardrobe ownership; prose style; silent acquisition | Contextualize, Inhabit, Transform, Track State, Persist |
 | Simulate Character | What would this specific established character notice, interpret, feel, choose, say, or do here? | character-level attention, interpretation, internal response, option filtering, character-determined choice, expression | plot direction; prose realization; culture/mechanics/presentation ownership; persistence | Contextualize, Inhabit, Present, Transform, Track State, Develop Story/Jim |
 | Develop Story | What should the story explore next, and how should approved direction become scene-capable structure? | possibilities, consequences, sequencing, pacing, beats/arcs, planning status, author-choice boundary | character truth; character-determined behavior; prose realization; occurred continuity; canon promotion | Simulate Character, domain skills, Jim, Write Fiction, Track State, Persist |
+| Write Fiction | How does the authorized scene become lived narrative experience? | source-grounded prose realization, POV, dialogue, interiority, physical embodiment, rhythm/pacing, candidate-manuscript boundary | unresolved story direction; character truth; canon promotion; world/mechanics invention; persistence proof | Develop Story, Simulate Character, domain skills, Track State, Persist, Audit |
 
 ## Core routing invariants
 
@@ -30,12 +31,12 @@ Scope: Integrated procedural skill set. This registry routes responsibilities; i
 9. Audit diagnoses against an explicit contract; it does not silently become repair.
 10. Simulate Character may resolve behavior only where established character/state materially constrains the choice; genuinely open story-direction choices remain open for Develop Story/Jim.
 11. Develop Story keeps occurred facts, approved future plans, developed possibilities, and proposals distinct; planning does not make an event occurred.
-12. Scene-local generated choices do not become durable canon merely because an operational skill produced them.
+12. Write Fiction realizes authorized material but may not use prose momentum or beauty to decide unresolved consequential canon; candidate prose remains distinct from approved manuscript.
+13. Scene-local generated choices do not become durable canon merely because an operational skill produced them.
 
 ## Known interface gaps
 
 - Simulate Character owns character-determined behavior; Develop Story owns genuinely open story-direction, beat, arc, pacing, and scene-development work while preserving Jim's consequential-choice authority.
-- No fiction-writing skill yet owns prose realization.
 - No orchestration skill yet owns end-to-end fiction workflow selection.
 - No standalone research/verification skill has yet been extracted for current real-world factual precision.
 - The current prototype branches remain non-governing until explicitly promoted.
