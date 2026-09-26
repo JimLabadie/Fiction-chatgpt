@@ -53,25 +53,28 @@ Do not collapse these statuses.
 1. **Resolve story and resume point.**
    Establish the active story namespace, current handoff, approved manuscript boundary, and the exact development question. Do not import another story's material merely because it fits.
 
-2. **Separate facts, plans, and possibilities.**
+2. **Resolve temporal position before sequencing.**
+   Establish the last supported temporal anchor and the temporal relationship of the material being developed: same moment, later same scene, later same day, next day, specific date/time, elapsed duration, or unresolved. Preserve only the precision supported by authority or Jim's decision. A chapter boundary is narrative structure, not evidence of a day change. If the temporal gap is consequential and unresolved, leave it unresolved or ask Jim rather than silently advancing time.
+
+3. **Separate facts, plans, and possibilities.**
    Identify what has occurred, what Jim has approved for the future, what is merely developed/proposed, and what remains open. Never treat an outline beat as already occurred or a developed possibility as approved.
 
-3. **Honor fixed creative constraints first.**
+4. **Honor fixed creative constraints first.**
    Preserve Jim's current instruction, established premise, approved direction, explicit stopping point, tone, world/mechanics constraints, and previously accepted creative decisions. Development elaborates within those boundaries; it does not silently descope or replace them.
 
-4. **Identify the live story job.**
+5. **Identify the live story job.**
    Determine whether the task is discovery, expansion, connection, sequencing, escalation, pacing, scene design, relationship development, arc development, payoff/setup, problem-solving, or choice among alternatives. Do not solve a larger story problem than requested.
 
-5. **Retrieve character-consistent possibility space.**
+6. **Retrieve character-consistent possibility space.**
    For beats that depend on what a character would notice, want, choose, say, or do, use Simulate Character. A desired plot outcome may create a situation for a character; it may not dictate a response that violates character canon.
 
-6. **Retrieve domain constraints only where triggered.**
+7. **Retrieve domain constraints only where triggered.**
    Use Transform for change consequences, Present for presentation, Inhabit for competence, Contextualize for contextual meaning, and relevant maintained knowledge modules. Retrieval must constrain the proposal rather than decorate it.
 
-7. **Generate multiple possibilities when the direction is genuinely open.**
+8. **Generate multiple possibilities when the direction is genuinely open.**
    Preserve materially distinct promising branches rather than prematurely converging. Include Jim-originated, ChatGPT-originated, and jointly developed possibilities with provenance/status when persistence is appropriate.
 
-8. **Develop consequences, not just premises.**
+9. **Develop consequences, not just premises.**
    For each serious candidate, examine what it changes:
    - character experience and agency;
    - relationship dynamics;
@@ -83,28 +86,28 @@ Do not collapse these statuses.
    - risks of repetition, premature resolution, or contradiction.
    A clever beat that creates downstream nonsense is not free.
 
-9. **Prefer connective development over isolated cleverness.**
+10. **Prefer connective development over isolated cleverness.**
    Strong beats should arise from or alter what surrounds them. Where appropriate, make earlier details change the meaning of later details, create callbacks, expose character through action, and let consequences carry forward. Do not require every beat to be profound.
 
-10. **Protect organic development.**
+11. **Protect organic development.**
     Do not force a predetermined destination merely because a long-term possibility exists. Planned arcs may guide opportunity and setup without requiring premature milestones. Allow accumulated character experience and Jim's decisions to determine timing and exact form.
 
-11. **Check reciprocity and independent character life.**
+12. **Check reciprocity and independent character life.**
     In relationship/group stories, avoid using one character solely as a mechanism for another's arc. Ask what materially involved characters want, risk, receive, misunderstand, contribute, or change. Do not collapse a group into an ensemble reaction when individual responses matter.
 
-12. **Check repetition and progression.**
+13. **Check repetition and progression.**
     Do not repeatedly rediscover the same realization, replay the same emotional function, or reset relationship/competence/confidence between scenes. If a motif recurs, its meaning or consequence should normally evolve.
 
-13. **Distinguish implementation from consequential choice.**
+14. **Distinguish implementation from consequential choice.**
     Routine implementation of an approved decision may be developed without re-asking Jim. If selection among genuinely different plausible options would establish new consequential canon, relationship direction, identity development, world binding, major pacing, or other authorial choice, present the actual choice to Jim.
 
-14. **Preserve before evaluation can erase.**
+15. **Preserve before evaluation can erase.**
     Useful alternatives, implications, rabbit holes, rejected/deferred paths, and reasoning should survive in the appropriate development/ideas record when persistence is authorized. Preservation does not approve or canonize them.
 
-15. **Produce a development handoff, not prose by default.**
+16. **Produce a development handoff, not prose by default.**
     Supply the selected/approved scene or story structure, constraints, character-state assumptions, unresolved choices, and stopping point to Write Fiction. Do not silently draft finished narrative unless requested.
 
-16. **Propagate only after establishment.**
+17. **Propagate only after establishment.**
     Approved future plans go to the outline/development records with correct status. Occurred events only become continuity/current-state/character-state facts after they actually occur or Jim explicitly establishes them as current truth. Use Track State and Persist for durable authorized updates.
 
 ## Output contract
