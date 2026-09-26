@@ -200,11 +200,19 @@ The comparison has two distinct jobs:
 
 Judge consequentiality by the **state cascade the invention entails**, not by how small or funny the sentence sounds. A throwaway line that creates a named ex, a prior relationship, shared history, chronology, and possible future continuity is state-creating even if it functions as a joke.
 
-Before delivery:
-- self-edit weak, clunky, continuity-hostile, or unnecessary emergent inventions rather than making Jim quality-control every generated idea;
-- preserve worthwhile emergent material in candidate prose when it does not contradict the agreement;
-- identify each surviving state-creating proposal specifically enough for Jim to understand the actual new assertions and their material implications; do not hide several invented facts under a summary label;
-- never let emergent material silently overwrite, replace, or resolve an established decision or an intentionally open consequential choice.
+After the first candidate is safely preserved, complete the comparison **without silently repairing the candidate**. Then report the material findings to Jim and discuss them before rewriting.
+
+The review report must expose:
+- each materially missed, weakened, replaced, contradicted, or accidentally deferred agreed beat or scene function;
+- each material state-creating proposal introduced by the prose, stated specifically enough to show the actual assertions and state cascade rather than hiding several inventions under a summary label;
+- any emergent material that appears weak, clunky, continuity-hostile, reader-hostile, or unnecessary, together with the reason;
+- any genuine conflict or choice exposed by the draft.
+
+Do not silently fix even an obvious agreement miss before this discussion. The first candidate is evidence of what the drafting pass actually did, and Jim may want to evaluate the miss, the emergent alternative, or the process failure before choosing the rewrite.
+
+After Jim responds, rewrite according to the resulting decisions. Restoring an already-agreed beat does not require Jim to re-approve the underlying old decision, but the **rewrite itself waits until after the review discussion** so the analysis is not hidden by automatic repair.
+
+Do not make Jim quality-control every trivial wording choice or harmless scene-realization detail. Report material issues and state-creating proposals, not ordinary prose implementation.
 
 Candidate prose may contain state-creating proposals, but candidate persistence does not canonize them. Jim's approval of the prose establishes the accepted manuscript; only then may accepted consequences propagate through Track State/Persist.
 
