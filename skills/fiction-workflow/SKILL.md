@@ -186,6 +186,30 @@ The orchestrator may invoke several; it must not duplicate their internal proced
 13. **Audit at the appropriate boundary.**
     Use source-fidelity/scene audit for prose; conformance audit for broader repository/workflow claims. Audit does not silently repair.
 
+## Draft fidelity and emergent-material review
+
+For substantial prose, the orchestrator must compare the completed draft against the authoritative development handoff before delivery.
+
+The comparison has two distinct jobs:
+
+1. **Protect the agreement.** Account for every materially selected/approved beat, contrast, callback, scene function, constraint, and stopping condition. If the draft omitted, weakened, replaced, contradicted, or accidentally deferred agreed material, repair the draft before delivery. Do not ask Jim to re-approve restoration of something already agreed.
+
+2. **Protect Jim's authorship without strangling creative drafting.** Writing may generate material beyond the handoff. Do not treat all emergent material as an error. Evaluate it editorially and distinguish:
+   - **scene realization** — wording, dialogue phrasing, gestures, reactions, micro-actions, sensory detail, ordinary physical transitions, and jokes that create no meaningful durable-state obligations;
+   - **state-creating proposal** — an invention that creates or materially changes durable story state, including a named person, biography, past event, relationship or sexual/romantic history, chronology, character-relative knowledge, future commitment, possession/resource, location/world fact, identity conclusion, causal setup, or other fact that future work would need to remember.
+
+Judge consequentiality by the **state cascade the invention entails**, not by how small or funny the sentence sounds. A throwaway line that creates a named ex, a prior relationship, shared history, chronology, and possible future continuity is state-creating even if it functions as a joke.
+
+Before delivery:
+- self-edit weak, clunky, continuity-hostile, or unnecessary emergent inventions rather than making Jim quality-control every generated idea;
+- preserve worthwhile emergent material in candidate prose when it does not contradict the agreement;
+- identify each surviving state-creating proposal specifically enough for Jim to understand the actual new assertions and their material implications; do not hide several invented facts under a summary label;
+- never let emergent material silently overwrite, replace, or resolve an established decision or an intentionally open consequential choice.
+
+Candidate prose may contain state-creating proposals, but candidate persistence does not canonize them. Jim's approval of the prose establishes the accepted manuscript; only then may accepted consequences propagate through Track State/Persist.
+
+This review is not satisfied by proving that sources were retrieved. It must compare the actual prose to the actual agreement and inspect the durable-state footprint of emergent material.
+
 ## Stop conditions
 
 Stop and surface the actual blocker when:
