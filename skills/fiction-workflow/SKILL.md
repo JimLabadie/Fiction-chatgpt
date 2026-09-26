@@ -31,7 +31,7 @@ For substantive fiction work:
 
 1. Retrieve the current live project bootstrap/operating contract.
 2. Retrieve the current module router.
-3. Resolve the active story or determine that the task is story-agnostic/framework-level.
+3. Resolve the active story or determine that the task is story-agnostic/framework-level. Once an existing story is identified, prefer its maintained README/index/navigation to discover standard lifecycle records; use semantic/repository search for genuinely unknown resources rather than treating search misses as absence.
 4. Respect the active-story namespace firewall.
 5. Retrieve authoritative story-local records and all router-triggered System Bible modules relevant to the requested job.
 6. Do not substitute memory, summaries, previously loaded fragments, or another story's material when live authority is available.
