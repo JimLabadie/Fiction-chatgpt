@@ -162,25 +162,28 @@ The orchestrator may invoke several; it must not duplicate their internal proced
 5. **Character simulation before story selection when character agency matters.**
    Develop Story may create situations but may not dictate character behavior.
 
-6. **Story development before prose when consequential scene direction remains open.**
+6. **Planning must expose its temporal frame.**
+   During scene/chapter planning, require Develop Story to show **Current story time**. Before treating that planning unit as complete, require an explicit **Ending story time** decision at supported precision. If the endpoint matters and remains open, it is a planning blocker rather than something prose or the next session may silently infer.
+
+7. **Story development before prose when consequential scene direction remains open.**
    Write Fiction cannot use prose momentum to decide unresolved authorial choices.
 
-7. **Writing before occurred-state propagation.**
+8. **Writing before occurred-state propagation.**
    A planned event is not an occurred event. Candidate prose is not approved manuscript.
 
-8. **Approval before approved-manuscript promotion and occurred-state updates.**
+9. **Approval before approved-manuscript promotion and occurred-state updates.**
    Candidate preservation and approval are separate.
 
-9. **Track State before Persist when an accepted event changes mutable records.**
+10. **Track State before Persist when an accepted event changes mutable records.**
    Track State defines the supported delta; Persist makes it durable.
 
-10. **Persist before claiming durability.**
+11. **Persist before claiming durability.**
     A chat acknowledgement, intended file, commit response without read-back, or audit mention is insufficient.
 
-11. **Narrative progression does not manufacture elapsed time.**
+12. **Narrative progression does not manufacture elapsed time.**
     A next chapter, scene break, location change, or "later" instruction does not by itself mean next day. Temporal advancement must come from authoritative continuity, explicit development, occurred prose after approval, or Jim's decision. When exact clock time is unknown, preserve the known relative anchor instead of inventing precision.
 
-12. **Audit at the appropriate boundary.**
+13. **Audit at the appropriate boundary.**
     Use source-fidelity/scene audit for prose; conformance audit for broader repository/workflow claims. Audit does not silently repair.
 
 ## Stop conditions
