@@ -32,9 +32,10 @@ For substantive fiction work:
 1. Retrieve the current live project bootstrap/operating contract.
 2. Retrieve the current module router.
 3. Resolve the active story or determine that the task is story-agnostic/framework-level. Once an existing story is identified, prefer its maintained README/index/navigation to discover standard lifecycle records; use semantic/repository search for genuinely unknown resources rather than treating search misses as absence.
-4. Respect the active-story namespace firewall.
-5. Retrieve authoritative story-local records and all router-triggered System Bible modules relevant to the requested job.
-6. Do not substitute memory, summaries, previously loaded fragments, or another story's material when live authority is available.
+4. Resolve the current temporal frontier at the precision supported by story authority: current story-relative day/date if known, daypart/time if known, and sequence relative to the last anchored event. Do not infer a new day from a new chapter/scene.
+5. Respect the active-story namespace firewall.
+6. Retrieve authoritative story-local records and all router-triggered System Bible modules relevant to the requested job.
+7. Do not substitute memory, summaries, previously loaded fragments, or another story's material when live authority is available.
 
 Jim should not need to know filenames, skill names, module numbers, lifecycle commands, or persistence mechanics.
 
@@ -176,7 +177,10 @@ The orchestrator may invoke several; it must not duplicate their internal proced
 10. **Persist before claiming durability.**
     A chat acknowledgement, intended file, commit response without read-back, or audit mention is insufficient.
 
-11. **Audit at the appropriate boundary.**
+11. **Narrative progression does not manufacture elapsed time.**
+    A next chapter, scene break, location change, or "later" instruction does not by itself mean next day. Temporal advancement must come from authoritative continuity, explicit development, occurred prose after approval, or Jim's decision. When exact clock time is unknown, preserve the known relative anchor instead of inventing precision.
+
+12. **Audit at the appropriate boundary.**
     Use source-fidelity/scene audit for prose; conformance audit for broader repository/workflow claims. Audit does not silently repair.
 
 ## Stop conditions
