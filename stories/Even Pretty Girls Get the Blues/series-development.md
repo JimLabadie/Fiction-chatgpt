@@ -750,12 +750,12 @@ Use this as a development reference for Steve’s current look and presence. Pre
 **Current story time:** Friday, after the Halloway Park picnic. Exact clock time remains unresolved and must be chosen before this planning unit is complete.
 
 - After the picnic, Jim and Kate decide to continue the evening at **Blush**.
-- They stop at **Kate's place before Blush** because Kate wants to change into a club-oriented Blush look. Jim does **not** change; his established Friday futch outfit has become his **"lucky outfit."**
+- They stop at **Kate's place before Blush** because Kate wants to change into a club-oriented Blush look. Jim does **not** change; his established Friday futch outfit has become his **"lucky outfit."** Kate's approved direction is an **LBD (little black dress)** plus a full going-out glow-up, with the getting-ready ritual itself carrying active flirting with Jim. She finishes the look with a deliberately provocative pair of **Manolo Blahnik heels**. The exact real-world Blahnik model is not yet selected; do not invent one during prose.
 - They use **Kate's vehicle** for the trip to Blush and subsequent return to her home.
 - Jim wants to be included in Kate's getting-ready ritual but is unsure of the etiquette and lingers rather than confidently inviting himself into the private ritual.
 - Kate catches the lingering. It fits her existing private hypothesis/observations about Jim's gender without authorizing her to diagnose him. She warmly invites him into the getting-ready ritual and **flirts with him** while including him.
 - At Blush, Kate socially leads. The community sincerely reads and embraces Jim and Kate as a **lesbian couple**; no one there except Kate knows Jim is male.
-- During the Blush sequence, ordinary community treatment and the word **dating** name a relationship reality already made obvious by Friday. Kate stops hiding behind the "not dating" technicality, acknowledges that she is there, and asks Jim whether he is there too. Jim's exact response remains unresolved; do not let later planned beats silently choose his wording.
+- During the Blush sequence, **Susan, a close friend of Kate's**, naturally uses the word **dating** for Jim and Kate, naming a relationship reality already made obvious by Friday. Susan is to be developed in the next planning step; do not invent durable character details for her in prose before that development. Kate stops hiding behind the "not dating" technicality, acknowledges that she is there, and asks Jim whether he is there too. Jim briefly teases Kate by looking as though he is going to say no; he cannot sustain the fake-out, breaks, and answers **"Hell yes."** Kate then gives him hell for making her think otherwise for even that moment. The beat is playful and affectionate, not cruel.
 - **Only after the dating label has been spoken and mutually accepted**, Jim asks Kate to dance. This is Jim and Kate's **first dance** in the current approved continuity.
 - Jim initiates the dance and then asks Kate whether she is comfortable **leading**. Kate agrees. The sequence preserves reciprocal agency: Kate initiates the relationship question; Jim chooses his answer and initiates the dance; Kate chooses to accept; Jim explicitly asks her to lead; Kate chooses to lead.
 - The first attempts are **awkward and error-filled because both are nervous and the moment suddenly matters**, not because either is inherently incapable. Jim may anticipate rather than follow; Kate may overcorrect; they can step wrong or collide and laugh through the mistakes.
@@ -763,7 +763,7 @@ Use this as a development reference for Steve’s current look and presence. Pre
 - The dance is a physical expression of the relationship they have just named, not the event that creates the relationship.
 - The Blush sequence should let Jim experience effortless belonging rather than a reveal/test. Kate alone holds the knowledge that the community assumes Jim is a woman.
 - After Blush, Kate drives them back to her home.
-- **Planned Friday endpoint:** Friday night at Kate's door. A first kiss there is the recommended/desired endpoint under discussion; do not promote the kiss as approved until Jim explicitly settles it.
+- **Approved Friday endpoint:** Friday night at Kate's door, where Jim and Kate share their **first kiss**. The kiss is **tender and loving**, not performative, comic, rushed, or sexually aggressive. It follows the relationship acknowledgement and first dance as the private physical culmination of Friday's progression.
 - Do not continue inside Kate's home or into Saturday merely because the scene can continue.
 
 **Ending story time:** Friday night at Kate's door. Exact clock time remains unresolved and must be decided before planning is complete.
