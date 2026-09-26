@@ -755,15 +755,29 @@ Use this as a development reference for Steve’s current look and presence. Pre
 - Jim wants to be included in Kate's getting-ready ritual but is unsure of the etiquette and lingers rather than confidently inviting himself into the private ritual.
 - Kate catches the lingering. It fits her existing private hypothesis/observations about Jim's gender without authorizing her to diagnose him. She warmly invites him into the getting-ready ritual and **flirts with him** while including him.
 - At Blush, Kate socially leads. The community sincerely reads and embraces Jim and Kate as a **lesbian couple**; no one there except Kate knows Jim is male.
-- Jim and Kate **dance**, with Kate leading as established by Jim for their prior Blush dynamic. Friday's dance is intended as a callback/progression: the physical grammar is familiar, but as a couple the dance is more intimate and Jim actively reciprocates the closeness.
-- **Continuity reconciliation pin:** Jim states that Jim and Kate danced in Chapter 1. The current approved Chapter 1 file retrieved during this planning pass does not contain that dance and ends at the bar after Jim asks about Kate's heels; the approved Chapter 2 file also does not contain it. Preserve Jim's statement and do not silently rewrite approved manuscript. Reconcile the missing earlier dance before prose relies on exact Chapter 1 dance details.
-- During the Blush sequence, ordinary community treatment and the word **dating** name a relationship reality already made obvious by Friday. Kate stops hiding behind the "not dating" technicality, acknowledges that she is there, and asks Jim whether he is there too. Jim's exact response remains to be resolved.
+- During the Blush sequence, ordinary community treatment and the word **dating** name a relationship reality already made obvious by Friday. Kate stops hiding behind the "not dating" technicality, acknowledges that she is there, and asks Jim whether he is there too. Jim's exact response remains unresolved; do not let later planned beats silently choose his wording.
+- **Only after the dating label has been spoken and mutually accepted**, Jim asks Kate to dance. This is Jim and Kate's **first dance** in the current approved continuity.
+- Jim initiates the dance and then asks Kate whether she is comfortable **leading**. Kate agrees. The sequence preserves reciprocal agency: Kate initiates the relationship question; Jim chooses his answer and initiates the dance; Kate chooses to accept; Jim explicitly asks her to lead; Kate chooses to lead.
+- The first attempts are **awkward and error-filled because both are nervous and the moment suddenly matters**, not because either is inherently incapable. Jim may anticipate rather than follow; Kate may overcorrect; they can step wrong or collide and laugh through the mistakes.
+- Then the dance **clicks**. Jim settles into trusting Kate's lead; Kate stops over-managing the movement; their physical communication becomes fluid. The instructional quality falls away and the dance becomes naturally intimate. Jim actively reciprocates the closeness.
+- The dance is a physical expression of the relationship they have just named, not the event that creates the relationship.
 - The Blush sequence should let Jim experience effortless belonging rather than a reveal/test. Kate alone holds the knowledge that the community assumes Jim is a woman.
 - After Blush, Kate drives them back to her home.
 - **Planned Friday endpoint:** Friday night at Kate's door. A first kiss there is the recommended/desired endpoint under discussion; do not promote the kiss as approved until Jim explicitly settles it.
 - Do not continue inside Kate's home or into Saturday merely because the scene can continue.
 
 **Ending story time:** Friday night at Kate's door. Exact clock time remains unresolved and must be decided before planning is complete.
+
+### Relationship leadership principle — approved
+
+Kate is the more natural/default leader in Jim and Kate's relationship, especially socially. Jim is comfortable with and genuinely likes Kate leading much of the time. This is **not hierarchy, authority over Jim, or a requirement that Kate always lead**.
+
+Leadership between them is situational and consensual rather than competitive:
+- Kate can take initiative without Jim needing to counterbalance her merely to prove equality.
+- Jim remains fully agentic and will assert leadership naturally when he wants to, when something matters to him, or when the situation falls within his strengths.
+- Kate makes room for Jim's leadership rather than experiencing it as a challenge to her role.
+- Equality does not require a mechanical fifty-fifty split of initiative in every scene. It requires both partners' agency to remain intact and initiative to move between them without becoming a contest.
+- Friday's first dance demonstrates the principle in miniature: Kate asks the relationship question; Jim chooses whether to reciprocate; Jim asks Kate to dance; Kate chooses whether to accept; Jim asks Kate to lead; Kate chooses to lead; Jim then trusts and actively participates in that lead.
 
 ### Active stopping point
 Develop how the community's easy acceptance of them as a lesbian couple lands on Jim and Kate, then Jim's response to Kate asking whether he is there too, plus the immediate emotional/comedic consequences at Blush. Do not silently choose his answer merely because Kate has accepted the dating term.
