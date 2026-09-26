@@ -747,7 +747,7 @@ Use this as a development reference for Steve’s current look and presence. Pre
 
 ### Friday night planning checkpoint — approved development
 
-**Current story time:** Friday, after the Halloway Park picnic. Exact clock time remains unresolved and must be chosen before this planning unit is complete.
+**Current story time:** Friday, after the Halloway Park picnic, moving from later-day activity into the evening. Exact clock time is intentionally unspecified; planning should preserve a plausible Friday flow rather than manufacture a timestamp.
 
 - After the picnic, Jim and Kate decide to continue the evening at **Blush**.
 - They stop at **Kate's place before Blush** because Kate wants to change into a club-oriented Blush look. Jim does **not** change; his established Friday futch outfit has become his **"lucky outfit."** Kate's approved direction is an **LBD (little black dress)** plus a full going-out glow-up, with the getting-ready ritual itself carrying active flirting with Jim. She finishes the look with **black-suede Manolo Blahnik BB 105 pumps**. The shoes are deliberately part of Kate's flirtation and carry a message to Jim: the choice is intentional, sexy, and meant to be noticed by him rather than merely generic club dressing.
@@ -763,10 +763,10 @@ Use this as a development reference for Steve’s current look and presence. Pre
 - The dance is a physical expression of the relationship they have just named, not the event that creates the relationship.
 - The Blush sequence should let Jim experience effortless belonging rather than a reveal/test. Kate alone holds the knowledge that the community assumes Jim is a woman.
 - After Blush, Kate drives them back to her home.
-- **Approved Friday endpoint:** **11:00 PM Friday** at Kate's door, where Jim and Kate share their **first kiss**. The kiss is **tender and loving**, not performative, comic, rushed, or sexually aggressive. It follows the relationship acknowledgement and first dance as the private physical culmination of Friday's progression.
+- **Approved Friday endpoint:** **late Friday evening** at Kate's door, where Jim and Kate share their **first kiss**. The evening should feel comfortably late after meaningful time at Blush, but not extremely late; an earlier shorthand estimate of 11:00 PM was a plausibility reference, **not canon**. The kiss is **tender and loving**, not performative, comic, rushed, or sexually aggressive. It follows the relationship acknowledgement and first dance as the private physical culmination of Friday's progression.
 - Do not continue inside Kate's home or into Saturday merely because the scene can continue.
 
-**Ending story time:** **11:00 PM Friday**, at Kate's door, ending with Jim and Kate's first kiss.
+**Ending story time:** **late Friday evening**, at Kate's door, ending with Jim and Kate's first kiss. Exact clock time is intentionally unspecified.
 
 ### Future Susan/Kate conversation — PINNED, not Friday planning
 
