@@ -733,3 +733,16 @@ When Kate arrives Friday in the deliberately purchased bodycon dress and **Loubo
 Jim identified Marie Ulven’s presentation in girl in red’s **“we fell in love in october”** video as the current visual touchstone for **Steve’s futch presentation** in *Even Pretty Girls Get the Blues*. The reference is to the overall visual language rather than a requirement to copy a specific outfit: relaxed, lived-in masculine/androgynous lesbian presentation while remaining unmistakably a woman, with the clothes feeling naturally hers rather than like a costume labeled masculine.
 
 Use this as a development reference for Steve’s current look and presence. Preserve the story’s existing futch-development logic and let specific garments remain story-local choices unless Jim establishes them separately. The useful quality is the effortless, inhabited balance of masculine and feminine signals—not imitation of Marie Ulven as a person or a frame-by-frame recreation of the music-video wardrobe.
+
+
+## Saturday at Blush — active WIP checkpoint
+**Status: JIM-APPROVED DEVELOPMENT; ACTIVE WIP.**
+
+- The chapter after the approved Friday daytime development begins at **Blush**.
+- During the Blush sequence, someone from the community naturally refers to Jim and Kate as **dating**. The speaker is not diagnosing Jim's identity or forcing a label onto him; "dating" is used as the ordinary relationship term for what the two of them visibly appear to be doing.
+- The moment finally breaks Kate's increasingly untenable "not dating" defense. Kate **surrenders to the obvious** and accepts that she is dating Jim rather than continuing to hide behind the running technicality.
+- Kate does **not** decide Jim's relationship status for him. After acknowledging where she is, she asks Jim whether **he is there too**. Jim's answer and the exact wording/scene mechanics remain unresolved active development.
+- Preserve the distinction between relationship recognition and identity recognition: this beat may establish that Kate and Jim are dating if Jim reciprocates, but it does not by itself settle Jim/Emily's gender identity, labels, or presentation trajectory.
+
+### Active stopping point
+Develop Jim's response to Kate asking whether he is there too, plus the immediate emotional/comedic consequences at Blush. Do not silently choose his answer merely because Kate has accepted the dating term.
