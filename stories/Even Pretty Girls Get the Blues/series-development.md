@@ -7,6 +7,25 @@ The story is deliberately warm, organic, playful, flirtatious, sapphic, and emot
 
 Jim has specifically established that the less-structured quality is desirable and that this may be a story worth spending substantial time with. The repository should preserve detail and continuity without turning persistence into plot control.
 
+## House voice — governing craft direction
+
+This story's voice is established by Jim's durable direction **and by the approved manuscript itself**. The approved chapters are primary evidence for how *Even Pretty Girls Get the Blues* actually sounds; generic fiction-style guidance must not flatten or overwrite the voice demonstrated on the page.
+
+Preserve these craft effects:
+- Warm, funny, affectionate sapphic romantic-comedy sensibility with genuine lesbian cultural fluency rather than generic romance wearing labels.
+- Emotionally sincere without becoming solemn. Humor may interrupt vulnerability, but must not invalidate it.
+- Character-close, conversational narration that notices the absurd little human detail: clothes, shoes, glances, rituals, objects, physical awkwardness, social assumptions, and the tiny negotiations by which intimacy develops.
+- Dialogue should feel lived-in, quick, teasing, and character-specific. Banter is often courtship, recognition, defense, or affection doing two jobs at once.
+- Let scenes breathe. Experiential completeness matters more than efficient plot summary: getting ready, traveling, choosing, noticing, touching objects, occupying rooms, and aftermath may be story rather than filler when they carry character experience.
+- Sapphic texture belongs naturally in attraction, community, humor, femme/butch recognition, friendship, and social reading. Do not sanitize it into generic gender-neutral romance, and do not reduce individual characters to stereotypes.
+- Tenderness and ridiculousness are allowed to coexist. A scene can be deeply romantic and still contain a joke about Tupperware, shoes, zoning commissioners, or two competent adults becoming idiots because the moment matters.
+- Preserve dignity. No humiliation, degradation, or cruelty masquerading as comedy.
+- Jim's identity development remains self-owned. Other characters may notice, wonder, misread, correctly read, or hold hypotheses according to their established knowledge, but narration and dialogue must respect character-relative knowledge and may not use another character to settle Jim's identity prematurely.
+- Do not turn established emotional dynamics into mechanical formulas. Kate may naturally lead without hierarchy; Jim may follow without passivity; equality is preserved through agency, not forced 50/50 symmetry.
+- Avoid sterile explanatory or project-management prose in the manuscript. Theme should emerge through scene experience, behavior, dialogue, and concrete detail rather than sounding like a development memo.
+
+Before drafting new prose, reacquire the house voice from a representative sample of approved chapters, including recent material and earlier material where useful. As more chapters are approved, their demonstrated rhythm, humor, emotional distance, dialogue texture, scene density, and narrative habits become increasingly authoritative evidence for this story's voice.
+
 ## Central developed dynamic
 Jim Caldwell and Kate Rivera are in some ways inverse mirrors:
 - Jim naturally looks notably feminine and has learned to overcompensate toward an ordinary masculine presentation because he is often misgendered.
