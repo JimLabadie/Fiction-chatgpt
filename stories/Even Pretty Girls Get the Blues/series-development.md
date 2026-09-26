@@ -839,7 +839,7 @@ The durable core of **The Incident** is now more specific:
 - Susan talks about Mandy during the private Kate/Susan conversation, allowing Susan to have her own romantic life rather than functioning only as Kate's advice mechanism.
 - Susan's discussion of Mandy can provide a natural contrast: Susan can describe an uncomplicated current attraction while Kate is dealing with an unusually complicated one.
 - Mandy is also connected to the later dinner material where The Incident can be more fully embellished.
-- **Later-dinner participant composition is currently unresolved in the durable record.** Do not invent whether Jim attends. Preserve that as a reconciliation question rather than converting an old possibility or current assumption into canon.
+- **Recovered scene composition from Jim's recollection of the lost planning:** the later dinner includes **Susan + Mandy + Kate + Jim**. This is recovery evidence supplied by Jim after the older durable record, which had left participants unresolved; do not let that stale older uncertainty overwrite the recovered composition. The Incident is embellished at this four-person dinner.
 
 ### Susan Smith — approved character development
 
