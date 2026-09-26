@@ -768,6 +768,23 @@ Use this as a development reference for Steve’s current look and presence. Pre
 
 **Ending story time:** **11:00 PM Friday**, at Kate's door, ending with Jim and Kate's first kiss.
 
+### Susan Smith — approved character development
+
+- **Susan Smith** is the same age as Kate and one of Kate's closest long-term friends.
+- Susan and Kate met **freshman year of college** and **pledged the same sorority together**. Their friendship dates from that shared freshman/sorority experience.
+- Susan and Kate **dated exactly once**. The attempt is now affectionately referred to by both women as **"The Incident."**
+- The Incident was **not** a bad date caused by either woman doing anything wrong, nor is it hidden trauma, humiliation, resentment, or unresolved romantic history. They already cared deeply about one another, tried directing that connection toward romance, and discovered that **it simply did not click romantically**.
+- Rather than damaging the relationship, The Incident clarified what they were to each other and they grew **closer as friends** afterward. Their ability to joke about it comes from safety and affection, not from minimizing hurt.
+- Susan is **femme**, but warmer and less polished/curated than Kate. Her femininity is comfortable and natural rather than requiring Kate's degree of deliberate finish.
+- Susan works as a **marketing VP**. The specific company/employer remains unresolved and should not be invented as durable canon until developed.
+- Susan is, in an important but non-literal sense, a **female Jim**: she and Jim share tastes, sensibilities, warmth, and ways of noticing or enjoying feminine/aesthetic things. This does **not** make their personalities identical or make Susan and Jim interchangeable.
+- In particular, Susan's similarities to Jim must never be used to imply that Kate therefore should have been romantically compatible with Susan. Susan and Kate's failed romantic click and Kate and Jim's successful chemistry coexist without contradiction; attraction is not a trait equation.
+- Susan and Jim should be allowed to form a friendship **independent of Kate**. Once Jim's egg cracks, Susan can become a natural feminine mentor because their tastes overlap and she can give him practical/cultural vocabulary for things he already discovers he likes. She is **not** responsible for teaching Jim who he is or defining his gender for him.
+- Susan's mentoring value also comes from being a feminine model who is **not Kate**: Jim can discover that being femme does not require becoming Kate Rivera, and Susan can be a safer person for questions that might feel emotionally loaded with his girlfriend.
+- Susan has known Kate long enough to recognize the difference between Kate's ordinary affection/friendship behavior and genuine romantic investment. On Friday at Blush, however, Susan is **not matchmaking or staging an intervention**. She sincerely reads Jim and Kate as already dating and uses the word naturally because, from her perspective, it is obvious.
+- At Friday's Blush scene, Susan does **not** know Jim is male. Her reading of Jim and Kate as a lesbian couple is sincere and shares the surrounding community's understanding.
+- **The Incident's exact events remain intentionally undeveloped.** Preserve it as affectionate shared lore until a later scene gives a reason to reveal more; do not invent embarrassing, sexual, traumatic, or blame-bearing details merely to explain why the romance did not click.
+
 ### Relationship leadership principle — approved
 
 Kate is the more natural/default leader in Jim and Kate's relationship, especially socially. Jim is comfortable with and genuinely likes Kate leading much of the time. This is **not hierarchy, authority over Jim, or a requirement that Kate always lead**.
