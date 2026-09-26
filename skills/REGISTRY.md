@@ -1,0 +1,42 @@
+# Prototype Skill Registry
+
+Status: PROTOTYPE — NON-GOVERNING
+Scope: Integrated procedural skill set. This registry routes responsibilities; it does not replace each skill's contract or project governance.
+
+| Skill | Trigger / question | Owns | Does not own | Primary handoffs |
+|---|---|---|---|---|
+| Recover | What existed, was said, was lost, or is represented in surviving evidence? | systematic evidence recovery, provenance, coverage, historical version discovery | deciding discretionary canon; ordinary current-canon retrieval; repair | Reconcile, Persist |
+| Reconcile | Competing claims or records disagree or overlap; what do authority/scope/chronology actually settle? | claim comparison, authority/scope disposition, explicit unresolved-decision boundary | evidence-universe discovery; new canon synthesis; writing changes | Recover, Persist, Jim |
+| Persist | An authorized state/decision must become durable; can durability be proven? | authoritative destination write, dependent propagation, post-write fetch/substantive verification | canon promotion authority; conflict resolution; unrelated cleanup | Reconcile, Track State, Audit |
+| Audit | Does a bounded target satisfy stated requirements, and what proof supports that? | audit contract, proof-type selection, systematic inspection, findings, coverage receipt | silent repair, historical reconstruction, canon promotion | Recover, Reconcile, Persist, owning skill |
+| Transform | What exactly changed, and which consequences are entailed? | transformation/change envelope and consequence propagation | inventing mechanics; automatically granting competence/context/presentation/state persistence | Inhabit, Contextualize, Present, Track State |
+| Track State | What established mutable state changed? | smallest supported state delta and cross-tracker consistency | deciding what happened; resolving authoritative conflicts; proving repository durability | Reconcile, Persist |
+| Inhabit | How can this specific character perform/live an unfamiliar circumstance given actual competence? | competence gap, learning/performance, elapsed adaptation | demographic destiny; automatic skill transfer; general culture ownership | Contextualize, Track State, Jim |
+| Contextualize | Which contextual knowledge materially applies to this individual/situation? | relevance and interpretation of culture/generation/community/etc. | individual canon, stereotype-driven choices, final character decision | Inhabit, Present, character simulation/Jim |
+| Present | How does this character coherently present right now? | current composition from canon, resources, context, competence, constraints | underlying identity/body/culture/wardrobe ownership; prose style; silent acquisition | Contextualize, Inhabit, Transform, Track State, Persist |
+
+## Core routing invariants
+
+1. Governance remains above every skill.
+2. Knowledge/data describe; skills operate on them.
+3. Recover establishes evidence before Reconcile when provenance/coverage is inadequate.
+4. Reconcile resolves only what authority/scope/chronology already determine; genuine authorial choices remain Jim's.
+5. Operational skills never manufacture missing canon to finish a task.
+6. Transform owns what changed; Inhabit owns competence; Contextualize owns contextual applicability; Present owns current presentation composition.
+7. Track State records established mutable consequences; it does not invent the event.
+8. Persist owns durability proof; no other skill may call a chat-only or unverified write persisted.
+9. Audit diagnoses against an explicit contract; it does not silently become repair.
+10. Scene-local generated choices do not become durable canon merely because an operational skill produced them.
+
+## Known interface gaps
+
+- No dedicated character-simulation skill yet owns the final character choice among multiple canon-consistent possibilities.
+- No story-development skill yet owns beat/arc/scene-development decisions.
+- No fiction-writing skill yet owns prose realization.
+- No orchestration skill yet owns end-to-end fiction workflow selection.
+- No standalone research/verification skill has yet been extracted for current real-world factual precision.
+- The current prototype branches remain non-governing until explicitly promoted.
+
+## Integration status
+
+The nine skill files were copied unchanged from their isolated prototype branches into the integration branch and fetch-verified before this registry was created. Interface testing may justify later edits, but such edits must be explicit and separately verified.
