@@ -227,7 +227,7 @@ Checkpointed: 2026-09-13
 
 Sex occurs in the world, but mechanics-first erotica is not the project's purpose. Jim describes it as hollow-calorie candy and prefers the gaze he associates with “female porn”: desire, anticipation, emotion, love, care, partnership, trust, vulnerability, play, and aftermath rather than an anatomical transcript. This is Jim's personal shorthand, not a universal claim about women.
 
-**Story is queen.** Ordinary happy sex may be summarized through an amazing night and happy exhaustion. When an encounter develops a particular character or relationship, the narrative may remain with the experience in beautiful emotional detail. There is no mandatory heat level and no mandatory fade-to-black rule.
+**Story is queen. NEVER SUMMARIZE.** When an encounter develops a particular character or relationship, the narrative may remain with the experience in beautiful emotional detail. There is no mandatory heat level and no mandatory fade-to-black rule.
 
 Kink is primarily relationship language: trust, play, negotiated vulnerability, structure, surrender, care, emotional permission, and being known. Submission does not erase agency; dominance does not imply cruelty; consent remains controlling without requiring compliance-manual prose. Preferences do not require invented trauma origins and may also exist because the adults involved enjoy them.
 
