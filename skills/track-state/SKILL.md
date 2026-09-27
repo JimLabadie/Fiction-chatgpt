@@ -1,6 +1,6 @@
 # Track State
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Keep mutable project/story state synchronized with established events and elapsed time.
 
 ## Use when
