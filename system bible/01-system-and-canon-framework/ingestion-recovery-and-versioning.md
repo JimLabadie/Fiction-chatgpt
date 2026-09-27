@@ -102,4 +102,4 @@ Progress reports use only these states:
 - **Reconstructed pending verification:** content written, coverage check incomplete.
 - **Complete:** all completion criteria above passed and remote publication verified.
 
-Never call a summary a complete reconstruction. Never report a local commit as published when the remote push failed.
+**NEVER SUMMARIZE.** Never report a local commit as published when the remote push failed.
