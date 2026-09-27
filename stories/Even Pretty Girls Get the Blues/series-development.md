@@ -841,6 +841,14 @@ The durable core of **The Incident** is now more specific:
 - Mandy is also connected to the later dinner material where The Incident can be more fully embellished.
 - **Recovered scene composition from Jim's recollection of the lost planning:** the later dinner includes **Susan + Mandy + Kate + Jim**. This is recovery evidence supplied by Jim after the older durable record, which had left participants unresolved; do not let that stale older uncertainty overwrite the recovered composition. The Incident is embellished at this four-person dinner.
 
+### PINNED — Susan + Mandy further development
+
+Before Susan's next substantial appearance, develop and persist a reader-usable physical model for Susan so her appearance can be naturally reintroduced through a later POV rather than retrofitting approved Chapters Seven or Eight. Preserve the existing Susan character development; the missing physical definition is future development work, not permission to rewrite approved prose.
+
+Develop Mandy further before the planned Susan + Mandy + Kate + Jim dinner requires her to function as a full scene participant. Preserve already-approved Mandy material, but do not invent consequential biography, appearance, relationship history, or scene-driving traits in prose merely because the dinner needs them.
+
+Treat both items as **PINNED development**, to be raised during planning before the relevant next appearance rather than silently filled during drafting.
+
 ### Susan Smith — approved character development
 
 - **Susan Smith** is the same age as Kate and one of Kate's closest long-term friends.
