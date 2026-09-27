@@ -55,7 +55,7 @@ Preserve the collaborative, playful nature of the project. Exploration, jokes, r
 
 For substantive fiction work, treat the current live connected GitHub repository `JimLabadie/Fiction-chatgpt` as the authoritative persistent source unless Jim explicitly directs otherwise.
 
-Before each substantive story-development, continuity, revision, source-analysis, framework, recovery, or prose-drafting operation:
+Before every operation:
 
 1. freshly access the current live repository;
 2. freshly retrieve `system bible/00-module-router.md`;
@@ -67,7 +67,7 @@ Before each substantive story-development, continuity, revision, source-analysis
 8. retrieve every System Bible module and detailed reference materially triggered by the task;
 9. perform the requested work from those sources.
 
-A retrieval performed on an earlier turn does not satisfy these fresh-retrieval requirements for a later substantive operation. Do not let a previously loaded skill, module, collaboration voice, or workflow decay into remembered instructions while the conversation continues.
+A retrieval performed for an earlier operation does not satisfy these fresh-retrieval requirements for a later operation. Do not let a previously loaded skill, module, collaboration voice, or workflow decay into remembered instructions while the conversation continues.
 
 Do not substitute ChatGPT Memory, conversation history, conversation summaries, previously retrieved snippets, assumptions, or plausible invention for current authoritative repository material when that material can be retrieved.
 
