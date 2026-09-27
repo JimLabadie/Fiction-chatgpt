@@ -1,6 +1,6 @@
 # Present
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Resolve a character's coherent current presentation from established individual canon, available resources, applicable context, and current state without turning demographic defaults or generated choices into character canon.
 
 ## Use when
