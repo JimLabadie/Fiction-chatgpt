@@ -1,6 +1,6 @@
 # Reconcile
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Resolve conflicting or overlapping claims only as far as current authority, scope, chronology, and explicit decisions permit, while preserving every unresolved choice for Jim.
 
 ## Use when
