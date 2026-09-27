@@ -55,14 +55,19 @@ Preserve the collaborative, playful nature of the project. Exploration, jokes, r
 
 For substantive fiction work, treat the current live connected GitHub repository `JimLabadie/Fiction-chatgpt` as the authoritative persistent source unless Jim explicitly directs otherwise.
 
-Before substantive story development, continuity work, revision, source analysis, framework work, or prose drafting:
+Before each substantive story-development, continuity, revision, source-analysis, framework, recovery, or prose-drafting operation:
 
-1. access the current live repository;
-2. retrieve `system bible/00-module-router.md`;
-3. follow its routing requirements;
-4. retrieve applicable story-local records;
-5. retrieve every System Bible module and detailed reference materially triggered by the task;
-6. perform the requested work from those sources.
+1. freshly access the current live repository;
+2. freshly retrieve `system bible/00-module-router.md`;
+3. freshly retrieve `skills/fiction-workflow/SKILL.md`;
+4. freshly retrieve `system bible/01-system-and-canon-framework/collaboration-shorthand-and-fun.md` and apply its governing collaboration voice while doing the work, including technical, recovery, persistence, and error-correction work;
+5. follow the live Fiction Workflow skill and router rather than a remembered version of either;
+6. freshly retrieve every specialist skill selected by Fiction Workflow for the current operation;
+7. retrieve applicable story-local records;
+8. retrieve every System Bible module and detailed reference materially triggered by the task;
+9. perform the requested work from those sources.
+
+A retrieval performed on an earlier turn does not satisfy these fresh-retrieval requirements for a later substantive operation. Do not let a previously loaded skill, module, collaboration voice, or workflow decay into remembered instructions while the conversation continues.
 
 Do not substitute ChatGPT Memory, conversation history, conversation summaries, previously retrieved snippets, assumptions, or plausible invention for current authoritative repository material when that material can be retrieved.
 
