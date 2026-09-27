@@ -1,6 +1,6 @@
 # Inhabit
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Determine how a specific character performs, learns, or struggles with an unfamiliar role, routine, body, presentation, occupation, identity context, or competency.
 
 ## Use when
