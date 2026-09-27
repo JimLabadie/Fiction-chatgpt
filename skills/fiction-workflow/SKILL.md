@@ -1,6 +1,6 @@
 # Fiction Workflow
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING FICTION WORKFLOW
 Purpose: Orchestrate fiction work by selecting and sequencing the appropriate skills, repository sources, gates, persistence steps, and stopping conditions without re-implementing the specialist procedures it calls.
 
 ## Use when
