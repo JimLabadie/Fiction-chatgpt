@@ -77,6 +77,9 @@ This list is an initial verified minimum, not an assertion that no other losses 
 - Never equate a source copy, transcript, manifest, route, inventory row, or missing-work notice with completed propagation.
 - When a discussion produces accepted project state, update its controlling component before moving on unless Jim explicitly directs otherwise; if deferred, create the pin first.
 - Treat chat-context loss as expected. The repository, not ChatGPT recollection, must carry the project.
+- **Persist incrementally; do not wait for a fictional final version.** Once Jim confirms or establishes recoverable project state, write the confirmed portion to its substantive controlling destination immediately with provenance and explicit incompleteness where necessary. Later recovery may amend the same area repeatedly. The possibility of finding more detail later is not a reason to leave confirmed material in chat.
+- **Audit for thin persistence, not only missing facts or contradictions.** During recovery, cold-start, and persistence audits, flag records that preserve a conclusion or label while appearing to omit the people, experiences, examples, causal history, relationships, boundaries, exceptions, mechanisms, reasoning, or provenance that gave the conclusion its developed meaning. Report what appears thin as an audit finding even when the surviving summary is technically true.
+- A claim that an archive, migration, recovery, or cutover is complete requires evidence that the upstream evidence universe was covered; internal consistency of the migrated corpus alone is insufficient.
 
 ## Repair completion boundary
 
