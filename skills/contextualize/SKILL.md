@@ -1,6 +1,6 @@
 # Contextualize
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Apply relevant cultural, generational, regional, occupational, class, community, or social context without replacing individual canon with a stereotype.
 
 ## Use when
