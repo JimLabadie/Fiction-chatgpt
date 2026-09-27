@@ -1,6 +1,6 @@
 # Develop Story
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Develop story direction, scenes, beats, arcs, pacing, alternatives, and consequences from established canon, current state, character-consistent possibilities, and Jim's creative intent without silently turning proposals into approved plans or future plans into occurred facts.
 
 ## Use when
