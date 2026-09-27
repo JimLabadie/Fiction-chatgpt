@@ -1,6 +1,6 @@
 # Audit
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Test a defined project target against defined governing requirements and evidence, producing reproducible findings and coverage limits without silently repairing, promoting, deleting, or broadening scope.
 
 ## Use when
