@@ -166,25 +166,31 @@ The orchestrator may invoke several; it must not duplicate their internal proced
 6. **Planning must expose its temporal frame.**
    During scene/chapter planning, require Develop Story to show **Current story time**. Before treating that planning unit as complete, require an explicit **Ending story time** decision at supported precision. If the endpoint matters and remains open, it is a planning blocker rather than something prose or the next session may silently infer.
 
-7. **Story development before prose when consequential scene direction remains open.**
+7. **Pre-draft source-integrity gate.**
+   Before Write Fiction may use an assigned chapter/scene plan, audit that plan itself as a source. Confirm that it contains only material assigned to that unit; has no duplicated or competing blocks; has no material explicitly moved to another chapter/scene; has no superseded/history/reconciliation material presented as active planning; and has no unresolved migration marker or internal contradiction that would make literal compliance ambiguous. Also verify that any reusable named place, institution, business, neighborhood, or other world element invoked by the plan resolves to its live System Bible/world authority rather than being invented locally. If the plan fails this gate, **stop before prose** and surface/repair the source defect. Do not silently choose among contradictory blocks, reinterpret the plan into coherence, or omit inconvenient requirements.
+
+8. **Literal-plan fidelity after the gate.**
+   Once the assigned plan passes source integrity, Write Fiction must implement the material actually written there without silently changing, deleting, relocating, substituting, or editorially "improving" selected beats and constraints. Harmless scene-realization detail remains allowed only where it does not create durable state or alter the plan.
+
+9. **Story development before prose when consequential scene direction remains open.**
    Write Fiction cannot use prose momentum to decide unresolved authorial choices.
 
-8. **Writing before occurred-state propagation.**
+10. **Writing before occurred-state propagation.****
    A planned event is not an occurred event. Candidate prose is not approved manuscript.
 
-9. **Approval before approved-manuscript promotion and occurred-state updates.**
+11. **Approval before approved-manuscript promotion and occurred-state updates.****
    Candidate preservation and approval are separate.
 
-10. **Track State before Persist when an accepted event changes mutable records.**
+12. **Track State before Persist when an accepted event changes mutable records.**
    Track State defines the supported delta; Persist makes it durable.
 
-11. **Persist before claiming durability.**
+13. **Persist before claiming durability.****
     A chat acknowledgement, intended file, commit response without read-back, or audit mention is insufficient.
 
-12. **Narrative progression does not manufacture elapsed time.**
+14. **Narrative progression does not manufacture elapsed time.****
     A next chapter, scene break, location change, or "later" instruction does not by itself mean next day. Temporal advancement must come from authoritative continuity, explicit development, occurred prose after approval, or Jim's decision. When exact clock time is unknown, preserve the known relative anchor instead of inventing precision.
 
-13. **Audit at the appropriate boundary.**
+15. **Audit at the appropriate boundary.****
     Use source-fidelity/scene audit for prose; conformance audit for broader repository/workflow claims. Audit does not silently repair.
 
 ## Draft fidelity and emergent-material review
