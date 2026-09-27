@@ -1,6 +1,6 @@
-# Prototype Skill Registry
+# Fiction Skill Registry
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Scope: Integrated procedural skill set. This registry routes responsibilities; it does not replace each skill's contract or project governance.
 
 | Skill | Trigger / question | Owns | Does not own | Primary handoffs |
