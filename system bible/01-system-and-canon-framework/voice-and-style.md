@@ -159,7 +159,7 @@ For consenting adults, intimacy can be unmistakable without mechanical descripti
 
 Do not erase what happened afterward. Waking together, changed ease or awkwardness, private jokes, tenderness, conversation, dressing, breakfast, or an emotional shift can carry more character value than describing the act itself. Established couples may sometimes need only a quiet implication because intimacy is ordinary in their shared life.
 
-There is no fixed heat level or mandatory fade-to-black rule. Story is queen: ordinary happy intimacy may be summarized, while a character-defining encounter may remain on the experience in beautiful emotional detail. [Intimacy, Sex, Kink, and Interpretation](intimacy-sex-kink-and-interpretation.md) controls this flexible-camera principle and the associated sensitive-material boundaries.
+There is no fixed heat level or mandatory fade-to-black rule. Story is queen: **NEVER SUMMARIZE.** Intimacy that belongs in the narrative must be rendered without summarization; a character-defining encounter may remain on the experience in beautiful emotional detail. [Intimacy, Sex, Kink, and Interpretation](intimacy-sex-kink-and-interpretation.md) controls this flexible-camera principle and the associated sensitive-material boundaries.
 
 ## Private Role-Play
 
