@@ -251,7 +251,11 @@ Jim should not have to approve the same thing twice.
 When work creates durable project state:
 - route story-specific facts to story records;
 - route reusable framework/world material to the governing System Bible destination;
-- preserve brainstorming alternatives in development/ideas with status/provenance;
+- **capture developed material without unilateral summarization or compression.** Persistence must preserve the actual developed details, motivations, constraints, selected beats, meaningful rejected alternatives, unresolved questions, and author-supplied wording needed to reproduce the work. A shorter index/summary may be added for navigation, but it never replaces the detailed development record;
+- preserve genuinely unassigned future brainstorming in Series Development/development-ideas as a holding area, with the developed material captured rather than reduced to a decision summary;
+- **when an idea becomes assigned to a specific story day, scene, or chapter, start/use that unit's planning/development record and migrate the developed item there intact.** From that point, the chapter/day planning record is the active authority for developing and drafting that material; the series-level holding record must not remain a competing drafting source. It may retain only provenance/migration history as needed;
+- **draft prose from the live persisted planning record for the assigned chapter/scene plus applicable durable canon, retrieved at drafting time.** Do not reconstruct assigned chapter planning from chat memory, handoff summaries, Series Development fragments, or a conversational recap;
+- if historical persistence was lossy, absence from the surviving summary is not evidence that Jim never decided the point. Mark it as potentially lost/recovery-needed and ask Jim before treating it as open or inventing a replacement;
 - preserve generated manuscript as candidate at delivery time when governance requires;
 - promote exact prose only after approval;
 - use Track State for occurred mutable changes;
