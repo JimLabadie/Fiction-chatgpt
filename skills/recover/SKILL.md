@@ -1,6 +1,6 @@
 # Recover
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Reconstruct prior project material from surviving evidence without silently inventing, promoting, deleting, or canonizing it.
 
 ## Use when
