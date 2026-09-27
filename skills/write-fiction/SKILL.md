@@ -42,6 +42,25 @@ Confirm:
 
 If a routed authority requires a consequential fact that cannot be resolved, stop and route the blocker to retrieval, Recover/Reconcile, Develop Story, or Jim. A blank, generic substitute, unnamed convenience person, or featureless setting is not a safe workaround.
 
+### Mandatory scene-model receipt
+
+The hard readiness gate is **evidence-bearing**, not a silent judgment. Before substantial prose generation, construct a scene-model receipt that explicitly accounts for every readiness dimension above.
+
+For each dimension, record:
+- **RESOLVED** — identify the authoritative source or already-approved development that supplies enough specificity to write;
+- **NOT APPLICABLE** — state why the dimension cannot materially affect this scene;
+- **BLOCKED** — identify the missing or conflicting input and stop before prose.
+
+A retrieved file is not proof that a dimension is resolved. The receipt must test whether the source actually contains enough usable information for this scene.
+
+For **each materially present named character**, separately verify identity, reader-usable physical model where first substantial appearance requires it, current presentation, emotional/current state, and character-relative knowledge. Do not let a generic group-level “characters resolved” check hide an incomplete person.
+
+For **each material location**, separately verify a reader-usable physical/environmental model, spatial relationships needed by the action, and any character-revealing environmental specificity required by the scene. A location name plus generic furniture is not a resolved location model when the scene substantially inhabits that place.
+
+If a first substantial encounter with a recurring named character lacks a usable physical model, or a substantially inhabited location lacks a usable environmental model, mark the receipt **BLOCKED**. Do not draft around the blocker and do not use prose invention to satisfy the receipt.
+
+The receipt may remain internal during ordinary story work, but it must exist before generation and be available for audit.
+
 ## Procedure
 
 1. **Lock the prose contract.**
@@ -93,17 +112,21 @@ If a routed authority requires a consequential fact that cannot be resolved, sto
     Do not tack on extra milestones, explanations, time jumps, resolutions, or teaser scenes merely because the prose can continue.
 
 17. **Audit the actual prose before delivery.**
-    Compare the draft itself against:
+    Compare the draft itself against the pre-draft scene-model receipt and governing sources. The audit is a **dimension-by-dimension accounting**, not an impressionistic reread. Explicitly verify:
     - routed source facts and specificity;
-    - approved development handoff;
-    - character simulation/voice;
-    - current continuity and knowledge distribution;
-    - physical scene model;
+    - every materially selected/approved beat, contrast, callback, and scene function;
+    - every materially present named character against identity, physical instantiation, presentation, voice/behavior, current state, and knowledge distribution;
+    - every material location against environmental specificity, spatial geometry, character-revealing detail, objects/operations, and continued physical presence rather than dialogue-space collapse;
+    - current continuity and temporal state;
     - presentation/resources/competence;
     - world/mechanics constraints;
     - scene-state initialization;
-    - stopping point.
-    Revise contradictions, generic substitutions, accidental inventions, missing physical state, dialogue-space collapse, premature development, and repeated discoveries before delivery.
+    - stopping point;
+    - state-creating proposals and their durable-state cascades.
+
+    For every mandatory dimension, record **PASS**, **FAIL**, or **NOT APPLICABLE**, with a brief evidence pointer or exact failure. No overall PASS is permitted while a mandatory dimension is unaccounted for.
+
+    This audit diagnoses; it does **not** silently repair a preserved candidate. Preserve the first candidate when required, report material failures and state-creating proposals to Jim, discuss them, and only then revise. Missing physical state, a floating first-encounter character, a featureless substantially inhabited setting, dialogue-space collapse, or an unaccounted agreed beat is a material FAIL rather than an optional craft note.
 
 18. **Preserve candidate prose at delivery time.**
     When project governance requires candidate manuscript preservation, persist the generated prose immediately to the story's candidate/draft destination before discussion continues. Candidate persistence prevents loss; it does not make the prose approved canon.
