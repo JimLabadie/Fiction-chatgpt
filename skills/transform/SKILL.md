@@ -1,6 +1,6 @@
 # Transform
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Resolve and propagate an explicitly selected character/world change without inventing unstated dimensions.
 
 ## Use when
