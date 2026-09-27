@@ -1,6 +1,6 @@
 # Simulate Character
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Resolve a specific established character's plausible perception, interpretation, internal response, choice, speech, and behavior from current canon and state without inventing personality, knowledge, motivation, or development merely to serve the scene.
 
 ## Use when
