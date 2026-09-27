@@ -75,10 +75,11 @@ Typical sequence:
 - retrieve router, story records, previous approved prose, current handoff, character records, routed modules;
 - Develop Story if the scene is not already sufficiently planned;
 - Simulate Character and domain skills as needed;
+- require Write Fiction's completed evidence-bearing scene-model receipt; if any mandatory dimension is BLOCKED, stop before prose;
 - Write Fiction;
 - persist candidate prose immediately when governance requires;
 - after Jim approval, Track State + Persist occurred consequences;
-- Audit/source-fidelity gate before delivery and/or after persistence as required.
+- run the dimension-by-dimension Audit/source-fidelity gate against the scene-model receipt and actual prose before review/delivery; no overall PASS while a mandatory dimension is unaccounted for.
 
 ### E. Prose revision
 Typical sequence:
@@ -192,7 +193,7 @@ For substantial prose, the orchestrator must compare the completed draft against
 
 The comparison has two distinct jobs:
 
-1. **Protect the agreement.** Account for every materially selected/approved beat, contrast, callback, scene function, constraint, and stopping condition. If the draft omitted, weakened, replaced, contradicted, or accidentally deferred agreed material, repair the draft before delivery. Do not ask Jim to re-approve restoration of something already agreed.
+1. **Protect the agreement.** Account for every materially selected/approved beat, contrast, callback, scene function, constraint, and stopping condition. If the draft omitted, weakened, replaced, contradicted, or accidentally deferred agreed material, record the miss as a material review finding. Do **not** silently repair the preserved first candidate. Report and discuss the finding with Jim before rewriting. Restoring an already-agreed beat does not require Jim to re-approve the underlying decision; the discussion exists so the draft's failure and any competing emergent material remain visible before revision.
 
 2. **Protect Jim's authorship without strangling creative drafting.** Writing may generate material beyond the handoff. Do not treat all emergent material as an error. Evaluate it editorially and distinguish:
    - **scene realization** — wording, dialogue phrasing, gestures, reactions, micro-actions, sensory detail, ordinary physical transitions, and jokes that create no meaningful durable-state obligations;
