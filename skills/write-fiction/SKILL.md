@@ -1,6 +1,6 @@
 # Write Fiction
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Realize an approved or otherwise authorized scene/story-development handoff as source-grounded narrative experience while preserving character agency, continuity, physical reality, voice, pacing, and the boundary between candidate prose and approved manuscript.
 
 ## Use when
