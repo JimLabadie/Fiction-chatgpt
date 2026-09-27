@@ -1,6 +1,6 @@
 # Persist
 
-Status: PROTOTYPE — NON-GOVERNING
+Status: LIVE — GOVERNING
 Purpose: Make an authorized project-state change durable in its correct authoritative destination and prove that the durable artifact contains the intended change.
 
 ## Use when
