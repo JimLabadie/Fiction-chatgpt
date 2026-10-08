@@ -1,12 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Emily Life
+  title: Fiction Migration
   structure:
     - type: space
       key: space-1
-      title: Emily Life
-      path: emily-life
+      title: Fiction Migration Workspace
+      path: fiction-migration-workspace
       default: true
       content:
-        directory: ./emily-life
-        language: en
+        directory: ./fiction-migration-workspace
