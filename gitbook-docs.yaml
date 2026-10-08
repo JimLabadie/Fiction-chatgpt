@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Emily Life
+  structure:
+    - type: space
+      key: space-1
+      title: Emily Life
+      path: emily-life
+      default: true
+      content:
+        directory: ./emily-life
+        language: en
