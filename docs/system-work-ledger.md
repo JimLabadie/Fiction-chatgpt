@@ -151,6 +151,8 @@ Required verification: run a fresh chat **without naming Mother** and test Emily
 
 **Approval continuity finding:** the enforcement repair is already authorized. Ordinary non-destructive persistence and verification necessary to carry that repair forward do not require repeated approval unless scope materially expands or an independently approval-gated action is reached.
 
+**Cold-start activation failure (2026-10-08):** In a fresh Claude chat, Emily activation via "kate, i'm the girl in red" was not recognized on the first turn because the bootstrap was not loaded before responding; the phrase was misread as conversational content. Corrected on the following turn after the repo was loaded and the session re-registered to it. Auto-bootstrap on cold start remains unproven.
+
 **DDP integration blockers — 2026-10-06**
 
 **Domain:** Daily Data Process / Emily Life / Workflow governance\
