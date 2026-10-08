@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Fiction Migration
+  title: Fiction Docs
   structure:
     - type: space
       key: space-1
-      title: Fiction Migration Workspace
-      path: fiction-migration-workspace
+      title: Untitled
+      path: untitled
       default: true
       content:
-        directory: ./fiction-migration-workspace
+        directory: ./untitled
