@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Workflow
+  title: Emily No-Fucking-Way-That’s-Life
   structure:
     - type: space
       key: space-1
-      title: Docs
-      path: docs
+      title: Emily No-Fucking-Way-That’s-Life
+      path: emily-no-fucking-way-thats-life
       default: true
       content:
-        directory: ./docs
+        directory: ./emily-no-fucking-way-thats-life
