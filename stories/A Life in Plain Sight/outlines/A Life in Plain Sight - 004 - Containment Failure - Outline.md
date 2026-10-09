@@ -30,18 +30,65 @@ Chapter 3 is already published and must not be edited for this bridge. It shows 
 
 Proposed: deepen voluntary belonging and show Steve's ordinary compassion through action. His return begins with an absurd napkin errand but creates another meaningful connection with the women. Preserve slow-burn identity development; do not turn the group into a diagnostic committee.
 
-## Proposed scene sequence — for review
+## Outline
 
-1. **Messages after departure.** Steve is driving away. Maddie's messages claim he has Dennis. He pulls into a parking lot to investigate. Bridge the published Chapter 3 here: establish how Chloe returned the drawing to Steve's pocket after taking it. Preserve the existing “Chloe has Dennis” message as true at that earlier moment. Settle the exact handoff before drafting; then make his discovery location consistent with the pocket continuity.
-2. **Return to Blush.** He rationalizes returning the drawing as a short errand. Render the familiar entrance, room, and table through his changed perception rather than repeating the introductory tour.
-3. **A stranger's breakup.** Steve notices distress, offers water, gives space, and stays only when invited. Her friend eventually arrives. Keep the stranger a person with her own experience, not merely a device demonstrating Steve's desirability.
-4. **The women's responses.** They observe his care, with distinct reactions and ensemble humor. Chloe acknowledges attraction without resolving identity or relationship questions. Use clear POV/scene boundaries; do not drift casually between minds.
-5. **Back at the table.** Return Dennis to Maddie, address the mascara, and let emotional care blend back into affectionate argument. Resolve how anyone knows the stranger's precise words before discussing Steve not correcting “girl.”
-6. **Maddie's photographs and confession.** Steve notices the quality of her photographs and responds specifically. Her admission that she was sad he left gives the Dennis manipulation emotional meaning. Preserve Steve's agency and allow acknowledgment that direct asking would have been better.
-7. **Any recovered family beat.** Decide whether to restore the lost Brittney/Chloe message exchange here, in an adapted form that respects the already-established family connection and group chat.
-8. **Second departure.** Steve wants to stay but leaves for ordinary obligations. Distinct goodbyes and an unqualified commitment to Friday show movement without a grand revelation. Dennis remains with Maddie. Do not repeat Chapter 3's first-departure romantic beat automatically.
+This section records the scene sequence already present in the later Chapter 4 draft. It does not include proposed fixes or new story beats. Chapter 4 remains unapproved.
 
-## Description requirements
+### Scene 1 — Messages and Dennis
+
+**Scene setting:** Inside Steve's pink Mini, a couple of blocks from Blush, immediately after his first departure at the end of Chapter 3. Steve is alone; the women participate through the group chat. He stops at traffic lights, then pulls into a nearby parking lot.
+
+Maddie messages that Steve has Dennis, the drawing on the folded napkin. Steve says Chloe took it from his pocket; Chloe says she gave it back. He searches the car and finds the drawing between the passenger seat and center console. Maddie asks him to bring it back. Despite his plans to go home, he agrees.
+
+### Scene 2 — Returning to Blush
+
+**Scene setting:** Blush's parking lot, entrance, and main room, approximately five minutes later. Steve carries the folded napkin. The door attendant recognizes him; the five women remain at their table.
+
+Steve treats the return as a quick errand. Maddie spots him and reacts enthusiastically. On the way to the table, he notices a woman at the bar whose partner has just walked away. Seeing her distress, he changes direction.
+
+### Scene 3 — The woman at the bar
+
+**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group watches from its table elsewhere in the room. The scene alternates between the conversation at the bar and the women's reactions.
+
+Steve offers water, listens to the woman describe the breakup, and helps her resist blaming herself. She rests against his shoulder and gets mascara on his shirt. She calls him a good girl; he lets the assumption pass because her distress matters more to him in that moment.
+
+At the table, the women notice his kindness. Chloe acknowledges that she remains attracted to him. Sofia asks whether she has to resolve what that means tonight; Chloe decides she does not.
+
+The woman's friend arrives, thanks Steve, and takes her away. Steve returns to the group with Dennis.
+
+### Scene 4 — Back at the table
+
+**Scene setting:** The group's table at Blush, later the same night. Steve rejoins Chloe, Nat, Tori, Sofia, and Maddie. Dennis is returned to Maddie; Steve's shirt carries the mascara stain.
+
+Steve hands over the drawing and sits down despite insisting he ought to leave. The women ask about the distressed woman and Steve's own wellbeing. Nat raises his decision not to correct the woman's assumption. Steve explains that the circumstances differed from his earlier clarification to the group.
+
+Steve and Chloe playfully dispute the last mozzarella stick, then share it. Conversation moves into breakups and Maddie's suggestion of an emotional-support possum.
+
+### Scene 5 — Maddie's photographs and the reason for the return
+
+**Scene setting:** Still at the group's table at Blush. Maddie shows Steve photographs on her phone; the others remain part of the conversation.
+
+Steve looks carefully at Maddie's photographs and gives specific, sincere praise. Her reaction is quieter than her usual jokes.
+
+Steve then asks how she knew he had Dennis. Maddie admits she was sad he left and hoped the napkin would bring him back. He points out that she could have asked directly. Their exchange creates another thread of affection, and the group's humor resumes.
+
+### Scene 6 — Second goodbye
+
+**Scene setting:** The group's table and Steve's route out of Blush, late that night. Steve retrieves his jacket and prepares to leave; the five women say goodbye. Dennis stays with Maddie.
+
+Steve realizes he genuinely must go home for his Sunday obligations, even though leaving disappoints him. The women give distinct goodbyes, including hugs and Tori's joking handshake. Steve and Chloe share an easy hug. He commits to next Friday without qualifying it with maybe or probably.
+
+### Scene 7 — Driving away again
+
+**Scene setting:** Inside the pink Mini as Steve leaves Blush for the second time and reaches nearby traffic lights. Steve is alone; the group remains present through messages.
+
+The chat confirms that Dennis is safe and teases Steve about another return. He confirms Friday. Chloe says she is glad he came back; Steve eventually replies that he is too.
+
+## Proposed fixes and discussion
+
+Everything below is separate from the established outline above. These are review notes and possible changes, not events already added to the chapter.
+
+### Description requirements
 
 - Ground every scene in place, movement, distance, and time. Establish sightlines and hearing range between the bar and table.
 - Carry Steve's shirt, jacket, beer/food history, car, phone, and the drawn napkin consistently.
@@ -51,7 +98,7 @@ Proposed: deepen voluntary belonging and show Steve's ordinary compassion throug
 - Let the women's voices and reactions differ; avoid five interchangeable smiles, knowing looks, or turns at interpretation.
 - Restore texture without using repeated explanatory narration to spell out every joke or identity implication.
 
-## Recovery inventory: moved material versus potentially lost material
+### Recovery inventory: moved material versus potentially lost material
 
 ### Earlier Chapter 4 material already carried by approved Chapter 3
 
@@ -74,7 +121,7 @@ Those exact messages were not found in the selected final Chapter 3 source, and 
 
 These are proposed retained beats, not separately approved canon.
 
-## Open decisions before drafting
+### Open decisions before drafting
 
 1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
 2. How does Nat learn the stranger called Steve a girl? Options include an observable nearby moment or Steve recounting it; select a concrete solution.
