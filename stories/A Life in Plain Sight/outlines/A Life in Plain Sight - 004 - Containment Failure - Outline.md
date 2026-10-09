@@ -50,7 +50,7 @@ Steve treats the return as a quick errand. Maddie spots him and reacts enthusias
 
 ### Scene 3 — The woman at the bar
 
-**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group's table is close enough to the bar for the women to overhear Steve's conversation with the distressed woman, including her calling him a good girl. They can both see and hear the exchange. The scene alternates between the conversation at the bar and the women's reactions. This audibility is established by Emily's clarification; the prose needs to make the physical arrangement clear.
+**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group's table is close enough to the bar for the women to overhear Steve's conversation with the distressed woman, including her calling him a good girl. They can both see and hear the exchange. The scene stays mostly in Steve's viewpoint, with a brief switch to the women at the table as they overhear the exchange and react, then returns to Steve. This audibility is established by Emily's clarification; the prose needs to make the physical arrangement clear.
 
 Use familiar visual details of the established cast through their actions rather than introducing them all again: Steve's small, slender frame, fine features, soft hair, dark blue shirt, black jeans, and narrow boots; Chloe's dark hair, fitted dark dress, high heels, makeup, and jewelry; Nat's blonde hair, fitted dress, gold jewelry, and high heels; Tori's dark skirt, soft blouse, pearls, tailored elegance, and immaculate nails; Sofia's glossy dark hair, moving earrings, fitted dress, and perfect manicure; Maddie's patterned dress, open cardigan, slightly escaped styled hair, delicate rings, and ink on her hand. Brittney appears only through texts and needs no physical reintroduction.
 
@@ -97,7 +97,6 @@ Everything below is separate from the established outline above. These are revie
 ### Open decisions before drafting
 
 
-5. Confirm the POV approach for the women's observation scene against the intended series structure.
 6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
 7. Choose Chapter 4's final ending.
 
