@@ -92,17 +92,6 @@ The chat confirms that Dennis is safe and teases Steve about another return. He 
 
 Everything below is separate from the established outline above. These are review notes and possible changes, not events already added to the chapter.
 
-### Later-version additions to retain or revise deliberately
-
-- Return trip prompted by Dennis.
-- More room for the breakup conversation and the woman's self-blame.
-- Steve's reasoning for not correcting an assumption in that moment.
-- Conversation about breakups and the emotional-support possum.
-- Fuller attention to Maddie's photography and her admission that she wanted Steve to return.
-- Explicit Friday commitment after the second departure.
-
-These are proposed retained beats, not separately approved canon.
-
 ### Open decisions before drafting
 
 1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
