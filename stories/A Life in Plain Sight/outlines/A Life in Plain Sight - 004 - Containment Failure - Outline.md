@@ -56,7 +56,7 @@ Steve offers water, listens to the woman describe the breakup, and helps her res
 
 At the table, the women overhear Steve's conversation with the distressed woman while watching his care for her. They hear what he says to comfort her, hear her call him a good girl, and hear him continue without correcting her. Their reactions arise from the conversation they actually hear, as well as his behavior. Chloe acknowledges that she remains attracted to him. Sofia asks whether she has to resolve what that means tonight; Chloe decides she does not.
 
-During this observation sequence, the women text Brittney privately. Steve does not see the messages. The exchange stays private; there is no phone-screen reveal to Steve in this chapter. The exact message wording remains to be settled.
+During this observation sequence, the women text Brittney privately. Steve does not see the messages. The exchange stays private; there is no phone-screen reveal to Steve in this chapter.
 
 The woman's friend arrives, thanks Steve, and takes her away. Steve returns to the group with Dennis.
 
@@ -95,7 +95,6 @@ Everything below is separate from the established outline above. These are revie
 ### Open decisions before drafting
 
 
-3. Private texting is established in Scene 3. Settle the message wording before drafting; Steve does not see it.
 4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
 5. Confirm the POV approach for the women's observation scene against the intended series structure.
 6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
