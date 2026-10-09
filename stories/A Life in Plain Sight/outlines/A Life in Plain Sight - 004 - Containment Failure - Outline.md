@@ -56,7 +56,7 @@ Steve offers water, listens to the woman describe the breakup, and helps her res
 
 At the table, the women overhear Steve's conversation with the distressed woman while watching his care for her. They hear what he says to comfort her, hear her call him a good girl, and hear him continue without correcting her. Their reactions arise from the conversation they actually hear, as well as his behavior. Chloe acknowledges that she remains attracted to him. Sofia asks whether she has to resolve what that means tonight; Chloe decides she does not.
 
-The women may also text Brittney privately during this observation sequence. Steve does not see those messages. The specific exchange and its placement still require agreement in this outline before drafting.
+During this observation sequence, the women text Brittney privately. Steve does not see the messages. The exchange stays private; there is no phone-screen reveal to Steve in this chapter. The exact message wording remains to be settled.
 
 The woman's friend arrives, thanks Steve, and takes her away. Steve returns to the group with Dennis.
 
@@ -102,15 +102,11 @@ Everything below is separate from the established outline above. These are revie
 - Let the women's voices and reactions differ; avoid five interchangeable smiles, knowing looks, or turns at interpretation.
 - Restore texture without using repeated explanatory narration to spell out every joke or identity implication.
 
-### Recovery inventory: moved material versus potentially lost material
+### Earlier-draft comparison
 
 ### Earlier Chapter 4 material already carried by approved Chapter 3
 
 The second beer/food, family-recognition conversation, professional connections, group-chat formation, and first goodbye belong to the earlier chapter now. Their absence from the later Chapter 4 is not automatically loss. Approved Chapter 3 also contains the cheek-kiss beat; do not duplicate it merely because it existed in the earlier Chapter 4.
-
-### Optional private texting — author decision
-
-Emily permits the women to text Brittney privately. Steve does not see the messages. Do not restore the older draft's phone-screen reveal or Steve's reactions to reading those messages. The exact private exchange is not yet settled.
 
 ### Later-version additions to retain or revise deliberately
 
@@ -127,7 +123,7 @@ These are proposed retained beats, not separately approved canon.
 
 1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
 2. Settled by Emily: the women overhear the conversation, including the stranger calling Steve a girl. Establish the table/bar proximity and audible conversation in the prose; do not substitute Steve recounting it.
-3. The women may text Brittney privately; Steve must not see the messages. Settle the exchange and its placement before drafting.
+3. Private texting is established in Scene 3. Settle the message wording before drafting; Steve does not see it.
 4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
 5. Confirm the POV approach for the women's observation scene against the intended series structure.
 6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
