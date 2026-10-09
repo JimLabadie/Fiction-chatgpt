@@ -7,6 +7,24 @@ Mode: Commercial fiction; long-running series
 MC: Steve, distinct from the Jim persona
 Audience details, book count, genre positioning, and publication schedule: Not yet established.
 
+## Current chapter planning — 2026-10-09
+
+Chapters 1–3 are approved Word documents in GitHub `chapters/approved/`. Chapter 3 is already published and will not be edited for the Dennis handoff. Chapter 4 remains unapproved.
+
+The saved [Chapter 4 outline](outlines/A%20Life%20in%20Plain%20Sight%20-%20004%20-%20Containment%20Failure%20-%20Outline.md) is the only source of truth for writing Chapter 4. Its seven scenes contain the settled plan. Scene 7 is the ending; the seven working questions have been resolved and the planning checklist reviewed.
+
+Settled Chapter 4 details:
+- Dennis is Maddie's drawing on a folded cocktail napkin. Chloe returned it to Steve's shirt pocket before he left. The opening messages establish that return; Steve finds it in his pocket while parked.
+- The women overhear Steve's conversation with the distressed woman at the bar.
+- They text Brittney privately; Steve does not see the messages. Later development of their contact with Brittney and Liz belongs in the [Future Chapters outline](outlines/A%20Life%20in%20Plain%20Sight%20-%20Future%20Chapters%20-%20Outline.md).
+- The viewpoint is mostly Steve's, with a brief switch to the women during the overheard conversation, then back to Steve.
+- The outline specifies familiar visual details for the established cast and physical introductions for the distressed woman, her departing partner, and arriving friend. Blush has already been described.
+- Steve's departure in Scene 7 is his second. Nat's third-departure message is a joke about a possible further return.
+
+This session revised the outline only. No replacement Chapter 4 prose was written or authorized. Continue discussion in chat from the saved outline; do not treat the completed planning review as permission to draft or as chapter approval.
+
+Approved chapters are Word files in GitHub. Unapproved versions of existing chapters belong in `chapters/revisions/`; unapproved new chapter material belongs in `chapters/candidate/`. Approved chapter summaries are plain-text files beside their approved chapters, named with the story title, chapter number, chapter title, Summary, and word count. Folder location supplies approval status; do not add Approved or Revised to the final chapter title.
+
 ## Durable premise
 
 - This is the first planned commercial series using the reusable framework and its established house voice.
