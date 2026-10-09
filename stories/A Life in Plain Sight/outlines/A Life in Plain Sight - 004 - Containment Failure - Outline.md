@@ -92,16 +92,6 @@ The chat confirms that Dennis is safe and teases Steve about another return. He 
 
 Everything below is separate from the established outline above. These are review notes and possible changes, not events already added to the chapter.
 
-### Description requirements
-
-- Ground every scene in place, movement, distance, and time. Establish sightlines and hearing range between the bar and table.
-- Carry Steve's shirt, jacket, beer/food history, car, phone, and the drawn napkin consistently.
-- Integrate relevant clothing, presentation, posture, expression, lighting, sounds, and touch into action rather than adding an inventory of everyone again.
-- Give the distressed woman enough physical and situational specificity to feel individual. Her name or detailed history is not established by this plan.
-- Preserve Steve's physical self-consciousness versus the ease he has when focused on another person's needs.
-- Let the women's voices and reactions differ; avoid five interchangeable smiles, knowing looks, or turns at interpretation.
-- Restore texture without using repeated explanatory narration to spell out every joke or identity implication.
-
 ### Later-version additions to retain or revise deliberately
 
 - Return trip prompted by Dennis.
