@@ -48,7 +48,7 @@ Steve treats the return as a quick errand. Maddie spots him and reacts enthusias
 
 ### Scene 3 — The woman at the bar
 
-**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group watches from its table elsewhere in the room. The scene alternates between the conversation at the bar and the women's reactions.
+**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group's table is close enough to the bar for the women to overhear Steve's conversation with the distressed woman, including her calling him a good girl. They can both see and hear the exchange. The scene alternates between the conversation at the bar and the women's reactions. This audibility is established by Emily's clarification; the prose needs to make the physical arrangement clear.
 
 Steve offers water, listens to the woman describe the breakup, and helps her resist blaming herself. She rests against his shoulder and gets mascara on his shirt. She calls him a good girl; he lets the assumption pass because her distress matters more to him in that moment.
 
@@ -124,7 +124,7 @@ These are proposed retained beats, not separately approved canon.
 ### Open decisions before drafting
 
 1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
-2. How does Nat learn the stranger called Steve a girl? Options include an observable nearby moment or Steve recounting it; select a concrete solution.
+2. Settled by Emily: the women overhear the conversation, including the stranger calling Steve a girl. Establish the table/bar proximity and audible conversation in the prose; do not substitute Steve recounting it.
 3. Restore the “Don’t scare him off” beat here, elsewhere, or intentionally omit it?
 4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
 5. Confirm the POV approach for the women's observation scene against the intended series structure.
@@ -143,3 +143,7 @@ These are proposed retained beats, not separately approved canon.
 ## Author correction — 2026-10-09
 
 Emily confirmed that Chapter 3 is already published and will not receive another edit for Dennis. The continuity bridge belongs in Chapter 4. Dennis is the drawing on the napkin; the intended location after its return is Steve's pocket. No specific handoff prose has yet been approved.
+
+## Author clarification — Scene 3
+
+The women are supposed to overhear Steve's conversation at the bar. Their reactions are based on hearing as well as watching. This belongs in the established scene setting, not among optional proposed solutions.
