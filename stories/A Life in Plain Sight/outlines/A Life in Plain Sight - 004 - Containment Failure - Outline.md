@@ -8,6 +8,8 @@ Purpose: Persist the chapter plan before prose is rewritten, preventing lost sto
 
 Emily recalls that the proposed Chapter 4 lacked description and lost story material; attempts to outline before writing were unsuccessful. This is the author's reported history, not a recovered chat transcript. The original critique has not yet been located.
 
+The settled Outline section is the sole source of Chapter 4 story content when drafting. Do not import story beats, dialogue, explanations, or decisions from old drafts, chats, recovery notes, or proposed-fix sections unless Emily first incorporates them into Outline. Voice/style requirements govern expression, not additional story content.
+
 Review and settle this plan with Emily before writing replacement chapter prose. Save changes to the plan explicitly. Do not interpret approval of this planning document as approval of an unwritten chapter.
 
 ## Sources and authority
@@ -52,7 +54,7 @@ Steve treats the return as a quick errand. Maddie spots him and reacts enthusias
 
 Steve offers water, listens to the woman describe the breakup, and helps her resist blaming herself. She rests against his shoulder and gets mascara on his shirt. She calls him a good girl; he lets the assumption pass because her distress matters more to him in that moment.
 
-At the table, the women notice his kindness. Chloe acknowledges that she remains attracted to him. Sofia asks whether she has to resolve what that means tonight; Chloe decides she does not.
+At the table, the women overhear Steve's conversation with the distressed woman while watching his care for her. They hear what he says to comfort her, hear her call him a good girl, and hear him continue without correcting her. Their reactions arise from the conversation they actually hear, as well as his behavior. Chloe acknowledges that she remains attracted to him. Sofia asks whether she has to resolve what that means tonight; Chloe decides she does not.
 
 The woman's friend arrives, thanks Steve, and takes her away. Steve returns to the group with Dennis.
 
@@ -60,7 +62,7 @@ The woman's friend arrives, thanks Steve, and takes her away. Steve returns to t
 
 **Scene setting:** The group's table at Blush, later the same night. Steve rejoins Chloe, Nat, Tori, Sofia, and Maddie. Dennis is returned to Maddie; Steve's shirt carries the mascara stain.
 
-Steve hands over the drawing and sits down despite insisting he ought to leave. The women ask about the distressed woman and Steve's own wellbeing. Nat raises his decision not to correct the woman's assumption. Steve explains that the circumstances differed from his earlier clarification to the group.
+Steve hands over the drawing and sits down despite insisting he ought to leave. The women ask about the distressed woman and Steve's own wellbeing. Nat raises his decision not to correct the woman's assumption because she and the others overheard the woman call him a good girl and heard him let it pass. Steve explains that the circumstances differed from his earlier clarification to the group.
 
 Steve and Chloe playfully dispute the last mozzarella stick, then share it. Conversation moves into breakups and Maddie's suggestion of an emotional-support possum.
 
