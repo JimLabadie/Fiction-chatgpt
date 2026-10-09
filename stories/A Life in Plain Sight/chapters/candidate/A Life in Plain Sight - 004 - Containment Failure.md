@@ -1,1613 +1,1416 @@
-# Chapter Four
+# A Life in Plain Sight
+## Chapter 4 — Containment Failure
 
-## Containment Failure
+*Working draft — unapproved*
 
-Steve’s second beer came with mozzarella sticks.
+Steve made it two blocks before his phone began vibrating.
 
-This was not his fault.
+He was stopped at a red light, the pink Mini idling beneath him, the dashboard casting its familiar soft glow over his hands. He had the heater turned down, the radio playing something he couldn't have identified if his life depended on it, and the peculiar sensation that he'd left a party he hadn't quite understood how he'd been invited to.
 
-There had been a sign advertising half-price appetizers after nine, and ordering food had become basic financial responsibility.
+He'd gone to Blush for a beer.
 
-He carried the basket back to the table.
+That was the entire original plan. A beer, maybe some food, a little time away from his apartment. He'd somehow acquired five new friends, an invitation to come back Friday, and membership in a group chat called Blush Witness Protection.
 
-Chloe looked at it.
+The phone buzzed again.
 
-Steve sat down.
+At the next light he glanced at the screen.
 
-“Not a word.”
+**Maddie:** STEVE
 
-“I didn’t say anything.”
+**Maddie:** WE HAVE A SITUATION
 
-“You were about to.”
+**Nat:** Nobody is dead.
 
-“I was going to ask for one.”
+**Maddie:** THAT YOU KNOW OF
 
-“Oh.”
+**Tori:** Madeleine, please identify the situation before someone contacts emergency services.
 
-Chloe took one.
+**Maddie:** DENNIS
 
-“Thank you.”
+Steve blinked.
 
-“You’re welcome.”
+Dennis.
 
-Nat reached for one.
+The tax-accountant Pegasus.
 
-Steve moved the basket.
+He laughed despite himself, then shook his head at the phone.
 
-“You’re charging me?”
+**Steve:** What about Dennis?
 
-“You mocked my car.”
+**Maddie:** YOU HAVE HIM
 
-“That was before there was food.”
+**Steve:** No, Chloe took him out of my pocket.
 
-“Actions have consequences.”
+**Chloe:** I did.
 
-Tori nodded.
+**Chloe:** Then I put him back before you left.
 
-“Finally, some respect for the rule of law.”
+**Steve:** Why?
 
-“You laughed too.”
+**Chloe:** Because he was yours at that point.
 
-“I laughed judicially.”
+**Maddie:** HE IS NOT YOURS
 
-“That isn’t a thing.”
+**Sofia:** There appears to be a custody dispute.
 
-“It is now.”
+**Nat:** Dennis needs a lawyer.
 
-Sofia stole one while Steve was looking at Tori. He caught her chewing, sighed, and pushed the basket into the middle of the table.
+**Tori:** Dennis needs everyone involved to stop texting while driving.
 
-“Animals.”
+Steve looked up. The light had changed.
 
-“Thank you,” Maddie said.
+He set the phone down and drove another block, turning into the lot of a closed pharmacy. Under a white security light, with an empty row of shopping carts beyond the windshield, he put the Mini in park.
 
-She took two.
+Then he reached into his shirt pocket.
 
-Steve was beginning to understand how this worked.
+The folded cocktail napkin was there.
 
-His phone buzzed.
+He unfolded it carefully.
 
-**Brittney:** Still alive?
-
-Steve typed.
-
-**Steve:** Unfortunately.
-
-**Brittney:** Having fun?
-
-He considered lying, then wrote:
-
-**Steve:** I am on my second beer.
-
-Chloe glanced at him.
-
-“You’re smiling.”
-
-“I am not.”
-
-“You were.”
-
-“I was texting my sister.”
-
-“Those aren’t mutually exclusive.”
-
-Steve put his phone facedown.
-
-“She’s being annoying.”
-
-“What’s her name again?”
-
-“Brittney.”
-
-Something happened to Sofia’s face.
-
-“Brittney what?”
-
-Steve looked at her.
-
-“Why?”
-
-“What’s her wife’s name?”
-
-“Liz.”
-
-Nat stopped chewing. Tori looked up. Chloe’s hand paused halfway toward another mozzarella stick.
-
-Sofia asked, “Is Liz Puerto Rican?”
-
-Steve pointed at her.
-
-“Why do you know that?”
-
-Nat sat up.
-
-“Oh my God. Brittney and Liz?”
-
-Steve looked at Chloe.
-
-Chloe was staring at him with recognition.
-
-“Oh, shit.”
-
-“You know my sister.”
-
-It wasn’t a question.
-
-“Yeah.”
-
-Steve looked around the table.
-
-“Do you?”
-
-“I know Liz better,” Sofia said.
-
-“I’ve met them,” Nat added.
-
-“Several times,” said Tori.
-
-Maddie swallowed.
-
-“I think Brittney once helped me find my coat.”
-
-“Of course she did.”
-
-“It wasn’t my coat.”
-
-“Of course it wasn’t.”
-
-“I found mine later.”
-
-“I’m glad this story had a happy ending.”
-
-Steve turned back to Chloe.
-
-“You knew.”
-
-“No. I know Brittney. I didn’t know you were Brittney’s brother.”
-
-That was annoyingly plausible.
-
-“Brittney didn’t say anything?”
-
-Chloe hesitated.
-
-Steve saw it.
-
-“Oh, for fuck’s sake.”
-
-“Not about tonight.”
-
-“Chloe.”
-
-“Not about *you* tonight.”
-
-“Those are extremely lawyerly distinctions for someone who isn’t the lawyer.”
-
-Tori said, “I approve.”
-
-“Of course you do.”
-
-Chloe put both hands on the table.
-
-“Brittney has mentioned her brother.”
-
-Steve stared.
-
-“What did she say?”
-
-“Honestly?”
-
-“That would be refreshing.”
-
-“Not much. She complained about you.”
-
-Steve relaxed.
-
-“Oh.”
-
-“Repeatedly,” Chloe added.
-
-“Okay.”
-
-“Affectionately.”
-
-“Less important.”
-
-Sofia smiled.
-
-“She might’ve said you were brilliant.”
-
-“She exaggerates.”
-
-“And impossible,” Chloe said.
-
-“She does not exaggerate.”
-
-Chloe’s eyes flicked toward Sofia.
-
-Steve followed the look.
-
-“Sofia.”
-
-Sofia sighed.
-
-“It was months ago. She said you didn’t get out enough. And that you could rationalize anything.”
-
-“That’s not true.”
-
-Five women looked at him.
-
-Steve opened his eyes.
-
-“Fuck you.”
-
-Maddie nodded solemnly.
-
-“Compelling rebuttal.”
-
-Steve rubbed his forehead.
-
-“So she complained about me. You didn’t know I was me.”
-
-“Correct,” Tori said.
-
-The answer was clean enough.
-
-Annoying, but clean.
-
-Nobody had been waiting for him. Nobody had been briefed. Chloe hadn’t danced with him because Brittney had filed some sort of sisterly work order.
-
-Good.
-
-That was—
-
-Good.
-
-Then another thought arrived.
-
-“Wait.”
-
-Chloe’s mouth twitched.
-
-“What?”
-
-“You know Brittney.”
-
-“Yes.”
-
-“And Brittney knows you.”
-
-“Yes.”
-
-“Sofia knows Liz. Nat and Tori have met them. Maddie helped Brittney steal someone else’s coat.”
-
-“I was emotionally supportive,” Maddie said.
-
-Steve stared at the table.
-
-This was bad.
-
-Not socially bad.
-
-Structurally bad.
-
-His life had contained several reasonably independent systems. Brittney and Liz existed in one. Work existed in another. Whatever the fuck this was had appeared to be a third.
-
-There had been boundaries.
-
-Firewalls.
-
-Now—
-
-“Oh, no.”
-
-Nat smiled.
-
-“What?”
-
-“You can talk to her.”
-
-Steve looked at Chloe.
-
-“You can talk to Brittney. About me.”
-
-Chloe’s smile widened.
-
-“Oh, absolutely.”
-
-“No.”
-
-“I haven’t done anything.”
-
-“You’re thinking things.”
-
-“You can’t prove that.”
-
-“I know that face.”
-
-“You’ve known me an hour.”
-
-“Apparently I’m a fast learner.”
-
-Steve looked at Sofia.
-
-“You cannot collaborate with Liz.”
-
-“I would never.”
-
-“Thank you.”
-
-“Without Brittney,” Sofia added.
-
-Steve closed his eyes.
-
-“This is a nightmare.”
-
-“Five of you can now exchange information with my sister.”
-
-“Six,” Sofia said.
-
-“Liz.”
-
-“Right.”
-
-Maddie touched his arm.
-
-“Dennis has no contact information.”
-
-Steve opened one eye.
-
-“Thank you, Maddie.”
-
-“You’re safe with Dennis.”
-
-“I always knew I could trust him.”
-
-“He’s very discreet.”
-
-“Tax accountant.”
-
-“Exactly.”
-
-Tori said, “That is not how confidentiality works.”
-
-The conversation collapsed after that. Steve let it.
-
-Nat wanted to know whether Brittney still had the same haircut. Sofia asked whether Liz’s aunt was the one who had declared Steve’s first pernil a hate crime. Chloe remembered Brittney threatening to replace someone’s IV with vodka. Tori objected to Steve’s use of *probably*. Maddie drew Dennis a tiny padlock.
-
-Somewhere in the middle of it, Steve stopped thinking about leaving.
-
-He learned that Sofia owned a salon.
-
-“Because you said you still cut hair?”
-
-“I like cutting hair.”
-
-Steve nodded.
-
-“If you built a business around something you actually like doing, it’d be weird to become successful enough that you weren’t allowed to do the thing anymore.”
-
-Sofia stared at him.
-
-“What?”
-
-“Nothing.”
-
-“Jesus Christ.”
-
-Maddie was a graphic designer, currently fighting with a client who wanted a dental-software logo made “more premium.”
-
-“What does that mean?” Steve asked.
-
-“Nobody knows. They sent me a picture of a yacht.”
-
-“That isn’t a specification.”
-
-“Exactly.”
-
-“Did they give you measurable requirements?”
-
-“They said make it pop.”
-
-Steve recoiled.
-
-Maddie pointed at him.
-
-“See?”
-
-Steve was suddenly furious on her behalf.
-
-“Do you want to come to work with me?”
-
-“No.”
-
-“You’d be so angry.”
-
-“I already am.”
-
-Tori was an attorney, which Steve had gathered almost immediately. What he hadn’t gathered was what kind, and her answer came with enough qualifiers to make him accuse her of billing him.
-
-She threatened to start.
-
-Nat sold enterprise software. Steve called it morally indefensible. Nat reminded him that his paycheck depended on people like her convincing companies to buy things built by people like him.
-
-“Civilization contains many regrettable dependencies,” Steve said.
-
-Nat raised her glass.
-
-“See? Now we’re communicating.”
-
-Chloe managed software projects. They discovered they hated exactly the same kind of meeting.
-
-“The meeting before the meeting,” Chloe said.
-
-“To prepare for the meeting,” Steve agreed.
-
-“Which could have been an email.”
-
-“Everything could have been an email.”
-
-“Not everything.”
-
-“Name one.”
-
-“Firing someone.”
-
-“Okay.”
-
-“Breaking up with someone.”
-
-“Fine.”
-
-“Marriage proposal.”
-
-“Depends on the attachment.”
-
-Chloe stared at him.
+Dennis stared back at him with the grave, slightly offended expression Maddie had somehow given a winged horse wearing a necktie. One hoof held a briefcase. The other seemed to be pointing toward a column of figures only Dennis could see.
 
 Steve smiled.
 
-She laughed.
+It was a ridiculous little drawing. It had taken Maddie perhaps thirty seconds to make, although she had spent considerably longer explaining Dennis's professional qualifications.
 
-And there it was again.
+He folded it again.
 
-That look.
+**Steve:** Found him.
 
-He was becoming accustomed to it.
+**Maddie:** THANK GOD
 
-That seemed dangerous too.
+**Nat:** The family is reunited.
 
-At some point the music changed. Another round appeared. Maddie put Dennis into Steve’s shirt pocket.
+**Maddie:** BRING HIM HOME
 
-He was halfway through explaining to Chloe why most project estimates were elaborate works of collaborative fiction when he noticed the woman at the end of the bar.
+**Steve:** Maddie, I'm already on my way home.
 
-She was sitting very still beside another woman.
+**Maddie:** HE HAS RESPONSIBILITIES
 
-Steve couldn’t hear them over the music, but he saw the standing woman’s face, the seated woman’s, the little shake of the standing woman’s head, and the way the seated woman reached once before the other woman stepped back.
+**Steve:** As a fictional accountant?
 
-The standing woman turned and walked away.
+**Maddie:** ESPECIALLY AS A FICTIONAL ACCOUNTANT
 
-The woman at the bar stayed perfectly still.
+A photograph appeared in the chat.
 
-Then her shoulders folded.
+Maddie had taken a picture of the table. In the foreground stood an empty shot glass. Beside it she'd arranged a coaster and two sugar packets into what looked vaguely like a tiny office.
 
-“Oh,” Sofia said softly.
+**Maddie:** HIS DESK IS READY
 
-Steve was already standing.
+Steve sat looking at the picture.
 
-He didn’t know her. That occurred to him on the way to the bar, but it didn’t stop him.
+He really did need to get home. It was late, and Sunday had obligations that would arrive whether or not he'd slept enough. He had laundry waiting, groceries to buy, and the usual small domestic jobs he'd been avoiding all week.
 
-He slowed when he got close.
+He also knew, with uncomfortable clarity, that he hadn't wanted to leave.
 
-“Hey.”
+The phone buzzed once more.
 
-The woman wiped quickly at her face.
+**Chloe:** You don't have to come back. She's being ridiculous.
 
-“I’m fine.”
+**Maddie:** I AM BEING A MOTHER
 
-Steve nodded.
+Steve could almost hear their voices.
+
+He started the car.
+
+**Steve:** Five minutes.
+
+The response arrived before he'd backed out of the parking space.
+
+**Maddie:** DENNIS BELIEVES IN YOU
+
+---
+
+The door attendant recognized him.
+
+That was Steve's first indication that returning to a bar five minutes after leaving it might look a little strange.
+
+“Back already?”
+
+Steve held up the folded napkin between two fingers.
+
+“Emergency delivery.”
+
+The attendant regarded the napkin, then Steve.
+
+“Should I ask?”
+
+“Probably not.”
+
+“Fair enough.” He opened the door.
+
+Warmth and music spilled into the night.
+
+Blush looked different on the second arrival, although nothing had changed. The lighting was still low and flattering, the bar still crowded, the air still carrying the mingled scents of perfume, citrus, and the kitchen's last round of fried food. Someone near the back laughed so loudly that several other women turned to see what was funny.
+
+But Steve no longer felt quite like a stranger who had wandered into somebody else's evening.
+
+He knew where the table was.
+
+He knew who would be sitting there.
+
+And when he looked across the room, he knew that the small figure half out of her chair, waving both arms over her head, was waving at him.
+
+“STEVE!”
+
+Maddie's voice carried beautifully.
+
+Steve lifted the napkin in acknowledgment.
+
+Nat, seated beside her, applauded with solemn dignity. Sofia raised her glass. Tori closed her eyes for a moment in what looked like prayer.
+
+Chloe smiled.
+
+That was the one that made him briefly forget what he was doing.
+
+She was sitting slightly sideways in her chair, one elegant leg crossed over the other, dark hair falling against the shoulder of her fitted dress. Her earrings caught the light when she moved. She wasn't waving or making a performance of his return.
+
+She was simply pleased to see him.
+
+Steve began threading his way between the tables.
+
+He was nearly halfway there when he noticed the woman at the bar.
+
+She sat alone near the far end, bent over a drink she didn't appear to have touched. She was perhaps in her early thirties, with a soft, round face and copper-colored hair gathered into a loose knot that had begun to fall apart. She wore a green satin blouse beneath a black jacket, and one of her earrings—a little silver star—was missing its partner.
+
+Her shoulders were shaking.
+
+A few feet away, another woman was walking toward the door. She was tall, with sharply cut dark hair and a cream leather jacket that looked expensive enough to make Steve nervous about standing near it. She didn't look back.
+
+The woman at the bar did.
+
+Only once.
+
+Then she pressed the heel of her hand against her mouth.
+
+Steve slowed.
+
+He looked toward the table.
+
+Maddie was still waiting, both hands held out as if expecting him to place Dennis directly into her custody.
+
+He looked back at the bar.
+
+The woman tried to wipe her face with a cocktail napkin. It disintegrated against her wet cheek.
+
+“Oh, hell,” Steve murmured.
+
+He changed direction.
+
+---
+
+“Excuse me.”
+
+The woman looked up.
+
+Steve stopped a respectful distance from her stool.
+
+“Are you okay?”
+
+It was a stupid question, obviously. Her eyes were swollen, mascara had made dark tracks down both cheeks, and she was gripping the edge of the bar as though the floor might move.
+
+She gave a short, broken laugh.
+
+“Do I look okay?”
+
+“No,” Steve said. “Sorry. That was a terrible opening.”
+
+To his relief, she laughed again.
+
+He gestured toward the empty stool beside her.
+
+“Would you like company, or would you rather be left alone?”
+
+She looked at the stool, then at him.
+
+“Company, I think.”
 
 “Okay.”
 
-He looked toward the bartender.
+Steve sat.
 
-“Can I get some water?”
+Up close, he could see that she was trying very hard to hold herself together. Her lipstick was smudged, her nose pink from crying. She had beautiful gray-green eyes, although at the moment they were mostly hidden behind tears.
 
-When it came, he set it near her.
+“I'm Steve.”
 
-“I’m also going to leave this here.”
+“Rachel.”
 
-She laughed once, breaking halfway through.
+“Hi, Rachel.”
 
-“Thanks.”
+“Hi.”
 
-“You’re welcome.”
+They sat quietly for a moment.
 
-He started to turn away.
+Steve wasn't sure what to do with his hands. He settled them around the edge of the stool.
 
-“Wait.”
+“Can I get you some water?”
 
-She looked at the empty stool beside her.
+She nodded.
 
-He sat, not too close.
+He caught the bartender's attention and asked for two glasses.
 
-For a moment neither of them spoke.
+When they arrived, Rachel took hers in both hands.
 
-“Three years,” she said.
-
-Steve winced.
-
-“Fuck.”
-
-“Yeah.”
-
-“I’m sorry.”
-
-“She said she loves me.”
+“She broke up with me.”
 
 Steve glanced toward the door.
 
-“That’s inconvenient.”
+“The woman who just left?”
 
-The woman laughed, tiny and wet.
+Rachel nodded.
 
-“Right?”
-
-“Extremely.”
-
-“She said she just doesn’t think she’s *in* love with me anymore.”
-
-“That’s worse.”
-
-“I know.”
-
-Her eyes filled again. She looked away, and Steve looked away too.
-
-After a few seconds she said, “I feel stupid.”
-
-“Why?”
-
-“Because everybody knew.”
-
-“Did they tell you?”
-
-“No.”
-
-“Then they didn’t know.”
-
-“They suspected. They said there were signs.”
-
-“There are always signs after you know what happened.”
-
-She gave him a strange little smile.
-
-“You an engineer?”
-
-“Unfortunately.”
-
-“Software?”
-
-“How’d you know?”
-
-“You said reverse-engineering inevitability like it was a normal sentence.”
-
-“Fair.”
-
-She took the water. Her hand shook. Steve pretended not to notice.
-
-Across the room, the others were watching him.
-
-Nat was particularly bad at pretending not to. Tori took her glass away and turned her back toward the table.
-
-“Subtle,” Tori said.
-
-“I was being subtle.”
-
-“You rotated your entire torso.”
-
-“I have breasts. They affect aerodynamics.”
-
-Maddie nodded.
-
-“That’s true.”
-
-“It is not relevant.”
-
-Sofia wasn’t laughing. She was watching Steve.
-
-Not because he’d gone over. Any of them might have.
-
-It was the change.
-
-Five minutes earlier he’d been arguing with Nat about enterprise sales commissions. Now he sat sideways on a bar stool, shoulders curved toward a stranger without crowding her.
-
-Everything sharp about him had gone quiet.
-
-His hands moved when he talked.
-
-Small.
-
-Easy.
-
-Open.
-
-When the woman spoke, his whole face listened.
-
-“He’s good at that,” Chloe said.
-
-Sofia nodded.
-
-“Yes.”
-
-Steve hadn’t become someone else.
-
-If anything, the opposite.
-
-He seemed less occupied. Less aware of his body. Less concerned with what anyone might make of him.
-
-The woman said something, and his expression changed.
-
-Tender.
-
-Not pity.
-
-Just—
-
-Tender.
-
-Chloe felt something unpleasantly warm behind her ribs.
-
-Nat followed her eyes.
-
-“Still attracted to him?”
-
-“Yes.”
-
-The answer came too quickly.
-
-Chloe sighed.
-
-“Well. Fuck.”
-
-Maddie leaned across Sofia.
-
-“Do you feel less gay?”
-
-“No.”
-
-“More gay?”
-
-“No.”
-
-“The same amount?”
-
-“Maddie.”
-
-“I’m establishing a baseline.”
-
-Tori put her face in her hands.
-
-Chloe laughed despite herself.
-
-Sofia asked, “Do you have to solve it tonight?”
-
-Chloe looked back toward Steve.
-
-The woman at the bar had moved closer to him. Not romantically. She was simply no longer sitting alone.
-
-“No,” Chloe said.
-
-She didn’t have to solve it tonight.
-
-That helped.
-
-At the bar, the woman blew her nose into a cocktail napkin.
-
-“This is disgusting.”
-
-Steve handed her another.
-
-“I have seen worse.”
-
-“You don’t even know me.”
-
-“That’s true.”
-
-“Why are you being nice to me?”
-
-“You’re having a shitty night.”
-
-“That’s it?”
-
-“Is there supposed to be an application?”
-
-She laughed again, then leaned sideways and put her head against his shoulder.
-
-Steve froze.
-
-Not because he minded.
-
-Because he didn’t know the rules.
-
-He glanced toward the table. Five women immediately became interested in unrelated objects.
-
-Useless.
-
-The woman was crying quietly. Steve relaxed, shifted so she wasn’t balanced awkwardly, and settled a hand between her shoulder blades.
-
-“I’m sorry,” she whispered.
-
-“You have literally nothing to apologize for.”
-
-“I got mascara on your shirt.”
-
-Steve looked down.
-
-“Okay. That one’s pretty serious.”
-
-She laughed against his shoulder.
-
-“Dry cleaning may be involved.”
-
-“I’ll pay.”
-
-“Let’s not make commitments while you’re emotionally compromised.”
-
-She laughed harder.
-
-“You’re sweet.”
-
-“Don’t spread that around.”
-
-She lifted her head. Her eyes were red.
-
-“You’re a good girl.”
-
-Steve paused.
-
-Normally he’d correct it.
-
-Automatically.
-
-*Guy.*
-
-Easy. Simple.
-
-But she was looking at him with mascara streaked down her face and a relationship bleeding out somewhere behind her.
-
-This did not seem like the moment to hold a seminar.
-
-“Drink your water,” he said.
-
-She did.
-
-A friend finally appeared from the crowd.
-
-“Oh my God. There you are.”
-
-The woman stood. Her friend wrapped both arms around her.
-
-Steve got up.
-
-“She’s had some water.”
-
-The friend looked at him.
-
-“Thank you.”
-
-The woman hugged him.
-
-He hadn’t expected it, but hugged her back.
-
-“Thank you,” she whispered.
-
-“You’re okay.”
-
-“I don’t feel okay.”
-
-“No. Probably not.”
-
-She laughed against him.
-
-“But you don’t have to tonight.”
-
-Her friend led her away.
-
-Steve watched until they disappeared, then looked down at his shirt.
-
-Mascara.
-
-“Goddammit.”
-
-When he returned to the table, everyone was behaving normally.
-
-Again.
-
-Steve stopped.
-
-“No.”
-
-Chloe looked up.
-
-“What?”
-
-“We already did this. The fake normal thing.”
-
-Nat was biting the inside of her cheek.
-
-“Whatever you’re about to say, don’t.”
-
-“I wasn’t going to say anything.”
-
-“That’s a lie.”
-
-“It is,” Tori said.
-
-Sofia slid a clean napkin toward him.
-
-“For your shirt.”
-
-“Thanks.”
-
-Chloe watched him.
-
-“You okay?”
-
-“Me?”
-
-“Yes.”
-
-“I’m fine.”
-
-“How is she?”
-
-“Not fine. But her friend found her.”
-
-“Good,” Sofia said.
-
-Steve dabbed at the stain.
-
-Nobody said anything.
-
-He looked up.
-
-Five women.
-
-Again.
-
-“What?”
-
-“Nothing,” Chloe said.
-
-Steve laughed.
-
-“I’m going to start charging you every time you say that.”
-
-“Put it on my tab.”
-
-Nat lasted four seconds.
-
-“You didn’t correct her.”
-
-Steve looked at her.
-
-“Correct who?”
-
-“The woman.”
+“Three years.”
 
 “Oh.”
 
-He shrugged.
+“Three years, and apparently she's been thinking about it for months.”
 
-“She was crying.”
+Steve winced.
 
-“So?”
+“That's a rough thing to find out over drinks.”
 
-“So it didn’t matter.”
+“She said she didn't want to ruin my week.”
 
-Sofia looked at him.
+Rachel stared into her water.
 
-Steve caught it.
+“So she waited until Saturday night.”
 
-“What?”
+“That was considerate of her,” Steve said.
 
-“Nothing.”
+Rachel gave a startled snort.
 
-“Jesus Christ.”
+“Sorry,” he added. “I don't know her. I shouldn't—”
 
-Chloe reached for the last mozzarella stick.
+“No.” She shook her head. “No, that was funny.”
 
-Steve slapped her hand away.
+He let the silence settle again.
 
-“Absolutely not.”
+Around them, the bar continued being a bar. Glasses clinked. Someone called for another round. A woman behind them complained affectionately that her girlfriend had stolen her fries.
 
-“I’ve been emotionally supporting you.”
+Rachel seemed to hear none of it.
 
-“You’ve been staring at me.”
+“She said I've been too much lately.”
 
-“Supportively.”
+Steve turned slightly toward her.
 
-“You’re terrible at this.”
+“Too much how?”
 
-“And yet.”
+“Needy. Emotional. Always wanting reassurance.”
 
-She reached again. Steve moved the basket. Chloe grabbed his wrist.
+Rachel twisted the glass between her palms.
 
-Nat said, “Oh, this is pathetic.”
+“And maybe I have. Work's been awful, and my mom's been sick, and I've been tired all the time. I know I haven't been fun.”
 
-“Stay out of it,” Steve and Chloe said together.
+Steve considered that.
 
-They stopped.
+“Did she tell you she was unhappy?”
 
-Nat’s eyes widened.
+“Not really.”
 
-Maddie whispered, “Marriage.”
+“Did she ask for something to change?”
 
-Tori pointed at her.
+Rachel shook her head.
 
-“No.”
+“She just kept saying everything was fine.”
 
-Steve and Chloe started laughing.
+“Then I'm not sure how you were supposed to know.”
 
-He pushed the last mozzarella stick toward Chloe.
+Rachel looked at him.
 
-“Fine.”
+“I should have noticed.”
 
-She broke it in half and put one half on his napkin.
+“Maybe,” Steve said. “People miss things. But there's a difference between missing something and being responsible for somebody else's decision not to tell you.”
 
-Steve looked at it, then at her.
+Her face crumpled.
 
-“What?”
+“Oh, God.”
 
-“Nothing.”
+“Sorry.”
 
-He smiled.
+“No, it's—”
 
-“Asshole.”
+She covered her eyes.
 
-“Engineer.”
+Steve waited.
 
-“Project manager.”
+“I kept asking if she was okay,” Rachel said through her hands. “I knew something was wrong. And every time she said she was fine, I thought I was being paranoid.”
 
-“Careful.”
+He felt an ache in his chest.
 
-The night kept going.
+“Rachel, you were asking. That's not nothing.”
 
-That was the strangest part.
+She lowered her hands.
 
-Nothing enormous happened. Nobody confessed anything. Nobody became someone else.
+“What if she was right about me?”
 
-They just kept talking.
+“About what?”
 
-Maddie showed Steve her photographs: a woman laughing on a bus, an old man asleep beside a grocery bag, two children watching rain through a laundromat window.
+“Being too much.”
 
-Steve stopped swiping.
+Steve looked at her carefully.
 
-“These are really good.”
+“You're having a difficult time. Your mom's sick. Your job is miserable. You wanted someone you loved to be there for you.”
 
-Maddie went quiet.
+He hesitated.
 
-“Yeah?”
+“That sounds like being a person.”
 
-“Yeah.”
+Rachel started crying properly then.
 
-No joke. No qualification.
+Not the restrained, apologetic tears she'd been trying to manage, but the kind that made her breath catch and her shoulders fold inward.
 
-Her smile became smaller.
+Steve shifted closer.
 
-Realer.
+“Hey,” he said softly. “It's okay.”
 
-“Thanks.”
+“I look awful.”
 
-Then Nat said something offensive about artists, and Maddie threw a napkin at her.
+“You look like you've had an awful night.”
 
-Normal service resumed.
+“That's a diplomatic answer.”
 
-At eleven forty-three, Steve checked the time.
+“I'm a software engineer. Diplomacy isn't usually one of our strengths.”
 
-“Shit.”
+She laughed through her tears.
 
-Chloe looked at his phone.
+Then, very tentatively, she leaned against him.
 
-“Pumpkin?”
+Steve put an arm around her shoulders.
 
-“I have things to do tomorrow.”
+Her head settled against his dark blue shirt.
 
-“It’s Sunday.”
+He could feel her trying to steady her breathing.
 
-“Sunday contains things.”
+He didn't say anything.
 
-“Such as?”
+There were moments when words helped, and moments when they simply demanded that the other person do something with them. Rachel had already been given enough to deal with tonight.
 
-“Laundry.”
+So he sat with her.
 
-Nat stared.
+After a while she whispered, “You're a good girl.”
 
-“You’re leaving us for laundry?”
+Steve glanced down at the copper-colored head resting against his shoulder.
 
-“Clean clothes are the foundation of civilization.”
+He could have corrected her.
 
-Tori nodded.
+Earlier that evening, with Chloe and the others, he'd done exactly that when they'd misunderstood who he was. He'd wanted them to know. It had mattered, at least enough for him to explain.
 
-“Finally, he’s making sense.”
+Here, with Rachel shaking against him, the words felt beside the point.
 
-Steve stood.
+She wasn't asking him a question.
 
-What surprised him was that he didn’t particularly want to leave.
+She was thanking him.
 
-He picked up his jacket.
+“I'm glad I could help,” he said.
 
-Dennis fell out of his pocket.
+Across the room, five women had gone unusually quiet.
 
-Maddie gasped.
+Maddie had been watching Steve's progress toward their table with the intensity of a woman waiting for a delayed flight. When he'd turned toward the bar instead, she'd opened her mouth to protest.
 
-Steve caught the napkin.
+Then she'd seen Rachel.
 
-“Jesus.”
+Now she sat with both hands wrapped around her glass, the folded-napkin emergency temporarily forgotten.
 
-“You almost killed him.”
+Chloe leaned forward.
 
-“He’s paper.”
+Her dark hair slipped over one shoulder. A bracelet shifted at her wrist as she rested her hand on the table.
 
-“He has a family.”
+“Is he okay?” she asked.
 
-“He’s a tax accountant Pegasus.”
+“He's fine,” Nat said, though her attention remained fixed on the bar.
 
-“Exactly. Dependents.”
+Nat's blonde hair was swept back from her face, and the gold at her throat glinted against her dress. She'd been smiling a moment earlier. Now she watched Steve with an expression that was difficult to read.
 
-Steve folded Dennis carefully and put him back in his pocket.
+At the bar, Rachel said something they couldn't quite catch.
 
-Maddie smiled.
+Steve answered quietly.
 
-He pretended not to notice.
+The next exchange carried through a brief lull in the music.
 
-“Okay,” he said. “Well.”
+“...a good girl.”
 
-That was apparently all he had.
+And then Steve's response.
 
-He hated goodbyes.
+No correction.
 
-Not emotionally.
+No explanation.
 
-Structurally.
+Just kindness.
 
-There was never a clean termination condition.
+Tori's immaculate nails rested against the stem of her glass. Her pearls were perfectly arranged above the soft blouse tucked into her dark skirt.
 
-“Nice meeting you.”
+“Well,” she said.
 
-Nat frowned.
+Sofia turned toward Chloe. Her glossy hair swung against her cheek, setting her earrings in motion.
 
-“That sounds like you’re never coming back.”
+“Don't,” Chloe said.
 
-Steve blinked.
-
-Chloe looked at him.
-
-Not pushing.
-
-Just looking.
-
-Steve realized he wanted to come back.
-
-Not because Brittney would ask. Not because he’d failed to prove anything.
-
-He wanted another night like this.
-
-Maybe not exactly like this.
-
-Preferably with fewer identity hearings.
-
-But—
-
-This.
-
-Them.
-
-“I’m not saying that.”
-
-Nat nodded.
-
-“Good.”
-
-She held out her hand.
-
-“Phone.”
-
-“Why?”
-
-“Give it.”
-
-“No.”
-
-Nat looked at Chloe.
-
-“Give her your phone,” Chloe said.
-
-“Why are you helping?”
-
-“I’m curious.”
-
-Sofia held out her hand too.
-
-“This feels like a mugging.”
-
-“Technically, robbery,” Tori said.
-
-“Not helping, Counselor.”
-
-Steve sighed and handed Nat his phone.
-
-“Do not buy anything.”
-
-“I have standards.”
-
-“You work in Sales.”
-
-“Fuck you.”
-
-Her thumbs moved.
-
-“What are you doing?”
-
-“Improving your life.”
-
-“That’s exactly what Brittney says.”
-
-The table went silent.
-
-Steve froze.
-
-Chloe smiled.
-
-“Oh, no.”
-
-Nat started laughing.
-
-Steve pointed at all of them.
-
-“No collaboration.”
-
-Sofia was already reaching for her phone.
-
-“No.”
-
-“I didn’t do anything.”
+“I haven't said anything.”
 
 “You were about to.”
 
-“You don’t know that.”
+“I was going to ask whether you're all right.”
 
-“I know your face now.”
+Chloe watched Steve.
 
-Sofia looked delighted.
+He looked impossibly small beside the broad bar, narrow boots hooked against the stool's footrest, one arm around a woman he'd met perhaps ten minutes ago. His soft hair fell across his forehead when he bent his head to listen.
 
-“Fast learner.”
+“Yes,” Chloe said eventually. “I'm all right.”
 
-Chloe took out her phone.
+Sofia's expression softened.
 
-Steve stared.
+“And you're still attracted to him.”
 
-“Put it down.”
+Chloe let out a breath.
 
-“Why?”
+“Yes.”
 
-“You have Brittney’s number. Do not text my sister.”
+“Does that need to mean anything tonight?”
 
-“I wasn’t going to.”
+Chloe looked at her.
 
-Her phone buzzed.
+Sofia lifted one shoulder.
 
-She looked at it, then at Steve.
+“It's a question.”
 
-Her face went blank.
+Chloe turned back toward the bar.
 
-Too blank.
-
-“Who is that?”
-
-Nobody answered.
-
-Chloe turned the screen around.
-
-**Brittney:** Is he still there?
-
-The table detonated.
-
-Nat screamed. Sofia folded over against Tori. Maddie slid halfway out of her chair. Tori laughed so hard she had to put down her drink.
-
-Steve stood perfectly still.
-
-Horror arrived in stages.
-
-Brittney had Chloe’s number.
-
-Brittney knew he was still there.
-
-She had apparently been waiting.
-
-There was no firewall.
-
-There had never been a firewall.
-
-“Do not answer that,” Steve said.
-
-Chloe wiped tears from her eyes.
-
-“I would never betray you.”
-
-“Thank you.”
-
-She typed.
-
-Steve lunged.
-
-“CHLOE.”
-
-She pulled the phone away.
-
-He stopped. He could not wrestle a woman he’d known two hours for her phone in the middle of a lesbian bar.
-
-There were rules.
-
-Probably.
-
-“What did you send?”
-
-“Nothing bad.”
-
-“That’s meaningless.”
-
-She showed him.
-
-**Chloe:** Yes.
-
-Steve stared.
-
-“That is technically nothing bad.”
-
-“Thank you.”
-
-Her phone buzzed.
-
-**Brittney:** Huh.
-
-Steve knew that *huh*.
-
-He had known it since childhood. It had preceded lies about broken lamps, three girlfriends, two terrible haircuts, a failed dishwasher repair, and one memorable Thanksgiving.
-
-“She’s thinking,” he said.
-
-“People do,” Chloe replied.
-
-“Not like that.”
-
-Another buzz.
-
-**Brittney:** Don’t scare him off.
-
-The laughter stopped.
-
-Not completely.
-
-But enough.
-
-Steve stared at the message.
-
-Something warm moved through him.
-
-Because that was Brittney too.
-
-Underneath the nagging. Underneath the manipulation. Underneath thirty-five years of being the single most irritating human being alive.
-
-*Don’t scare him off.*
-
-Not *fix him.*
-
-Not *tell him.*
-
-Not *make him understand.*
-
-Just—
-
-Don’t ruin something he might like.
-
-Steve looked away.
-
-“She’s such an asshole.”
-
-Chloe’s voice was softer.
-
-“Yeah.”
-
-Steve looked back.
-
-Chloe smiled.
-
-He smiled too.
-
-“Don’t tell her I said that.”
-
-“Never.”
-
-“I mean it.”
-
-“Steve.”
-
-“What?”
-
-“She’s going to know.”
-
-“Fuck.”
-
-Nat handed his phone back.
-
-There was a new group chat.
-
-**Blush Witness Protection**
-
-Participants:
-
-Chloe.
-
-Nat.
-
-Maddie.
-
-Tori.
-
-Sofia.
-
-Steve.
-
-Steve stared at it.
-
-“No.”
-
-His phone buzzed.
-
-**Nat:** TEST
-
-Another.
-
-**Tori:** Please stop.
-
-**Maddie:** Dennis says hello.
-
-**Sofia:** Get home safe ❤️
-
-They were all holding phones.
-
-“This is a cult.”
-
-“Too late,” Nat said.
-
-“I’m leaving.”
-
-Chloe stood.
-
-Steve looked at her.
-
-For one strange second the table receded.
-
-His attention narrowed.
-
-Chloe tucked a strand of hair behind one ear.
-
-“You coming back?”
-
-A simple question.
-
-Steve could have joked.
-
-Instead:
-
-“Yeah.”
-
-Chloe smiled.
+“No,” she said. “I don't think it does.”
 
 “Good.”
 
-She held out her phone.
+Maddie reached for her phone.
 
-“Your number.”
+“What are you doing?” Tori asked.
 
-“I’m in the group chat.”
+“Texting Brittney.”
+
+Nat was already unlocking hers.
+
+“Privately,” she said.
+
+“Obviously,” Maddie replied. “I'm chaotic, not incompetent.”
+
+Sofia gave her a look.
+
+Maddie considered.
+
+“Not entirely incompetent.”
+
+A private conversation began, phones held low beneath the table. None of the messages appeared in Blush Witness Protection.
+
+At the bar, Rachel had finally stopped crying hard enough to speak in full sentences.
+
+“I'm sorry about your shirt.”
+
+Steve looked down.
+
+A gray-black smear marked the fabric near his shoulder.
+
+“Oh.”
+
+“That's mascara.”
+
+“I gathered.”
+
+“I've ruined it.”
+
+“It's a shirt.”
+
+“It's a nice shirt.”
+
+“Thank you.”
+
+“I'm serious.”
+
+“So am I.”
+
+Rachel stared at him, then laughed.
+
+“You're very strange.”
+
+“I've been told.”
+
+She sat up, wiping carefully beneath her eyes.
+
+“My friend is coming.”
+
+“Good.”
+
+“I texted her before you came over.”
+
+“Also good.”
+
+Rachel took another sip of water.
+
+“Do you think I'll be okay?”
+
+Steve looked at her.
+
+He didn't know. He didn't know Rachel, or her girlfriend, or what three years of their lives had been like. He certainly couldn't promise that tomorrow would feel better.
+
+“I think tonight is going to hurt,” he said. “And probably tomorrow too.”
+
+She nodded miserably.
+
+“But I don't think tonight gets to decide everything about you.”
+
+Rachel stared at him for a long moment.
+
+Then she squeezed his hand.
+
+A few minutes later, a woman in a bright red coat hurried through the entrance, scanning the room. She had a close-cropped silver-blonde haircut, a broad face, and the purposeful stride of someone who'd already decided she was taking charge.
+
+“Rachel?”
+
+Rachel turned.
+
+“Oh, thank God.”
+
+The woman reached them in seconds.
+
+“Sweetheart.”
+
+Rachel stood and practically fell into her arms.
+
+The newcomer held her tightly, one hand against the back of her head.
+
+Steve rose from his stool.
+
+“I'm Dana,” the woman said over Rachel's shoulder.
+
+“Steve.”
+
+Dana looked from him to Rachel, then to the mascara stain on his shirt.
+
+Understanding crossed her face.
+
+“Thank you.”
+
+“Of course.”
+
+“No,” Dana said firmly. “Really. Thank you.”
+
+Rachel pulled back enough to look at him.
+
+“You're very sweet.”
+
+Steve smiled.
+
+“Get home safe.”
+
+Dana guided Rachel toward the door, keeping an arm around her waist.
+
+Rachel looked back once.
+
+Steve raised a hand.
+
+Then he turned toward the table.
+
+Maddie was standing.
+
+She pointed at his shirt.
+
+“WHAT HAPPENED TO YOU?”
+
+Steve glanced down at the mascara.
+
+He held up Dennis.
+
+“Long story.”
+
+---
+
+“You were gone forever,” Maddie informed him.
+
+“Approximately fifteen minutes.”
+
+“Time is subjective.”
+
+“Not generally in accounting.”
+
+“Dennis disagrees.”
+
+Steve handed over the folded napkin.
+
+Maddie received it with both hands, solemn as a priestess accepting a sacred relic.
+
+“My boy.”
+
+Nat pulled out the empty chair.
+
+“Sit down.”
+
+“I really should—”
+
+“Sit,” Tori said.
+
+Steve sat.
+
+He wasn't entirely sure why that worked.
+
+Maddie placed Dennis carefully beside her phone, where he could supervise the remainder of the evening.
+
+Chloe looked at Steve's shoulder.
+
+“Are you okay?”
+
+“Yeah.”
+
+“And the woman?”
+
+“Her friend's taking her home.”
+
+“Good.”
+
+Steve glanced between them.
+
+“You saw that?”
+
+“We were about twenty feet away,” Nat said.
+
+“And,” Tori added, “you weren't exactly concealed.”
+
+Steve looked down at his shirt.
+
+“Right.”
+
+Sofia leaned toward him.
+
+“You were kind to her.”
+
+“She was having a bad night.”
+
+“Clearly,” Nat said. “But that doesn't mean everyone would have stopped.”
+
+Steve shrugged.
+
+It hadn't seemed like a decision at the time.
+
+He'd seen someone crying.
+
+He'd gone over.
+
+That was all.
+
+Nat tilted her head.
+
+“Can I ask you something?”
+
+“Sure.”
+
+“The woman called you a good girl.”
+
+Steve froze for half a second.
+
+Then he looked at her.
+
+“You heard that?”
+
+“We heard some of the conversation,” Nat said. “Not all of it.”
+
+“Oh.”
+
+“And you didn't correct her.”
+
+Steve rubbed a thumb against the edge of the table.
 
 “I know.”
 
-Oh.
+Earlier, the misunderstanding had been almost funny. Five women had assumed he was a lesbian, and he'd spent an increasingly absurd amount of time explaining that he wasn't.
 
-Right.
+He'd been embarrassed, but he'd also wanted to set things straight.
 
-That.
+This felt different.
 
-He entered his number.
+“She was upset,” he said.
 
-Chloe called it.
+Nat waited.
 
-Steve’s phone buzzed.
+“I mean, really upset. She'd just been dumped, and she was blaming herself for everything, and I didn't think the most useful thing I could do was interrupt her to explain my gender.”
 
-**Unknown Number.**
+Tori's mouth twitched.
 
-“Efficient.”
+“A reasonable assessment.”
 
-“Project manager.”
+Steve looked toward Chloe.
 
-“Terrible people.”
+“It's not that I changed my mind about what I told you.”
 
-“Engineers?”
+“I know,” Chloe said.
 
-“Project managers.”
+Something in her voice eased the tension in his shoulders.
 
-“Careful.”
+“I just didn't want to make it about me.”
 
-Steve saved the contact.
+“You didn't,” Sofia said.
 
-**Chloe Bennett.**
+Maddie leaned forward.
 
-He looked at the name for a second longer than necessary.
+“For the record, if somebody cries mascara onto my clothes, I absolutely make it about me.”
 
-Then put his phone away.
+Nat laughed.
 
-“Goodnight, weirdos.”
+“That's because you once declared a stain on your sleeve a personal betrayal.”
 
-Nat gasped.
+“It was red wine on cream cashmere.”
 
-“That’s affectionate.”
+“You were drinking the wine.”
 
-“It is not.”
+“That doesn't absolve it.”
 
-“Goodnight, Tiny Engineer.”
+Steve laughed.
 
-“Fuck you, Sales.”
+The conversation loosened around him.
 
-“Sleep well!”
+A plate sat in the middle of the table, holding one lonely mozzarella stick.
 
-Tori raised her glass.
+He reached for it at the same moment Chloe did.
 
-“Drive safely.”
+Their fingers touched.
 
-“I always do.”
+Both stopped.
 
-Maddie pointed at his pocket.
+“Oh,” Steve said. “Sorry.”
 
-“Dennis needs a seat belt.”
+Chloe looked at the mozzarella stick.
 
-“Dennis is going in the glove compartment.”
+Then at him.
 
-“You monster.”
+“I was here first.”
 
-Sofia stood and hugged him.
+“You were not.”
 
-Steve hadn’t expected it, but this time his arms came up immediately.
+“I have excellent reflexes.”
 
-“Goodnight,” she said.
+“You have longer arms.”
 
-“Night.”
+“That sounds like a personal problem.”
 
-Nat hugged him next, then Maddie.
+Steve caught the edge of the plate and drew it slightly toward himself.
 
-Tori looked at him.
+Chloe caught the other side.
 
-Steve looked at Tori.
+Across the table, Nat sighed.
 
-They shook hands and immediately started laughing.
+“Are we really doing this?”
 
-“Oh, thank God,” Steve said. “A professional.”
+“Apparently,” Tori said.
 
-Tori pulled him into a hug.
+Maddie leaned forward.
 
-“Fuck you.”
+“FIGHT.”
 
-Steve laughed against her shoulder.
+Sofia rested her chin on her hand, delighted.
 
-Then Chloe.
+Chloe narrowed her eyes at Steve.
 
-She stood close.
+“Are you going to make me fight you for the last mozzarella stick?”
 
-“Goodnight, Steve.”
+Steve considered her elegant dress, perfect makeup, and the dangerous height of her heels.
 
-“Goodnight.”
+“I think you'd win.”
 
-Neither moved.
+“Correct.”
 
-Steve became aware that there were several possible next actions and no documented procedure.
+He picked up the mozzarella stick.
 
-Chloe solved it.
+Chloe gasped.
 
-She leaned in and kissed his cheek.
+Then Steve broke it in half.
 
-Nothing dramatic.
+He offered her the larger piece.
 
-Warm.
+She looked at it.
 
-Brief.
+“That's suspiciously generous.”
 
-Steve’s brain stopped.
+“I'm trying to avoid litigation.”
 
-“Drive safe,” she said.
+“Dennis is available,” Maddie said.
 
-Steve blinked.
+Chloe accepted the half.
 
-“Yep.”
+Their fingers brushed again.
 
-Excellent.
+“Thank you,” she said.
 
-Strong.
+Steve took a bite of his own.
 
-Masculine.
+For a few seconds, neither of them said anything.
 
-Articulate.
+Then Nat began telling a story about a woman she'd dated who had broken up with her through a shared calendar invitation.
 
-Chloe’s mouth twitched.
+“Subject line?” Tori asked.
 
-Steve recovered approximately four percent.
+“‘Relationship discussion.’”
 
-“Goodnight.”
+Sofia nearly choked on her drink.
 
-“You said that.”
+“No.”
 
-“I’m leaving now.”
+“Yes.”
 
-“Probably wise.”
+“Was there an agenda?”
 
-Steve turned and walked toward the door.
+“Three bullet points.”
 
-He made it twelve feet before his phone buzzed.
+Maddie slapped the table.
 
-**Blush Witness Protection**
+“THAT'S HORRIBLE.”
 
-**Nat:** HE’S BLUSHING
+“It was efficient,” Tori said.
 
-Steve stopped.
+Nat pointed at her.
 
-Slowly turned.
+“Don't you dare.”
 
-Five women were staring at him.
+Tori raised both hands.
 
-Nat waved.
+“I said efficient, not humane.”
 
-Steve raised one finger.
+The stories grew progressively worse.
 
-The table collapsed.
+Sofia had once been broken up with during a furniture-shopping trip, leaving her with a sofa she'd never wanted. Chloe had received a lengthy message from someone who insisted they weren't ending the relationship, merely “restructuring expectations.”
 
-Steve walked out of Blush smiling.
+Steve listened, laughed, and occasionally contributed a small disaster of his own.
 
-He made it to the pink Mini before realizing he was still smiling.
+Maddie, who had been unusually quiet for almost forty seconds, suddenly announced, “What everyone needs is an emotional-support possum.”
 
-He unlocked the car, got in, and sat in the dark for a moment.
+Tori stared at her.
 
-His phone buzzed again.
+“Why a possum?”
 
-A direct message this time.
+“Low expectations. Excellent survival instincts. Willing to play dead when conversations get difficult.”
 
-**Chloe Bennett:** I had fun tonight.
+“Those are not qualifications for emotional support.”
+
+“They're qualifications for surviving my dating history.”
+
+Steve laughed so hard he had to put his water down.
+
+Maddie pointed at him triumphantly.
+
+“See? Dennis agrees.”
+
+“Dennis is a Pegasus,” Steve managed.
+
+“He contains multitudes.”
+
+---
+
+It began with Maddie trying to find a photograph of a possum.
+
+Or at least that was her explanation.
+
+She scrolled through her phone, muttering to herself, while Steve sat beside her and the others debated whether a possum would be welcome in Tori's apartment.
+
+“Absolutely not,” Tori said.
+
+“What if it wore a little sweater?” Nat asked.
+
+“Then it would be an improperly dressed trespasser.”
+
+Maddie stopped scrolling.
+
+“Oh.”
+
+Something in her voice made Steve turn.
+
+“What?”
+
+“Nothing.”
+
+She angled the phone away.
+
+Steve smiled.
+
+“That didn't sound like nothing.”
+
+“It's just a picture.”
+
+“Of a possum?”
+
+“No.”
+
+“Now I'm curious.”
+
+Maddie hesitated.
+
+Then she turned the screen toward him.
+
+It was a photograph of a woman standing alone at a bus stop in the rain.
+
+The image was almost entirely blue-gray: wet pavement, reflected streetlights, a shelter with one broken panel. The woman wore a bright yellow coat and held a paper grocery bag against her chest.
+
+Her face was turned away.
+
+Steve leaned closer.
+
+“That's beautiful.”
+
+Maddie blinked.
+
+“Really?”
+
+“Yeah.”
+
+He looked again.
+
+“The reflections make it feel like she's standing in two different places. There's the actual street, and then there's this whole other city underneath her.”
+
+Maddie stared at him.
+
+Steve enlarged the image carefully.
+
+“And the yellow coat. Everything else is cold, but she's this one warm spot. It's like the whole picture is waiting for her to decide where to go.”
+
+Maddie didn't speak.
+
+He glanced at her.
+
+“Sorry. I'm probably overthinking it.”
+
+“No,” she said.
+
+Her voice was quiet.
+
+“No, you're not.”
+
+She took the phone back, looked at the picture, then swiped to another.
+
+This one showed an elderly man sitting outside a corner store, laughing at something beyond the frame. Sunlight caught the silver in his beard. A plastic bag of oranges rested beside his chair.
+
+Steve smiled.
+
+“I like this one too.”
+
+“Why?”
+
+“Because he looks completely happy, but we don't know what happened. You caught the good part without needing to explain it.”
+
+Maddie's expression changed.
+
+The usual mischief was still there, but something softer had come forward beneath it.
+
+She showed him three more.
+
+A child in red rain boots jumping over a puddle. Two women sharing an umbrella badly, both laughing. A deserted diner counter at dawn, a single coffee cup waiting beneath the window.
+
+Steve took his time with each.
+
+He noticed details.
+
+He asked questions.
+
+And when he said he liked something, he explained why.
+
+By the time Maddie put the phone down, her cheeks had gone faintly pink.
+
+“Thank you,” she said.
+
+Steve looked surprised.
+
+“For what?”
+
+“For actually looking.”
+
+He frowned slightly.
+
+“Of course I looked.”
+
+Maddie smiled at him.
+
+For once, she didn't turn the moment into a joke.
+
+Around the table, the others had become occupied with their own conversations, although Steve suspected Chloe was listening.
+
+He looked down at Dennis, still folded neatly beside Maddie's glass.
+
+Something occurred to him.
+
+“Wait.”
+
+Maddie looked up.
+
+“How did you know I had Dennis?”
+
+She blinked.
+
+“What?”
+
+“When I left. How did you know Chloe had put him back in my pocket?”
+
+Maddie looked toward Chloe.
+
+Chloe raised her eyebrows.
+
+“Don't look at me.”
+
+Nat covered her mouth.
+
+Steve turned back to Maddie.
+
+“Maddie.”
+
+She began twisting one of her delicate rings around her finger.
+
+A small blue ink mark remained near her thumb.
+
+“Well.”
+
+Steve waited.
+
+“Well, I might have asked Chloe whether you still had him.”
+
+“Why?”
+
+“Because Dennis was missing.”
+
+“He was in my pocket.”
+
+“Yes.”
+
+“You knew he was in my pocket.”
+
+“Possibly.”
+
+Steve stared at her.
+
+Then understanding arrived.
+
+“Oh.”
+
+Maddie looked down.
+
+“I was sad you left.”
+
+The words were almost lost beneath the music.
+
+Steve stopped smiling.
+
+Maddie gave a little shrug.
+
+“I know that's stupid. We just met you. And you're coming back Friday. Probably. Maybe. Whatever.”
+
+She picked at the edge of a coaster.
+
+“I was having fun.”
+
+Steve looked at her.
+
+He'd spent much of the evening feeling as though he were being carried along by something larger and louder than himself. These women seemed to have known each other forever. Their affection was effortless, their teasing practiced, their conversations full of history he didn't yet understand.
+
+He hadn't considered that his leaving might matter.
+
+Not really.
+
+“You could have just asked me to come back,” he said.
+
+Maddie looked up.
+
+“What?”
+
+“You didn't need a fictional tax accountant.”
+
+“He's a very good accountant.”
+
+“I'm sure he is.”
+
+Steve smiled.
+
+“But you could have said you wanted me to stay.”
+
+Maddie looked at him for a moment.
+
+Then she reached across the table and caught his hand.
+
+“Okay,” she said.
+
+Her fingers were warm.
+
+“Next time.”
+
+Steve squeezed them gently.
+
+“Next time.”
+
+Nat made a suspicious little noise.
+
+Maddie released his hand and pointed at her.
+
+“DON'T.”
+
+“I didn't say anything.”
+
+“You were thinking loudly.”
+
+“I have a very expressive face.”
+
+Tori lifted her glass.
+
+“To Dennis,” she said.
+
+Sofia followed.
+
+“To Dennis.”
+
+Chloe raised hers.
+
+“To bringing people back.”
+
+Steve looked at her.
+
+She held his gaze for a moment.
+
+Then Maddie shouted, “TO TAX FRAUD,” and the entire table dissolved.
+
+---
+
+Steve checked the time.
+
+Then checked it again, as if the numbers might have improved.
+
+“Oh, no.”
+
+Chloe looked at him.
+
+“What?”
+
+“I really have to go.”
+
+Maddie made a wounded sound.
+
+“No.”
+
+“Yes.”
+
+“We just got you back.”
+
+“And now you have Dennis.”
+
+Maddie glanced at the napkin.
+
+“That was a tactical error.”
+
+Steve laughed and reached for his jacket.
+
+Sunday was waiting for him. Laundry, groceries, the apartment, all the ordinary obligations that had seemed unremarkable before tonight and now felt like an unfortunate administrative burden imposed upon a perfectly good evening.
+
+He stood.
+
+This time, no one pretended he wasn't leaving.
+
+Nat rose first.
+
+“Come here.”
+
+She hugged him firmly, gold jewelry cool for an instant against his cheek.
+
+“You did good tonight,” she said quietly.
+
+Steve smiled.
+
+“Thanks.”
+
+Sofia hugged him next, her earrings brushing his hair.
+
+“Get some sleep,” she told him.
+
+“I'll try.”
+
+“That's not the same thing.”
+
+“I know.”
+
+Tori stood with perfect composure and offered her hand.
 
 Steve looked at it.
 
-Then through the windshield at the purple neon reflected across the hood of his ridiculous pink car.
+“A handshake?”
 
-He typed.
+“We are professionals.”
 
-Deleted it.
+He shook it solemnly.
 
-Typed again.
+“Pleasure doing business.”
 
-Deleted that too.
+“Likewise.”
 
-Finally:
+Then she pulled him into a quick hug.
+
+“Don't be a stranger.”
+
+Maddie practically launched herself at him.
+
+Steve caught her, laughing.
+
+“Careful.”
+
+“YOU CAME BACK.”
+
+“I did.”
+
+“AND YOU'LL COME BACK AGAIN.”
+
+“Friday.”
+
+She leaned away enough to study him.
+
+“That's a promise?”
+
+Steve glanced around the table.
+
+Five women were looking at him.
+
+He could have softened it. He could have said he'd try, or probably, or that he'd see how the week went.
+
+Those were his usual answers when he wasn't sure whether people really wanted him somewhere.
+
+He didn't want to give one tonight.
+
+“It's a promise.”
+
+Maddie squeezed him again.
+
+“Good.”
+
+Then Chloe stood.
+
+She'd been quiet during the goodbyes, watching with that small, unreadable smile Steve was beginning to recognize.
+
+For a moment they faced each other.
+
+He was suddenly aware of the difference in their height, particularly with her heels. Of her perfume. Of the dark shine of her hair and the way her dress moved when she stepped closer.
+
+“Can I have a hug too?” she asked.
+
+Steve smiled.
+
+“Yeah.”
+
+She put her arms around him.
+
+He hugged her back.
+
+It was easy.
+
+That surprised him more than anything.
+
+There was no awkward adjustment, no uncertainty about where his hands belonged. She simply held him, warm and real, and he found himself relaxing against her.
+
+“I'm glad you came back,” she said near his ear.
+
+“Me too.”
+
+When they separated, she touched his arm.
+
+“Friday.”
+
+“Friday.”
+
+Steve picked up his jacket and headed toward the door.
+
+Behind him, Maddie called, “DENNIS SAYS GOODNIGHT!”
+
+Steve turned.
+
+Maddie was holding the folded napkin upright.
+
+He gave the little drawing a solemn nod.
+
+“Tell him to file his taxes.”
+
+“HE HAS AN EXTENSION.”
+
+Steve was still laughing when he stepped outside.
+
+---
+
+The Mini felt quiet.
+
+Not silent—the engine hummed, the tires whispered against the pavement, and a song played softly from the speakers—but quiet in the way an empty room feels after a party.
+
+Steve settled into the driver's seat and closed the door.
+
+He looked at himself in the rearview mirror.
+
+His hair was a little disheveled. His shirt was stained. He looked tired.
+
+He was smiling.
+
+He hadn't expected that.
+
+He'd gone out for a beer and somehow ended up spending the night with women who argued over imaginary accountants, threatened to adopt possums, and hugged him goodbye as though he'd been part of their lives for longer than a few hours.
+
+He started the car.
+
+At the first traffic light, his phone buzzed.
+
+**Maddie:** DENNIS IS HOME SAFE
+
+A photograph followed.
+
+Dennis sat propped against a water glass, the tiny sugar-packet office still arranged around him.
+
+**Steve:** Glad to hear it.
+
+**Tori:** His return has been properly documented.
+
+**Sofia:** Please tell me nobody is preparing an invoice.
+
+**Maddie:** TOO LATE
+
+**Nat:** THIRD DEPARTURE WHEN
+
+Steve laughed aloud.
+
+**Steve:** Absolutely not.
+
+**Nat:** You say that now.
+
+**Steve:** I'm going home.
+
+**Maddie:** COWARD
+
+**Tori:** Responsible adult.
+
+**Maddie:** SAME THING
+
+The light turned green.
+
+Steve set the phone aside and drove.
+
+At the next red light, he glanced down again.
+
+**Chloe:** Friday?
+
+He smiled.
+
+**Steve:** Friday.
+
+A moment later, another message appeared.
+
+**Chloe:** I'm glad you came back tonight.
+
+Steve rested one hand on the steering wheel.
+
+Outside, the city moved through its late-night rhythms. A bus pulled away from the curb. Two women walked arm in arm beneath a streetlamp. Somewhere behind him, Blush was still full of music and laughter and the people he'd left there.
+
+He thought about Maddie admitting she'd wanted him to return.
+
+About Rachel crying against his shoulder.
+
+About Chloe asking for a hug.
+
+About how strange it was to discover, in the middle of an otherwise ordinary Saturday, that there were people who might be disappointed when you went home.
+
+The light changed.
+
+He drove another block before he answered.
 
 **Steve:** Me too.
 
-He sent it.
+He put the phone down.
 
-Put the phone facedown on the passenger seat.
-
-Started the car.
-
-Then picked the phone back up and looked at the message again.
-
-Just once.
-
-For quality assurance.
-
-Obviously.
+This time, he kept driving.
