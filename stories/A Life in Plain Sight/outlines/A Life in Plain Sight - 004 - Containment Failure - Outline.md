@@ -26,7 +26,7 @@ Chapter 3 has already covered the identity clarification, second beer and food, 
 
 Dennis is Maddie's drawing on a folded cocktail napkin, not a person. The characters personify the drawing as a tax-accountant Pegasus for comedy.
 
-Chapter 3 is already published and must not be edited for this bridge. It shows Chloe taking Dennis from Steve's shirt pocket and the group saying Chloe has Dennis. Emily's intended continuity is that the drawing subsequently returns to Steve's pocket. Chapter 4 must establish that later handoff here, without contradicting the published removal or messages. The exact return action and timing remain to be settled before prose is drafted.
+Chapter 3 is already published and must not be edited for this bridge. It shows Chloe taking Dennis from Steve's shirt pocket and the group saying Chloe has Dennis. Emily's intended continuity is that the drawing subsequently returns to Steve's pocket. Chapter 4 must establish that later handoff here, without contradicting the published removal or messages. Chloe puts the drawing back in his shirt pocket before he leaves; Scene 1 establishes this through their messages.
 
 ## Chapter purpose
 
@@ -40,7 +40,7 @@ This section records the scene sequence already present in the later Chapter 4 d
 
 **Scene setting:** Inside Steve's pink Mini, a couple of blocks from Blush, immediately after his first departure at the end of Chapter 3. Steve is alone; the women participate through the group chat. He stops at traffic lights, then pulls into a nearby parking lot.
 
-Maddie messages that Steve has Dennis, the drawing on the folded napkin. Steve says Chloe took it from his pocket; Chloe says she gave it back. He searches the car and finds the drawing between the passenger seat and center console. Maddie asks him to bring it back. Despite his plans to go home, he agrees.
+Maddie messages that Steve has Dennis, the drawing on the folded napkin. Steve says Chloe took it from his pocket; Chloe explains that she put it back in his shirt pocket before he left. He checks his pocket and finds the drawing. Maddie asks him to bring it back. Despite his plans to go home, he agrees.
 
 ### Scene 2 — Returning to Blush
 
@@ -94,7 +94,7 @@ Everything below is separate from the established outline above. These are revie
 
 ### Open decisions before drafting
 
-1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
+
 2. Settled by Emily: the women overhear the conversation, including the stranger calling Steve a girl. Establish the table/bar proximity and audible conversation in the prose; do not substitute Steve recounting it.
 3. Private texting is established in Scene 3. Settle the message wording before drafting; Steve does not see it.
 4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
