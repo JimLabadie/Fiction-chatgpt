@@ -46,11 +46,13 @@ Maddie messages that Steve has Dennis, the drawing on the folded napkin. Steve s
 
 **Scene setting:** Blush's parking lot, entrance, and main room, approximately five minutes later. Steve carries the folded napkin. The door attendant recognizes him; the five women remain at their table.
 
-Steve treats the return as a quick errand. Maddie spots him and reacts enthusiastically. On the way to the table, he notices a woman at the bar whose partner has just walked away. Seeing her distress, he changes direction.
+Steve treats the return as a quick errand. Maddie spots him and reacts enthusiastically. On the way to the table, he notices a woman at the bar whose partner has just walked away. Give the distressed woman a fuller physical introduction so the reader can picture her beyond her tears; give her departing partner one or two distinguishing physical details. Seeing her distress, he changes direction.
 
 ### Scene 3 — The woman at the bar
 
 **Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group's table is close enough to the bar for the women to overhear Steve's conversation with the distressed woman, including her calling him a good girl. They can both see and hear the exchange. The scene alternates between the conversation at the bar and the women's reactions. This audibility is established by Emily's clarification; the prose needs to make the physical arrangement clear.
+
+Use familiar visual details of the established cast through their actions rather than introducing them all again: Steve's small, slender frame, fine features, soft hair, dark blue shirt, black jeans, and narrow boots; Chloe's dark hair, fitted dark dress, high heels, makeup, and jewelry; Nat's blonde hair, fitted dress, gold jewelry, and high heels; Tori's dark skirt, soft blouse, pearls, tailored elegance, and immaculate nails; Sofia's glossy dark hair, moving earrings, fitted dress, and perfect manicure; Maddie's patterned dress, open cardigan, slightly escaped styled hair, delicate rings, and ink on her hand. Brittney appears only through texts and needs no physical reintroduction.
 
 Steve offers water, listens to the woman describe the breakup, and helps her resist blaming herself. She rests against his shoulder and gets mascara on his shirt. She calls him a good girl; he lets the assumption pass because her distress matters more to him in that moment.
 
@@ -58,7 +60,7 @@ At the table, the women overhear Steve's conversation with the distressed woman 
 
 During this observation sequence, the women text Brittney privately. Steve does not see the messages. The exchange stays private; there is no phone-screen reveal to Steve in this chapter.
 
-The woman's friend arrives, thanks Steve, and takes her away. Steve returns to the group with Dennis.
+The woman's friend arrives, thanks Steve, and takes her away. Give the arriving friend one or two distinguishing physical details. Steve returns to the group with Dennis.
 
 ### Scene 4 — Back at the table
 
@@ -95,7 +97,6 @@ Everything below is separate from the established outline above. These are revie
 ### Open decisions before drafting
 
 
-4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
 5. Confirm the POV approach for the women's observation scene against the intended series structure.
 6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
 7. Choose Chapter 4's final ending.
