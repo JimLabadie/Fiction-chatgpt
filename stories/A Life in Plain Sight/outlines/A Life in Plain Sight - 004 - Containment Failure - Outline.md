@@ -95,7 +95,6 @@ Everything below is separate from the established outline above. These are revie
 ### Open decisions before drafting
 
 
-2. Settled by Emily: the women overhear the conversation, including the stranger calling Steve a girl. Establish the table/bar proximity and audible conversation in the prose; do not substitute Steve recounting it.
 3. Private texting is established in Scene 3. Settle the message wording before drafting; Steve does not see it.
 4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
 5. Confirm the POV approach for the women's observation scene against the intended series structure.
