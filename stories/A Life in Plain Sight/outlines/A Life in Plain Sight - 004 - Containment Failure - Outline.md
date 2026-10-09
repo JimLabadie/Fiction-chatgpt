@@ -1,6 +1,40 @@
-# A Life in Plain Sight — Chapter 004 — Containment Failure
+# A Life in Plain Sight — Chapter 004 — Containment Failure — Outline
+
+Status: WORKING PLAN — awaiting author review. Chapter 4 is not approved.
+Created: 2026-10-09.
+Purpose: Persist the chapter plan before prose is rewritten, preventing lost story beats, thin description, and drift.
+
+## Author direction and drafting gate
+
+Emily recalls that the proposed Chapter 4 lacked description and lost story material; attempts to outline before writing were unsuccessful. This is the author's reported history, not a recovered chat transcript. The original critique has not yet been located.
+
+The settled Outline section is the sole source of Chapter 4 story content when drafting. Do not import story beats, dialogue, explanations, or decisions from old drafts, chats, recovery notes, or proposed-fix sections unless Emily first incorporates them into Outline. Voice/style requirements govern expression, not additional story content.
+
+Review and settle this plan with Emily before writing replacement chapter prose. Save changes to the plan explicitly. Do not interpret approval of this planning document as approval of an unwritten chapter.
+
+## Sources and authority
+
+- Approved Chapter 3: [Relevant Information](../chapters/approved/A%20Life%20in%20Plain%20Sight%20-%20003%20-%20Relevant%20Information.docx).
+- Earlier Chapter 4: [Containment Failure](../chapters/candidate/A%20Life%20in%20Plain%20Sight%20-%20004%20-%20Containment%20Failure.md).
+- Later Chapter 4: [Containment Failure — Revision](../chapters/candidate/A%20Life%20in%20Plain%20Sight%20-%20004%20-%20Containment%20Failure%20-%20Revision.md).
+- [Voice and Style](../voice-and-style.md), [Culture, Class, and Character Voice](../culture-class-and-character-voice.md), and [Character Bible](../character-bible.md).
+- Existing outline/current-state records contain stale pre-drafting claims. Do not use those claims to override the approved chapter files or Emily's decisions.
+
+## Starting continuity
+
+Chapter 3 has already covered the identity clarification, second beer and food, discovering the family's connections, individual job conversations, joining Blush Witness Protection, invitation to Friday, and first departure with Chloe accompanying Steve to his car. Do not replay these as new developments.
+
+Dennis is Maddie's drawing on a folded cocktail napkin, not a person. The characters personify the drawing as a tax-accountant Pegasus for comedy.
+
+Chapter 3 is already published and must not be edited for this bridge. It shows Chloe taking Dennis from Steve's shirt pocket and the group saying Chloe has Dennis. Emily's intended continuity is that the drawing subsequently returns to Steve's pocket. Chapter 4 must establish that later handoff here, without contradicting the published removal or messages. The exact return action and timing remain to be settled before prose is drafted.
+
+## Chapter purpose
+
+Proposed: deepen voluntary belonging and show Steve's ordinary compassion through action. His return begins with an absurd napkin errand but creates another meaningful connection with the women. Preserve slow-burn identity development; do not turn the group into a diagnostic committee.
 
 ## Outline
+
+This section records the scene sequence already present in the later Chapter 4 draft. It does not include proposed fixes or new story beats. Chapter 4 remains unapproved.
 
 ### Scene 1 — Messages and Dennis
 
@@ -16,7 +50,7 @@ Steve treats the return as a quick errand. Maddie spots him and reacts enthusias
 
 ### Scene 3 — The woman at the bar
 
-**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group's table is close enough to the bar for the women to overhear Steve's conversation with the distressed woman, including her calling him a good girl. They can both see and hear the exchange. The scene alternates between the conversation at the bar and the women's reactions.
+**Scene setting:** At the bar inside Blush. Steve sits beside the distressed woman after she invites him to stay. The group's table is close enough to the bar for the women to overhear Steve's conversation with the distressed woman, including her calling him a good girl. They can both see and hear the exchange. The scene alternates between the conversation at the bar and the women's reactions. This audibility is established by Emily's clarification; the prose needs to make the physical arrangement clear.
 
 Steve offers water, listens to the woman describe the breakup, and helps her resist blaming herself. She rests against his shoulder and gets mascara on his shirt. She calls him a good girl; he lets the assumption pass because her distress matters more to him in that moment.
 
@@ -53,3 +87,55 @@ Steve realizes he genuinely must go home for his Sunday obligations, even though
 **Scene setting:** Inside the pink Mini as Steve leaves Blush for the second time and reaches nearby traffic lights. Steve is alone; the group remains present through messages.
 
 The chat confirms that Dennis is safe and teases Steve about another return. He confirms Friday. Chloe says she is glad he came back; Steve eventually replies that he is too.
+
+## Proposed fixes and discussion
+
+Everything below is separate from the established outline above. These are review notes and possible changes, not events already added to the chapter.
+
+### Description requirements
+
+- Ground every scene in place, movement, distance, and time. Establish sightlines and hearing range between the bar and table.
+- Carry Steve's shirt, jacket, beer/food history, car, phone, and the drawn napkin consistently.
+- Integrate relevant clothing, presentation, posture, expression, lighting, sounds, and touch into action rather than adding an inventory of everyone again.
+- Give the distressed woman enough physical and situational specificity to feel individual. Her name or detailed history is not established by this plan.
+- Preserve Steve's physical self-consciousness versus the ease he has when focused on another person's needs.
+- Let the women's voices and reactions differ; avoid five interchangeable smiles, knowing looks, or turns at interpretation.
+- Restore texture without using repeated explanatory narration to spell out every joke or identity implication.
+
+### Later-version additions to retain or revise deliberately
+
+- Return trip prompted by Dennis.
+- More room for the breakup conversation and the woman's self-blame.
+- Steve's reasoning for not correcting an assumption in that moment.
+- Conversation about breakups and the emotional-support possum.
+- Fuller attention to Maddie's photography and her admission that she wanted Steve to return.
+- Explicit Friday commitment after the second departure.
+
+These are proposed retained beats, not separately approved canon.
+
+### Open decisions before drafting
+
+1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
+2. Settled by Emily: the women overhear the conversation, including the stranger calling Steve a girl. Establish the table/bar proximity and audible conversation in the prose; do not substitute Steve recounting it.
+3. Private texting is established in Scene 3. Settle the message wording before drafting; Steve does not see it.
+4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
+5. Confirm the POV approach for the women's observation scene against the intended series structure.
+6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
+7. Choose Chapter 4's final ending.
+
+## Review and persistence checklist
+
+- Every retained, moved, restored, or omitted beat is accounted for.
+- Description expectations and open decisions are settled in this document.
+- Revised prose follows the saved plan; deviations are surfaced rather than silently substituted.
+- Chapter approval requires Emily's approval of the specific resulting text.
+- On approval: final chapter is a correctly named Word file in GitHub approved; unapproved Markdown versions remain in revisions; corresponding 250/450-word summaries are plain-text files beside the approved chapter.
+- Filename pattern: A Life in Plain Sight - 004 - Containment Failure.docx.
+
+## Author correction — 2026-10-09
+
+Emily confirmed that Chapter 3 is already published and will not receive another edit for Dennis. The continuity bridge belongs in Chapter 4. Dennis is the drawing on the napkin; the intended location after its return is Steve's pocket. No specific handoff prose has yet been approved.
+
+## Author clarification — Scene 3
+
+The women are supposed to overhear Steve's conversation at the bar. Their reactions are based on hearing as well as watching. This belongs in the established scene setting, not among optional proposed solutions.
