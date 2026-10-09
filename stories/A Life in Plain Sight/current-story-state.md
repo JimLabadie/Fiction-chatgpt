@@ -1,11 +1,11 @@
 # A Life in Plain Sight — Current Story State
 
-Status: PLANNING; NO CHAPTER PROSE WRITTEN OR APPROVED
+Status: CHAPTERS 1–3 APPROVED; CHAPTER 4 OUTLINE REVIEWED; CHAPTER 4 UNAPPROVED
 
-Last approved chapter: None.
-Exact prose stopping point: None.
-Planned opening: Steve enters Blush after finally giving in to Brittney's nagging, intending to get shot down and prove her wrong.
-Canonical date/time, physical position, clothing, carried objects, and exact present supporting cast beyond the approved opening roles: Not yet established.
+Last approved chapter: 003 — Relevant Information (already published).
+Current work: Chapter 4 — Containment Failure. Outline review completed; no replacement chapter prose written or authorized in this session.
+
+See [Series Bible — current planning](series-bible.md#current-chapter-planning--2026-10-09) and the saved [Chapter 4 outline](outlines/A%20Life%20in%20Plain%20Sight%20-%20004%20-%20Containment%20Failure%20-%20Outline.md). The outline is the only source of truth for writing Chapter 4. Scene 7 is the ending and all seven working questions are resolved.
 
 ## Starting knowledge and emotional state
 
@@ -49,11 +49,7 @@ Metafiction does not erase continuity, stakes, consent, or consequences.
 
 ## Next work
 
-The most useful next development is the individual composition of Chloe's girls / eventual relationship circle and Chloe's fuller personality: names, ages, jobs, presentation, humor, flaws, relationships, who is most suspicious of Steve first, and how each woman independently comes to like him.
-
-After that, develop the concrete opening-night mechanics and choose the formal POV structure before drafting Chapter 1.
-
-No immediate scene action or chapter text has yet been authorized as an accepted event.
+Continue in chat with Emily from the saved Chapter 4 outline. This handoff does not authorize drafting. Do not rewrite published Chapter 3. Chapter 4 prose review, author approval, and final Word document and summary persistence await the corresponding work and authorization.
 
 ## Open plans and source records
 
