@@ -88,7 +88,7 @@ Steve realizes he genuinely must go home for his Sunday obligations, even though
 
 **Scene setting:** Inside the pink Mini as Steve leaves Blush for the second time and reaches nearby traffic lights. Steve is alone; the group remains present through messages.
 
-The chat confirms that Dennis is safe and teases Steve about another return. He confirms Friday. Chloe says she is glad he came back; Steve eventually replies that he is too.
+The chat confirms that Dennis is safe. Nat jokes, “THIRD DEPARTURE WHEN,” teasing that Steve might return again and then have to leave a third time. Steve rejects another arrival that night. This is a joke about a possible future third departure; his actual departure here is his second. He confirms Friday. Chloe says she is glad he came back; Steve eventually replies that he is too.
 
 ## Proposed fixes and discussion
 
@@ -97,7 +97,6 @@ Everything below is separate from the established outline above. These are revie
 ### Open decisions before drafting
 
 
-6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
 7. Choose Chapter 4's final ending.
 
 ## Review and persistence checklist
