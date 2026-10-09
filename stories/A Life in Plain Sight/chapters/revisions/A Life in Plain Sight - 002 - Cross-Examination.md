@@ -7,28 +7,6 @@ She didn't announce anything.
 
 She just got inside.
 
-He wasn't entirely certain how he'd ended up at their table in the first place.
-
-There had been a bartender. A beer. A perfectly reasonable plan to sit at the end of the bar for the duration of one drink and then leave with sufficient evidence to demonstrate that Brittney's social experiment had been completed according to specification.
-
-Then there had been Chloe.
-
-And now there were five of them.
-
-Steve sat at the open end of a low rectangular table tucked against one of Blush's curved booths, his beer in front of him and the room moving warmly beyond them. Purple light edged the shelves behind the bar without quite reaching their corner. Here the illumination came mostly from a small amber pendant overhead and the candlelike lamp in the center of the table, enough to put faces into relief without making anyone look as though she were being interrogated.
-
-Which was ironic.
-
-Because Natalie Mercer was absolutely interrogating him.
-
-She sat across from him, one elbow planted on the table and her chin resting on her hand, looking far too glamorous to be this nosy.
-
-Steve had already learned that she worked in Sales, which explained several things.
-
-Nat's femininity was bright, deliberate and impossible to miss: fitted dress, long legs crossed beneath the table, high heels that looked expensive enough that Steve had already caught himself inspecting the construction, gold at her ears and wrists, hair styled into the sort of loose perfection that probably required more engineering than people admitted. Her makeup was polished without being theatrical, her mouth expressive enough that Steve suspected she could conduct an entire argument without speaking.
-
-She also had the restless energy of someone who considered silence an equipment failure.
-
 “So,” Nat said, resting her chin on one hand. “Software engineer.”
 
 Steve took a drink.
@@ -61,27 +39,11 @@ Steve frowned.
 
 “I like knowing things.”
 
-To Nat's left, Tori didn't look up from her drink.
+Tori didn't look up from her drink.
 
 “She means she likes acquiring information people haven't decided to give her.”
 
-Tori Sinclair had been the easiest one for Steve to categorize initially and the quickest to make him distrust the category.
-
-Attorney.
-
-That part was obvious even before somebody told him.
-
-She sat with elegant posture that never quite became stiff, one hand around a stemmed glass, dark skirt falling neatly over crossed legs beneath the table. Her blouse was soft rather than severe, fitted beneath a beautifully cut jacket she'd folded over the booth beside her. Pearls sat at her throat—not tiny apologetic ones either, but a clean strand that looked intentional against her skin. Her heels were narrow, her nails immaculate, her makeup precise.
-
-Nothing about her was masculine.
-
-Nothing about her was timid either.
-
-Steve had spent enough of his professional life around people who confused volume with authority to recognize the difference immediately.
-
-Tori did not need volume.
-
-“I asked,” Nat said.
+“I asked.”
 
 “You ask in sequences designed to make the next question feel inevitable.”
 
@@ -107,24 +69,6 @@ She smiled.
 
 “Sometimes she's worse.”
 
-Sofia Reyes sat tucked comfortably into the corner of the booth beside Chloe, one arm draped along the backrest as though the furniture belonged to her personally. She was beautiful in a warmer, softer way than Nat's sharpened glamour: dark hair styled with glossy care, makeup emphasizing rather than transforming her features, earrings that moved when she laughed. Her dress followed her body without looking remotely uncomfortable, and the heels visible beneath the table had been kicked halfway off her feet.
-
-Steve had noticed her hands first.
-
-Not because there was anything unusual about them.
-
-Because her nails were perfect.
-
-Not nice.
-
-Perfect.
-
-Shape, finish, cuticle work, everything.
-
-He'd been trying to decide whether they were salon-done when Sofia caught him looking and said, “Yes, I own one.”
-
-Apparently Steve's face was less private than he'd believed.
-
 “Okay, wow.”
 
 Nat put a hand to her chest.
@@ -134,22 +78,6 @@ Maddie looked up from the cocktail napkin.
 “She's being protective.”
 
 The table went quiet.
-
-Maddie Hart occupied the remaining stretch of booth like somebody who had arrived in the middle of getting dressed for three different occasions and somehow made the result work.
-
-Her dress was soft and feminine, patterned rather than solid, with a cardigan hanging open over it. One shoe was currently dangling from her toes beneath the table while the other remained properly on her foot, which Steve had initially assumed was accidental.
-
-He was becoming less certain.
-
-Her hair had the slightly escaped quality of hair that had definitely been styled earlier and had since been repeatedly touched, tucked, pushed back and forgotten. A collection of delicate rings occupied several fingers. There was ink on the side of one hand.
-
-She had been drawing on cocktail napkins since Steve sat down.
-
-Not doodling.
-
-Drawing.
-
-There was apparently a distinction.
 
 Nat turned slowly toward her.
 
@@ -207,39 +135,7 @@ Then back at Steve.
 
 Chloe said, “Nat.”
 
-Steve looked at her.
-
-Again.
-
-That was becoming a problem.
-
-Chloe Bennett was sitting beside Sofia, angled slightly toward Steve despite the fact that the table did not require it.
-
-She was twenty-nine, he'd learned somewhere during the introductions. Project manager at another software company. Regular here.
-
-And beautiful.
-
-Not generically beautiful either, which Steve found inconvenient because generic beauty was easier to ignore.
-
-Chloe was high femme in a way that seemed almost absurdly natural on her. Her dark dress was fitted and clean-lined, short enough to show a considerable amount of leg without looking like she'd dressed for anyone's approval but her own. Her heels were elegant and high, the kind that changed the entire line of someone's posture. Jewelry caught the low light at her ears and throat. Her hair had clearly been styled, not merely dried and hoped for, and her makeup was deliberate enough that Steve could see choices in it—defined eyes, careful lips, skin finished with the kind of skill that made the work disappear.
-
-She looked put together.
-
-Completely.
-
-And yet nothing about her felt fragile.
-
-That was the part Steve kept getting stuck on.
-
-She was composed without Tori's formality, confident without Nat's performance, warm without Sofia's immediate ease. There was something dry sitting behind her eyes, as though she were constantly one sentence away from saying something terrible and had simply developed excellent quality control.
-
-Steve liked that.
-
-Which was irrelevant.
-
-Obviously.
-
-“I haven't done anything,” Nat said.
+“I haven't done anything.”
 
 “You're about to.”
 
@@ -285,8 +181,6 @@ Steve laughed.
 
 He couldn't help it.
 
-The laugh escaped before he had time to decide whether laughing at five strangers he'd known for less than ten minutes was socially advisable.
-
 “You people are ridiculous.”
 
 Five faces turned toward him.
@@ -316,20 +210,6 @@ Steve frowned. “What?”
 “You're welcome.”
 
 Chloe's mouth had curved again.
-
-That was another thing.
-
-She smiled at him too much.
-
-Not constantly.
-
-That would have been easier to categorize.
-
-Instead it happened at odd moments, usually when Steve said something he hadn't intended to be funny.
-
-He was beginning to suspect she found him entertaining.
-
-Possibly in the way people found videos of raccoons attempting to wash cotton candy entertaining.
 
 Steve looked around the table.
 
@@ -386,8 +266,6 @@ Except Nat seemed constitutionally opposed to governance.
 Sofia could probably run the entire table if she wanted to, which meant she probably didn't.
 
 Maddie was drawing something again.
-
-The music changed behind them, bass settling into something heavier. Someone at the bar cheered. Glassware clinked. A woman passed their table carrying four drinks with the focused expression of a bomb technician.
 
 Steve leaned toward the napkin.
 
@@ -450,16 +328,6 @@ Just slightly.
 “Tax accountant,” Nat added.
 
 Sofia put her head down on Chloe's shoulder and started laughing.
-
-The movement looked practiced.
-
-Not staged.
-
-Not intimate in a way intended to be observed.
-
-Just easy.
-
-Chloe shifted automatically to accommodate her without interrupting anything else she was doing, one hand briefly touching Sofia's arm.
 
 Steve looked at Chloe.
 
@@ -531,10 +399,6 @@ Nat looked at her.
 
 Tori paused.
 
-Her eyes flicked toward Chloe.
-
-Then toward Steve.
-
 “Withdrawn.”
 
 Chloe stared at her.
@@ -587,22 +451,6 @@ They were interesting.
 
 All of them.
 
-They fit together in ways that weren't immediately obvious.
-
-Steve had known they were a polycule because somebody—Nat, probably, because Nat appeared to consider private information a renewable resource—had explained it shortly after he'd sat down.
-
-Five women.
-
-All together.
-
-Closed relationship.
-
-Complete before Steve arrived.
-
-It should have been the most remarkable thing about them.
-
-Somehow, after nine minutes, it wasn't even in the top five.
-
 “What was the question?” he asked.
 
 “How long have you been single?”
@@ -641,12 +489,6 @@ Nat's eyes widened.
 
 “Don't.”
 
-The word came out sharper than the rest of the conversation had been.
-
-Not loud.
-
-Just finished.
-
 Sofia reached across and smacked Nat lightly on the arm.
 
 “He said don't.”
@@ -668,12 +510,6 @@ No joke.
 Just stopped.
 
 Interesting.
-
-The table's rhythm changed with her.
-
-Not much.
-
-But enough that Steve felt the difference.
 
 “Sorry,” Nat said.
 
@@ -717,22 +553,6 @@ As if he'd passed some kind of test by telling her to knock it off.
 
 Which made absolutely no sense.
 
-Except—
-
-Actually, it did.
-
-Brittney would push until somebody pushed back.
-
-Liz too.
-
-His mother had once started an argument over whether Steve needed a winter coat and ended it by making him take home three containers of lasagna.
-
-There were families where disagreement meant rupture.
-
-His had never been one of them.
-
-Apparently neither was this.
-
 “Okay,” Sofia said. “Our turn.”
 
 Steve looked at her.
@@ -755,10 +575,6 @@ Tori stared at him.
 
 “What exactly about me makes that surprising?”
 
-Steve's brain offered several answers.
-
-None survived legal review.
-
 “Nothing.”
 
 “That was too fast.”
@@ -780,14 +596,6 @@ Maddie leaned across the table.
 “I still wear pearls.”
 
 “Exactly.”
-
-Steve looked at the strand at Tori's throat.
-
-Maddie had a point.
-
-He wasn't entirely certain what the point was.
-
-But it existed.
 
 Steve looked at Maddie.
 
@@ -827,14 +635,6 @@ And Chloe—
 
 Chloe doubled over.
 
-Not a polite laugh.
-
-Not the controlled little smile Steve had been collecting from her all evening.
-
-She actually folded forward, one hand catching the edge of the table, shoulders shaking.
-
-For reasons Steve could not explain, that felt like winning something.
-
 Steve realized his mistake.
 
 “Wait. Are you married?”
@@ -871,7 +671,7 @@ Maddie was already looking at Dennis again.
 
 But something about it caught.
 
-You sound like us.
+*You sound like us.*
 
 Steve looked around the table.
 
@@ -891,7 +691,7 @@ Nobody seemed concerned about much of anything.
 
 Steve knew this.
 
-Not them.
+Not *them*.
 
 This.
 
@@ -908,14 +708,6 @@ Noise without hostility.
 He knew how to do this.
 
 Apparently he had known the entire time.
-
-Around them, Blush kept moving. A burst of laughter came from the bar. Someone missed a pool shot badly enough to produce sympathetic groans from three tables. The dance floor had filled while Steve wasn't paying attention, bodies moving beneath warmer light threaded with violet.
-
-The place no longer felt like a room full of lesbians.
-
-It was becoming a room full of people.
-
-Which was probably how rooms worked.
 
 “You okay?”
 
@@ -963,10 +755,6 @@ Yet.
 
 Chloe stood.
 
-The movement drew Steve's attention before he had time to pretend otherwise.
-
-Standing changed the whole composition of her. The fitted dress, the heels, the long clean line of her legs—details he'd registered separately now assembled themselves into one annoyingly coherent person.
-
 Steve looked up.
 
 She held out her hand.
@@ -974,8 +762,6 @@ She held out her hand.
 “Come on.”
 
 He looked at the hand.
-
-Her nails were polished a deep glossy shade he couldn't identify in the lighting.
 
 Then at her.
 
@@ -1035,12 +821,6 @@ Then back at Chloe.
 
 Steve looked at Chloe's hand again.
 
-She hadn't withdrawn it.
-
-Hadn't turned the invitation into a joke because he'd hesitated.
-
-She was simply waiting.
-
 This was a terrible idea.
 
 He had no idea what he was doing.
@@ -1063,8 +843,6 @@ A little controlled failure might restore equilibrium.
 
 Steve put his hand in hers.
 
-Her fingers closed around his.
-
 “Fine.”
 
 Chloe smiled.
@@ -1073,15 +851,11 @@ Chloe smiled.
 
 She led him away from the table.
 
-Steve followed her into the shifting light.
-
 Behind them, Nat waited exactly until they were out of conversational range.
 
 Then:
 
 “What the fuck?”
-
----
 
 Tori took a slow drink.
 
@@ -1119,7 +893,7 @@ Tori stared at her.
 
 “And?”
 
-“And it's Steve.”
+“And it's *Steve*.”
 
 “Women can be named Steve.”
 
@@ -1573,21 +1347,7 @@ Steve followed.
 
 Easily this time.
 
-That had been the trick.
-
-Not technique.
-
-Not memorizing anything.
-
-Chloe gave him information through her hand and the movement of her body, and once Steve stopped trying to solve the next three seconds before they happened, his own body apparently knew enough to cooperate.
-
-Annoying.
-
-He liked systems that admitted they were systems.
-
-This one seemed determined to function through vibes.
-
-When he came back, Chloe was smiling.
+When he came back, she was smiling.
 
 “See?”
 
@@ -1608,26 +1368,6 @@ Mostly because he liked it.
 Chloe laughed.
 
 Steve smiled.
-
-He had noticed earlier that Chloe was beautiful.
-
-That had been an observation.
-
-A fact.
-
-Like noticing good tailoring or an interesting car.
-
-This was becoming less academically useful.
-
-Up close, the details were harder to file away. The way her eyes changed before she laughed. The tiny shift in her mouth when she knew she was about to annoy him. The warmth of her hand around his. The light touch at his waist that never pushed harder than necessary.
-
-She smelled good.
-
-That was particularly unhelpful.
-
-Something warm and clean beneath whatever she'd put on before coming out, noticeable only when the dance brought them close.
-
-Steve firmly declined to investigate further.
 
 This was ridiculous.
 
@@ -1665,8 +1405,6 @@ Steve missed a step.
 
 Chloe caught him.
 
-Her hand tightened at his waist, steadying rather than pulling.
-
 “Hey.”
 
 “Sorry.”
@@ -1684,8 +1422,6 @@ Really looked.
 Chloe waited.
 
 No joke this time.
-
-The music and conversation seemed to recede a fraction—not actually quieter, just less relevant.
 
 He nodded.
 
@@ -1722,14 +1458,6 @@ Maybe she didn't.
 Maybe she thought—
 
 Steve looked down at himself.
-
-Dark shirt.
-
-Black jeans.
-
-His stupid narrow boots.
-
-The body underneath all of it that had spent thirty-five years refusing to provide strangers with the information Steve thought should have been obvious.
 
 Then back at Chloe.
 
@@ -1781,294 +1509,14 @@ Steve looked at her.
 
 Something about that sentence landed harder than it had any business landing.
 
-Just come back.
-
-No demand to explain where he'd gone.
-
-No attempt to drag the thought out of him.
-
-Just—
-
-Come back.
-
 So he did.
 
 For the rest of the song.
 
-He stopped analyzing Chloe's hand.
-
-Stopped calculating what she might think he was.
-
-Stopped trying to decide what Brittney would say if she could see this, because whatever she would say would be unbearable and probably accompanied by Liz making that suspicious fucking cough.
-
-He let Chloe lead.
-
-Once, she turned him and he came back too close.
-
-For half a second they were nearly chest to chest.
-
-Steve froze.
-
-Chloe didn't.
-
-She simply smiled and gave him enough room to decide what happened next.
-
-Steve stepped back into the dance.
-
-No joke.
-
-No embarrassment.
-
-No correction from her.
-
-Something in his chest loosened.
-
-He didn't examine that either.
-
-Across the room, he could see the table now and then between other dancers.
-
-Nat was talking with both hands.
-
-Tori appeared to be objecting to something.
-
-Sofia was laughing.
-
-Maddie had placed a folded napkin in the middle of the table with ceremonial seriousness.
-
-Steve had no idea what had happened while they were gone.
-
-He was suddenly certain it had been about him.
-
-That should have bothered him more.
-
-Instead he laughed when Chloe caught him looking.
-
-“What?”
-
-“Nothing.”
-
-Her eyebrows rose.
-
-“Oh, no.”
-
-“What?”
-
-“I know what ‘nothing’ means at your table now.”
-
-That got her.
-
-Chloe laughed again.
-
-And there it was.
-
-That stupid little sense of victory.
-
-Steve smiled despite himself.
-
-This was—
-
-Fun.
-
-There was no qualifier available.
-
-Not tolerable.
-
-Not fine.
-
-Not productive.
-
-Not interesting in the technical sense.
-
-Fun.
-
-He was having fun.
-
-Brittney could never know.
-
-That was essential.
-
-National-security essential.
-
-He would lie under oath.
-
-Tori was a lawyer, though, so perhaps not literally under oath.
-
-The song began winding down.
-
-Steve became aware of that with an unexpected little flicker of disappointment.
-
-Which was ridiculous.
-
-Songs ended.
-
-That was one of their defining characteristics.
-
-Chloe's hand loosened at his waist.
-
-Steve's fingers shifted in hers.
-
-For a moment neither of them moved away.
-
-Then Chloe smiled.
-
-“Still hate dancing?”
-
-Steve considered lying.
-
-“No.”
-
-Her smile widened.
-
-“Thought so.”
-
-“I said I don't hate it. That's not the same as liking it.”
-
-“Of course.”
-
-“Those are distinct states.”
-
-“Obviously.”
-
-“You're mocking me.”
-
-“A little.”
-
-“Good. I was worried I'd misread the tone.”
-
-Chloe laughed and started leading him back toward the table.
-
-Steve followed.
-
-And as the space between them increased, his brain—apparently offended by being ignored for an entire song—came roaring back online.
-
-Chloe was a lesbian.
-
-Chloe had been flirting with him.
-
-Probably.
-
-Almost certainly.
-
-Fuck.
-
-The closer they got to the table, the clearer the problem became.
+But as Chloe led him back toward the table, Steve knew he had a problem.
 
 He liked these women.
 
-That had happened with alarming speed.
+He liked Chloe.
 
-Nat was invasive but stopped when told.
-
-Tori was terrifying in a way Steve found reassuring.
-
-Sofia noticed things and didn't weaponize them.
-
-Maddie had created a winged tax accountant named Dennis.
-
-And Chloe—
-
-Steve looked at her from the side.
-
-She was still holding his hand.
-
-Chloe was—
-
-No.
-
-That was exactly the problem.
-
-If Chloe thought he was someone he wasn't, she deserved to know before either of those things went any further.
-
-Steve had spent enough of his life correcting strangers after ma'am.
-
-Usually it was easy.
-
-A sentence.
-
-Sometimes just his voice.
-
-A brief awkward moment.
-
-Then everybody updated the file and moved on.
-
-This shouldn't be different.
-
-Except it was.
-
-Because for once, the mistake had worked in his favor.
-
-And Steve hated that realization immediately.
-
-He didn't want to benefit from something Chloe hadn't agreed to.
-
-Whatever the hell was happening here, she deserved accurate information.
-
-They reached the table.
-
-Nat looked at them.
-
-Then, with visible effort, looked at absolutely anything else.
-
-Steve noticed.
-
-Of course he noticed.
-
-Tori's expression was neutral enough to qualify as suspicious.
-
-Sofia smiled.
-
-Maddie pushed a folded cocktail napkin toward the center of the table.
-
-Chloe released Steve's hand.
-
-The absence of it registered immediately.
-
-Also inconvenient.
-
-Steve sat.
-
-His beer remained where he'd left it.
-
-Still the first one.
-
-Technically.
-
-He wrapped one hand around the glass, though he wasn't thirsty.
-
-He had a problem.
-
-A correctable problem.
-
-That was all.
-
-Steve was good at correctable problems.
-
-He just needed to say something.
-
-Not now.
-
-Not in front of the entire committee.
-
-Jesus Christ.
-
-Nat would turn it into congressional testimony.
-
-But soon.
-
-Before Chloe misunderstood anything further.
-
-Steve glanced at her.
-
-Chloe was already looking at him.
-
-That warm, focused look again.
-
-She smiled.
-
-Steve's stomach did the stupid thing again.
-
-Fuck.
-
-Yes.
-
-Definitely soon.
+And if Chloe thought he was someone he wasn't, she deserved to know before either of those things went any further.
