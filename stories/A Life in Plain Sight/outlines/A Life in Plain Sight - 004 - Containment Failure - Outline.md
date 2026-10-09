@@ -112,8 +112,6 @@ The second beer/food, family-recognition conversation, professional connections,
 
 Emily permits the women to text Brittney privately. Steve does not see the messages. Do not restore the older draft's phone-screen reveal or Steve's reactions to reading those messages. The exact private exchange is not yet settled.
 
-Emily tentatively suggests that a later scene establish the women's connection with Brittney and Liz. Before planning that reveal, check the already-published Chapter 3: the selected final source includes Steve learning that the women know Brittney and Liz. This is an existing published-story constraint, not grounds to edit Chapter 3. Clarify whether the intended later scene reveals the extent of their contact or something further about that connection.
-
 ### Later-version additions to retain or revise deliberately
 
 - Return trip prompted by Dennis.
@@ -129,11 +127,11 @@ These are proposed retained beats, not separately approved canon.
 
 1. Chapter 3 stays unchanged. How and when does Chloe return the Dennis drawing to Steve's pocket, and what does Maddie know? Establish the handoff in Chapter 4; align any later movement or discovery of the napkin with it.
 2. Settled by Emily: the women overhear the conversation, including the stranger calling Steve a girl. Establish the table/bar proximity and audible conversation in the prose; do not substitute Steve recounting it.
-3. The women may text Brittney privately; Steve must not see the messages. Settle the exchange and its placement before drafting. Clarify what a later scene reveals beyond the family connection already present in published Chapter 3.
+3. The women may text Brittney privately; Steve must not see the messages. Settle the exchange and its placement before drafting.
 4. How much new physical description is needed, and which character/setting details specifically matter to Emily?
 5. Confirm the POV approach for the women's observation scene against the intended series structure.
 6. Check departure-count jokes against actual departures; “third departure” may be deliberate exaggeration but should read clearly.
-7. Choose the final ending and check the intended Chapter 5 opening before locking Chapter 4.
+7. Choose Chapter 4's final ending.
 
 ## Review and persistence checklist
 
