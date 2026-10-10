@@ -1,0 +1,8 @@
+# A Life in Plain Sight — Chapter 5: The Morning After
+## 250-Word Summary
+
+Sunday morning finds Steve wondering whether the warmth of his extraordinary Saturday at Blush was real. A flood of ridiculous group-chat messages confirms that it was. Dennis, Maddie’s cocktail-napkin Pegasus accountant, has apparently been kidnapped, and Steve is appointed his reluctant guardian. Between laundry, groceries, and Dennis’s imaginary itinerary, Steve discovers how wonderful it feels to be included in the women’s ordinary lives.
+
+Meanwhile, Chloe, Nat, Tori, Maddie, and Sofia gather for breakfast. Their teasing reminiscences turn serious when Tori admits she is attracted to Steve and asks whether anyone else feels the same. Chloe does. The women must confront the complication: Steve identifies as a man, they are lesbians, and their five-person polycule is closed. When Brittney and Liz join them, the conversation deepens into questions of identity, attraction, consent, and protecting Steve’s autonomy. Liz makes it very clear that breaking his heart would be unwise. They agree not to turn their new friend into a project or rush a relationship decision.
+
+At home, an unfamiliar lesbian joke sends Steve exploring his friends’ culture. A Chappell Roan commercial leads him to YouTube, Hayley Kiyoko’s exuberant, steamy videos, and finally the aching honesty of girl in red. He enjoys the music, recognizes a longing for belonging, and cries—not in confusion, but recognition. Later, he tells the women what the song meant to him. Understanding the significance of the words he is about to use, Steve asks the group one final question: “Do you listen to girl in red?”
