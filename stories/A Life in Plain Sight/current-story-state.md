@@ -1,11 +1,12 @@
 # A Life in Plain Sight — Current Story State
 
-Status: CHAPTERS 1–3 APPROVED; CHAPTER 4 OUTLINE REVIEWED; CHAPTER 4 UNAPPROVED
+Status: CHAPTERS 1–4 APPROVED; CHAPTER 4 HANDED OFF FOR PATREON PUBLICATION.
 
-Last approved chapter: 003 — Relevant Information (already published).
-Current work: Chapter 4 — Containment Failure. Outline review completed; no replacement chapter prose written or authorized in this session.
+Last approved chapter: 004 — Containment Failure (approved manuscript stored in `chapters/approved/`).
+Publication handoff: Chapter 4 Word document was delivered to Jim's Primary Google Drive; author reports that Chapter 4 was posted to Patreon one week early for subscribers. The Patreon post and its audience settings have not been independently verified in this record.
+Current work: Determine next chapter development and publication timing from current approved story records; do not treat the earlier Chapter 4 outline as pending drafting authority.
 
-See [Series Bible — current planning](series-bible.md#current-chapter-planning--2026-10-09) and the saved [Chapter 4 outline](outlines/A%20Life%20in%20Plain%20Sight%20-%20004%20-%20Containment%20Failure%20-%20Outline.md). The outline is the only source of truth for writing Chapter 4. Scene 7 is the ending and all seven working questions are resolved.
+See [Series Bible — current planning](series-bible.md#current-chapter-planning--2026-10-09) and the saved [Chapter 4 outline](outlines/A%20Life%20in%20Plain%20Sight%20-%20004%20-%20Containment%20Failure%20-%20Outline.md). The outline is historical planning evidence for the now-approved Chapter 4, not a mandate to redraft it.
 
 ## Starting knowledge and emotional state
 
@@ -49,7 +50,7 @@ Metafiction does not erase continuity, stakes, consent, or consequences.
 
 ## Next work
 
-Continue in chat with Emily from the saved Chapter 4 outline. This handoff does not authorize drafting. Do not rewrite published Chapter 3. Chapter 4 prose review, author approval, and final Word document and summary persistence await the corresponding work and authorization.
+Chapter 4 is approved and its publication Word document has been handed off. Do not redraft Chapters 3 or 4. Before claiming Patreon publication fully verified, inspect the live post and its audience/release settings. Next chapter drafting requires its own planning and author authorization.
 
 ## Open plans and source records
 
